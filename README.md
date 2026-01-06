@@ -10,6 +10,7 @@ NEW: Now arranged according to Months (Deadline Priority)💥
 
 ## 🔍 How to Use
 - Browse Opportunities: Explore the list to find opportunities that match your interests and qualifications.
+- Right Click on the link and open in a new tab.
 - Check Eligibility: Before applying, make sure to read the eligibility criteria for each opportunity.
 - Prepare & Apply: Use the extra time provided by the buffer dates to prepare a strong application.
 - Stay Updated: The repository is regularly updated, so be sure to check back often for new opportunities.
