@@ -34,6 +34,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
 - [ ] AI Meets Robotics https://tinyurl.com/4mh54dnp FEB 5
 - [ ] GRIPS https://tinyurl.com/2py85uxr Feb 16
+- [ ] Black Impact Web Grant https://bombshellimpact.com/grant/ Feb 13
 - [ ] TRAVEL GRANT https://wcnc2026.ieee-wcnc.org/travel-grants FEB 5
 - [ ] OC Fellowship https://near.tl/sm/aFMoVYENV Feb 7
 
