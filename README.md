@@ -10,7 +10,7 @@ NEW: Now arranged according to Months (Deadline Priority)💥
 
 ## 🔍 How to Use
 - Browse Opportunities: Explore the list to find opportunities that match your interests and qualifications.
-- Right Click on the link and open in a new tab.
+- Right-click on the link and open it in a new tab...
 - Check Eligibility: Before applying, make sure to read the eligibility criteria for each opportunity.
 - Prepare & Apply: Use the extra time provided by the buffer dates to prepare a strong application.
 - Stay Updated: The repository is regularly updated, so be sure to check back often for new opportunities.
@@ -30,7 +30,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] STI FORUM CALL https://sdgs.un.org/tfm/STIForum2026#innovations JAN 12
 - [ ] AI & Space Hack https://tinyurl.com/y2984hdp JAN 22
 - [ ] AWS Community Builder https://pulse.aws/application/I7YNG7BH JAN 15
-- [ ] The Climatebase Fellowship - The Climatebase Fellowship JAN 10
+- [ ] The Climatebase Fellowship - https://climatebase.org/fellowship JAN 10
 
 ## FEB
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
