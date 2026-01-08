@@ -31,6 +31,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AI & Space Hack https://tinyurl.com/y2984hdp JAN 22
 - [ ] AWS Community Builder https://pulse.aws/application/I7YNG7BH JAN 15
 - [ ] The Climatebase Fellowship - https://climatebase.org/fellowship JAN 10
+- [ ] GBV Evidence Accelerator Fellowship  https://buff.ly/GfVwcYt JAN 11
+- [ ] Entrepreneurial Innovation Fellowship  https://buff.ly/1JTKBfU JAN 11
 
 ## FEB
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
