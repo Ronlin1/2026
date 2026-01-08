@@ -26,9 +26,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] CERN Openlab https://tinyurl.com/ykk3u494 JAN 15
 - [ ] MIT Research https://oge.mit.edu/msrp/ JAN 10
 - [ ] LDA Program https://tinyurl.com/y7k9h9pp JAN 7
-- [ ] 10,000 AIdeas Competition https://tinyurl.com/24cnazsz JAN 14
+- [ ] AWS 10,000 AIdeas Competition https://tinyurl.com/24cnazsz JAN 14
 - [ ] STI FORUM CALL https://sdgs.un.org/tfm/STIForum2026#innovations JAN 12
 - [ ] AI & Space Hack https://tinyurl.com/y2984hdp JAN 22
+- [ ] AWS Community Builder https://pulse.aws/application/I7YNG7BH JAN 15
+- [ ] The Climatebase Fellowship - The Climatebase Fellowship JAN 10
 
 ## FEB
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
@@ -127,5 +129,5 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AGENTS COURSE - https://github.com/neural-maze/realtime-phone-agents-course
 - [ ] Benz - https://tinyurl.com/2u22xnam
 - [ ] cr https://www.linkedin.com/help/linkedin/answer/a6282984
-- [ ] 
+- [ ] DO - https://tinyurl.com/ye5k72md  20 FEB
 
