@@ -34,6 +34,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GBV Evidence Accelerator Fellowship  https://buff.ly/GfVwcYt JAN 11
 - [ ] Entrepreneurial Innovation Fellowship  https://buff.ly/1JTKBfU JAN 11
 - [ ] Gothenburg Sustainability Award – https://tinyurl.com/bddshe5v JAN 11
+- [ ] Algolia Challenge - https://tinyurl.com/j98hd26c JAN 25
 
 ## FEB
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
