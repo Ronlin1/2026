@@ -35,6 +35,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Entrepreneurial Innovation Fellowship  https://buff.ly/1JTKBfU JAN 11
 - [ ] Gothenburg Sustainability Award – https://tinyurl.com/bddshe5v JAN 11
 - [ ] Algolia Challenge - https://tinyurl.com/j98hd26c JAN 25
+- [ ] Alexander von Humboldt Foundation https://tinyurl.com/3rbrwf68 JAN 20
 
 ## FEB
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
@@ -43,6 +44,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Black Impact Web Grant https://bombshellimpact.com/grant/ Feb 13
 - [ ] TRAVEL GRANT https://wcnc2026.ieee-wcnc.org/travel-grants FEB 5
 - [ ] OC Fellowship https://near.tl/sm/aFMoVYENV Feb 7
+- [ ] Guillaume Dupaix Scholarship https://tinyurl.com/3wapnn6j FEB 17
 
 ## MAR
 - [ ] Common Fund for Commodities (CFC) https://wp.me/p23f03-i1z MAR 15
@@ -134,4 +136,6 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Benz - https://tinyurl.com/2u22xnam
 - [ ] cr https://www.linkedin.com/help/linkedin/answer/a6282984
 - [ ] DO - https://tinyurl.com/ye5k72md  20 FEB
+- [ ] REAL TIME PHONE AGENTS COURSE - https://github.com/neural-maze/realtime-phone-agents-course
+- [ ] 
 
