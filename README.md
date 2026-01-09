@@ -33,7 +33,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The Climatebase Fellowship - https://climatebase.org/fellowship JAN 10
 - [ ] GBV Evidence Accelerator Fellowship  https://buff.ly/GfVwcYt JAN 11
 - [ ] Entrepreneurial Innovation Fellowship  https://buff.ly/1JTKBfU JAN 11
-- [ ] WIN WIN Gothenburg Sustainability Award – 2026 https://www.leadersoftoday.com/opportunities/win-win-gothenburg-sustainability-award-2026-theme-gender-equal-societies JAN 11
+- [ ] Gothenburg Sustainability Award – https://tinyurl.com/bddshe5v JAN 11
 
 ## FEB
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
