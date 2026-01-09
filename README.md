@@ -34,7 +34,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GBV Evidence Accelerator Fellowship  https://buff.ly/GfVwcYt JAN 11
 - [ ] Entrepreneurial Innovation Fellowship  https://buff.ly/1JTKBfU JAN 11
 - [ ] Gothenburg Sustainability Award – https://tinyurl.com/bddshe5v JAN 11
-- [ ] Algolia Challenge - https://tinyurl.com/j98hd26c JAN 25
+- [ ] UN Global Compact Young SDG Innovators Programme (YSIP) – 2026 https://www.leadersoftoday.com/opportunities/un-global-compact-young-sdg-innovators-programme-ysip-2026 JAN 31
+- [ ] OHCHR Minorities Fellowship Programme (MFP) – 2026 https://www.leadersoftoday.com/opportunities/ohchr-minorities-fellowship-programme-mfp-2026 JAN 31
 
 ## FEB
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
@@ -94,6 +95,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] https://tinyurl.com/33fme3su
 - [ ] Paperplane https://open-startup.org/Programs/paperplane
 - [ ] TRIBE VIBE https://tribevibe.live/campus-ambassador.php
+- [ ] Ocean Action Grant https://www.leadersoftoday.com/opportunities/ocean-action-grant
 - [ ] 
 - [ ] 
 - [ ] 
