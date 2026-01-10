@@ -36,9 +36,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Gothenburg Sustainability Award – https://tinyurl.com/bddshe5v JAN 11
 - [ ] Algolia Challenge - https://tinyurl.com/j98hd26c JAN 25
 - [ ] Alexander von Humboldt Foundation https://tinyurl.com/3rbrwf68 JAN 20
+- [ ] Mastrichit Scholarship https://lnkd.in/exiej-Pi Jan 17
 
 ## FEB
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
+- [ ] 
 - [ ] AI Meets Robotics https://tinyurl.com/4mh54dnp FEB 5
 - [ ] GRIPS https://tinyurl.com/2py85uxr Feb 16
 - [ ] Black Impact Web Grant https://bombshellimpact.com/grant/ Feb 13
