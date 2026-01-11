@@ -25,7 +25,7 @@ If you want to contribute, follow the instructions in the Contributing file
 
 
 <details open> 
- <summary><h2> ## JAN :sparkles: </h2></summary>
+ <summary><h2> JAN :sparkles: </h2></summary>
  
 - [ ] Energy Mentors https://www.energymentors.org/participate JAN 30
 - [ ] CERN Openlab https://tinyurl.com/ykk3u494 JAN 15
