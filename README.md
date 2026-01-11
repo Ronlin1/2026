@@ -19,7 +19,10 @@ NEW: Now arranged according to Months (Deadline Priority)💥
 If you find this tracker helpful, please consider giving it a star 🌟! Feel free to share it with others who might benefit from these opportunities.
 
 ## 📌 Follow Me
-Stay connected and follow me on GitHub for more updates and resources.
+Stay connected and follow me on GitHub for more updates and resources. Check this out wonderful curated excel sheet by the Leaders of Today: https://tinyurl.com/3tmp72af
+
+If you want to contribute, follow the instructions in the Contributing file
+
 
 ## JAN
 - [ ] Energy Mentors https://www.energymentors.org/participate JAN 30
