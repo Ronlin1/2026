@@ -45,7 +45,9 @@ If you want to contribute, follow the instructions in the Contributing file
 
 </details>
 
-## FEB
+<details open> 
+ <summary><h2> FEB :sparkles: </h2></summary>
+  
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
 - [ ] 
 - [ ] AI Meets Robotics https://tinyurl.com/4mh54dnp FEB 5
@@ -55,12 +57,21 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] OC Fellowship https://near.tl/sm/aFMoVYENV Feb 7
 - [ ] Guillaume Dupaix Scholarship https://tinyurl.com/3wapnn6j FEB 17
 
-## MAR
+</details>
+
+<details open> 
+ <summary><h2> MAR :sparkles: </h2></summary>
+
 - [ ] Common Fund for Commodities (CFC) https://wp.me/p23f03-i1z MAR 15
 
+</details>
 
-## APR
+<details open> 
+ <summary><h2> APR :sparkles: </h2></summary>
+  
 - [ ] 
+
+</details>
 
 ## ⭐️ Other Great Repos for Students: OPEN LINKS
 - [x] https://tinyurl.com/4wfed4pv
