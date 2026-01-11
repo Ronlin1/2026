@@ -24,7 +24,7 @@ Stay connected and follow me on GitHub for more updates and resources. Check thi
 If you want to contribute, follow the instructions in the Contributing file
 
 
-## JAN
+## <details open> JAN
 - [ ] Energy Mentors https://www.energymentors.org/participate JAN 30
 - [ ] CERN Openlab https://tinyurl.com/ykk3u494 JAN 15
 - [ ] MIT Research https://oge.mit.edu/msrp/ JAN 10
@@ -40,6 +40,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Algolia Challenge - https://tinyurl.com/j98hd26c JAN 25
 - [ ] Alexander von Humboldt Foundation https://tinyurl.com/3rbrwf68 JAN 20
 - [ ] Mastrichit Scholarship https://lnkd.in/exiej-Pi Jan 17
+
+</details>
 
 ## FEB
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
