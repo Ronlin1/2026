@@ -1,4 +1,4 @@
-## 🌟 2026 Opportunity Tracker 
+## 🌟 2026 Opportunity Tracker
 Welcome to the 2026 Opportunities, Hackathons, and Tech Events Tracker repository! This repo is designed to help you stay ahead of the curve by tracking deadlines for various fellowships, hackathons, grants, competitions, and other exciting opportunities tailored for young innovators and tech enthusiasts.
   
 ![](/oppo.png) 
