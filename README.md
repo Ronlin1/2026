@@ -121,7 +121,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AI Summer https://iimaventures.com/programs/ai-summer-residency/ MAR 31
 - [ ] 
 
-</details>
+</details> 
 
 <details open> 
  <summary><h2> APR :sparkles: </h2></summary>
@@ -129,6 +129,15 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] nln https://nlnet.nl/ APRIL 10
 - [ ] 9th Annual AGMHI Conference https://event.fourwaves.com/agmhi2026/pages APR 15
 - [ ] Open Tech Fund https://ow.ly/GUw950YzaFf APR 29
+
+</details>
+
+<details open> 
+ <summary><h2> MAY :sparkles: </h2></summary>
+  
+- [ ] Western Union Fellowship https://watson.is/western-union-global-fellowship May 30
+- [ ] Watspn Flagship Fellowship https://watson.is/flagship-fellowship/ May 30
+- [ ] 
 
 </details>
 
