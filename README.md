@@ -235,4 +235,6 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Zipline https://www.ictworks.org/african-countries-demand-better-zipline-deal/
 - [ ] Copy this Website - https://www.shopify.com/editions/winter2026#sidekick
 - [ ] TIKTOK THIS https://www.shopify.com/editions/winter2026#sidekick
+- [ ] https://metr.org/time-horizons/
+- [ ] https://tinyurl.com/4wdx8n2z
 
