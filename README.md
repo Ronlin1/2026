@@ -141,6 +141,14 @@ If you want to contribute, follow the instructions in the Contributing file
 
 </details>
 
+<details open>
+ <summary><h2> AUG :sparkles: </h2></summary>
+
+- [ ] The African Continental Free Trade Area Secretariat Internship Program 2026 https://www.opportunitiesforafricans.com/the-african-continental-free-trade-area-afcfta-secretariat-internship-program-2026/ AUG 4
+- [ ] The Global Youth Water Envoys Program 2026 https://www.opportunitiesforafricans.com/the-global-youth-water-envoys-program-2026-for-young-emerging-leaders/ AUG 10
+
+</details>
+
 ## ⭐️ Other Great Repos for Students: OPEN LINKS
 - [x] https://tinyurl.com/4wfed4pv
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux 

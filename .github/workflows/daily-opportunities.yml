@@ -1,0 +1,53 @@
+name: Daily Opportunity Tracker
+
+on:
+  schedule:
+    # GitHub schedules use UTC. This runs at 08:37 Africa/Kampala.
+    - cron: "37 5 * * *"
+  workflow_dispatch:
+    inputs:
+      max_items:
+        description: "Maximum new opportunities to add"
+        required: false
+        default: "2"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-opportunity-tracker
+  cancel-in-progress: false
+
+jobs:
+  update-opportunities:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Update README
+        env:
+          MAX_ITEMS: ${{ github.event.inputs.max_items || '2' }}
+        run: python scripts/update_opportunities.py --max-items "$MAX_ITEMS"
+
+      - name: Commit README changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update opportunities ($(date -u +'%Y-%m-%d'))"
+          git push
