@@ -2,8 +2,11 @@ name: Daily Opportunity Tracker
 
 on:
   schedule:
-    # GitHub schedules use UTC. This runs at 08:37 Africa/Kampala.
+    # GitHub schedules use UTC. These retries run at 08:37, 13:37, and 18:37 Africa/Kampala.
+    # The job skips itself after the first successful bot update for the UTC day.
     - cron: "37 5 * * *"
+    - cron: "37 10 * * *"
+    - cron: "37 15 * * *"
   workflow_dispatch:
     inputs:
       max_items:
@@ -31,15 +34,31 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Check daily update
+        id: daily
+        run: |
+          today="$(date -u +'%Y-%m-%d')"
+          echo "today=$today" >> "$GITHUB_OUTPUT"
+
+          if git log --since="$today 00:00:00 +0000" --author="github-actions[bot]" --fixed-strings --grep="Update opportunities ($today)" --format="%H" | grep -q .; then
+            echo "already_ran=true" >> "$GITHUB_OUTPUT"
+            echo "Opportunity tracker already updated for $today."
+          else
+            echo "already_ran=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run tests
+        if: steps.daily.outputs.already_ran != 'true'
         run: python -m unittest discover -s tests -v
 
       - name: Update README
+        if: steps.daily.outputs.already_ran != 'true'
         env:
           MAX_ITEMS: ${{ github.event.inputs.max_items || '5' }}
         run: python scripts/update_opportunities.py --max-items "$MAX_ITEMS"
 
       - name: Commit README changes
+        if: steps.daily.outputs.already_ran != 'true'
         run: |
           if git diff --quiet README.md; then
             echo "No README changes to commit."
@@ -49,5 +68,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update opportunities ($(date -u +'%Y-%m-%d'))"
+          git commit -m "Update opportunities (${{ steps.daily.outputs.today }})"
           git push

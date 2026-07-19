@@ -47,6 +47,20 @@ README_WITH_MAY_ONLY = """# Tracker
 """
 
 
+README_WITH_AUG_ONLY = """# Tracker
+
+<details open>
+ <summary><h2> AUG :sparkles: </h2></summary>
+
+- [ ] Existing Fellowship https://example.com/existing AUG 20
+
+</details>
+
+## Offers & Grants
+- [ ] Existing Grant https://example.com/grant OPEN
+"""
+
+
 class OpportunityUpdaterTests(unittest.TestCase):
     def test_extract_deadline_from_common_phrase(self):
         text = "Applications close soon. Deadline: September 18, 2026."
@@ -92,6 +106,14 @@ class OpportunityUpdaterTests(unittest.TestCase):
 
         self.assertEqual(clean_title(title), "The Global Youth Water Envoys Program 2026")
 
+    def test_clean_title_removes_long_after_year_for_details(self):
+        title = (
+            "The Association of Commonwealth Universities Global Grants 2026 "
+            "for Undergraduate Students to Attend International Events"
+        )
+
+        self.assertEqual(clean_title(title), "The Association of Commonwealth Universities Global Grants 2026")
+
     def test_insert_opportunity_before_empty_placeholder_in_existing_month(self):
         opportunity = Opportunity(
             title="July Climate Grant",
@@ -133,6 +155,25 @@ class OpportunityUpdaterTests(unittest.TestCase):
         self.assertIn("<summary><h2> AUG :sparkles: </h2></summary>", updated)
         self.assertIn("- [ ] August Robotics Hackathon https://example.org/robotics AUG 19", updated)
         self.assertLess(updated.index("<summary><h2> AUG"), updated.index("## Offers & Grants"))
+
+    def test_insert_missing_earlier_month_before_later_existing_month(self):
+        opportunity = Opportunity(
+            title="July Climate Grant",
+            url="https://example.org/climate",
+            deadline=date(2026, 7, 29),
+            source="fixture",
+        )
+
+        updated, added = insert_opportunities(
+            README_WITH_AUG_ONLY,
+            [opportunity],
+            today=date(2026, 7, 19),
+            buffer_days=3,
+        )
+
+        self.assertEqual(added, [opportunity])
+        self.assertIn("<summary><h2> JUL :sparkles: </h2></summary>", updated)
+        self.assertLess(updated.index("<summary><h2> JUL"), updated.index("<summary><h2> AUG"))
 
     def test_created_month_section_has_no_trailing_whitespace(self):
         opportunity = Opportunity(
@@ -239,6 +280,34 @@ class OpportunityUpdaterTests(unittest.TestCase):
         self.assertEqual(added, [first_new, second_new])
         self.assertIn("- [ ] Open Source Residency https://example.org/residency JUL 27", updated)
         self.assertIn("- [ ] Global Builders Grant https://example.org/builders AUG 6", updated)
+
+    def test_insert_opportunities_skips_near_duplicate_titles_from_different_sources(self):
+        first = Opportunity(
+            title="Association of Commonwealth Universities Global Grants 2026",
+            url="https://example.org/acu-global-grants",
+            deadline=date(2026, 8, 25),
+            source="fixture",
+        )
+        near_duplicate = Opportunity(
+            title=(
+                "The Association of Commonwealth Universities Global Grants 2026 "
+                "for Undergraduate Students to Attend International Events"
+            ),
+            url="https://example.net/acu-global-grants-2026",
+            deadline=date(2026, 8, 25),
+            source="fixture",
+        )
+
+        updated, added = insert_opportunities(
+            README_WITH_JULY,
+            [first, near_duplicate],
+            today=date(2026, 7, 19),
+            buffer_days=3,
+            max_items=5,
+        )
+
+        self.assertEqual(added, [first])
+        self.assertEqual(updated.count("Commonwealth Universities Global Grants 2026"), 1)
 
     def test_opportunity_from_item_skips_stale_title_year(self):
         item = FeedItem(

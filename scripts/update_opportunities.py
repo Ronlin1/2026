@@ -189,7 +189,7 @@ def clean_title(title: str) -> str:
 
     if len(title) > 80:
         title = re.sub(r"\s*\([^)]*(?:\)|$)", "", title)
-        title = re.sub(r"(?i)\s+for\s+young\b.*$", "", title)
+        title = re.sub(r"(?i)(\b20\d{2}(?:[–-]20\d{2})?)\s+for\b.*$", r"\1", title)
         title = normalize_space(title).strip(" -:")
 
     if len(title) > 110:
@@ -228,6 +228,7 @@ def normalize_url(url: str) -> str:
 def normalize_title(title: str) -> str:
     title = clean_title(title).lower()
     title = re.sub(r"\b20\d{2}\b", " ", title)
+    title = re.sub(r"^(the|a|an)\s+", "", title)
     return re.sub(r"[^a-z0-9]+", " ", title).strip()
 
 
@@ -299,6 +300,36 @@ def static_section_start(readme: str) -> int:
     return match.start() if match else len(readme)
 
 
+def month_sections(readme: str) -> Iterable[re.Match[str]]:
+    return re.finditer(
+        r"<details open>\s*\n\s*<summary><h2>\s*([A-Z]{3})\s*:sparkles:\s*</h2></summary>.*?</details>\s*",
+        readme,
+        re.IGNORECASE | re.DOTALL,
+    )
+
+
+def missing_month_insertion_index(readme: str, month: str) -> int:
+    target_index = MONTHS.index(month)
+    fallback_index = static_section_start(readme)
+    last_prior_end: int | None = None
+
+    for match in month_sections(readme):
+        existing_month = match.group(1).upper()
+        if existing_month not in MONTHS:
+            continue
+
+        existing_index = MONTHS.index(existing_month)
+        if existing_index > target_index:
+            return match.start()
+        if existing_index < target_index:
+            last_prior_end = match.end()
+
+    if last_prior_end is not None and last_prior_end <= fallback_index:
+        return last_prior_end
+
+    return fallback_index
+
+
 def insert_line_for_month(readme: str, month: str, line: str) -> str:
     pattern = month_section_pattern(month)
     match = pattern.search(readme)
@@ -307,7 +338,7 @@ def insert_line_for_month(readme: str, month: str, line: str) -> str:
         updated_section = insert_line_into_section(section, line)
         return readme[: match.start()] + updated_section + readme[match.end() :]
 
-    insertion_index = static_section_start(readme)
+    insertion_index = missing_month_insertion_index(readme, month)
     section = new_month_section(month, [line])
     prefix = readme[:insertion_index].rstrip() + "\n\n"
     suffix = readme[insertion_index:].lstrip("\n")

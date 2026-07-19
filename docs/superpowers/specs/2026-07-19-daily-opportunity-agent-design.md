@@ -10,7 +10,8 @@ The first version uses public opportunity RSS/Atom feeds and page text. It does 
 
 ## Behavior
 
-- Run once per day from GitHub Actions, plus manual `workflow_dispatch`.
+- Try three times per day from GitHub Actions, plus manual `workflow_dispatch`.
+- Skip scheduled retries after the first successful bot update for that UTC day.
 - Read `README.md`.
 - Collect opportunity posts from trusted feeds for fellowships, grants, hackathons, scholarships, awards, challenges, residencies, accelerators, internships, conferences, and summits.
 - Extract a real 2026 deadline from feed text or the linked page.
@@ -33,6 +34,6 @@ The first version uses public opportunity RSS/Atom feeds and page text. It does 
 
 ## Files
 
-- `.github/workflows/daily-opportunities.yml`: scheduled workflow, default five-item run, and direct commit step.
+- `.github/workflows/daily-opportunities.yml`: retrying scheduled workflow, daily skip guard, default five-item run, and direct commit step.
 - `scripts/update_opportunities.py`: source fetching, candidate filtering, README insertion, and CLI.
 - `tests/test_update_opportunities.py`: tests for deadline parsing, duplicate checks, section creation, and insertion.

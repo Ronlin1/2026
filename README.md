@@ -142,21 +142,21 @@ If you want to contribute, follow the instructions in the Contributing file
 </details>
 
 <details open>
- <summary><h2> AUG :sparkles: </h2></summary>
-
-- [ ] The African Continental Free Trade Area Secretariat Internship Program 2026 https://www.opportunitiesforafricans.com/the-african-continental-free-trade-area-afcfta-secretariat-internship-program-2026/ AUG 4
-- [ ] The Global Youth Water Envoys Program 2026 https://www.opportunitiesforafricans.com/the-global-youth-water-envoys-program-2026-for-young-emerging-leaders/ AUG 10
-- [ ] Kennan Institute Digital Fellowship 2026–2027 (Fully Funded Virtual Fellowship) https://scholarshipscorner.website/kennan-institute-digital-fellowship/ AUG 11
-
-</details>
-
-<details open>
  <summary><h2> JUL :sparkles: </h2></summary>
 
 - [ ] Global Youth Festival 2026 in Paris, France (GYF 2026 Paris) https://scholarshipscorner.website/global-youth-festival-2026-france/ JUL 19
 - [ ] NIAS Safe Haven Fellowship in Netherlands | Fully Funded https://scholarshipscorner.website/nias-safe-haven-fellowship/ JUL 19
 - [ ] Max Kampelman Fellowship Program – Fall 2026 https://opportunitydesk.org/2026/07/17/max-kampelman-fellowship-program-fall-2026/ JUL 26
 - [ ] Media Defence/The Kennedy Human Rights Center/Vuka Sub-Saharan Africa Litigation Surgery 2026 https://opportunitydesk.org/2026/07/17/sub-saharan-africa-litigation-surgery-2026/ JUL 28
+
+</details>
+
+<details open>
+ <summary><h2> AUG :sparkles: </h2></summary>
+
+- [ ] The African Continental Free Trade Area Secretariat Internship Program 2026 https://www.opportunitiesforafricans.com/the-african-continental-free-trade-area-afcfta-secretariat-internship-program-2026/ AUG 4
+- [ ] The Global Youth Water Envoys Program 2026 https://www.opportunitiesforafricans.com/the-global-youth-water-envoys-program-2026-for-young-emerging-leaders/ AUG 10
+- [ ] Kennan Institute Digital Fellowship 2026–2027 (Fully Funded Virtual Fellowship) https://scholarshipscorner.website/kennan-institute-digital-fellowship/ AUG 11
 
 </details>
 

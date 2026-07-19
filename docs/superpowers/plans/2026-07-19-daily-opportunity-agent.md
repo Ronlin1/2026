@@ -4,7 +4,7 @@
 
 **Goal:** Add a daily GitHub Actions agent that commits up to five verified opportunities directly to the README.
 
-**Architecture:** A dependency-free Python script owns source collection, deadline parsing, duplicate detection, and README mutation. A GitHub Actions workflow runs the script daily and commits only when `README.md` changed.
+**Architecture:** A dependency-free Python script owns source collection, deadline parsing, duplicate detection, and README mutation. A GitHub Actions workflow tries multiple times per day, skips if the bot already updated that UTC day, and commits only when `README.md` changed.
 
 **Tech Stack:** Python 3.11 standard library, `unittest`, GitHub Actions, Git.
 
@@ -12,6 +12,7 @@
 
 - Commit directly to `main`.
 - Add at most five opportunities per daily run.
+- Try multiple daily schedule slots but skip retries after a successful bot update for the day.
 - Only add opportunities whose real deadline is after the daily run date.
 - Follow the existing README checklist format: `- [ ] Name https://link MON DAY`.
 - Skip duplicates and expired opportunities.
