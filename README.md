@@ -157,6 +157,11 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The African Continental Free Trade Area Secretariat Internship Program 2026 https://www.opportunitiesforafricans.com/the-african-continental-free-trade-area-afcfta-secretariat-internship-program-2026/ AUG 4
 - [ ] The Global Youth Water Envoys Program 2026 https://www.opportunitiesforafricans.com/the-global-youth-water-envoys-program-2026-for-young-emerging-leaders/ AUG 10
 - [ ] Kennan Institute Digital Fellowship 2026–2027 (Fully Funded Virtual Fellowship) https://scholarshipscorner.website/kennan-institute-digital-fellowship/ AUG 11
+- [ ] University of Oslo Postdoctoral Research Fellowship in Children, Youth and Digital Media 2026 https://opportunitydesk.org/2026/07/17/university-of-oslo-postdoctoral-research-fellowship-in-children-youth-and-digital-media-2026/ AUG 12
+- [ ] Harvard Visiting Research Scholarship Program in the USA (Funded) https://scholarshipscorner.website/harvard-visiting-research-scholarship-program/ AUG 20
+- [ ] Association of Commonwealth Universities Global Grants 2026 https://opportunitydesk.org/2026/07/17/acu-global-grants-2026/ AUG 22
+- [ ] World Bank Group Africa Fellowship Program 2027 https://www.opportunitiesforafricans.com/world-bank-group-africa-fellowship-program-2027/ AUG 22
+- [ ] Africa CDC Epidemiology Track Fellowship Programme 2026 https://www.opportunitiesforafricans.com/africa-cdc-epidemiology-track-fellowship-programme-2026/ AUG 23
 
 </details>
 
