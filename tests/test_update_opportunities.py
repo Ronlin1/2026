@@ -8,6 +8,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from scripts.update_opportunities import (
     FeedItem,
     Opportunity,
+    build_parser,
     clean_title,
     extract_deadline_date,
     format_opportunity_line,
@@ -64,6 +65,24 @@ class OpportunityUpdaterTests(unittest.TestCase):
             format_opportunity_line(opportunity, buffer_days=3),
             "- [ ] Global AI Fellowship https://example.org/apply AUG 11",
         )
+
+    def test_format_opportunity_line_never_lists_before_today(self):
+        opportunity = Opportunity(
+            title="Fast Closing Grant",
+            url="https://example.org/fast",
+            deadline=date(2026, 7, 21),
+            source="fixture",
+        )
+
+        self.assertEqual(
+            format_opportunity_line(opportunity, buffer_days=3, today=date(2026, 7, 19)),
+            "- [ ] Fast Closing Grant https://example.org/fast JUL 19",
+        )
+
+    def test_default_max_items_is_five(self):
+        args = build_parser().parse_args([])
+
+        self.assertEqual(args.max_items, 5)
 
     def test_clean_title_removes_long_parenthetical_details(self):
         title = (
@@ -146,6 +165,42 @@ class OpportunityUpdaterTests(unittest.TestCase):
         updated, added = insert_opportunities(
             README_WITH_JULY,
             [duplicate],
+            today=date(2026, 7, 19),
+            buffer_days=3,
+        )
+
+        self.assertEqual(updated, README_WITH_JULY)
+        self.assertEqual(added, [])
+
+    def test_insert_opportunity_uses_future_real_deadline_even_if_buffer_is_past(self):
+        opportunity = Opportunity(
+            title="Fast Closing Grant",
+            url="https://example.org/fast",
+            deadline=date(2026, 7, 21),
+            source="fixture",
+        )
+
+        updated, added = insert_opportunities(
+            README_WITH_JULY,
+            [opportunity],
+            today=date(2026, 7, 19),
+            buffer_days=3,
+        )
+
+        self.assertEqual(added, [opportunity])
+        self.assertIn("- [ ] Fast Closing Grant https://example.org/fast JUL 19", updated)
+
+    def test_insert_opportunity_skips_deadline_today_or_earlier(self):
+        today_deadline = Opportunity(
+            title="Deadline Today Grant",
+            url="https://example.org/today",
+            deadline=date(2026, 7, 19),
+            source="fixture",
+        )
+
+        updated, added = insert_opportunities(
+            README_WITH_JULY,
+            [today_deadline],
             today=date(2026, 7, 19),
             buffer_days=3,
         )

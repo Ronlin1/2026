@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Add a daily GitHub Actions agent that commits one or two verified opportunities directly to the README.
+**Goal:** Add a daily GitHub Actions agent that commits up to five verified opportunities directly to the README.
 
 **Architecture:** A dependency-free Python script owns source collection, deadline parsing, duplicate detection, and README mutation. A GitHub Actions workflow runs the script daily and commits only when `README.md` changed.
 
@@ -11,7 +11,8 @@
 ## Global Constraints
 
 - Commit directly to `main`.
-- Add at most two opportunities per daily run.
+- Add at most five opportunities per daily run.
+- Only add opportunities whose real deadline is after the daily run date.
 - Follow the existing README checklist format: `- [ ] Name https://link MON DAY`.
 - Skip duplicates and expired opportunities.
 - Do not require OpenAI, Gemini, or any other LLM API key for v1.
@@ -57,7 +58,7 @@
 
 - [ ] Configure cron for `37 5 * * *` UTC.
 - [ ] Grant `contents: write`.
-- [ ] Run the updater with `MAX_ITEMS` defaulting to `2`.
+- [ ] Run the updater with `MAX_ITEMS` defaulting to `5`.
 - [ ] Commit and push only when `README.md` changes.
 
 ### Task 4: Verify and Publish

@@ -171,6 +171,13 @@ def display_deadline(deadline: date, buffer_days: int) -> date:
     return deadline - timedelta(days=buffer_days)
 
 
+def listed_deadline(deadline: date, today: date | None = None, buffer_days: int = 3) -> date:
+    buffered = display_deadline(deadline, buffer_days)
+    if today is None:
+        return buffered
+    return max(buffered, today)
+
+
 def clean_title(title: str) -> str:
     title = text_from_html(title)
     title = re.sub(r"\s+[-|]\s+(Opportunity Desk|Opportunities For Africans|Youth Opportunities).*", "", title, flags=re.I)
@@ -224,8 +231,12 @@ def normalize_title(title: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", title).strip()
 
 
-def format_opportunity_line(opportunity: Opportunity, buffer_days: int = 3) -> str:
-    listed_date = display_deadline(opportunity.deadline, buffer_days)
+def format_opportunity_line(
+    opportunity: Opportunity,
+    buffer_days: int = 3,
+    today: date | None = None,
+) -> str:
+    listed_date = listed_deadline(opportunity.deadline, today=today, buffer_days=buffer_days)
     month = MONTHS[listed_date.month - 1]
     return f"- [ ] {clean_title(opportunity.title)} {clean_url(opportunity.url)} {month} {listed_date.day}"
 
@@ -320,13 +331,13 @@ def insert_opportunities(
         if max_items is not None and len(added) >= max_items:
             break
 
-        listed_date = display_deadline(opportunity.deadline, buffer_days)
-        if listed_date < today:
+        if opportunity.deadline <= today:
             continue
         if is_duplicate(updated, opportunity, seen_urls, seen_titles):
             continue
 
-        line = format_opportunity_line(opportunity, buffer_days=buffer_days)
+        listed_date = listed_deadline(opportunity.deadline, today=today, buffer_days=buffer_days)
+        line = format_opportunity_line(opportunity, buffer_days=buffer_days, today=today)
         month = MONTHS[listed_date.month - 1]
         updated = insert_line_for_month(updated, month, line)
         added.append(opportunity)
@@ -415,7 +426,7 @@ def opportunity_from_item(item: FeedItem, today: date, page_fetch_allowed: bool)
     if deadline is None or deadline.year != 2026:
         return None
 
-    if display_deadline(deadline, buffer_days=3) < today:
+    if deadline <= today:
         return None
 
     return Opportunity(
@@ -450,7 +461,7 @@ def collect_opportunities(
         seen.add(key)
         opportunities.append(opportunity)
 
-    return sorted(opportunities, key=lambda opp: (display_deadline(opp.deadline, 3), normalize_title(opp.title)))
+    return sorted(opportunities, key=lambda opp: (listed_deadline(opp.deadline, today, 3), normalize_title(opp.title)))
 
 
 def parse_today(value: str | None) -> date:
@@ -462,7 +473,7 @@ def parse_today(value: str | None) -> date:
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Add one or two new opportunities to README.md.")
     parser.add_argument("--readme", default="README.md", help="Path to README.md")
-    parser.add_argument("--max-items", type=int, default=int(os.getenv("MAX_ITEMS", "2")))
+    parser.add_argument("--max-items", type=int, default=int(os.getenv("MAX_ITEMS", "5")))
     parser.add_argument("--buffer-days", type=int, default=3)
     parser.add_argument("--today", help="Override today's date as YYYY-MM-DD for tests or manual runs")
     parser.add_argument("--feed", action="append", dest="feeds", help="Extra or replacement feed URL")
@@ -492,7 +503,7 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     for opportunity in added:
-        listed_date = display_deadline(opportunity.deadline, args.buffer_days)
+        listed_date = listed_deadline(opportunity.deadline, today=today, buffer_days=args.buffer_days)
         print(
             f"Add: {clean_title(opportunity.title)} "
             f"({listed_date:%b} {listed_date.day}, {listed_date.year}) {clean_url(opportunity.url)}"

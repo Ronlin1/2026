@@ -2,7 +2,7 @@
 
 ## Goal
 
-Build a daily GitHub Actions agent that commits one or two credible new opportunities directly to `README.md` in the same checklist style already used by this repository.
+Build a daily GitHub Actions agent that commits up to five credible new opportunities directly to `README.md` in the same checklist style already used by this repository.
 
 ## Scope
 
@@ -15,7 +15,9 @@ The first version uses public opportunity RSS/Atom feeds and page text. It does 
 - Collect opportunity posts from trusted feeds for fellowships, grants, hackathons, scholarships, awards, challenges, residencies, accelerators, internships, conferences, and summits.
 - Extract a real 2026 deadline from feed text or the linked page.
 - Apply the repository's existing buffer rule by listing a date three days before the detected deadline.
-- Add at most two new rows per run.
+- Add at most five new rows per run.
+- Only add opportunities whose real deadline is after the daily run date.
+- If the buffer date is already past but the real deadline is still future, list the opportunity under the daily run date.
 - Skip duplicate titles or URLs already present in `README.md`.
 - Keep the current Markdown row format: `- [ ] Name https://link MON DAY`.
 - Create a missing month section using the existing `<details open>` pattern.
@@ -31,6 +33,6 @@ The first version uses public opportunity RSS/Atom feeds and page text. It does 
 
 ## Files
 
-- `.github/workflows/daily-opportunities.yml`: scheduled workflow and direct commit step.
+- `.github/workflows/daily-opportunities.yml`: scheduled workflow, default five-item run, and direct commit step.
 - `scripts/update_opportunities.py`: source fetching, candidate filtering, README insertion, and CLI.
 - `tests/test_update_opportunities.py`: tests for deadline parsing, duplicate checks, section creation, and insertion.

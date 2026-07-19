@@ -9,7 +9,7 @@ on:
       max_items:
         description: "Maximum new opportunities to add"
         required: false
-        default: "2"
+        default: "5"
 
 permissions:
   contents: write
@@ -36,7 +36,7 @@ jobs:
 
       - name: Update README
         env:
-          MAX_ITEMS: ${{ github.event.inputs.max_items || '2' }}
+          MAX_ITEMS: ${{ github.event.inputs.max_items || '5' }}
         run: python scripts/update_opportunities.py --max-items "$MAX_ITEMS"
 
       - name: Commit README changes
