@@ -148,6 +148,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NIAS Safe Haven Fellowship in Netherlands | Fully Funded https://scholarshipscorner.website/nias-safe-haven-fellowship/ JUL 19
 - [ ] Max Kampelman Fellowship Program – Fall 2026 https://opportunitydesk.org/2026/07/17/max-kampelman-fellowship-program-fall-2026/ JUL 26
 - [ ] Media Defence/The Kennedy Human Rights Center/Vuka Sub-Saharan Africa Litigation Surgery 2026 https://opportunitydesk.org/2026/07/17/sub-saharan-africa-litigation-surgery-2026/ JUL 28
+- [ ] Arla Foods Nigeria Internship Program 2026 for Nigerian graduates. https://www.opportunitiesforafricans.com/arla-foods-nigeria-internship-program-2026-for-nigerian-graduates/ JUL 28
+- [ ] Kaleidoscope Dreams Fellowship 2026 https://opportunitydesk.org/2026/07/20/kaleidoscope-dreams-fellowship-2026/ JUL 28
 
 </details>
 
@@ -162,6 +164,9 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Harvard Visiting Research Scholarship Program in the USA (Funded) https://scholarshipscorner.website/harvard-visiting-research-scholarship-program/ AUG 20
 - [ ] Association of Commonwealth Universities Global Grants 2026 https://opportunitydesk.org/2026/07/17/acu-global-grants-2026/ AUG 22
 - [ ] World Bank Group Africa Fellowship Program 2027 https://www.opportunitiesforafricans.com/world-bank-group-africa-fellowship-program-2027/ AUG 22
+- [ ] Pear VC Fellows Program 2026 https://opportunitydesk.org/2026/07/20/pear-vc-fellows-program-2026/ AUG 6
+- [ ] The Kenya Climate Innovation Center Cleantech Innovation Competition 2026 https://www.opportunitiesforafricans.com/the-kenya-climate-innovation-center-kcic-cleantech-innovation-competition-2026-for-kenyan-university-students/ AUG 7
+- [ ] Arab Youth Center Global Youth Water Envoys Program 2026 https://opportunitydesk.org/2026/07/20/arab-youth-center-global-youth-water-envoys-program-2026/ AUG 10
 
 </details>
 
