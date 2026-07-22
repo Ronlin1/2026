@@ -150,6 +150,9 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Media Defence/The Kennedy Human Rights Center/Vuka Sub-Saharan Africa Litigation Surgery 2026 https://opportunitydesk.org/2026/07/17/sub-saharan-africa-litigation-surgery-2026/ JUL 28
 - [ ] Arla Foods Nigeria Internship Program 2026 for Nigerian graduates. https://www.opportunitiesforafricans.com/arla-foods-nigeria-internship-program-2026-for-nigerian-graduates/ JUL 28
 - [ ] Kaleidoscope Dreams Fellowship 2026 https://opportunitydesk.org/2026/07/20/kaleidoscope-dreams-fellowship-2026/ JUL 28
+- [ ] Pathfinder Fellowship 2026 for Students https://opportunitydesk.org/2026/07/21/pathfinder-fellowship-2026/ JUL 25
+- [ ] Bosun Tijani Foundation Gen AI Fellowship 2026 [Cohort 2] https://opportunitydesk.org/2026/07/21/bosun-tijani-foundation-gen-ai-fellowship-2026-cohort-2/ JUL 28
+- [ ] The Bosun Tijani Foundation Gen AI Fellowship Cohort 2 for young Nigerians https://www.opportunitiesforafricans.com/the-bosun-tijani-foundation-gen-ai-fellowship-cohort-2/ JUL 28
 
 </details>
 
@@ -167,6 +170,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Pear VC Fellows Program 2026 https://opportunitydesk.org/2026/07/20/pear-vc-fellows-program-2026/ AUG 6
 - [ ] The Kenya Climate Innovation Center Cleantech Innovation Competition 2026 https://www.opportunitiesforafricans.com/the-kenya-climate-innovation-center-kcic-cleantech-innovation-competition-2026-for-kenyan-university-students/ AUG 7
 - [ ] Arab Youth Center Global Youth Water Envoys Program 2026 https://opportunitydesk.org/2026/07/20/arab-youth-center-global-youth-water-envoys-program-2026/ AUG 10
+- [ ] KCIC Cleantech Innovation Competition 2026 https://opportunitydesk.org/2026/07/21/kcic-cleantech-innovation-competition-2026/ AUG 7
+- [ ] Canon Collins RMTF Scholarships 2027 https://www.opportunitiesforafricans.com/canon-collins-rmtf-scholarships-2027/ AUG 11
 
 </details>
 
