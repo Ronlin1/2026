@@ -153,6 +153,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Pathfinder Fellowship 2026 for Students https://opportunitydesk.org/2026/07/21/pathfinder-fellowship-2026/ JUL 25
 - [ ] Bosun Tijani Foundation Gen AI Fellowship 2026 [Cohort 2] https://opportunitydesk.org/2026/07/21/bosun-tijani-foundation-gen-ai-fellowship-2026-cohort-2/ JUL 28
 - [ ] The Bosun Tijani Foundation Gen AI Fellowship Cohort 2 for young Nigerians https://www.opportunitiesforafricans.com/the-bosun-tijani-foundation-gen-ai-fellowship-cohort-2/ JUL 28
+- [ ] CANEX Junior Chefs Competition 2026 ($3,000 in prizes) https://opportunitydesk.org/2026/07/22/canex-junior-chefs-competition-2026/ JUL 23
 
 </details>
 
@@ -172,6 +173,10 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Arab Youth Center Global Youth Water Envoys Program 2026 https://opportunitydesk.org/2026/07/20/arab-youth-center-global-youth-water-envoys-program-2026/ AUG 10
 - [ ] KCIC Cleantech Innovation Competition 2026 https://opportunitydesk.org/2026/07/21/kcic-cleantech-innovation-competition-2026/ AUG 7
 - [ ] Canon Collins RMTF Scholarships 2027 https://www.opportunitiesforafricans.com/canon-collins-rmtf-scholarships-2027/ AUG 11
+- [ ] One Young World Academy Leadership Course 2026 with Free Certificate https://scholarshipscorner.website/one-young-world-academy-leadership-course/ AUG 4
+- [ ] UNHCR’s Tertiary Refugee Scholarship Programme 2026/2027 https://www.opportunitiesforafricans.com/unhcrs-tertiary-refugee-scholarship-programme-dafi-2026-2027/ AUG 4
+- [ ] Canon Collins RMTF Scholarships for Postgraduate Study in South Africa 2027 https://opportunitydesk.org/2026/07/22/canon-collins-rmtf-scholarships-for-postgraduate-study-2027/ AUG 11
+- [ ] The Canon Collins Trust Tom Queba and Pegasys Scholarships 2027 https://www.opportunitiesforafricans.com/the-canon-collins-trust-tom-queba-and-pegasys-scholarships-2027/ AUG 11
 
 </details>
 
