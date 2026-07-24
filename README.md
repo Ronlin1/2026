@@ -154,6 +154,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Bosun Tijani Foundation Gen AI Fellowship 2026 [Cohort 2] https://opportunitydesk.org/2026/07/21/bosun-tijani-foundation-gen-ai-fellowship-2026-cohort-2/ JUL 28
 - [ ] The Bosun Tijani Foundation Gen AI Fellowship Cohort 2 for young Nigerians https://www.opportunitiesforafricans.com/the-bosun-tijani-foundation-gen-ai-fellowship-cohort-2/ JUL 28
 - [ ] CANEX Junior Chefs Competition 2026 ($3,000 in prizes) https://opportunitydesk.org/2026/07/22/canex-junior-chefs-competition-2026/ JUL 23
+- [ ] RMIT Vice-Chancellor’s Research Fellowships Program 2026 https://opportunitydesk.org/2026/07/23/rmit-vice-chancellor-research-fellowships-2026/ JUL 26
+- [ ] The Tracka-BudgIT Governance for Women By Women Fellowship 2026 https://www.opportunitiesforafricans.com/the-tracka-budgit-governance-for-women-by-women-fellowship-2026/ JUL 28
 
 </details>
 
@@ -177,6 +179,9 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNHCR’s Tertiary Refugee Scholarship Programme 2026/2027 https://www.opportunitiesforafricans.com/unhcrs-tertiary-refugee-scholarship-programme-dafi-2026-2027/ AUG 4
 - [ ] Canon Collins RMTF Scholarships for Postgraduate Study in South Africa 2027 https://opportunitydesk.org/2026/07/22/canon-collins-rmtf-scholarships-for-postgraduate-study-2027/ AUG 11
 - [ ] The Canon Collins Trust Tom Queba and Pegasys Scholarships 2027 https://www.opportunitiesforafricans.com/the-canon-collins-trust-tom-queba-and-pegasys-scholarships-2027/ AUG 11
+- [ ] Pinterest Inclusion Fund 2026 for Creators in Canada https://opportunitydesk.org/2026/07/23/pinterest-inclusion-fund-2026/ AUG 1
+- [ ] Google Academic Research Awards 2026 (up to $100k) https://opportunitydesk.org/2026/07/23/google-academic-research-awards-2026/ AUG 4
+- [ ] The Pulitzer Center Africa Education Teachers’ Fellowship 2026 https://www.opportunitiesforafricans.com/the-pulitzer-center-africa-education-teachers-fellowship-2026/ AUG 7
 
 </details>
 
