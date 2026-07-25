@@ -182,6 +182,11 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Pinterest Inclusion Fund 2026 for Creators in Canada https://opportunitydesk.org/2026/07/23/pinterest-inclusion-fund-2026/ AUG 1
 - [ ] Google Academic Research Awards 2026 (up to $100k) https://opportunitydesk.org/2026/07/23/google-academic-research-awards-2026/ AUG 4
 - [ ] The Pulitzer Center Africa Education Teachers’ Fellowship 2026 https://www.opportunitiesforafricans.com/the-pulitzer-center-africa-education-teachers-fellowship-2026/ AUG 7
+- [ ] KWI International Fellowship in Germany 2027 | Funded https://scholarshipscorner.website/kwi-international-fellowship/ AUG 14
+- [ ] Public Policy Fellowship 2026 https://opportunitydesk.org/2026/07/23/public-policy-fellowship-2026/ AUG 16
+- [ ] ArtsFund Community Accelerator Grant 2026 (up to $25,000) https://opportunitydesk.org/2026/07/23/artsfund-community-accelerator-grant-2026/ AUG 18
+- [ ] MTN Foundation/Muson Music Scholarship Program 2026/2027 for aspiring Musicians. https://www.opportunitiesforafricans.com/mtn-foundation-muson-music-scholarship-program-2026-2027/ AUG 20
+- [ ] Google for Startups Accelerator South Africa Program 2026 https://www.opportunitiesforafricans.com/google-for-startups-accelerator-south-africa-program-2026/ AUG 25
 
 </details>
 
