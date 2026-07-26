@@ -156,6 +156,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CANEX Junior Chefs Competition 2026 ($3,000 in prizes) https://opportunitydesk.org/2026/07/22/canex-junior-chefs-competition-2026/ JUL 23
 - [ ] RMIT Vice-Chancellor’s Research Fellowships Program 2026 https://opportunitydesk.org/2026/07/23/rmit-vice-chancellor-research-fellowships-2026/ JUL 26
 - [ ] The Tracka-BudgIT Governance for Women By Women Fellowship 2026 https://www.opportunitiesforafricans.com/the-tracka-budgit-governance-for-women-by-women-fellowship-2026/ JUL 28
+- [ ] Break Into Tech AI Developer Scholarship 2026 (Fully-funded) https://opportunitydesk.org/2026/07/25/break-into-tech-ai-developer-scholarship-2026/ JUL 29
+- [ ] Fulcrum Journalism Fellowship 2026 ($1,000 stipend) https://opportunitydesk.org/2026/07/25/fulcrum-journalism-fellowship-2026/ JUL 31
 
 </details>
 
@@ -187,6 +189,9 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ArtsFund Community Accelerator Grant 2026 (up to $25,000) https://opportunitydesk.org/2026/07/23/artsfund-community-accelerator-grant-2026/ AUG 18
 - [ ] MTN Foundation/Muson Music Scholarship Program 2026/2027 for aspiring Musicians. https://www.opportunitiesforafricans.com/mtn-foundation-muson-music-scholarship-program-2026-2027/ AUG 20
 - [ ] Google for Startups Accelerator South Africa Program 2026 https://www.opportunitiesforafricans.com/google-for-startups-accelerator-south-africa-program-2026/ AUG 25
+- [ ] Pulitzer Center Africa Education Teachers’ Fellowship 2026 (stipend available) https://opportunitydesk.org/2026/07/25/africa-education-teachers-fellowship-2026/ AUG 7
+- [ ] Roosevelt Institute Good Life Resident Program 2026 (up to $3,000) https://opportunitydesk.org/2026/07/25/roosevelt-institute-good-life-resident-program-2026/ AUG 9
+- [ ] Transfyr AI Fellowship 2026-2027 (up to $125,000) https://opportunitydesk.org/2026/07/25/transfyr-ai-fellowship-2026-2027/ AUG 12
 
 </details>
 
