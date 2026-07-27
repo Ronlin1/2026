@@ -192,6 +192,17 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Pulitzer Center Africa Education Teachers’ Fellowship 2026 (stipend available) https://opportunitydesk.org/2026/07/25/africa-education-teachers-fellowship-2026/ AUG 7
 - [ ] Roosevelt Institute Good Life Resident Program 2026 (up to $3,000) https://opportunitydesk.org/2026/07/25/roosevelt-institute-good-life-resident-program-2026/ AUG 9
 - [ ] Transfyr AI Fellowship 2026-2027 (up to $125,000) https://opportunitydesk.org/2026/07/25/transfyr-ai-fellowship-2026-2027/ AUG 12
+- [ ] Google for Startups Accelerator: South Africa 2026 https://opportunitydesk.org/2026/07/25/google-for-startups-accelerator-south-africa-2026/ AUG 25
+- [ ] Horizon Fellowship 2027 for Emerging Tech Experts (Funded) https://opportunitydesk.org/2026/07/25/horizon-fellowship-2027/ AUG 27
+
+</details>
+
+<details open>
+ <summary><h2> SEP :sparkles: </h2></summary>
+
+- [ ] EU Blue Book Traineeship Program 2027 | Paid Internship in Europe https://scholarshipscorner.website/eu-blue-book-traineeship-program/ SEP 1
+- [ ] IIAS Asia in the World Fellowship 2027 (Fully Funded) https://scholarshipscorner.website/iias-asia-in-the-world-fellowship/ SEP 7
+- [ ] UNESCO AfriMAB GRÓ-LRT Land Restoration Fellowships 2027 https://www.opportunitiesforafricans.com/unesco-afrimab-gro-lrt-land-restoration-fellowships-2027/ SEP 7
 
 </details>
 
