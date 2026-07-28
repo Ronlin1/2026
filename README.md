@@ -158,6 +158,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Tracka-BudgIT Governance for Women By Women Fellowship 2026 https://www.opportunitiesforafricans.com/the-tracka-budgit-governance-for-women-by-women-fellowship-2026/ JUL 28
 - [ ] Break Into Tech AI Developer Scholarship 2026 (Fully-funded) https://opportunitydesk.org/2026/07/25/break-into-tech-ai-developer-scholarship-2026/ JUL 29
 - [ ] Fulcrum Journalism Fellowship 2026 ($1,000 stipend) https://opportunitydesk.org/2026/07/25/fulcrum-journalism-fellowship-2026/ JUL 31
+- [ ] Life-Baker Rising Stars Academic Competition 2026 (up to ₦20,000,000) https://opportunitydesk.org/2026/07/27/life-baker-rising-stars-academic-competition-2026/ JUL 28
 
 </details>
 
@@ -194,6 +195,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Transfyr AI Fellowship 2026-2027 (up to $125,000) https://opportunitydesk.org/2026/07/25/transfyr-ai-fellowship-2026-2027/ AUG 12
 - [ ] Google for Startups Accelerator: South Africa 2026 https://opportunitydesk.org/2026/07/25/google-for-startups-accelerator-south-africa-2026/ AUG 25
 - [ ] Horizon Fellowship 2027 for Emerging Tech Experts (Funded) https://opportunitydesk.org/2026/07/25/horizon-fellowship-2027/ AUG 27
+- [ ] ProPublica Emerging Reporters Program 2026-2027 ($9,000 stipend) https://opportunitydesk.org/2026/07/27/propublica-emerging-reporters-program-2026-2027/ AUG 14
 
 </details>
 
@@ -203,6 +205,9 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] EU Blue Book Traineeship Program 2027 | Paid Internship in Europe https://scholarshipscorner.website/eu-blue-book-traineeship-program/ SEP 1
 - [ ] IIAS Asia in the World Fellowship 2027 (Fully Funded) https://scholarshipscorner.website/iias-asia-in-the-world-fellowship/ SEP 7
 - [ ] UNESCO AfriMAB GRÓ-LRT Land Restoration Fellowships 2027 https://www.opportunitiesforafricans.com/unesco-afrimab-gro-lrt-land-restoration-fellowships-2027/ SEP 7
+- [ ] Resilient Futures Call for Ideation Grants​ 2026 (up to $20,000) https://opportunitydesk.org/2026/07/27/resilient-futures-call-for-ideation-grants-2026/ SEP 1
+- [ ] AFSC G­l­o­b­a­l V­o­i­c­e­s f­o­r P­e­a­c­e S­m­a­l­l S­e­e­d G­r­a­n­t­s 2026 https://opportunitydesk.org/2026/07/25/afsc-global-voices-for-peace-small-seed-grants-2026/ SEP 12
+- [ ] FRIAS Fellowship Programmes in Germany (Fully Funded) https://scholarshipscorner.website/frias-fellowship-programmes-germany/ SEP 15
 
 </details>
 
