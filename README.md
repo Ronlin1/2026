@@ -262,6 +262,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Katapult VC https://katapult.vc/startups/
 - [ ] WEB 3.0 GRANTS https://web3.foundation/funding-support/  
 - [ ] GITHUB DEV PACK https://education.github.com/pack
+- [ ] Cisco Global Impact Cash Grants https://www.cisco.com/site/us/en/about/purpose/community-resilience/social-impact-investments/global-impact-cash-grants.html#jump-anchor-2 OPEN
 - [ ] 
 
 
