@@ -159,6 +159,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Break Into Tech AI Developer Scholarship 2026 (Fully-funded) https://opportunitydesk.org/2026/07/25/break-into-tech-ai-developer-scholarship-2026/ JUL 29
 - [ ] Fulcrum Journalism Fellowship 2026 ($1,000 stipend) https://opportunitydesk.org/2026/07/25/fulcrum-journalism-fellowship-2026/ JUL 31
 - [ ] Life-Baker Rising Stars Academic Competition 2026 (up to ₦20,000,000) https://opportunitydesk.org/2026/07/27/life-baker-rising-stars-academic-competition-2026/ JUL 28
+- [ ] Youth Ambassador at the 8th German-Baltic Conference 2026 https://opportunitydesk.org/2026/07/29/youth-ambassador-at-the-8th-german-baltic-conference-2026/ JUL 30
 
 </details>
 
@@ -200,6 +201,10 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] International Science Council (ISC) Civic Science Fellow Program 2026 (Funded) https://opportunitydesk.org/2026/07/28/isc-civic-science-fellow-program-2026/ AUG 13
 - [ ] Ms. JD Writers in Residence Program 2026 https://opportunitydesk.org/2026/07/28/ms-jd-writers-in-residence-program-2026/ AUG 14
 - [ ] Future is Female Awards 2026 https://opportunitydesk.org/2026/07/28/future-is-female-awards-2026/ AUG 18
+- [ ] Google News Initiative AI Skills Program 2.0 https://opportunitydesk.org/2026/07/29/google-news-initiative-ai-skills-program-2-0/ AUG 2
+- [ ] Values Partnerships Fall Fellowship 2026 https://opportunitydesk.org/2026/07/29/values-partnerships-fall-fellowship-2026/ AUG 4
+- [ ] City Bureau Civic Information Fellowship 2026 (stipend available) https://opportunitydesk.org/2026/07/29/city-bureau-civic-information-fellowship-2026/ AUG 8
+- [ ] GrowthGia Agro Business Grant 2026 (up to N5 million) https://opportunitydesk.org/2026/07/29/growthgia-agro-business-grant-2026/ AUG 25
 
 </details>
 
