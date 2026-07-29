@@ -196,6 +196,10 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Google for Startups Accelerator: South Africa 2026 https://opportunitydesk.org/2026/07/25/google-for-startups-accelerator-south-africa-2026/ AUG 25
 - [ ] Horizon Fellowship 2027 for Emerging Tech Experts (Funded) https://opportunitydesk.org/2026/07/25/horizon-fellowship-2027/ AUG 27
 - [ ] ProPublica Emerging Reporters Program 2026-2027 ($9,000 stipend) https://opportunitydesk.org/2026/07/27/propublica-emerging-reporters-program-2026-2027/ AUG 14
+- [ ] Social Mission Alliance Health Justice Fellowship 2026-2027 ($2,000 stipend) https://opportunitydesk.org/2026/07/28/social-mission-alliance-health-justice-fellowship-2026-2027/ AUG 12
+- [ ] International Science Council (ISC) Civic Science Fellow Program 2026 (Funded) https://opportunitydesk.org/2026/07/28/isc-civic-science-fellow-program-2026/ AUG 13
+- [ ] Ms. JD Writers in Residence Program 2026 https://opportunitydesk.org/2026/07/28/ms-jd-writers-in-residence-program-2026/ AUG 14
+- [ ] Future is Female Awards 2026 https://opportunitydesk.org/2026/07/28/future-is-female-awards-2026/ AUG 18
 
 </details>
 
@@ -208,6 +212,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Resilient Futures Call for Ideation Grants​ 2026 (up to $20,000) https://opportunitydesk.org/2026/07/27/resilient-futures-call-for-ideation-grants-2026/ SEP 1
 - [ ] AFSC G­l­o­b­a­l V­o­i­c­e­s f­o­r P­e­a­c­e S­m­a­l­l S­e­e­d G­r­a­n­t­s 2026 https://opportunitydesk.org/2026/07/25/afsc-global-voices-for-peace-small-seed-grants-2026/ SEP 12
 - [ ] FRIAS Fellowship Programmes in Germany (Fully Funded) https://scholarshipscorner.website/frias-fellowship-programmes-germany/ SEP 15
+- [ ] University of Milan Regional Scholarship 2026/27 for International Students https://scholarshipscorner.website/university-of-milan-regional-scholarship-italy/ SEP 27
 
 </details>
 
