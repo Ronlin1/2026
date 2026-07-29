@@ -160,6 +160,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Fulcrum Journalism Fellowship 2026 ($1,000 stipend) https://opportunitydesk.org/2026/07/25/fulcrum-journalism-fellowship-2026/ JUL 31
 - [ ] Life-Baker Rising Stars Academic Competition 2026 (up to ₦20,000,000) https://opportunitydesk.org/2026/07/27/life-baker-rising-stars-academic-competition-2026/ JUL 28
 - [ ] Youth Ambassador at the 8th German-Baltic Conference 2026 https://opportunitydesk.org/2026/07/29/youth-ambassador-at-the-8th-german-baltic-conference-2026/ JUL 30
+- [ ] Sudan-Norway Academic Cooperation (SNAC) PhD at Risk Scholarships 2026 https://opportunitydesk.org/2026/07/29/snac-phd-at-risk-scholarships-2026/ JUL 29
 
 </details>
 
@@ -205,6 +206,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Values Partnerships Fall Fellowship 2026 https://opportunitydesk.org/2026/07/29/values-partnerships-fall-fellowship-2026/ AUG 4
 - [ ] City Bureau Civic Information Fellowship 2026 (stipend available) https://opportunitydesk.org/2026/07/29/city-bureau-civic-information-fellowship-2026/ AUG 8
 - [ ] GrowthGia Agro Business Grant 2026 (up to N5 million) https://opportunitydesk.org/2026/07/29/growthgia-agro-business-grant-2026/ AUG 25
+- [ ] Smart Africa/UN FAO Innovate Africa Challenge 2026 – 3rd Edition https://opportunitydesk.org/2026/07/29/innovate-africa-challenge-2026-3rd-edition/ AUG 28
 
 </details>
 
@@ -218,6 +220,14 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AFSC G­l­o­b­a­l V­o­i­c­e­s f­o­r P­e­a­c­e S­m­a­l­l S­e­e­d G­r­a­n­t­s 2026 https://opportunitydesk.org/2026/07/25/afsc-global-voices-for-peace-small-seed-grants-2026/ SEP 12
 - [ ] FRIAS Fellowship Programmes in Germany (Fully Funded) https://scholarshipscorner.website/frias-fellowship-programmes-germany/ SEP 15
 - [ ] University of Milan Regional Scholarship 2026/27 for International Students https://scholarshipscorner.website/university-of-milan-regional-scholarship-italy/ SEP 27
+- [ ] Dorothy and Lewis B. Cullman Center for Scholars and Writers 2027-2028 https://opportunitydesk.org/2026/07/29/dorothy-and-lewis-b-cullman-center-for-scholars-and-writers-2027-2028/ SEP 22
+
+</details>
+
+<details open>
+ <summary><h2> OCT :sparkles: </h2></summary>
+
+- [ ] Human Rights Advocates Program 2027/2028 at Columbia University. https://www.opportunitiesforafricans.com/human-rights-advocates-program-hrap-2027-2028/ OCT 12
 
 </details>
 
