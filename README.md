@@ -212,6 +212,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Smart Africa/UN FAO Innovate Africa Challenge 2026 – 3rd Edition https://opportunitydesk.org/2026/07/29/innovate-africa-challenge-2026-3rd-edition/ AUG 28
 - [ ] World Intellectual Property Organization (WIPO) Fellowship 2026-2027 https://opportunitydesk.org/2026/07/30/wipo-fellowship-2026-2027/ AUG 3
 - [ ] The Google for Startups Accelerator: Middle East, North Africa Program 2026/2027 https://www.opportunitiesforafricans.com/the-google-for-startups-accelerator-middle-east-north-africa-program-2026-2027-for-mena-startups/ AUG 28
+- [ ] World Forum for Democracy 2027 in France (Fully Funded) https://scholarshipscorner.website/world-forum-for-democracy-france/ AUG 11
+- [ ] Wissenschaftskolleg zu Berlin Early Career Fellowships in the Humanities and Social Sciences 2027/2028 https://opportunitydesk.org/2026/07/30/wissenschaftskolleg-zu-berlin-early-career-fellowships-in-the-humanities-and-social-sciences-2027-2028/ AUG 29
 
 </details>
 
@@ -226,6 +228,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] FRIAS Fellowship Programmes in Germany (Fully Funded) https://scholarshipscorner.website/frias-fellowship-programmes-germany/ SEP 15
 - [ ] University of Milan Regional Scholarship 2026/27 for International Students https://scholarshipscorner.website/university-of-milan-regional-scholarship-italy/ SEP 27
 - [ ] Dorothy and Lewis B. Cullman Center for Scholars and Writers 2027-2028 https://opportunitydesk.org/2026/07/29/dorothy-and-lewis-b-cullman-center-for-scholars-and-writers-2027-2028/ SEP 22
+- [ ] NourishNext West Africa Youth Agrifood Innovation Challenge 2026 https://opportunitydesk.org/2026/07/30/nourishnext-west-africa-youth-agrifood-innovation-challenge-2026/ SEP 4
+- [ ] Freiburg Institute for Advanced Studies Early Career Fellowship Programme 2027/2028 https://www.opportunitiesforafricans.com/freiburg-institute-for-advanced-studies-frias-early-career-fellowship-programme-2027-2028/ SEP 15
 
 </details>
 
@@ -233,6 +237,7 @@ If you want to contribute, follow the instructions in the Contributing file
  <summary><h2> OCT :sparkles: </h2></summary>
 
 - [ ] Human Rights Advocates Program 2027/2028 at Columbia University. https://www.opportunitiesforafricans.com/human-rights-advocates-program-hrap-2027-2028/ OCT 12
+- [ ] The France–South Africa Scholarship Programme 2027 https://www.opportunitiesforafricans.com/the-francesouth-africa-scholarship-programme-2027-for-southern-africans-to-study-in-france/ OCT 5
 
 </details>
 
