@@ -161,6 +161,9 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Life-Baker Rising Stars Academic Competition 2026 (up to ₦20,000,000) https://opportunitydesk.org/2026/07/27/life-baker-rising-stars-academic-competition-2026/ JUL 28
 - [ ] Youth Ambassador at the 8th German-Baltic Conference 2026 https://opportunitydesk.org/2026/07/29/youth-ambassador-at-the-8th-german-baltic-conference-2026/ JUL 30
 - [ ] Sudan-Norway Academic Cooperation (SNAC) PhD at Risk Scholarships 2026 https://opportunitydesk.org/2026/07/29/snac-phd-at-risk-scholarships-2026/ JUL 29
+- [ ] GTFund and GTPension Manager Entry Level Training Program 2026 https://www.opportunitiesforafricans.com/gtfund-and-gtpension-manager-entry-level-training-program-2026-for-young-nigerian-graduates/ JUL 30
+- [ ] Sudan-Norway Academic Cooperation (SNAC) Writing Scholarships 2026 https://opportunitydesk.org/2026/07/30/snac-writing-scholarships-2026/ JUL 30
+- [ ] The University of Ghana Institute of Statistical, Social, and Economic Research Pre-Doctoral Fellowship 2027 https://www.opportunitiesforafricans.com/the-university-of-ghana-institute-of-statistical-social-and-economic-research-isser-pre-doctoral-fellowship-2027/ JUL 31
 
 </details>
 
@@ -207,6 +210,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] City Bureau Civic Information Fellowship 2026 (stipend available) https://opportunitydesk.org/2026/07/29/city-bureau-civic-information-fellowship-2026/ AUG 8
 - [ ] GrowthGia Agro Business Grant 2026 (up to N5 million) https://opportunitydesk.org/2026/07/29/growthgia-agro-business-grant-2026/ AUG 25
 - [ ] Smart Africa/UN FAO Innovate Africa Challenge 2026 – 3rd Edition https://opportunitydesk.org/2026/07/29/innovate-africa-challenge-2026-3rd-edition/ AUG 28
+- [ ] World Intellectual Property Organization (WIPO) Fellowship 2026-2027 https://opportunitydesk.org/2026/07/30/wipo-fellowship-2026-2027/ AUG 3
+- [ ] The Google for Startups Accelerator: Middle East, North Africa Program 2026/2027 https://www.opportunitiesforafricans.com/the-google-for-startups-accelerator-middle-east-north-africa-program-2026-2027-for-mena-startups/ AUG 28
 
 </details>
 
