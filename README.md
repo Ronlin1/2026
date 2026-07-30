@@ -164,6 +164,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] GTFund and GTPension Manager Entry Level Training Program 2026 https://www.opportunitiesforafricans.com/gtfund-and-gtpension-manager-entry-level-training-program-2026-for-young-nigerian-graduates/ JUL 30
 - [ ] Sudan-Norway Academic Cooperation (SNAC) Writing Scholarships 2026 https://opportunitydesk.org/2026/07/30/snac-writing-scholarships-2026/ JUL 30
 - [ ] The University of Ghana Institute of Statistical, Social, and Economic Research Pre-Doctoral Fellowship 2027 https://www.opportunitiesforafricans.com/the-university-of-ghana-institute-of-statistical-social-and-economic-research-isser-pre-doctoral-fellowship-2027/ JUL 31
+- [ ] University of Aberdeen Humanitarian Scholarship in UK | Fully Funded https://opportunityportal.info/university-of-aberdeen-humanitarian-scholarship/ JUL 30
 
 </details>
 
@@ -214,6 +215,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Google for Startups Accelerator: Middle East, North Africa Program 2026/2027 https://www.opportunitiesforafricans.com/the-google-for-startups-accelerator-middle-east-north-africa-program-2026-2027-for-mena-startups/ AUG 28
 - [ ] World Forum for Democracy 2027 in France (Fully Funded) https://scholarshipscorner.website/world-forum-for-democracy-france/ AUG 11
 - [ ] Wissenschaftskolleg zu Berlin Early Career Fellowships in the Humanities and Social Sciences 2027/2028 https://opportunitydesk.org/2026/07/30/wissenschaftskolleg-zu-berlin-early-career-fellowships-in-the-humanities-and-social-sciences-2027-2028/ AUG 29
+- [ ] Youth Summit Portugal 2027 | Fully Funded Leadership & Diplomacy Program https://opportunityportal.info/youth-summit-portugal/ AUG 2
 
 </details>
 
