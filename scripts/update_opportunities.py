@@ -55,7 +55,14 @@ DEFAULT_FEEDS = [
     "https://www.afterschoolafrica.com/feed/",
     "https://scholarshipscorner.website/feed/",
     "https://www2.fundsforngos.org/feed/",
+    "https://opportunityportal.info/feed/",
+    "https://oyaop.com/feed/",
+    "https://www.opportunitiescircle.com/feed/",
+    "https://opportunitiesforyouth.org/feed/",
+    "https://www.scholarshipregion.com/feed/",
 ]
+
+DEFAULT_EXTRA_FEEDS_FILE = "data/extra_feeds.txt"
 
 OPPORTUNITY_KEYWORDS = {
     "accelerator",
@@ -438,6 +445,37 @@ def collect_feed_items(feed_urls: Iterable[str]) -> list[FeedItem]:
     return items
 
 
+def load_extra_feed_urls(path: str | Path | None) -> list[str]:
+    if not path:
+        return []
+
+    feed_path = Path(path)
+    if not feed_path.exists():
+        return []
+
+    urls: list[str] = []
+    for raw_line in feed_path.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if line and not line.startswith("#"):
+            urls.append(line)
+
+    return urls
+
+
+def feed_urls_for_run(base_feeds: Iterable[str], extra_feeds_file: str | Path | None) -> list[str]:
+    urls: list[str] = []
+    seen: set[str] = set()
+
+    for raw_url in list(base_feeds) + load_extra_feed_urls(extra_feeds_file):
+        url = raw_url.strip()
+        if not url or url in seen:
+            continue
+        seen.add(url)
+        urls.append(url)
+
+    return urls
+
+
 def opportunity_from_item(item: FeedItem, today: date, page_fetch_allowed: bool) -> Opportunity | None:
     combined_text = f"{item.title} {item.summary}"
     if not looks_like_opportunity(combined_text):
@@ -502,12 +540,17 @@ def parse_today(value: str | None) -> date:
 
 
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Add one or two new opportunities to README.md.")
+    parser = argparse.ArgumentParser(description="Add new opportunities to README.md.")
     parser.add_argument("--readme", default="README.md", help="Path to README.md")
-    parser.add_argument("--max-items", type=int, default=int(os.getenv("MAX_ITEMS", "5")))
+    parser.add_argument("--max-items", type=int, default=int(os.getenv("MAX_ITEMS", "2")))
     parser.add_argument("--buffer-days", type=int, default=3)
     parser.add_argument("--today", help="Override today's date as YYYY-MM-DD for tests or manual runs")
-    parser.add_argument("--feed", action="append", dest="feeds", help="Extra or replacement feed URL")
+    parser.add_argument("--feed", action="append", dest="feeds", help="Replacement feed URL; repeat for multiple feeds")
+    parser.add_argument(
+        "--extra-feeds-file",
+        default=os.getenv("EXTRA_FEEDS_FILE", DEFAULT_EXTRA_FEEDS_FILE),
+        help="Path to newline-separated extra RSS feed URLs",
+    )
     parser.add_argument("--dry-run", action="store_true", help="Print planned additions without writing README.md")
     return parser
 
@@ -518,7 +561,7 @@ def main(argv: list[str] | None = None) -> int:
     today = parse_today(args.today)
     readme_path = Path(args.readme)
     readme = readme_path.read_text(encoding="utf-8")
-    feed_urls = args.feeds or DEFAULT_FEEDS
+    feed_urls = feed_urls_for_run(args.feeds or DEFAULT_FEEDS, args.extra_feeds_file)
 
     candidates = collect_opportunities(feed_urls, today=today)
     updated, added = insert_opportunities(

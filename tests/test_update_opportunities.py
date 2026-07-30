@@ -7,12 +7,15 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from scripts.update_opportunities import (
     FeedItem,
+    DEFAULT_FEEDS,
     Opportunity,
     build_parser,
     clean_title,
     extract_deadline_date,
+    feed_urls_for_run,
     format_opportunity_line,
     insert_opportunities,
+    load_extra_feed_urls,
     opportunity_from_item,
 )
 
@@ -93,10 +96,48 @@ class OpportunityUpdaterTests(unittest.TestCase):
             "- [ ] Fast Closing Grant https://example.org/fast JUL 19",
         )
 
-    def test_default_max_items_is_five(self):
+    def test_default_max_items_is_two(self):
         args = build_parser().parse_args([])
 
-        self.assertEqual(args.max_items, 5)
+        self.assertEqual(args.max_items, 2)
+
+    def test_load_extra_feed_urls_ignores_blank_lines_and_comments(self):
+        feed_file = Path(self.id().replace(".", "_") + ".txt")
+        self.addCleanup(lambda: feed_file.unlink(missing_ok=True))
+        feed_file.write_text(
+            "\n"
+            "# LinkedIn RSS bridge feed\n"
+            "https://rss.example.com/linkedin-opportunities.xml\n"
+            "   \n"
+            "https://rss.example.com/hackathons.xml  \n",
+            encoding="utf-8",
+        )
+
+        self.assertEqual(
+            load_extra_feed_urls(feed_file),
+            [
+                "https://rss.example.com/linkedin-opportunities.xml",
+                "https://rss.example.com/hackathons.xml",
+            ],
+        )
+
+    def test_feed_urls_for_run_appends_extra_file_and_deduplicates(self):
+        feed_file = Path(self.id().replace(".", "_") + ".txt")
+        self.addCleanup(lambda: feed_file.unlink(missing_ok=True))
+        feed_file.write_text(
+            "https://opportunitydesk.org/feed/\n"
+            "https://rss.example.com/linkedin-opportunities.xml\n",
+            encoding="utf-8",
+        )
+
+        urls = feed_urls_for_run(DEFAULT_FEEDS, feed_file)
+
+        self.assertEqual(urls.count("https://opportunitydesk.org/feed/"), 1)
+        self.assertIn("https://rss.example.com/linkedin-opportunities.xml", urls)
+        self.assertLess(
+            urls.index("https://opportunitydesk.org/feed/"),
+            urls.index("https://rss.example.com/linkedin-opportunities.xml"),
+        )
 
     def test_clean_title_removes_long_parenthetical_details(self):
         title = (

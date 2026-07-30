@@ -2,15 +2,21 @@ name: Daily Opportunity Tracker
 
 on:
   schedule:
-    # GitHub schedules use UTC. These retries run at 08:37, 13:37, and 18:37 Africa/Kampala.
-    # The job skips itself after the first successful bot update for the UTC day.
+    # GitHub schedules use UTC. These attempts run at 08:37, 11:37, 13:37, 15:37, and 18:37 Africa/Kampala.
+    # The job skips itself after five Ronlin1-authored tracker commits for the UTC day.
     - cron: "37 5 * * *"
+    - cron: "37 8 * * *"
     - cron: "37 10 * * *"
+    - cron: "37 12 * * *"
     - cron: "37 15 * * *"
   workflow_dispatch:
     inputs:
       max_items:
-        description: "Maximum new opportunities to add"
+        description: "Maximum new opportunities to add per run"
+        required: false
+        default: "2"
+      max_daily_commits:
+        description: "Maximum opportunity commits per UTC day"
         required: false
         default: "5"
 
@@ -40,27 +46,32 @@ jobs:
         id: daily
         run: |
           today="$(date -u +'%Y-%m-%d')"
-          echo "today=$today" >> "$GITHUB_OUTPUT"
+          max_daily_commits="${{ github.event.inputs.max_daily_commits || '5' }}"
+          daily_count="$(git log --since="$today 00:00:00 +0000" --author="Ronlin1" --fixed-strings --grep="Update opportunities ($today" --format="%H" | wc -l | tr -d '[:space:]')"
 
-          if git log --since="$today 00:00:00 +0000" --author="github-actions[bot]" --fixed-strings --grep="Update opportunities ($today)" --format="%H" | grep -q .; then
-            echo "already_ran=true" >> "$GITHUB_OUTPUT"
-            echo "Opportunity tracker already updated for $today."
+          echo "today=$today" >> "$GITHUB_OUTPUT"
+          echo "daily_count=$daily_count" >> "$GITHUB_OUTPUT"
+          echo "max_daily_commits=$max_daily_commits" >> "$GITHUB_OUTPUT"
+
+          if [ "$daily_count" -ge "$max_daily_commits" ]; then
+            echo "daily_limit_reached=true" >> "$GITHUB_OUTPUT"
+            echo "Opportunity tracker already made $daily_count commits for $today."
           else
-            echo "already_ran=false" >> "$GITHUB_OUTPUT"
+            echo "daily_limit_reached=false" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Run tests
-        if: steps.daily.outputs.already_ran != 'true'
+        if: steps.daily.outputs.daily_limit_reached != 'true'
         run: python -m unittest discover -s tests -v
 
       - name: Update README
-        if: steps.daily.outputs.already_ran != 'true'
+        if: steps.daily.outputs.daily_limit_reached != 'true'
         env:
-          MAX_ITEMS: ${{ github.event.inputs.max_items || '5' }}
+          MAX_ITEMS: ${{ github.event.inputs.max_items || '2' }}
         run: python scripts/update_opportunities.py --max-items "$MAX_ITEMS"
 
       - name: Commit README changes
-        if: steps.daily.outputs.already_ran != 'true'
+        if: steps.daily.outputs.daily_limit_reached != 'true'
         run: |
           if git diff --quiet README.md; then
             echo "No README changes to commit."
@@ -70,5 +81,6 @@ jobs:
           git config user.name "Ronlin1"
           git config user.email "66623378+Ronlin1@users.noreply.github.com"
           git add README.md
-          git commit -m "Update opportunities (${{ steps.daily.outputs.today }})"
+          next_count=$(( ${{ steps.daily.outputs.daily_count }} + 1 ))
+          git commit -m "Update opportunities (${{ steps.daily.outputs.today }} #$next_count)"
           git push

@@ -1,0 +1,3 @@
+# Optional extra RSS feeds for the opportunity agent.
+# Add one feed URL per line. Blank lines and comments are ignored.
+# LinkedIn needs an RSS bridge/export feed here; direct logged-in scraping is not reliable in GitHub Actions.
