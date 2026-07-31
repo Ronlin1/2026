@@ -222,6 +222,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Waging Nonviolence Fellowship 2026 (Stipend available) https://opportunitydesk.org/2026/07/31/waging-nonviolence-fellowship-2026/ AUG 7
 - [ ] OpenAI Student Collective 2026–2027: Apply to Become a Campus Lead and Receive Funding, ChatGPT Access, Cod... https://opportunitiesforyouth.org/2026/07/31/openai-student-collective-2026-2027-apply-to-become-a-campus-lead-and-receive-funding-chatgpt-access-codex-credits-and-a-cash-stipend/ AUG 7
 - [ ] Young Women Leaders Inclusion and Advocacy Fellowship 2026 https://opportunitydesk.org/2026/07/31/young-women-leaders-inclusion-and-advocacy-fellowship-2026/ AUG 7
+- [ ] New Commons Indigenous Language Data Commons Incubator 2026 https://opportunitydesk.org/2026/07/31/new-commons-indigenous-language-data-commons-incubator-2026/ AUG 11
+- [ ] Fund for SIDS Partnerships – United Nations Awards 2026 Recognizing Sustainable Development Excellence https://opportunitiesforyouth.org/2026/07/31/award-for-sids-partnerships/ AUG 14
 
 </details>
 
