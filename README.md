@@ -220,6 +220,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Scottish Government Launches Global Solidarity Fund 2026: Apply for Grants of Up to £50,000 to Support Inte... https://opportunitiesforyouth.org/2026/07/31/scottish-government-launches-global-solidarity-fund-2026-apply-for-grants-of-up-to-50000-to-support-international-development-and-global-citizenship/ AUG 7
 - [ ] Migrant Founders Accelerator 2026 (up to €2,000) https://opportunitydesk.org/2026/07/31/migrant-founders-accelerator-2026/ AUG 6
 - [ ] Waging Nonviolence Fellowship 2026 (Stipend available) https://opportunitydesk.org/2026/07/31/waging-nonviolence-fellowship-2026/ AUG 7
+- [ ] OpenAI Student Collective 2026–2027: Apply to Become a Campus Lead and Receive Funding, ChatGPT Access, Cod... https://opportunitiesforyouth.org/2026/07/31/openai-student-collective-2026-2027-apply-to-become-a-campus-lead-and-receive-funding-chatgpt-access-codex-credits-and-a-cash-stipend/ AUG 7
+- [ ] Young Women Leaders Inclusion and Advocacy Fellowship 2026 https://opportunitydesk.org/2026/07/31/young-women-leaders-inclusion-and-advocacy-fellowship-2026/ AUG 7
 
 </details>
 
