@@ -165,6 +165,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Sudan-Norway Academic Cooperation (SNAC) Writing Scholarships 2026 https://opportunitydesk.org/2026/07/30/snac-writing-scholarships-2026/ JUL 30
 - [ ] The University of Ghana Institute of Statistical, Social, and Economic Research Pre-Doctoral Fellowship 2027 https://www.opportunitiesforafricans.com/the-university-of-ghana-institute-of-statistical-social-and-economic-research-isser-pre-doctoral-fellowship-2027/ JUL 31
 - [ ] University of Aberdeen Humanitarian Scholarship in UK | Fully Funded https://opportunityportal.info/university-of-aberdeen-humanitarian-scholarship/ JUL 30
+- [ ] Frontier AI Security Residency 2026 in Cambridge, UK | Fully Funded 8-Week AI Security & Cybersecurity Prog... https://opportunitiesforyouth.org/2026/07/30/frontier-ai-security-residency-2026-in-cambridge-uk-fully-funded-8-week-ai-security-cybersecurity-programme/ JUL 31
 
 </details>
 
@@ -216,6 +217,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] World Forum for Democracy 2027 in France (Fully Funded) https://scholarshipscorner.website/world-forum-for-democracy-france/ AUG 11
 - [ ] Wissenschaftskolleg zu Berlin Early Career Fellowships in the Humanities and Social Sciences 2027/2028 https://opportunitydesk.org/2026/07/30/wissenschaftskolleg-zu-berlin-early-career-fellowships-in-the-humanities-and-social-sciences-2027-2028/ AUG 29
 - [ ] Youth Summit Portugal 2027 | Fully Funded Leadership & Diplomacy Program https://opportunityportal.info/youth-summit-portugal/ AUG 2
+- [ ] Scottish Government Launches Global Solidarity Fund 2026: Apply for Grants of Up to £50,000 to Support Inte... https://opportunitiesforyouth.org/2026/07/31/scottish-government-launches-global-solidarity-fund-2026-apply-for-grants-of-up-to-50000-to-support-international-development-and-global-citizenship/ AUG 7
 
 </details>
 
