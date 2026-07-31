@@ -218,6 +218,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Wissenschaftskolleg zu Berlin Early Career Fellowships in the Humanities and Social Sciences 2027/2028 https://opportunitydesk.org/2026/07/30/wissenschaftskolleg-zu-berlin-early-career-fellowships-in-the-humanities-and-social-sciences-2027-2028/ AUG 29
 - [ ] Youth Summit Portugal 2027 | Fully Funded Leadership & Diplomacy Program https://opportunityportal.info/youth-summit-portugal/ AUG 2
 - [ ] Scottish Government Launches Global Solidarity Fund 2026: Apply for Grants of Up to £50,000 to Support Inte... https://opportunitiesforyouth.org/2026/07/31/scottish-government-launches-global-solidarity-fund-2026-apply-for-grants-of-up-to-50000-to-support-international-development-and-global-citizenship/ AUG 7
+- [ ] Migrant Founders Accelerator 2026 (up to €2,000) https://opportunitydesk.org/2026/07/31/migrant-founders-accelerator-2026/ AUG 6
+- [ ] Waging Nonviolence Fellowship 2026 (Stipend available) https://opportunitydesk.org/2026/07/31/waging-nonviolence-fellowship-2026/ AUG 7
 
 </details>
 
