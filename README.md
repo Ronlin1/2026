@@ -224,6 +224,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Young Women Leaders Inclusion and Advocacy Fellowship 2026 https://opportunitydesk.org/2026/07/31/young-women-leaders-inclusion-and-advocacy-fellowship-2026/ AUG 7
 - [ ] New Commons Indigenous Language Data Commons Incubator 2026 https://opportunitydesk.org/2026/07/31/new-commons-indigenous-language-data-commons-incubator-2026/ AUG 11
 - [ ] Fund for SIDS Partnerships – United Nations Awards 2026 Recognizing Sustainable Development Excellence https://opportunitiesforyouth.org/2026/07/31/award-for-sids-partnerships/ AUG 14
+- [ ] ATCMA-ECCAS Call for Expressions of Interest 2026: EU-Funded Opportunity for Timber, Cocoa, and Cassava SME... https://opportunitiesforyouth.org/2026/07/31/atcma-eccas-call-for-expressions-of-interest-2026-eu-funded-opportunity-for-timber-cocoa-and-cassava-smes-in-central-africa/ AUG 18
+- [ ] Disaster Risk Reduction Training – UNITAR Women’s Leadership Programme for World Tsunami Awareness Day 2026 https://opportunitiesforyouth.org/2026/07/31/disaster-risk-training-unitar/ AUG 18
 
 </details>
 
