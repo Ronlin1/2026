@@ -234,6 +234,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNDP & ISS Call for Papers 2026: Submit Your Research on Youth-Safe Digital Futures in Africa https://opportunitiesforyouth.org/2026/07/31/undp-iss-call-for-papers-2026-submit-your-research-on-youth-safe-digital-futures-in-africa/ AUG 28
 - [ ] IDMP/APFM Competition for Youth-Led Projects 2026-2027 https://opportunitydesk.org/2026/08/01/idmp-apfm-competition-for-youth-led-projects-2026-2027/ AUG 28
 - [ ] KAS-SAIIA Scholarships 2027 https://opportunitydesk.org/2026/08/01/kas-saiia-scholarships-2027/ AUG 29
+- [ ] University of Manchester Equity and Merit Scholarships 2027–2028 in the UK https://opportunitiesforyouth.org/2026/08/01/equity-and-merit-scholarships-for-international-masters-students/ AUG 28
+- [ ] Heinrich Böll Foundation Tailwind for Talents Scholarships 2026/2027 in Germany for International Master’s... https://opportunitiesforyouth.org/2026/08/01/heinrich-boll-foundation-tailwind-for-talents-scholarships-2026-2027-in-germany-for-international-masters-and-phd-students/ AUG 29
 
 </details>
 
