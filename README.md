@@ -226,6 +226,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Fund for SIDS Partnerships – United Nations Awards 2026 Recognizing Sustainable Development Excellence https://opportunitiesforyouth.org/2026/07/31/award-for-sids-partnerships/ AUG 14
 - [ ] ATCMA-ECCAS Call for Expressions of Interest 2026: EU-Funded Opportunity for Timber, Cocoa, and Cassava SME... https://opportunitiesforyouth.org/2026/07/31/atcma-eccas-call-for-expressions-of-interest-2026-eu-funded-opportunity-for-timber-cocoa-and-cassava-smes-in-central-africa/ AUG 18
 - [ ] Disaster Risk Reduction Training – UNITAR Women’s Leadership Programme for World Tsunami Awareness Day 2026 https://opportunitiesforyouth.org/2026/07/31/disaster-risk-training-unitar/ AUG 18
+- [ ] Founders Fund Africa Creative Economy Accelerator 2026 (up to $50,000) https://opportunitydesk.org/2026/08/01/founders-fund-africa-creative-economy-accelerator-2026/ AUG 25
+- [ ] MTN-WWF Africa PachiPanda Challenge 2026 for youth-led SMEs (5,000 USD prize) https://www.opportunitiesforafricans.com/mtn-wwf-africa-pachipanda-challenge-2026-for-youth-led-smes-5000-usd-prize/ AUG 25
 
 </details>
 
