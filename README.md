@@ -230,6 +230,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] MTN-WWF Africa PachiPanda Challenge 2026 for youth-led SMEs (5,000 USD prize) https://www.opportunitiesforafricans.com/mtn-wwf-africa-pachipanda-challenge-2026-for-youth-led-smes-5000-usd-prize/ AUG 25
 - [ ] IWMF Grants for Reproductive Health, Rights and Justice in the Americas 2026 https://opportunitydesk.org/2026/08/01/iwmf-grants-for-reproductive-health-rights-and-justice-in-the-americas-2026/ AUG 1
 - [ ] Competition for Youth-Led Projects 2026-2027 https://www.opportunitiesforafricans.com/competition-for-youth-led-projects-2026-2027/ AUG 28
+- [ ] CERN Switzerland Science Fellowships 2027 | Fully Funded https://opportunityportal.info/cern-switzerland-science-fellowships/ AUG 27
+- [ ] UNDP & ISS Call for Papers 2026: Submit Your Research on Youth-Safe Digital Futures in Africa https://opportunitiesforyouth.org/2026/07/31/undp-iss-call-for-papers-2026-submit-your-research-on-youth-safe-digital-futures-in-africa/ AUG 28
 
 </details>
 
