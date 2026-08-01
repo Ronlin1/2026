@@ -232,6 +232,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Competition for Youth-Led Projects 2026-2027 https://www.opportunitiesforafricans.com/competition-for-youth-led-projects-2026-2027/ AUG 28
 - [ ] CERN Switzerland Science Fellowships 2027 | Fully Funded https://opportunityportal.info/cern-switzerland-science-fellowships/ AUG 27
 - [ ] UNDP & ISS Call for Papers 2026: Submit Your Research on Youth-Safe Digital Futures in Africa https://opportunitiesforyouth.org/2026/07/31/undp-iss-call-for-papers-2026-submit-your-research-on-youth-safe-digital-futures-in-africa/ AUG 28
+- [ ] IDMP/APFM Competition for Youth-Led Projects 2026-2027 https://opportunitydesk.org/2026/08/01/idmp-apfm-competition-for-youth-led-projects-2026-2027/ AUG 28
+- [ ] KAS-SAIIA Scholarships 2027 https://opportunitydesk.org/2026/08/01/kas-saiia-scholarships-2027/ AUG 29
 
 </details>
 
