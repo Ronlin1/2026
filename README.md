@@ -228,6 +228,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Disaster Risk Reduction Training – UNITAR Women’s Leadership Programme for World Tsunami Awareness Day 2026 https://opportunitiesforyouth.org/2026/07/31/disaster-risk-training-unitar/ AUG 18
 - [ ] Founders Fund Africa Creative Economy Accelerator 2026 (up to $50,000) https://opportunitydesk.org/2026/08/01/founders-fund-africa-creative-economy-accelerator-2026/ AUG 25
 - [ ] MTN-WWF Africa PachiPanda Challenge 2026 for youth-led SMEs (5,000 USD prize) https://www.opportunitiesforafricans.com/mtn-wwf-africa-pachipanda-challenge-2026-for-youth-led-smes-5000-usd-prize/ AUG 25
+- [ ] IWMF Grants for Reproductive Health, Rights and Justice in the Americas 2026 https://opportunitydesk.org/2026/08/01/iwmf-grants-for-reproductive-health-rights-and-justice-in-the-americas-2026/ AUG 1
+- [ ] Competition for Youth-Led Projects 2026-2027 https://www.opportunitiesforafricans.com/competition-for-youth-led-projects-2026-2027/ AUG 28
 
 </details>
 
