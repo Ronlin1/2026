@@ -258,6 +258,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] OHCHR Indigenous Fellowship Program 2027 (Funded) https://opportunitydesk.org/2026/08/01/ohchr-indigenous-fellowship-program-2027/ SEP 3
 - [ ] OHCHR Indigenous Fellowship Programme 2027: Fully Funded UN Human Rights Fellowship in Geneva https://opportunitiesforyouth.org/2026/08/01/2025-united-nations-ohchr-indigenous-fellowship-programfully-funded/ SEP 3
 - [ ] America’s Future Development Fellowship 2026 https://opportunitydesk.org/2026/08/01/americas-future-development-fellowship-2026/ SEP 4
+- [ ] Yale Peace Fellowship 2027 in USA & UK (Fully Funded) https://scholarshipscorner.website/yale-peace-fellowship/ SEP 6
+- [ ] AIM ADB–Japan Scholarship 2027 in Philippines (Fully Funded) https://opportunityportal.info/aim-adbjapan-scholarship/ SEP 12
 
 </details>
 
