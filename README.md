@@ -238,6 +238,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Heinrich Böll Foundation Tailwind for Talents Scholarships 2026/2027 in Germany for International Master’s... https://opportunitiesforyouth.org/2026/08/01/heinrich-boll-foundation-tailwind-for-talents-scholarships-2026-2027-in-germany-for-international-masters-and-phd-students/ AUG 29
 - [ ] DAFI Scholarship Programme 2026/2027 in Rwanda: Fully Funded Undergraduate Scholarships for Refugees and As... https://opportunitiesforyouth.org/2026/08/01/dafi-scholarship-programme-2026-2027-in-rwanda-fully-funded-undergraduate-scholarships-for-refugees-and-asylum-seekers/ AUG 4
 - [ ] Konrad Adenauer Foundation-SAIIA Scholarships 2027 for young South Africans. https://www.opportunitiesforafricans.com/konrad-adenauer-foundation-saiia-scholarships-2027-for-young-south-africans/ AUG 29
+- [ ] ASEF LinkUp Program 2026 in Slovenia (Fully Funded) https://scholarshipscorner.website/asef-linkup-program-slovenia/ AUG 24
 
 </details>
 
@@ -256,6 +257,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Freiburg Institute for Advanced Studies Early Career Fellowship Programme 2027/2028 https://www.opportunitiesforafricans.com/freiburg-institute-for-advanced-studies-frias-early-career-fellowship-programme-2027-2028/ SEP 15
 - [ ] OHCHR Indigenous Fellowship Program 2027 (Funded) https://opportunitydesk.org/2026/08/01/ohchr-indigenous-fellowship-program-2027/ SEP 3
 - [ ] OHCHR Indigenous Fellowship Programme 2027: Fully Funded UN Human Rights Fellowship in Geneva https://opportunitiesforyouth.org/2026/08/01/2025-united-nations-ohchr-indigenous-fellowship-programfully-funded/ SEP 3
+- [ ] America’s Future Development Fellowship 2026 https://opportunitydesk.org/2026/08/01/americas-future-development-fellowship-2026/ SEP 4
 
 </details>
 
