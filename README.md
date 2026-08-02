@@ -236,6 +236,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] KAS-SAIIA Scholarships 2027 https://opportunitydesk.org/2026/08/01/kas-saiia-scholarships-2027/ AUG 29
 - [ ] University of Manchester Equity and Merit Scholarships 2027–2028 in the UK https://opportunitiesforyouth.org/2026/08/01/equity-and-merit-scholarships-for-international-masters-students/ AUG 28
 - [ ] Heinrich Böll Foundation Tailwind for Talents Scholarships 2026/2027 in Germany for International Master’s... https://opportunitiesforyouth.org/2026/08/01/heinrich-boll-foundation-tailwind-for-talents-scholarships-2026-2027-in-germany-for-international-masters-and-phd-students/ AUG 29
+- [ ] DAFI Scholarship Programme 2026/2027 in Rwanda: Fully Funded Undergraduate Scholarships for Refugees and As... https://opportunitiesforyouth.org/2026/08/01/dafi-scholarship-programme-2026-2027-in-rwanda-fully-funded-undergraduate-scholarships-for-refugees-and-asylum-seekers/ AUG 4
+- [ ] Konrad Adenauer Foundation-SAIIA Scholarships 2027 for young South Africans. https://www.opportunitiesforafricans.com/konrad-adenauer-foundation-saiia-scholarships-2027-for-young-south-africans/ AUG 29
 
 </details>
 
