@@ -239,6 +239,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] DAFI Scholarship Programme 2026/2027 in Rwanda: Fully Funded Undergraduate Scholarships for Refugees and As... https://opportunitiesforyouth.org/2026/08/01/dafi-scholarship-programme-2026-2027-in-rwanda-fully-funded-undergraduate-scholarships-for-refugees-and-asylum-seekers/ AUG 4
 - [ ] Konrad Adenauer Foundation-SAIIA Scholarships 2027 for young South Africans. https://www.opportunitiesforafricans.com/konrad-adenauer-foundation-saiia-scholarships-2027-for-young-south-africans/ AUG 29
 - [ ] ASEF LinkUp Program 2026 in Slovenia (Fully Funded) https://scholarshipscorner.website/asef-linkup-program-slovenia/ AUG 24
+- [ ] CDRI ASEAN Scholar Fellowship 2026: Five-Month Research Fellowship for Mid- to Senior-Level ASEAN Researchers https://opportunitiesforyouth.org/2026/08/02/cdri-asean-fellowship/ AUG 12
+- [ ] ICANN Fellowship Program 2027 in Portugal https://www.opportunitiescircle.com/icann-fellowship-program/ AUG 18
 
 </details>
 
