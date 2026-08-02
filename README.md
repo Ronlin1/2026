@@ -254,6 +254,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Dorothy and Lewis B. Cullman Center for Scholars and Writers 2027-2028 https://opportunitydesk.org/2026/07/29/dorothy-and-lewis-b-cullman-center-for-scholars-and-writers-2027-2028/ SEP 22
 - [ ] NourishNext West Africa Youth Agrifood Innovation Challenge 2026 https://opportunitydesk.org/2026/07/30/nourishnext-west-africa-youth-agrifood-innovation-challenge-2026/ SEP 4
 - [ ] Freiburg Institute for Advanced Studies Early Career Fellowship Programme 2027/2028 https://www.opportunitiesforafricans.com/freiburg-institute-for-advanced-studies-frias-early-career-fellowship-programme-2027-2028/ SEP 15
+- [ ] OHCHR Indigenous Fellowship Program 2027 (Funded) https://opportunitydesk.org/2026/08/01/ohchr-indigenous-fellowship-program-2027/ SEP 3
+- [ ] OHCHR Indigenous Fellowship Programme 2027: Fully Funded UN Human Rights Fellowship in Geneva https://opportunitiesforyouth.org/2026/08/01/2025-united-nations-ohchr-indigenous-fellowship-programfully-funded/ SEP 3
 
 </details>
 
