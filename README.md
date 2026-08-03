@@ -243,6 +243,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ICANN Fellowship Program 2027 in Portugal https://www.opportunitiescircle.com/icann-fellowship-program/ AUG 18
 - [ ] Arab Youth Council Global Youth Water Envoys Program 2026 https://opportunitydesk.org/2026/08/03/arab-youth-council-global-youth-water-envoys-program-2026/ AUG 10
 - [ ] African Union Opens Call for National Convenors for the 2nd Egumeni Dialogue: Building a Resilient Africa t... https://opportunitiesforyouth.org/2026/08/03/auc-2nd-national-convenors/ AUG 11
+- [ ] SFU Climate Innovation Seed Funds 2026: Up to $100,000 Available to Advance Community-Centred Climate Resea... https://opportunitiesforyouth.org/2026/08/03/sfu-climate-innovation-seed-funds-2026-up-to-100000-available-to-advance-community-centred-climate-research-and-innovation/ AUG 3
+- [ ] CAPSHA South-South Collaboration Innovation Pitch Challenge 2026: Up to USD 15,000 Grants for Innovative Ag... https://opportunitiesforyouth.org/2026/08/03/capsha-south-south-collaboration-innovation-pitch-challenge-2026-up-to-usd-15000-grants-for-innovative-agricultural-capacity-sharing-partnerships/ AUG 4
 
 </details>
 
