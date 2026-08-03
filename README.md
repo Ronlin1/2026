@@ -249,6 +249,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Gates Foundation Grand Challenges 2026: Up to US$500,000 for AI-Enabled Family Planning Solutions in Sub-Sa... https://opportunitiesforyouth.org/2026/08/03/gates-foundation-grand-challenges-2026-up-to-us500000-for-ai-enabled-family-planning-solutions-in-sub-saharan-africa/ AUG 22
 - [ ] PachiPanda Challenge – Nigeria 2026 (up to ₦10m in prizes) https://opportunitydesk.org/2026/08/03/pachipanda-challenge-nigeria-2026/ AUG 25
 - [ ] COP31 Call for Proposals: Submit Your Climate Research to the Evidence for Climate Action Program Before 31... https://opportunitiesforyouth.org/2026/08/03/cop31-climate-action/ AUG 28
+- [ ] PhD Scholarship on Violence Against Women and Displacement 2026-2027 in Australia | Fully Funded ANU Opport... https://opportunitiesforyouth.org/2026/08/03/phd-scholarship-on-violence-against-women-and-displacement-2026-2027-in-australia-fully-funded-anu-opportunity/ AUG 28
+- [ ] The Commonwealth Startup Fellowship 2026/2027 https://www.opportunitiesforafricans.com/the-commonwealth-startup-fellowship-2026-2027/ AUG 29
 
 </details>
 
