@@ -241,6 +241,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ASEF LinkUp Program 2026 in Slovenia (Fully Funded) https://scholarshipscorner.website/asef-linkup-program-slovenia/ AUG 24
 - [ ] CDRI ASEAN Scholar Fellowship 2026: Five-Month Research Fellowship for Mid- to Senior-Level ASEAN Researchers https://opportunitiesforyouth.org/2026/08/02/cdri-asean-fellowship/ AUG 12
 - [ ] ICANN Fellowship Program 2027 in Portugal https://www.opportunitiescircle.com/icann-fellowship-program/ AUG 18
+- [ ] Arab Youth Council Global Youth Water Envoys Program 2026 https://opportunitydesk.org/2026/08/03/arab-youth-council-global-youth-water-envoys-program-2026/ AUG 10
+- [ ] African Union Opens Call for National Convenors for the 2nd Egumeni Dialogue: Building a Resilient Africa t... https://opportunitiesforyouth.org/2026/08/03/auc-2nd-national-convenors/ AUG 11
 
 </details>
 
