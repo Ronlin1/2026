@@ -247,6 +247,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CAPSHA South-South Collaboration Innovation Pitch Challenge 2026: Up to USD 15,000 Grants for Innovative Ag... https://opportunitiesforyouth.org/2026/08/03/capsha-south-south-collaboration-innovation-pitch-challenge-2026-up-to-usd-15000-grants-for-innovative-agricultural-capacity-sharing-partnerships/ AUG 4
 - [ ] Cambodia Development Resource Institute (CDRI) ASEAN Scholar Fellowship 2026 https://opportunitydesk.org/2026/08/03/cdri-asean-scholar-fellowship-2026/ AUG 12
 - [ ] Gates Foundation Grand Challenges 2026: Up to US$500,000 for AI-Enabled Family Planning Solutions in Sub-Sa... https://opportunitiesforyouth.org/2026/08/03/gates-foundation-grand-challenges-2026-up-to-us500000-for-ai-enabled-family-planning-solutions-in-sub-saharan-africa/ AUG 22
+- [ ] PachiPanda Challenge – Nigeria 2026 (up to ₦10m in prizes) https://opportunitydesk.org/2026/08/03/pachipanda-challenge-nigeria-2026/ AUG 25
+- [ ] COP31 Call for Proposals: Submit Your Climate Research to the Evidence for Climate Action Program Before 31... https://opportunitiesforyouth.org/2026/08/03/cop31-climate-action/ AUG 28
 
 </details>
 
