@@ -259,6 +259,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] British Council TNE Grants with India 2026–27: £30,000 Funding for UK–India Higher Education Partnerships i... https://opportunitiesforyouth.org/2026/08/04/british-council-tne-grants/ AUG 22
 - [ ] DAAD HAW.International Scholarships 2027–2028 in Germany (Funded) https://opportunityportal.info/daad-haw-international-scholarships/ AUG 28
 - [ ] Oppenheimer Memorial Trust Postgraduate Scholarships 2027 in South Africa: Fully Supported Master’s, Doctor... https://opportunitiesforyouth.org/2026/08/04/oppenheimer-memorial-trust-postgraduate-scholarships-2027-in-south-africa-fully-supported-masters-doctoral-and-postdoctoral-funding-for-outstanding-researchers/ AUG 28
+- [ ] Initiative Coordinator at forNature in Panama: Full-Time Opportunity to Support the United Nations Universa... https://opportunitiesforyouth.org/2026/08/04/initiative-coordinator-at-fornature-in-panama-full-time-opportunity-to-support-the-united-nations-universal-declaration-of-the-rights-of-nature/ AUG 9
+- [ ] Strong Women Grant Programs 2026: Apply for Up to $90,000 in Funding, Mentorship, and Global Network Opport... https://opportunitiesforyouth.org/2026/08/04/strong-women-grant-programs-2026-apply-for-up-to-90000-in-funding-mentorship-and-global-network-opportunities/ AUG 9
 
 </details>
 
