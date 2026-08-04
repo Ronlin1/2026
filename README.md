@@ -253,6 +253,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Commonwealth Startup Fellowship 2026/2027 https://www.opportunitiesforafricans.com/the-commonwealth-startup-fellowship-2026-2027/ AUG 29
 - [ ] State of Mauritius Postgraduate Scholarship Scheme 2027 (Fully Funded) https://opportunityportal.info/mauritius-postgraduate-scholarship/ AUG 4
 - [ ] WIPO Fellowship 2027 in Switzerland | Fully Funded https://opportunityportal.info/wipo-fellowship-2027/ AUG 4
+- [ ] Canadian Red Cross Resilience Fund 2026 in Canada | Up to $5,000 for Youth-Led Community Projects https://opportunitiesforyouth.org/2026/08/04/canadian-red-cross-resilience-fund-2026-in-canada-up-to-5000-for-youth-led-community-projects/ AUG 7
+- [ ] PhD in Contextualadvantage and Educational Inequality at Utrecht University, Netherlands – Apply by August... https://opportunitiesforyouth.org/2026/08/03/phd-in-contextual-disadvantage-and-educational-inequality-at-utrecht-university-netherlands-fully-funded-phd-position-apply-by-august-12-2026/ AUG 9
 
 </details>
 
