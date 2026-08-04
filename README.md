@@ -251,6 +251,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] COP31 Call for Proposals: Submit Your Climate Research to the Evidence for Climate Action Program Before 31... https://opportunitiesforyouth.org/2026/08/03/cop31-climate-action/ AUG 28
 - [ ] PhD Scholarship on Violence Against Women and Displacement 2026-2027 in Australia | Fully Funded ANU Opport... https://opportunitiesforyouth.org/2026/08/03/phd-scholarship-on-violence-against-women-and-displacement-2026-2027-in-australia-fully-funded-anu-opportunity/ AUG 28
 - [ ] The Commonwealth Startup Fellowship 2026/2027 https://www.opportunitiesforafricans.com/the-commonwealth-startup-fellowship-2026-2027/ AUG 29
+- [ ] State of Mauritius Postgraduate Scholarship Scheme 2027 (Fully Funded) https://opportunityportal.info/mauritius-postgraduate-scholarship/ AUG 4
+- [ ] WIPO Fellowship 2027 in Switzerland | Fully Funded https://opportunityportal.info/wipo-fellowship-2027/ AUG 4
 
 </details>
 
