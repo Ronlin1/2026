@@ -255,6 +255,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WIPO Fellowship 2027 in Switzerland | Fully Funded https://opportunityportal.info/wipo-fellowship-2027/ AUG 4
 - [ ] Canadian Red Cross Resilience Fund 2026 in Canada | Up to $5,000 for Youth-Led Community Projects https://opportunitiesforyouth.org/2026/08/04/canadian-red-cross-resilience-fund-2026-in-canada-up-to-5000-for-youth-led-community-projects/ AUG 7
 - [ ] PhD in Contextualadvantage and Educational Inequality at Utrecht University, Netherlands – Apply by August... https://opportunitiesforyouth.org/2026/08/03/phd-in-contextual-disadvantage-and-educational-inequality-at-utrecht-university-netherlands-fully-funded-phd-position-apply-by-august-12-2026/ AUG 9
+- [ ] Max Planck Institute Scholarships 2027 in Germany | Fully Funded https://opportunityportal.info/max-planck-institute-scholarships/ AUG 12
+- [ ] British Council TNE Grants with India 2026–27: £30,000 Funding for UK–India Higher Education Partnerships i... https://opportunitiesforyouth.org/2026/08/04/british-council-tne-grants/ AUG 22
 
 </details>
 
