@@ -257,6 +257,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] PhD in Contextualadvantage and Educational Inequality at Utrecht University, Netherlands – Apply by August... https://opportunitiesforyouth.org/2026/08/03/phd-in-contextual-disadvantage-and-educational-inequality-at-utrecht-university-netherlands-fully-funded-phd-position-apply-by-august-12-2026/ AUG 9
 - [ ] Max Planck Institute Scholarships 2027 in Germany | Fully Funded https://opportunityportal.info/max-planck-institute-scholarships/ AUG 12
 - [ ] British Council TNE Grants with India 2026–27: £30,000 Funding for UK–India Higher Education Partnerships i... https://opportunitiesforyouth.org/2026/08/04/british-council-tne-grants/ AUG 22
+- [ ] DAAD HAW.International Scholarships 2027–2028 in Germany (Funded) https://opportunityportal.info/daad-haw-international-scholarships/ AUG 28
+- [ ] Oppenheimer Memorial Trust Postgraduate Scholarships 2027 in South Africa: Fully Supported Master’s, Doctor... https://opportunitiesforyouth.org/2026/08/04/oppenheimer-memorial-trust-postgraduate-scholarships-2027-in-south-africa-fully-supported-masters-doctoral-and-postdoctoral-funding-for-outstanding-researchers/ AUG 28
 
 </details>
 
