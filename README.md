@@ -265,6 +265,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Fully Funded DKFZ PhD Position 2026 in Translational Cancer Biology at LMU Munich https://opportunitiesforyouth.org/2026/08/04/funded-dkfz-phd/ AUG 8
 - [ ] Kenneth Myer Innovation Fellowships 2027 (up to $180,000) https://opportunitydesk.org/2026/08/05/kenneth-myer-innovation-fellowships-2027/ AUG 13
 - [ ] ICANN Fellowship Program 2026 (Funded) https://opportunitydesk.org/2026/08/05/icann-fellowship-program-2026-funded/ AUG 18
+- [ ] The Internet Corporation for Assigned Names and Numbers Fellowship Program 2026 https://www.opportunitiesforafricans.com/the-internet-corporation-for-assigned-names-and-numbers-icann88-fellowship-program-2026/ AUG 18
+- [ ] FAO Fellows Programme 2026: Global Research Assignments at FAO Offices Worldwide https://opportunitiesforyouth.org/2026/08/05/fao-fellows-programme-2026-global-research-assignments-at-fao-offices-worldwide/ AUG 22
 
 </details>
 
