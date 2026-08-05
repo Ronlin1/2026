@@ -263,6 +263,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Strong Women Grant Programs 2026: Apply for Up to $90,000 in Funding, Mentorship, and Global Network Opport... https://opportunitiesforyouth.org/2026/08/04/strong-women-grant-programs-2026-apply-for-up-to-90000-in-funding-mentorship-and-global-network-opportunities/ AUG 9
 - [ ] Africa Matters Future Pathways Fellowship 2026: Fully Funded Leadership and Career Development Fellowship f... https://opportunitiesforyouth.org/2026/08/05/africa-matters-future-pathways-fellowship-2026-fully-funded-leadership-and-career-development-fellowship-for-young-leaders-from-egypt-and-morocco/ AUG 6
 - [ ] Fully Funded DKFZ PhD Position 2026 in Translational Cancer Biology at LMU Munich https://opportunitiesforyouth.org/2026/08/04/funded-dkfz-phd/ AUG 8
+- [ ] Kenneth Myer Innovation Fellowships 2027 (up to $180,000) https://opportunitydesk.org/2026/08/05/kenneth-myer-innovation-fellowships-2027/ AUG 13
+- [ ] ICANN Fellowship Program 2026 (Funded) https://opportunitydesk.org/2026/08/05/icann-fellowship-program-2026-funded/ AUG 18
 
 </details>
 
