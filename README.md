@@ -267,6 +267,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ICANN Fellowship Program 2026 (Funded) https://opportunitydesk.org/2026/08/05/icann-fellowship-program-2026-funded/ AUG 18
 - [ ] The Internet Corporation for Assigned Names and Numbers Fellowship Program 2026 https://www.opportunitiesforafricans.com/the-internet-corporation-for-assigned-names-and-numbers-icann88-fellowship-program-2026/ AUG 18
 - [ ] FAO Fellows Programme 2026: Global Research Assignments at FAO Offices Worldwide https://opportunitiesforyouth.org/2026/08/05/fao-fellows-programme-2026-global-research-assignments-at-fao-offices-worldwide/ AUG 22
+- [ ] PhD Position in Urban Health Equity 2026: Heat Risks, Pediatric Respiratory Health and Greenspace Intervent... https://opportunitiesforyouth.org/2026/08/05/urban-health-jobs/ AUG 6
+- [ ] World Bank Data Officer Job 2026 in Washington, DC: International Recruitment Opportunity for Data Science... https://opportunitiesforyouth.org/2026/08/05/world-bank-data-officer-job-2026-in-washington-dc-international-recruitment-opportunity-for-data-science-and-analytics-professionals/ AUG 10
 
 </details>
 
