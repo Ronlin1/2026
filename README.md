@@ -269,6 +269,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] FAO Fellows Programme 2026: Global Research Assignments at FAO Offices Worldwide https://opportunitiesforyouth.org/2026/08/05/fao-fellows-programme-2026-global-research-assignments-at-fao-offices-worldwide/ AUG 22
 - [ ] PhD Position in Urban Health Equity 2026: Heat Risks, Pediatric Respiratory Health and Greenspace Intervent... https://opportunitiesforyouth.org/2026/08/05/urban-health-jobs/ AUG 6
 - [ ] World Bank Data Officer Job 2026 in Washington, DC: International Recruitment Opportunity for Data Science... https://opportunitiesforyouth.org/2026/08/05/world-bank-data-officer-job-2026-in-washington-dc-international-recruitment-opportunity-for-data-science-and-analytics-professionals/ AUG 10
+- [ ] Communications Coordinator at Arizona State University 2026: Full-Time Communications Job in Washington, D... https://opportunitiesforyouth.org/2026/08/05/communications-coordinator-at-arizona-state-university-mccain-institute-2026-full-time-communications-job-in-washington-d-c-salary-up-to-56000-per-year/ AUG 5
+- [ ] CHOICE for Youth and Sexuality PMEL Advisor & Programme Coordinator Job 2026 in Amsterdam, Netherlands https://opportunitiesforyouth.org/2026/08/05/choice-for-youth-and-sexuality-pmel-advisor-programme-coordinator-job-2026-in-amsterdam-netherlands-32-hours-week/ AUG 20
 
 </details>
 
