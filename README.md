@@ -273,6 +273,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CHOICE for Youth and Sexuality PMEL Advisor & Programme Coordinator Job 2026 in Amsterdam, Netherlands https://opportunitiesforyouth.org/2026/08/05/choice-for-youth-and-sexuality-pmel-advisor-programme-coordinator-job-2026-in-amsterdam-netherlands-32-hours-week/ AUG 20
 - [ ] Green Business Training for Youth and Waste Workers 2026: Apply for the Two-Day Green Entrepreneurship Trai... https://opportunitiesforyouth.org/2026/08/06/green-business-training/ AUG 11
 - [ ] Prime Minister’s National Youth Council 2026: Applications Open for Batch 4 to Shape Pakistan’s Future https://opportunitiesforyouth.org/2026/08/06/prime-ministers-national-youth-council-2026-applications-open-for-batch-4-to-shape-pakistans-future/ AUG 12
+- [ ] GovAI Research Fellowship 2026 in UK and USA | Paid https://www.opportunitiescircle.com/govai-research-fellowship/ AUG 13
+- [ ] AAUW International Fellowships 2027–2028 https://opportunitiesforyouth.org/2026/08/06/aauw-career-development-grants-2025-2026-up-to-8000-for-women-advancing-in-underrepresented-fields/ AUG 14
 
 </details>
 
