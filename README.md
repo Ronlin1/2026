@@ -275,6 +275,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Prime Minister’s National Youth Council 2026: Applications Open for Batch 4 to Shape Pakistan’s Future https://opportunitiesforyouth.org/2026/08/06/prime-ministers-national-youth-council-2026-applications-open-for-batch-4-to-shape-pakistans-future/ AUG 12
 - [ ] GovAI Research Fellowship 2026 in UK and USA | Paid https://www.opportunitiescircle.com/govai-research-fellowship/ AUG 13
 - [ ] AAUW International Fellowships 2027–2028 https://opportunitiesforyouth.org/2026/08/06/aauw-career-development-grants-2025-2026-up-to-8000-for-women-advancing-in-underrepresented-fields/ AUG 14
+- [ ] Digital Humanities Fellowship 2026/27 – Advocacy & Engagement Opportunity in the UK and Ireland https://opportunitiesforyouth.org/2026/08/06/digital-humanities-fellowship-2026-27-advocacy-engagement-opportunity-in-the-uk-and-ireland/ AUG 14
+- [ ] Fully Funded PhD in International Relations at USIU-Africa Under the WATERSHED Project: Complete Guide to E... https://opportunitiesforyouth.org/2026/08/06/usiu-africa-watershed-project/ AUG 14
 
 </details>
 
