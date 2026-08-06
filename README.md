@@ -277,6 +277,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AAUW International Fellowships 2027–2028 https://opportunitiesforyouth.org/2026/08/06/aauw-career-development-grants-2025-2026-up-to-8000-for-women-advancing-in-underrepresented-fields/ AUG 14
 - [ ] Digital Humanities Fellowship 2026/27 – Advocacy & Engagement Opportunity in the UK and Ireland https://opportunitiesforyouth.org/2026/08/06/digital-humanities-fellowship-2026-27-advocacy-engagement-opportunity-in-the-uk-and-ireland/ AUG 14
 - [ ] Fully Funded PhD in International Relations at USIU-Africa Under the WATERSHED Project: Complete Guide to E... https://opportunitiesforyouth.org/2026/08/06/usiu-africa-watershed-project/ AUG 14
+- [ ] Youth Advocacy for Democracy and Human Rights Training Course 2026 in France | Fully Funded Council of Euro... https://oyaop.com/opportunity/scholarships-and-fellowships/youth-advocacy-for-democracy-and-human-rights-training-course-2026-in-france-fully-funded-council-of-europe-program/ AUG 11
+- [ ] MIT School Access and Quality Fellowship 2026-2027 https://opportunitydesk.org/2026/08/06/mit-school-access-and-quality-fellowship-2026-2027/ AUG 21
 
 </details>
 
