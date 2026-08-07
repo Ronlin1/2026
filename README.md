@@ -287,6 +287,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Advanced Entrepreneurship and Innovation Support Organisations Ecosystem Mapping 2026: ESTDEV Invites Bids... https://opportunitiesforyouth.org/2026/08/07/advanced-entrepreneurship-and-innovation-support-organisations-ecosystem-mapping-2026-estdev-invites-bids-for-e120000-africa-europe-digital-innovation-bridge-procurement/ AUG 14
 - [ ] Chief Programs & Partnerships Officer at Women for Women International: Global Executive Leadership Opportu... https://opportunitiesforyouth.org/2026/08/07/chief-programs-partnerships-officer-at-women-for-women-international-wfwi-global-executive-leadership-opportunity-across-africa-europe-the-middle-east-and-the-united-states/ AUG 9
 - [ ] Kenneth Myer Innovation Fellowships 2027 in Australia | $180,000 Fellowship for Social Innovation Leaders https://oyaop.com/opportunity/scholarships-and-fellowships/kenneth-myer-innovation-fellowships-2027-in-australia-180000-fellowship-for-social-innovation-leaders/ AUG 13
+- [ ] AI Nation Grant & Accelerator Program 2026 (up to €54,000) https://opportunitydesk.org/2026/08/07/ai-nation-grant-accelerator-program-2026/ AUG 7
+- [ ] WCSFP Global Career Accelerator 2026 https://opportunitydesk.org/2026/08/07/wcsfp-global-career-accelerator-2026/ AUG 11
 
 </details>
 
