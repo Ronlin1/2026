@@ -285,6 +285,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Amani Pamoja 2026 Fully Funded Peace Advocacy Training in Barcelona, Spain: Call for Young Peacebuilders fr... https://opportunitiesforyouth.org/2026/08/07/amani-pamoja-2026/ AUG 13
 - [ ] Human Rights Policy Officer Job 2026 – Permanent Mission of the Kingdom of the Netherlands to the UN in Geneva https://opportunitiesforyouth.org/2026/08/07/human-rights-policy-officer/ AUG 11
 - [ ] Advanced Entrepreneurship and Innovation Support Organisations Ecosystem Mapping 2026: ESTDEV Invites Bids... https://opportunitiesforyouth.org/2026/08/07/advanced-entrepreneurship-and-innovation-support-organisations-ecosystem-mapping-2026-estdev-invites-bids-for-e120000-africa-europe-digital-innovation-bridge-procurement/ AUG 14
+- [ ] Chief Programs & Partnerships Officer at Women for Women International: Global Executive Leadership Opportu... https://opportunitiesforyouth.org/2026/08/07/chief-programs-partnerships-officer-at-women-for-women-international-wfwi-global-executive-leadership-opportunity-across-africa-europe-the-middle-east-and-the-united-states/ AUG 9
+- [ ] Kenneth Myer Innovation Fellowships 2027 in Australia | $180,000 Fellowship for Social Innovation Leaders https://oyaop.com/opportunity/scholarships-and-fellowships/kenneth-myer-innovation-fellowships-2027-in-australia-180000-fellowship-for-social-innovation-leaders/ AUG 13
 
 </details>
 
