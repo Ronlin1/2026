@@ -279,6 +279,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Fully Funded PhD in International Relations at USIU-Africa Under the WATERSHED Project: Complete Guide to E... https://opportunitiesforyouth.org/2026/08/06/usiu-africa-watershed-project/ AUG 14
 - [ ] Youth Advocacy for Democracy and Human Rights Training Course 2026 in France | Fully Funded Council of Euro... https://oyaop.com/opportunity/scholarships-and-fellowships/youth-advocacy-for-democracy-and-human-rights-training-course-2026-in-france-fully-funded-council-of-europe-program/ AUG 11
 - [ ] MIT School Access and Quality Fellowship 2026-2027 https://opportunitydesk.org/2026/08/06/mit-school-access-and-quality-fellowship-2026-2027/ AUG 21
+- [ ] Event Brand Ambassador at Fleurs de Villes DIANA 2026 in London, UK: Paid Cultural Events Job at Somerset H... https://opportunitiesforyouth.org/2026/08/06/event-brand-ambassador-at-fleurs-de-villes-diana-2026-in-london-uk-paid-cultural-events-job-at-somerset-house-16-per-hour/ AUG 11
+- [ ] World Congress of Science & Factual Producers Global Career Accelerator 2026 https://www.opportunitiesforafricans.com/world-congress-of-science-factual-producers-wcsfp-global-career-accelerator-2026/ AUG 11
 
 </details>
 
