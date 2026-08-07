@@ -281,6 +281,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] MIT School Access and Quality Fellowship 2026-2027 https://opportunitydesk.org/2026/08/06/mit-school-access-and-quality-fellowship-2026-2027/ AUG 21
 - [ ] Event Brand Ambassador at Fleurs de Villes DIANA 2026 in London, UK: Paid Cultural Events Job at Somerset H... https://opportunitiesforyouth.org/2026/08/06/event-brand-ambassador-at-fleurs-de-villes-diana-2026-in-london-uk-paid-cultural-events-job-at-somerset-house-16-per-hour/ AUG 11
 - [ ] World Congress of Science & Factual Producers Global Career Accelerator 2026 https://www.opportunitiesforafricans.com/world-congress-of-science-factual-producers-wcsfp-global-career-accelerator-2026/ AUG 11
+- [ ] Cambodia Development Resource Institute ASEAN Scholar Fellowship 2027 | Funded https://opportunityportal.info/asean-scholar-fellowship/ AUG 12
+- [ ] Amani Pamoja 2026 Fully Funded Peace Advocacy Training in Barcelona, Spain: Call for Young Peacebuilders fr... https://opportunitiesforyouth.org/2026/08/07/amani-pamoja-2026/ AUG 13
 
 </details>
 
