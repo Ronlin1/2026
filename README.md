@@ -283,6 +283,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] World Congress of Science & Factual Producers Global Career Accelerator 2026 https://www.opportunitiesforafricans.com/world-congress-of-science-factual-producers-wcsfp-global-career-accelerator-2026/ AUG 11
 - [ ] Cambodia Development Resource Institute ASEAN Scholar Fellowship 2027 | Funded https://opportunityportal.info/asean-scholar-fellowship/ AUG 12
 - [ ] Amani Pamoja 2026 Fully Funded Peace Advocacy Training in Barcelona, Spain: Call for Young Peacebuilders fr... https://opportunitiesforyouth.org/2026/08/07/amani-pamoja-2026/ AUG 13
+- [ ] Human Rights Policy Officer Job 2026 – Permanent Mission of the Kingdom of the Netherlands to the UN in Geneva https://opportunitiesforyouth.org/2026/08/07/human-rights-policy-officer/ AUG 11
+- [ ] Advanced Entrepreneurship and Innovation Support Organisations Ecosystem Mapping 2026: ESTDEV Invites Bids... https://opportunitiesforyouth.org/2026/08/07/advanced-entrepreneurship-and-innovation-support-organisations-ecosystem-mapping-2026-estdev-invites-bids-for-e120000-africa-europe-digital-innovation-bridge-procurement/ AUG 14
 
 </details>
 
