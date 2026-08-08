@@ -289,6 +289,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Kenneth Myer Innovation Fellowships 2027 in Australia | $180,000 Fellowship for Social Innovation Leaders https://oyaop.com/opportunity/scholarships-and-fellowships/kenneth-myer-innovation-fellowships-2027-in-australia-180000-fellowship-for-social-innovation-leaders/ AUG 13
 - [ ] AI Nation Grant & Accelerator Program 2026 (up to €54,000) https://opportunitydesk.org/2026/08/07/ai-nation-grant-accelerator-program-2026/ AUG 7
 - [ ] WCSFP Global Career Accelerator 2026 https://opportunitydesk.org/2026/08/07/wcsfp-global-career-accelerator-2026/ AUG 11
+- [ ] Commonwealth Fellowship Programme 2026/2027 https://www.opportunitiesforafricans.com/commonwealth-fellowship-programme-2026-2027/ AUG 22
+- [ ] Goals for Tomorrow 2026 in Canada | Call for Youth Presenters https://opportunitiesforyouth.org/2026/08/07/goals-for-tomorrow-2026-in-canada-call-for-youth-presenters/ AUG 23
 
 </details>
 
