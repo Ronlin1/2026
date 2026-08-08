@@ -297,6 +297,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] KCDF Young Innovators Challenge 2026 https://opportunitydesk.org/2026/08/07/kcdf-young-innovators-challenge-2026/ AUG 28
 - [ ] Commonwealth Fellowships 2027 in the UK (Fully Funded) https://scholarshipscorner.website/commonwealth-fellowships-uk/ AUG 22
 - [ ] Kenya Community Development Foundation Young Innovation Challenge 2026 https://www.opportunitiesforafricans.com/kenya-community-development-foundation-kcdf-young-innovation-challenge-2026/ AUG 28
+- [ ] Scotland Pakistan Scholarships 2026 | Fully Funded | British Council Scholarship https://scholarshipscorner.website/scotland-pakistan-scholarships/ AUG 28
+- [ ] Softchoice Charity Accelerator Program 2026 https://opportunitydesk.org/2026/08/07/charity-accelerator-program-2026/ AUG 28
 
 </details>
 
