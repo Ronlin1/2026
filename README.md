@@ -291,6 +291,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WCSFP Global Career Accelerator 2026 https://opportunitydesk.org/2026/08/07/wcsfp-global-career-accelerator-2026/ AUG 11
 - [ ] Commonwealth Fellowship Programme 2026/2027 https://www.opportunitiesforafricans.com/commonwealth-fellowship-programme-2026-2027/ AUG 22
 - [ ] Goals for Tomorrow 2026 in Canada | Call for Youth Presenters https://opportunitiesforyouth.org/2026/08/07/goals-for-tomorrow-2026-in-canada-call-for-youth-presenters/ AUG 23
+- [ ] Council of Europe Training Course 2026 in France (Fully Funded) https://scholarshipscorner.website/council-of-europe-training-course/ AUG 11
+- [ ] Arcadia Impact AI Governance Taskforce Autumn 2026: Fully Remote Global Research Fellowship for Professiona... https://opportunitiesforyouth.org/2026/08/07/arcadia-impact-ai-governance-taskforce-autumn-2026-fully-remote-global-research-fellowship-for-professionals-transitioning-into-ai-governance/ AUG 28
 
 </details>
 
