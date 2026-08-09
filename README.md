@@ -299,6 +299,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Kenya Community Development Foundation Young Innovation Challenge 2026 https://www.opportunitiesforafricans.com/kenya-community-development-foundation-kcdf-young-innovation-challenge-2026/ AUG 28
 - [ ] Scotland Pakistan Scholarships 2026 | Fully Funded | British Council Scholarship https://scholarshipscorner.website/scotland-pakistan-scholarships/ AUG 28
 - [ ] Softchoice Charity Accelerator Program 2026 https://opportunitydesk.org/2026/08/07/charity-accelerator-program-2026/ AUG 28
+- [ ] MIT School Access and Quality Fellowship 2026–2027 | Fellowship for US Education Professionals https://oyaop.com/opportunity/scholarships-and-fellowships/mit-school-access-and-quality-fellowship-2026-2027-fellowship-for-us-education-professionals/ AUG 21
+- [ ] Aspen Policy Academy AI Civic Action Accelerator 2026 https://opportunitydesk.org/2026/08/07/aspen-policy-academy-ai-civic-action-accelerator-2026/ AUG 29
 
 </details>
 
