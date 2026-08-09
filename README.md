@@ -303,6 +303,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Aspen Policy Academy AI Civic Action Accelerator 2026 https://opportunitydesk.org/2026/08/07/aspen-policy-academy-ai-civic-action-accelerator-2026/ AUG 29
 - [ ] Safe Arborist Techniques Fund Grant Program 2026: Up to $15,000 Research Funding for Tree Safety, Arborist... https://opportunitiesforyouth.org/2026/08/08/safe-arborist-techniques-fund-grant-program-2026-up-to-15000-research-funding-for-tree-safety-arborist-innovation-climbing-techniques-rigging-systems-and-safer-tree-care-practices/ AUG 29
 - [ ] Khalifa University Scholarships in UAE 2027 | Fully Funded https://www.opportunitiescircle.com/khalifa-university-scholarships/ AUG 28
+- [ ] Amano Fellows Program 2026: 9-Month Leadership Mentorship Opportunity for Young Tanzanian Conservation Leaders https://opportunitiesforyouth.org/2026/08/09/amano-fellows-program-2026-9-month-leadership-mentorship-opportunity-for-young-tanzanian-conservation-leaders/ AUG 14
+- [ ] EatOkra Culinary Creatives Awards 2026 https://opportunitydesk.org/2026/08/09/eatokra-culinary-creatives-awards-2026/ AUG 20
 
 </details>
 
