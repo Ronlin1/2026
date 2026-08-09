@@ -302,6 +302,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] MIT School Access and Quality Fellowship 2026–2027 | Fellowship for US Education Professionals https://oyaop.com/opportunity/scholarships-and-fellowships/mit-school-access-and-quality-fellowship-2026-2027-fellowship-for-us-education-professionals/ AUG 21
 - [ ] Aspen Policy Academy AI Civic Action Accelerator 2026 https://opportunitydesk.org/2026/08/07/aspen-policy-academy-ai-civic-action-accelerator-2026/ AUG 29
 - [ ] Safe Arborist Techniques Fund Grant Program 2026: Up to $15,000 Research Funding for Tree Safety, Arborist... https://opportunitiesforyouth.org/2026/08/08/safe-arborist-techniques-fund-grant-program-2026-up-to-15000-research-funding-for-tree-safety-arborist-innovation-climbing-techniques-rigging-systems-and-safer-tree-care-practices/ AUG 29
+- [ ] Khalifa University Scholarships in UAE 2027 | Fully Funded https://www.opportunitiescircle.com/khalifa-university-scholarships/ AUG 28
 
 </details>
 
@@ -326,6 +327,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] New America Future of Work Reporting Fellowship 2026 ($5,000 stipend) https://opportunitydesk.org/2026/08/07/new-america-future-of-work-reporting-fellowship-2026/ SEP 1
 - [ ] Commonwealth PhD Scholarships 2027-28 in the UK | Fully Funded https://scholarshipscorner.website/commonwealth-phd-scholarships-in-the-uk/ SEP 3
 - [ ] OHCHR Indigenous Fellowship Program 2027 in Switzerland | Fully Funded https://scholarshipscorner.website/ohchr-indigenous-fellowship-program/ SEP 3
+- [ ] Commonwealth Master’s Scholarships 2027/28 in UK | Fully Funded https://scholarshipscorner.website/commonwealth-masters-scholarships/ SEP 5
 
 </details>
 
