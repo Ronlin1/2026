@@ -301,6 +301,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Softchoice Charity Accelerator Program 2026 https://opportunitydesk.org/2026/08/07/charity-accelerator-program-2026/ AUG 28
 - [ ] MIT School Access and Quality Fellowship 2026–2027 | Fellowship for US Education Professionals https://oyaop.com/opportunity/scholarships-and-fellowships/mit-school-access-and-quality-fellowship-2026-2027-fellowship-for-us-education-professionals/ AUG 21
 - [ ] Aspen Policy Academy AI Civic Action Accelerator 2026 https://opportunitydesk.org/2026/08/07/aspen-policy-academy-ai-civic-action-accelerator-2026/ AUG 29
+- [ ] Safe Arborist Techniques Fund Grant Program 2026: Up to $15,000 Research Funding for Tree Safety, Arborist... https://opportunitiesforyouth.org/2026/08/08/safe-arborist-techniques-fund-grant-program-2026-up-to-15000-research-funding-for-tree-safety-arborist-innovation-climbing-techniques-rigging-systems-and-safer-tree-care-practices/ AUG 29
 
 </details>
 
@@ -322,6 +323,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] America’s Future Development Fellowship 2026 https://opportunitydesk.org/2026/08/01/americas-future-development-fellowship-2026/ SEP 4
 - [ ] Yale Peace Fellowship 2027 in USA & UK (Fully Funded) https://scholarshipscorner.website/yale-peace-fellowship/ SEP 6
 - [ ] AIM ADB–Japan Scholarship 2027 in Philippines (Fully Funded) https://opportunityportal.info/aim-adbjapan-scholarship/ SEP 12
+- [ ] New America Future of Work Reporting Fellowship 2026 ($5,000 stipend) https://opportunitydesk.org/2026/08/07/new-america-future-of-work-reporting-fellowship-2026/ SEP 1
 
 </details>
 
