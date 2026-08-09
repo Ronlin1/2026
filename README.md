@@ -324,6 +324,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Yale Peace Fellowship 2027 in USA & UK (Fully Funded) https://scholarshipscorner.website/yale-peace-fellowship/ SEP 6
 - [ ] AIM ADB–Japan Scholarship 2027 in Philippines (Fully Funded) https://opportunityportal.info/aim-adbjapan-scholarship/ SEP 12
 - [ ] New America Future of Work Reporting Fellowship 2026 ($5,000 stipend) https://opportunitydesk.org/2026/08/07/new-america-future-of-work-reporting-fellowship-2026/ SEP 1
+- [ ] Commonwealth PhD Scholarships 2027-28 in the UK | Fully Funded https://scholarshipscorner.website/commonwealth-phd-scholarships-in-the-uk/ SEP 3
+- [ ] OHCHR Indigenous Fellowship Program 2027 in Switzerland | Fully Funded https://scholarshipscorner.website/ohchr-indigenous-fellowship-program/ SEP 3
 
 </details>
 
