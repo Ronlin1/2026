@@ -309,6 +309,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] IMETE 2026–2028 Applications Open: 6 Partial Scholarships for the International Master in Environmental Tec... https://opportunitiesforyouth.org/2026/08/09/imete-2026-2028-applications/ AUG 28
 - [ ] Africa Fundraising Incubator (AFI) Program 2026 https://opportunitydesk.org/2026/08/10/africa-fundraising-incubator-program-2026/ AUG 11
 - [ ] IPPF Youth Networker Position in Malaysia 2026: Apply for a Three-Year Youth Leadership and SRHR Role https://opportunitiesforyouth.org/2026/08/10/ippf-youth-networker-position-in-malaysia-2026-apply-for-a-three-year-youth-leadership-and-srhr-role/ AUG 15
+- [ ] Fembol Student Innovation Grant (SIG) 2.0 (up to ₦10M in funding) https://opportunitydesk.org/2026/08/10/fembol-student-innovation-grant-sig-2-0/ AUG 18
+- [ ] WHO Business Operations Internship 2026 in Germany | Paid https://www.opportunitiescircle.com/who-business-operations-internship/ AUG 18
 
 </details>
 
