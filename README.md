@@ -307,6 +307,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] EatOkra Culinary Creatives Awards 2026 https://opportunitydesk.org/2026/08/09/eatokra-culinary-creatives-awards-2026/ AUG 20
 - [ ] Postdoctoral/Research Fellowship at NUS Asia Research Institute 2026: S$6,000–S$6,500 Monthly Salary for Ag... https://opportunitiesforyouth.org/2026/08/10/postdoctoral-research-fellowship-at-nus-asia-research-institute-2026-s6000-s6500-monthly-salary-for-ageing-and-migration-research/ AUG 11
 - [ ] IMETE 2026–2028 Applications Open: 6 Partial Scholarships for the International Master in Environmental Tec... https://opportunitiesforyouth.org/2026/08/09/imete-2026-2028-applications/ AUG 28
+- [ ] Africa Fundraising Incubator (AFI) Program 2026 https://opportunitydesk.org/2026/08/10/africa-fundraising-incubator-program-2026/ AUG 11
+- [ ] IPPF Youth Networker Position in Malaysia 2026: Apply for a Three-Year Youth Leadership and SRHR Role https://opportunitiesforyouth.org/2026/08/10/ippf-youth-networker-position-in-malaysia-2026-apply-for-a-three-year-youth-leadership-and-srhr-role/ AUG 15
 
 </details>
 
