@@ -305,6 +305,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Khalifa University Scholarships in UAE 2027 | Fully Funded https://www.opportunitiescircle.com/khalifa-university-scholarships/ AUG 28
 - [ ] Amano Fellows Program 2026: 9-Month Leadership Mentorship Opportunity for Young Tanzanian Conservation Leaders https://opportunitiesforyouth.org/2026/08/09/amano-fellows-program-2026-9-month-leadership-mentorship-opportunity-for-young-tanzanian-conservation-leaders/ AUG 14
 - [ ] EatOkra Culinary Creatives Awards 2026 https://opportunitydesk.org/2026/08/09/eatokra-culinary-creatives-awards-2026/ AUG 20
+- [ ] Postdoctoral/Research Fellowship at NUS Asia Research Institute 2026: S$6,000–S$6,500 Monthly Salary for Ag... https://opportunitiesforyouth.org/2026/08/10/postdoctoral-research-fellowship-at-nus-asia-research-institute-2026-s6000-s6500-monthly-salary-for-ageing-and-migration-research/ AUG 11
+- [ ] IMETE 2026–2028 Applications Open: 6 Partial Scholarships for the International Master in Environmental Tec... https://opportunitiesforyouth.org/2026/08/09/imete-2026-2028-applications/ AUG 28
 
 </details>
 
