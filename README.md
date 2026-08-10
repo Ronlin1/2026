@@ -313,6 +313,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WHO Business Operations Internship 2026 in Germany | Paid https://www.opportunitiescircle.com/who-business-operations-internship/ AUG 18
 - [ ] ARI-NUS Postdoctoral/Research Fellowship Programme 2026 (Funded) https://opportunitydesk.org/2026/08/10/ari-nus-postdoctoral-research-fellowship-programme-2026-funded/ AUG 11
 - [ ] WHO Business Operation Internship 2026 in Germany (Paid Internship) https://scholarshipscorner.website/who-business-operation-internship/ AUG 18
+- [ ] The Africa Factchecking Fellowship Cameroon 2026 for young Cameroonians. https://www.opportunitiesforafricans.com/the-africa-factchecking-fellowship-cameroon-2026-for-young-cameroonians/ AUG 19
+- [ ] AI Civic Action Accelerator 2026 in the USA | Free Policy Program by Aspen Policy Academy https://oyaop.com/opportunity/competitions-and-awards/ai-civic-action-accelerator-2026-in-the-usa-free-policy-program-by-aspen-policy-academy/ AUG 22
 
 </details>
 
