@@ -311,6 +311,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] IPPF Youth Networker Position in Malaysia 2026: Apply for a Three-Year Youth Leadership and SRHR Role https://opportunitiesforyouth.org/2026/08/10/ippf-youth-networker-position-in-malaysia-2026-apply-for-a-three-year-youth-leadership-and-srhr-role/ AUG 15
 - [ ] Fembol Student Innovation Grant (SIG) 2.0 (up to ₦10M in funding) https://opportunitydesk.org/2026/08/10/fembol-student-innovation-grant-sig-2-0/ AUG 18
 - [ ] WHO Business Operations Internship 2026 in Germany | Paid https://www.opportunitiescircle.com/who-business-operations-internship/ AUG 18
+- [ ] ARI-NUS Postdoctoral/Research Fellowship Programme 2026 (Funded) https://opportunitydesk.org/2026/08/10/ari-nus-postdoctoral-research-fellowship-programme-2026-funded/ AUG 11
+- [ ] WHO Business Operation Internship 2026 in Germany (Paid Internship) https://scholarshipscorner.website/who-business-operation-internship/ AUG 18
 
 </details>
 
