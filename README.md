@@ -319,6 +319,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Africa Factchecking Fellowship Cameroon 2026 https://opportunitydesk.org/2026/08/11/africa-factchecking-fellowship-cameroon-2026/ AUG 12
 - [ ] Ashinaga Africa Initiative 2027 for Young African Leaders https://opportunitydesk.org/2026/08/11/ashinaga-africa-initiative-2027/ AUG 13
 - [ ] DDEA PhD Scholarships 2026 in Denmark | DKK 1.1 Million Funding https://opportunitiesforyouth.org/2026/08/11/ddea-phd-scholarships-2026-in-denmark-dkk-1-1-million-funding/ AUG 15
+- [ ] be.boosted 2027 Fellowships: Leadership, Negotiation & Public Speaking Opportunities https://opportunitiesforyouth.org/2026/08/11/be-boosted-2027-fellowships-leadership-negotiation-public-speaking-opportunities/ AUG 23
+- [ ] WIPO Scale Up Your IP Online Program for Women Innovators 2026 https://opportunitydesk.org/2026/08/11/wipo-scale-up-your-ip-online-program-for-women-innovators-2026/ AUG 27
 
 </details>
 
