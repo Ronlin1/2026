@@ -315,6 +315,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WHO Business Operation Internship 2026 in Germany (Paid Internship) https://scholarshipscorner.website/who-business-operation-internship/ AUG 18
 - [ ] The Africa Factchecking Fellowship Cameroon 2026 for young Cameroonians. https://www.opportunitiesforafricans.com/the-africa-factchecking-fellowship-cameroon-2026-for-young-cameroonians/ AUG 19
 - [ ] AI Civic Action Accelerator 2026 in the USA | Free Policy Program by Aspen Policy Academy https://oyaop.com/opportunity/competitions-and-awards/ai-civic-action-accelerator-2026-in-the-usa-free-policy-program-by-aspen-policy-academy/ AUG 22
+- [ ] NUS Postdoctoral Research Fellowship 2026 in Singapore | S$6,500 Salary https://oyaop.com/opportunity/scholarships-and-fellowships/nus-postdoctoral-research-fellowship-2026-singapore/ AUG 11
+- [ ] Africa Factchecking Fellowship Cameroon 2026 https://opportunitydesk.org/2026/08/11/africa-factchecking-fellowship-cameroon-2026/ AUG 12
 
 </details>
 
