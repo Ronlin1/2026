@@ -317,6 +317,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AI Civic Action Accelerator 2026 in the USA | Free Policy Program by Aspen Policy Academy https://oyaop.com/opportunity/competitions-and-awards/ai-civic-action-accelerator-2026-in-the-usa-free-policy-program-by-aspen-policy-academy/ AUG 22
 - [ ] NUS Postdoctoral Research Fellowship 2026 in Singapore | S$6,500 Salary https://oyaop.com/opportunity/scholarships-and-fellowships/nus-postdoctoral-research-fellowship-2026-singapore/ AUG 11
 - [ ] Africa Factchecking Fellowship Cameroon 2026 https://opportunitydesk.org/2026/08/11/africa-factchecking-fellowship-cameroon-2026/ AUG 12
+- [ ] Ashinaga Africa Initiative 2027 for Young African Leaders https://opportunitydesk.org/2026/08/11/ashinaga-africa-initiative-2027/ AUG 13
+- [ ] DDEA PhD Scholarships 2026 in Denmark | DKK 1.1 Million Funding https://opportunitiesforyouth.org/2026/08/11/ddea-phd-scholarships-2026-in-denmark-dkk-1-1-million-funding/ AUG 15
 
 </details>
 
