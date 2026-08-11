@@ -323,6 +323,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WIPO Scale Up Your IP Online Program for Women Innovators 2026 https://opportunitydesk.org/2026/08/11/wipo-scale-up-your-ip-online-program-for-women-innovators-2026/ AUG 27
 - [ ] The WIPO Scale Up Your IP Program 2026 for Women Innovators https://www.opportunitiesforafricans.com/the-wipo-scale-up-your-ip-program-2026-for-women-innovators/ AUG 27
 - [ ] British Council Scotland Pakistan Scholarships 2026 https://www.opportunitiescircle.com/british-council-scotland-pakistan-scholarships/ AUG 28
+- [ ] 2026 Seyi Bickersteth Scholarship Programme for Nigerian Undergraduate Students. https://www.opportunitiesforafricans.com/2026-seyi-bickersteth-scholarship-programme-for-nigerian-undergraduate-students/ AUG 11
+- [ ] Central Asia Youth Dialogue Forum 2026 in Kyrgyzstan: Fully Funded OSCE Workshop on Preventing Youth Engage... https://opportunitiesforyouth.org/2026/08/11/central-asia-youth-dialogue-forum-2026-in-kyrgyzstan-fully-funded-osce-workshop-on-preventing-youth-engagement-in-criminal-activities/ AUG 23
 
 </details>
 
