@@ -321,6 +321,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] DDEA PhD Scholarships 2026 in Denmark | DKK 1.1 Million Funding https://opportunitiesforyouth.org/2026/08/11/ddea-phd-scholarships-2026-in-denmark-dkk-1-1-million-funding/ AUG 15
 - [ ] be.boosted 2027 Fellowships: Leadership, Negotiation & Public Speaking Opportunities https://opportunitiesforyouth.org/2026/08/11/be-boosted-2027-fellowships-leadership-negotiation-public-speaking-opportunities/ AUG 23
 - [ ] WIPO Scale Up Your IP Online Program for Women Innovators 2026 https://opportunitydesk.org/2026/08/11/wipo-scale-up-your-ip-online-program-for-women-innovators-2026/ AUG 27
+- [ ] The WIPO Scale Up Your IP Program 2026 for Women Innovators https://www.opportunitiesforafricans.com/the-wipo-scale-up-your-ip-program-2026-for-women-innovators/ AUG 27
+- [ ] British Council Scotland Pakistan Scholarships 2026 https://www.opportunitiescircle.com/british-council-scotland-pakistan-scholarships/ AUG 28
 
 </details>
 
