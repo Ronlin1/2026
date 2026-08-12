@@ -325,6 +325,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] British Council Scotland Pakistan Scholarships 2026 https://www.opportunitiescircle.com/british-council-scotland-pakistan-scholarships/ AUG 28
 - [ ] 2026 Seyi Bickersteth Scholarship Programme for Nigerian Undergraduate Students. https://www.opportunitiesforafricans.com/2026-seyi-bickersteth-scholarship-programme-for-nigerian-undergraduate-students/ AUG 11
 - [ ] Central Asia Youth Dialogue Forum 2026 in Kyrgyzstan: Fully Funded OSCE Workshop on Preventing Youth Engage... https://opportunitiesforyouth.org/2026/08/11/central-asia-youth-dialogue-forum-2026-in-kyrgyzstan-fully-funded-osce-workshop-on-preventing-youth-engagement-in-criminal-activities/ AUG 23
+- [ ] U.S. Department of Health and Human Services Student Internship 2026: Administrative Internship with the U... https://opportunitiesforyouth.org/2026/08/12/u-s-department-of-health-and-human-services-student-internship-2026-administrative-internship-with-the-u-s-federal-government/ AUG 12
+- [ ] Commonwealth Startup Fellowship 2026-27 | Fully Funded https://scholarshipscorner.website/commonwealth-startup-fellowship/ AUG 28
 
 </details>
 
