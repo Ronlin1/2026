@@ -331,6 +331,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Griffith University Vice Chancellor’s International Scholarship 2026–2027: 50% Tuition Fee Scholarship for... https://opportunitiesforyouth.org/2026/08/12/griffith-university-vice-chancellors-international-scholarship-2026-2027-50-tuition-fee-scholarship-for-international-students-in-australia/ AUG 12
 - [ ] Heinrich Böll Stiftung Traineeship Programme 2026 in Brussels: Democracy and Human Rights Opportunity https://opportunitiesforyouth.org/2026/08/12/heinrich-boll-stiftung-traineeship-programme-2026-in-brussels-democracy-and-human-rights-opportunity/ AUG 13
 - [ ] UNFPA Violence Against Women Data and Knowledge Management Specialist in Thailand – Apply for a 12-Month In... https://opportunitiesforyouth.org/2026/08/12/unfpa-violence-against-women-data-and-knowledge-management-specialist-in-thailand-apply-for-a-12-month-international-un-volunteer-assignment/ AUG 16
+- [ ] In Tandem Youth Voice Fellowship 2026-2027 https://opportunitydesk.org/2026/08/12/in-tandem-youth-voice-fellowship-2026-2027/ AUG 16
+- [ ] Liz Hughes Award for Her Farm Radio 2026 ($1,000 CAD prize) https://opportunitydesk.org/2026/08/12/liz-hughes-award-for-her-farm-radio-2026/ AUG 18
 
 </details>
 
