@@ -327,6 +327,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Central Asia Youth Dialogue Forum 2026 in Kyrgyzstan: Fully Funded OSCE Workshop on Preventing Youth Engage... https://opportunitiesforyouth.org/2026/08/11/central-asia-youth-dialogue-forum-2026-in-kyrgyzstan-fully-funded-osce-workshop-on-preventing-youth-engagement-in-criminal-activities/ AUG 23
 - [ ] U.S. Department of Health and Human Services Student Internship 2026: Administrative Internship with the U... https://opportunitiesforyouth.org/2026/08/12/u-s-department-of-health-and-human-services-student-internship-2026-administrative-internship-with-the-u-s-federal-government/ AUG 12
 - [ ] Commonwealth Startup Fellowship 2026-27 | Fully Funded https://scholarshipscorner.website/commonwealth-startup-fellowship/ AUG 28
+- [ ] AfCFTA Graphic Designer Internship 2026 in Ghana: African Union Internship Programme for Final-Year Students https://opportunitiesforyouth.org/2026/08/12/afcfta-graphic-designer-internship-2026-in-ghana-african-union-internship-programme-for-final-year-students/ AUG 12
+- [ ] Griffith University Vice Chancellor’s International Scholarship 2026–2027: 50% Tuition Fee Scholarship for... https://opportunitiesforyouth.org/2026/08/12/griffith-university-vice-chancellors-international-scholarship-2026-2027-50-tuition-fee-scholarship-for-international-students-in-australia/ AUG 12
 
 </details>
 
