@@ -329,6 +329,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Commonwealth Startup Fellowship 2026-27 | Fully Funded https://scholarshipscorner.website/commonwealth-startup-fellowship/ AUG 28
 - [ ] AfCFTA Graphic Designer Internship 2026 in Ghana: African Union Internship Programme for Final-Year Students https://opportunitiesforyouth.org/2026/08/12/afcfta-graphic-designer-internship-2026-in-ghana-african-union-internship-programme-for-final-year-students/ AUG 12
 - [ ] Griffith University Vice Chancellor’s International Scholarship 2026–2027: 50% Tuition Fee Scholarship for... https://opportunitiesforyouth.org/2026/08/12/griffith-university-vice-chancellors-international-scholarship-2026-2027-50-tuition-fee-scholarship-for-international-students-in-australia/ AUG 12
+- [ ] Heinrich Böll Stiftung Traineeship Programme 2026 in Brussels: Democracy and Human Rights Opportunity https://opportunitiesforyouth.org/2026/08/12/heinrich-boll-stiftung-traineeship-programme-2026-in-brussels-democracy-and-human-rights-opportunity/ AUG 13
+- [ ] UNFPA Violence Against Women Data and Knowledge Management Specialist in Thailand – Apply for a 12-Month In... https://opportunitiesforyouth.org/2026/08/12/unfpa-violence-against-women-data-and-knowledge-management-specialist-in-thailand-apply-for-a-12-month-international-un-volunteer-assignment/ AUG 16
 
 </details>
 
