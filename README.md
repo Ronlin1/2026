@@ -333,6 +333,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNFPA Violence Against Women Data and Knowledge Management Specialist in Thailand – Apply for a 12-Month In... https://opportunitiesforyouth.org/2026/08/12/unfpa-violence-against-women-data-and-knowledge-management-specialist-in-thailand-apply-for-a-12-month-international-un-volunteer-assignment/ AUG 16
 - [ ] In Tandem Youth Voice Fellowship 2026-2027 https://opportunitydesk.org/2026/08/12/in-tandem-youth-voice-fellowship-2026-2027/ AUG 16
 - [ ] Liz Hughes Award for Her Farm Radio 2026 ($1,000 CAD prize) https://opportunitydesk.org/2026/08/12/liz-hughes-award-for-her-farm-radio-2026/ AUG 18
+- [ ] FAWE Ghana/Mastercard Foundation Second Chance Pathways Program 2026/2027 https://www.opportunitiesforafricans.com/fawe-ghana-mastercard-foundation-second-chance-pathways-program-2026-2027/ AUG 18
+- [ ] 1–2 PhD Positions in the DECENT Project at Lund University, Sweden https://opportunitiesforyouth.org/2026/08/12/1-2-phd-positions-in-the-decent-project-at-lund-university-sweden/ AUG 25
 
 </details>
 
