@@ -339,6 +339,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2026 Ashinaga Africa Initiative Scholarship | Fully Funded https://www.scholarshipregion.com/ashinaga-africa-initiative-scholarship/ AUG 27
 - [ ] Scottish Government Policy & Events Traineeship 2026 in Brussels: Apply for the 12-Month Paid Programme https://opportunitiesforyouth.org/2026/08/13/scottish-government-policy/ AUG 16
 - [ ] The Global Mental Health Africa Conference 2027 Event Scholarships for African Mental Health Researchers an... https://www.opportunitiesforafricans.com/the-global-mental-health-africa-conference-2027-gmhac2027-event-scholarships/ AUG 28
+- [ ] EU Delegation Policy Assistant Job in New York: Salary Up to $97,000, Eligibility, Requirements and How to... https://opportunitiesforyouth.org/2026/08/13/eu-delegation-policy-assistant-job-in-new-york-salary-up-to-97000-eligibility-requirements-and-how-to-apply/ AUG 18
+- [ ] National Bursary for Job-Generating Entrepreneurs. https://www.opportunitiesforafricans.com/national-bursary-for-job-generating-entrepreneurs/ AUG 29
 
 </details>
 
