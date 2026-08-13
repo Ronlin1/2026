@@ -335,6 +335,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Liz Hughes Award for Her Farm Radio 2026 ($1,000 CAD prize) https://opportunitydesk.org/2026/08/12/liz-hughes-award-for-her-farm-radio-2026/ AUG 18
 - [ ] FAWE Ghana/Mastercard Foundation Second Chance Pathways Program 2026/2027 https://www.opportunitiesforafricans.com/fawe-ghana-mastercard-foundation-second-chance-pathways-program-2026-2027/ AUG 18
 - [ ] 1–2 PhD Positions in the DECENT Project at Lund University, Sweden https://opportunitiesforyouth.org/2026/08/12/1-2-phd-positions-in-the-decent-project-at-lund-university-sweden/ AUG 25
+- [ ] Constellations Fellowship Fall 2026: Apply for 55 Remote Climate Roles With a $1,000 Completion Stipend https://opportunitiesforyouth.org/2026/08/13/constellations-fellowship-spring-2026-fully-remote/ AUG 20
+- [ ] 2026 Ashinaga Africa Initiative Scholarship | Fully Funded https://www.scholarshipregion.com/ashinaga-africa-initiative-scholarship/ AUG 27
 
 </details>
 
