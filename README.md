@@ -337,6 +337,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 1–2 PhD Positions in the DECENT Project at Lund University, Sweden https://opportunitiesforyouth.org/2026/08/12/1-2-phd-positions-in-the-decent-project-at-lund-university-sweden/ AUG 25
 - [ ] Constellations Fellowship Fall 2026: Apply for 55 Remote Climate Roles With a $1,000 Completion Stipend https://opportunitiesforyouth.org/2026/08/13/constellations-fellowship-spring-2026-fully-remote/ AUG 20
 - [ ] 2026 Ashinaga Africa Initiative Scholarship | Fully Funded https://www.scholarshipregion.com/ashinaga-africa-initiative-scholarship/ AUG 27
+- [ ] Scottish Government Policy & Events Traineeship 2026 in Brussels: Apply for the 12-Month Paid Programme https://opportunitiesforyouth.org/2026/08/13/scottish-government-policy/ AUG 16
+- [ ] The Global Mental Health Africa Conference 2027 Event Scholarships for African Mental Health Researchers an... https://www.opportunitiesforafricans.com/the-global-mental-health-africa-conference-2027-gmhac2027-event-scholarships/ AUG 28
 
 </details>
 
