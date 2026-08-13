@@ -343,6 +343,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] National Bursary for Job-Generating Entrepreneurs. https://www.opportunitiesforafricans.com/national-bursary-for-job-generating-entrepreneurs/ AUG 29
 - [ ] BRIDGE X Youth Exposure Programme 2026: One-Year Leadership and Social Impact Opportunity for Undergraduate... https://opportunitiesforyouth.org/2026/08/13/bridge-x-youth-exposure-programme-2026-one-year-leadership-and-social-impact-opportunity-for-undergraduate-students/ AUG 23
 - [ ] CAFE Fintech Accelerator Program 2026 https://opportunitydesk.org/2026/08/13/cafe-fintech-accelerator-program-2026/ AUG 23
+- [ ] The Union Bank Management Trainee Programme and Tech Bootcamp 2026 https://www.opportunitiesforafricans.com/the-union-bank-management-trainee-programme-and-tech-bootcamp-2026/ AUG 25
+- [ ] ICYF International Media Training Camp 2026 in Turkey | Funded Program https://scholarshipscorner.website/icyf-international-media-training-camp/ AUG 27
 
 </details>
 
