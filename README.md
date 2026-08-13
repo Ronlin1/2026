@@ -341,6 +341,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Global Mental Health Africa Conference 2027 Event Scholarships for African Mental Health Researchers an... https://www.opportunitiesforafricans.com/the-global-mental-health-africa-conference-2027-gmhac2027-event-scholarships/ AUG 28
 - [ ] EU Delegation Policy Assistant Job in New York: Salary Up to $97,000, Eligibility, Requirements and How to... https://opportunitiesforyouth.org/2026/08/13/eu-delegation-policy-assistant-job-in-new-york-salary-up-to-97000-eligibility-requirements-and-how-to-apply/ AUG 18
 - [ ] National Bursary for Job-Generating Entrepreneurs. https://www.opportunitiesforafricans.com/national-bursary-for-job-generating-entrepreneurs/ AUG 29
+- [ ] BRIDGE X Youth Exposure Programme 2026: One-Year Leadership and Social Impact Opportunity for Undergraduate... https://opportunitiesforyouth.org/2026/08/13/bridge-x-youth-exposure-programme-2026-one-year-leadership-and-social-impact-opportunity-for-undergraduate-students/ AUG 23
+- [ ] CAFE Fintech Accelerator Program 2026 https://opportunitydesk.org/2026/08/13/cafe-fintech-accelerator-program-2026/ AUG 23
 
 </details>
 
