@@ -350,6 +350,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UfM Med Youth Lab 2026: Fully Sponsored Entrepreneurship Skills Programme in Italy https://opportunitiesforyouth.org/2026/08/13/ufm-med-youth-lab-2026-fully-sponsored-entrepreneurship-skills-programme-in-italy/ AUG 27
 - [ ] Brand South Africa | Play Your Part Bursary to attend the 2026 One Young World Summit in Cape Town, South A... https://www.opportunitiesforafricans.com/brand-south-africa-play-your-part-bursary/ AUG 30
 - [ ] University of Sussex Pakistan Scholarship 2026-27 in UK https://www.opportunitiescircle.com/university-of-sussex-pakistan-scholarship/ AUG 29
+- [ ] ICYF International Media Training Camp 2026 in Türkiye | Fully Supported Youth Media Programme https://oyaop.com/opportunity/exchange-programs/icyf-international-media-training-camp-2026-in-turkiye-fully-supported-youth-media-programme/ AUG 27
 
 </details>
 
@@ -378,6 +379,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] African Continental Free Trade Area (AfCFTA) Digital Innovation Challenge 2026 https://opportunitydesk.org/2026/08/14/afcfta-digital-innovation-challenge-2026/ SEP 1
 - [ ] The African Continental Free Trade Area Digital Innovation Challenge 2026 https://www.opportunitiesforafricans.com/the-african-continental-free-trade-area-afcfta-digital-innovation-challenge-2026/ SEP 1
 - [ ] The African Center for Economic Transformation 2027 Young Leaders in Research Grant for Early-career resear... https://www.opportunitiesforafricans.com/the-african-center-for-economic-transformation-acet-2027-young-leaders-in-research-ylr-grant/ SEP 4
+- [ ] University of Pisa DSU Scholarship in Italy 2026-27 | Fully Funded https://www.opportunitiescircle.com/university-of-pisa-dsu-scholarship-in-italy/ SEP 4
 
 </details>
 
