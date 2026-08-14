@@ -374,6 +374,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Commonwealth PhD Scholarships 2027-28 in the UK | Fully Funded https://scholarshipscorner.website/commonwealth-phd-scholarships-in-the-uk/ SEP 3
 - [ ] OHCHR Indigenous Fellowship Program 2027 in Switzerland | Fully Funded https://scholarshipscorner.website/ohchr-indigenous-fellowship-program/ SEP 3
 - [ ] Commonwealth Master’s Scholarships 2027/28 in UK | Fully Funded https://scholarshipscorner.website/commonwealth-masters-scholarships/ SEP 5
+- [ ] African Continental Free Trade Area (AfCFTA) Digital Innovation Challenge 2026 https://opportunitydesk.org/2026/08/14/afcfta-digital-innovation-challenge-2026/ SEP 1
+- [ ] The African Continental Free Trade Area Digital Innovation Challenge 2026 https://www.opportunitiesforafricans.com/the-african-continental-free-trade-area-afcfta-digital-innovation-challenge-2026/ SEP 1
 
 </details>
 
