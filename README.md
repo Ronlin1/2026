@@ -347,6 +347,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ICYF International Media Training Camp 2026 in Turkey | Funded Program https://scholarshipscorner.website/icyf-international-media-training-camp/ AUG 27
 - [ ] Commonwealth Youth Council One Country, One Project 2026: Call for Applications https://opportunitiesforyouth.org/2026/08/13/commonwealth-youth-council-one-country-one-project-2026-call-for-applications/ AUG 19
 - [ ] CIVICUS Global Digital Action Toolkit Consultancy 2026: Apply for a USD 9,000 Global Digital Rights and Act... https://opportunitiesforyouth.org/2026/08/13/civicus-global-digital-action-toolkit-consultancy-2026-apply-for-a-usd-9000-global-digital-rights-and-activism-consultancy/ AUG 25
+- [ ] UfM Med Youth Lab 2026: Fully Sponsored Entrepreneurship Skills Programme in Italy https://opportunitiesforyouth.org/2026/08/13/ufm-med-youth-lab-2026-fully-sponsored-entrepreneurship-skills-programme-in-italy/ AUG 27
+- [ ] Brand South Africa | Play Your Part Bursary to attend the 2026 One Young World Summit in Cape Town, South A... https://www.opportunitiesforafricans.com/brand-south-africa-play-your-part-bursary/ AUG 30
 
 </details>
 
