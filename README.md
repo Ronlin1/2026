@@ -345,6 +345,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CAFE Fintech Accelerator Program 2026 https://opportunitydesk.org/2026/08/13/cafe-fintech-accelerator-program-2026/ AUG 23
 - [ ] The Union Bank Management Trainee Programme and Tech Bootcamp 2026 https://www.opportunitiesforafricans.com/the-union-bank-management-trainee-programme-and-tech-bootcamp-2026/ AUG 25
 - [ ] ICYF International Media Training Camp 2026 in Turkey | Funded Program https://scholarshipscorner.website/icyf-international-media-training-camp/ AUG 27
+- [ ] Commonwealth Youth Council One Country, One Project 2026: Call for Applications https://opportunitiesforyouth.org/2026/08/13/commonwealth-youth-council-one-country-one-project-2026-call-for-applications/ AUG 19
+- [ ] CIVICUS Global Digital Action Toolkit Consultancy 2026: Apply for a USD 9,000 Global Digital Rights and Act... https://opportunitiesforyouth.org/2026/08/13/civicus-global-digital-action-toolkit-consultancy-2026-apply-for-a-usd-9000-global-digital-rights-and-activism-consultancy/ AUG 25
 
 </details>
 
