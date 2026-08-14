@@ -349,6 +349,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CIVICUS Global Digital Action Toolkit Consultancy 2026: Apply for a USD 9,000 Global Digital Rights and Act... https://opportunitiesforyouth.org/2026/08/13/civicus-global-digital-action-toolkit-consultancy-2026-apply-for-a-usd-9000-global-digital-rights-and-activism-consultancy/ AUG 25
 - [ ] UfM Med Youth Lab 2026: Fully Sponsored Entrepreneurship Skills Programme in Italy https://opportunitiesforyouth.org/2026/08/13/ufm-med-youth-lab-2026-fully-sponsored-entrepreneurship-skills-programme-in-italy/ AUG 27
 - [ ] Brand South Africa | Play Your Part Bursary to attend the 2026 One Young World Summit in Cape Town, South A... https://www.opportunitiesforafricans.com/brand-south-africa-play-your-part-bursary/ AUG 30
+- [ ] University of Sussex Pakistan Scholarship 2026-27 in UK https://www.opportunitiescircle.com/university-of-sussex-pakistan-scholarship/ AUG 29
 
 </details>
 
@@ -376,6 +377,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Commonwealth Master’s Scholarships 2027/28 in UK | Fully Funded https://scholarshipscorner.website/commonwealth-masters-scholarships/ SEP 5
 - [ ] African Continental Free Trade Area (AfCFTA) Digital Innovation Challenge 2026 https://opportunitydesk.org/2026/08/14/afcfta-digital-innovation-challenge-2026/ SEP 1
 - [ ] The African Continental Free Trade Area Digital Innovation Challenge 2026 https://www.opportunitiesforafricans.com/the-african-continental-free-trade-area-afcfta-digital-innovation-challenge-2026/ SEP 1
+- [ ] The African Center for Economic Transformation 2027 Young Leaders in Research Grant for Early-career resear... https://www.opportunitiesforafricans.com/the-african-center-for-economic-transformation-acet-2027-young-leaders-in-research-ylr-grant/ SEP 4
 
 </details>
 
