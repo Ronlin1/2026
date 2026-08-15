@@ -353,6 +353,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ICYF International Media Training Camp 2026 in Türkiye | Fully Supported Youth Media Programme https://oyaop.com/opportunity/exchange-programs/icyf-international-media-training-camp-2026-in-turkiye-fully-supported-youth-media-programme/ AUG 27
 - [ ] Youth Climate Action Grants 2026: Up to $7,500 for Young People to Fund Climate and Sustainability Projects... https://opportunitiesforyouth.org/2026/08/14/youth-climate-action-grants-2026-up-to-7500-for-young-people-to-fund-climate-and-sustainability-projects-in-melbourne/ AUG 15
 - [ ] CVF-V20 Jobs 2026: Apply for Director of Communications, Sovereign Investment Research & Design Roles and G... https://opportunitiesforyouth.org/2026/08/14/cvf-v20-jobs-2026-apply-for-director-of-communications-sovereign-investment-research-design-roles-and-grants-management-specialist/ AUG 27
+- [ ] Caribbean Climate Leaders Fellowship 2026: Fully Funded Opportunity to Attend COP31 in Türkiye. https://opportunitiesforyouth.org/2026/08/15/caribbean-climate-leaders-fellowship-2026-fully-funded-opportunity-to-attend-cop31-in-turkiye/ AUG 18
+- [ ] Switzerland Writers Residency 2027 (Fully Funded) https://scholarshipscorner.website/switzerland-writers-residency/ AUG 28
 
 </details>
 
