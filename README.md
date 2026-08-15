@@ -357,6 +357,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Switzerland Writers Residency 2027 (Fully Funded) https://scholarshipscorner.website/switzerland-writers-residency/ AUG 28
 - [ ] Caribbean Climate Leaders Fellowship 2026 (Fully-funded) https://opportunitydesk.org/2026/08/15/caribbean-climate-leaders-fellowship-2026/ AUG 18
 - [ ] Bond University Leadership Scholarships 2026 in Australia https://www.opportunitiescircle.com/bond-university-leadership-scholarships/ AUG 28
+- [ ] DIEM International Training of Trainers Programme 2026: Apply for the International Cultural Heritage Capac... https://opportunitiesforyouth.org/2026/08/15/diem-international-training-of-trainers-programme-2026-apply-for-the-international-cultural-heritage-capacity-building-programme/ AUG 28
+- [ ] Western Balkans Meet Japan 2027 | Fully Funded Youth Exchange Program https://scholarshipscorner.website/western-balkans-meet-japan/ AUG 28
 
 </details>
 
