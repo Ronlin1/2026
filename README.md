@@ -356,6 +356,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Caribbean Climate Leaders Fellowship 2026: Fully Funded Opportunity to Attend COP31 in Türkiye. https://opportunitiesforyouth.org/2026/08/15/caribbean-climate-leaders-fellowship-2026-fully-funded-opportunity-to-attend-cop31-in-turkiye/ AUG 18
 - [ ] Switzerland Writers Residency 2027 (Fully Funded) https://scholarshipscorner.website/switzerland-writers-residency/ AUG 28
 - [ ] Caribbean Climate Leaders Fellowship 2026 (Fully-funded) https://opportunitydesk.org/2026/08/15/caribbean-climate-leaders-fellowship-2026/ AUG 18
+- [ ] Bond University Leadership Scholarships 2026 in Australia https://www.opportunitiescircle.com/bond-university-leadership-scholarships/ AUG 28
 
 </details>
 
@@ -386,6 +387,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The African Center for Economic Transformation 2027 Young Leaders in Research Grant for Early-career resear... https://www.opportunitiesforafricans.com/the-african-center-for-economic-transformation-acet-2027-young-leaders-in-research-ylr-grant/ SEP 4
 - [ ] University of Pisa DSU Scholarship in Italy 2026-27 | Fully Funded https://www.opportunitiescircle.com/university-of-pisa-dsu-scholarship-in-italy/ SEP 4
 - [ ] Civic Innovators Fellowship 2026–2027 | Free Virtual Fellowship for High School Students https://opportunitiesforyouth.org/2026/08/14/civic-innovators-fellowship-2026-2027-free-virtual-fellowship-for-high-school-students/ SEP 1
+- [ ] Endeavour Women in Tech Scholarship 2026 (up to $10,000) https://opportunitydesk.org/2026/08/15/endeavour-women-in-tech-scholarship-2026/ SEP 5
 
 </details>
 
