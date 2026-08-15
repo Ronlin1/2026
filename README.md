@@ -355,6 +355,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CVF-V20 Jobs 2026: Apply for Director of Communications, Sovereign Investment Research & Design Roles and G... https://opportunitiesforyouth.org/2026/08/14/cvf-v20-jobs-2026-apply-for-director-of-communications-sovereign-investment-research-design-roles-and-grants-management-specialist/ AUG 27
 - [ ] Caribbean Climate Leaders Fellowship 2026: Fully Funded Opportunity to Attend COP31 in Türkiye. https://opportunitiesforyouth.org/2026/08/15/caribbean-climate-leaders-fellowship-2026-fully-funded-opportunity-to-attend-cop31-in-turkiye/ AUG 18
 - [ ] Switzerland Writers Residency 2027 (Fully Funded) https://scholarshipscorner.website/switzerland-writers-residency/ AUG 28
+- [ ] Caribbean Climate Leaders Fellowship 2026 (Fully-funded) https://opportunitydesk.org/2026/08/15/caribbean-climate-leaders-fellowship-2026/ AUG 18
 
 </details>
 
@@ -384,6 +385,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The African Continental Free Trade Area Digital Innovation Challenge 2026 https://www.opportunitiesforafricans.com/the-african-continental-free-trade-area-afcfta-digital-innovation-challenge-2026/ SEP 1
 - [ ] The African Center for Economic Transformation 2027 Young Leaders in Research Grant for Early-career resear... https://www.opportunitiesforafricans.com/the-african-center-for-economic-transformation-acet-2027-young-leaders-in-research-ylr-grant/ SEP 4
 - [ ] University of Pisa DSU Scholarship in Italy 2026-27 | Fully Funded https://www.opportunitiescircle.com/university-of-pisa-dsu-scholarship-in-italy/ SEP 4
+- [ ] Civic Innovators Fellowship 2026–2027 | Free Virtual Fellowship for High School Students https://opportunitiesforyouth.org/2026/08/14/civic-innovators-fellowship-2026-2027-free-virtual-fellowship-for-high-school-students/ SEP 1
 
 </details>
 
