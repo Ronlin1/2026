@@ -351,6 +351,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Brand South Africa | Play Your Part Bursary to attend the 2026 One Young World Summit in Cape Town, South A... https://www.opportunitiesforafricans.com/brand-south-africa-play-your-part-bursary/ AUG 30
 - [ ] University of Sussex Pakistan Scholarship 2026-27 in UK https://www.opportunitiescircle.com/university-of-sussex-pakistan-scholarship/ AUG 29
 - [ ] ICYF International Media Training Camp 2026 in Türkiye | Fully Supported Youth Media Programme https://oyaop.com/opportunity/exchange-programs/icyf-international-media-training-camp-2026-in-turkiye-fully-supported-youth-media-programme/ AUG 27
+- [ ] Youth Climate Action Grants 2026: Up to $7,500 for Young People to Fund Climate and Sustainability Projects... https://opportunitiesforyouth.org/2026/08/14/youth-climate-action-grants-2026-up-to-7500-for-young-people-to-fund-climate-and-sustainability-projects-in-melbourne/ AUG 15
+- [ ] CVF-V20 Jobs 2026: Apply for Director of Communications, Sovereign Investment Research & Design Roles and G... https://opportunitiesforyouth.org/2026/08/14/cvf-v20-jobs-2026-apply-for-director-of-communications-sovereign-investment-research-design-roles-and-grants-management-specialist/ AUG 27
 
 </details>
 
