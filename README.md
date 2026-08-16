@@ -362,6 +362,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Jan Michalski Switzerland Residency Program 2027 https://www.opportunitiescircle.com/jan-michalski-switzerland-residency-program/ AUG 28
 - [ ] Scotland Scholarships for Young Women and Girls (Fully Funded) https://opportunityportal.info/scotland-scholarships-for-young-women/ AUG 28
 - [ ] 2026 Rebecca Charles Trust Scholarship For Nigerians: Fully Funded https://www.scholarshipregion.com/rebecca-charles-trust-scholarship/ AUG 28
+- [ ] Globe and Mail Foundation Scholarship for Syrian Media Professionals: Online Journalism Fellowship at the U... https://opportunitiesforyouth.org/2026/08/16/globe-and-mail-foundation-scholarship-for-syrian-media-professionals-online-journalism-fellowship-at-the-university-of-toronto/ AUG 21
+- [ ] KAIST University Scholarship 2027 in South Korea | Fully Funded https://www.opportunitiescircle.com/kaist-university-scholarship-in-south-korea/ AUG 29
 
 </details>
 
