@@ -361,6 +361,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Western Balkans Meet Japan 2027 | Fully Funded Youth Exchange Program https://scholarshipscorner.website/western-balkans-meet-japan/ AUG 28
 - [ ] Jan Michalski Switzerland Residency Program 2027 https://www.opportunitiescircle.com/jan-michalski-switzerland-residency-program/ AUG 28
 - [ ] Scotland Scholarships for Young Women and Girls (Fully Funded) https://opportunityportal.info/scotland-scholarships-for-young-women/ AUG 28
+- [ ] 2026 Rebecca Charles Trust Scholarship For Nigerians: Fully Funded https://www.scholarshipregion.com/rebecca-charles-trust-scholarship/ AUG 28
 
 </details>
 
@@ -394,6 +395,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Endeavour Women in Tech Scholarship 2026 (up to $10,000) https://opportunitydesk.org/2026/08/15/endeavour-women-in-tech-scholarship-2026/ SEP 5
 - [ ] AI Safety Policy Entrepreneurship Fellowship 2026–2027: $5,000 Stipend, Policy Training and Frontier AI Gov... https://opportunitiesforyouth.org/2026/08/16/ai-safety-policy-entrepreneurship-fellowship-2026-2027-5000-stipend-policy-training-and-frontier-ai-governance-experience/ SEP 4
 - [ ] Slovakia Scholarships for Talented Students 2026-27 https://www.opportunitiescircle.com/slovakia-scholarships-for-talented-students/ SEP 5
+- [ ] WomenLift Health 2027 Nigeria Signature Leadership Journey Program for mid to senior career women https://www.opportunitiesforafricans.com/womenlift-health-2027-nigeria-signature-leadership-journey-program/ SEP 5
 
 </details>
 
