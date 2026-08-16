@@ -392,6 +392,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] University of Pisa DSU Scholarship in Italy 2026-27 | Fully Funded https://www.opportunitiescircle.com/university-of-pisa-dsu-scholarship-in-italy/ SEP 4
 - [ ] Civic Innovators Fellowship 2026–2027 | Free Virtual Fellowship for High School Students https://opportunitiesforyouth.org/2026/08/14/civic-innovators-fellowship-2026-2027-free-virtual-fellowship-for-high-school-students/ SEP 1
 - [ ] Endeavour Women in Tech Scholarship 2026 (up to $10,000) https://opportunitydesk.org/2026/08/15/endeavour-women-in-tech-scholarship-2026/ SEP 5
+- [ ] AI Safety Policy Entrepreneurship Fellowship 2026–2027: $5,000 Stipend, Policy Training and Frontier AI Gov... https://opportunitiesforyouth.org/2026/08/16/ai-safety-policy-entrepreneurship-fellowship-2026-2027-5000-stipend-policy-training-and-frontier-ai-governance-experience/ SEP 4
+- [ ] Slovakia Scholarships for Talented Students 2026-27 https://www.opportunitiescircle.com/slovakia-scholarships-for-talented-students/ SEP 5
 
 </details>
 
