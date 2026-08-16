@@ -396,6 +396,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AI Safety Policy Entrepreneurship Fellowship 2026–2027: $5,000 Stipend, Policy Training and Frontier AI Gov... https://opportunitiesforyouth.org/2026/08/16/ai-safety-policy-entrepreneurship-fellowship-2026-2027-5000-stipend-policy-training-and-frontier-ai-governance-experience/ SEP 4
 - [ ] Slovakia Scholarships for Talented Students 2026-27 https://www.opportunitiescircle.com/slovakia-scholarships-for-talented-students/ SEP 5
 - [ ] WomenLift Health 2027 Nigeria Signature Leadership Journey Program for mid to senior career women https://www.opportunitiesforafricans.com/womenlift-health-2027-nigeria-signature-leadership-journey-program/ SEP 5
+- [ ] MORE HEALTH for Africa Program 2027 https://www.opportunitiesforafricans.com/more-health-for-africa-program-2027-for-african-social-entrepreneurs/ SEP 7
+- [ ] MORE HEALTH for Africa Program 2026 [Cohort 3] https://opportunitydesk.org/2026/08/14/more-health-for-africa-program-2026-cohort-3/ SEP 7
 
 </details>
 
