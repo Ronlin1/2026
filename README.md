@@ -370,6 +370,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] DivInc Women in Tech Accelerator 2026 https://opportunitydesk.org/2026/08/17/divinc-women-in-tech-accelerator-2026/ AUG 20
 - [ ] Imperial College MBA Scholarships in the UK 2027 https://www.opportunitiescircle.com/imperial-college-mba-scholarships/ AUG 18
 - [ ] Etica ESG Fellowship Vibers Cohort 2026 https://opportunitydesk.org/2026/08/17/etica-esg-fellowship-vibers-cohort-2026/ AUG 28
+- [ ] ACET Regional Integration Graduate Intern 2026: Fully Funded Career Opportunity in Economic Research and Af... https://opportunitiesforyouth.org/2026/08/17/acet-regional-integration-graduate-intern-2026-fully-funded-career-opportunity-in-economic-research-and-african-development/ AUG 24
 
 </details>
 
@@ -408,6 +409,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] MORE HEALTH for Africa Program 2026 [Cohort 3] https://opportunitydesk.org/2026/08/14/more-health-for-africa-program-2026-cohort-3/ SEP 7
 - [ ] Cambridge ERA AI Fellowship 2027 in UK (Fully Funded) https://scholarshipscorner.website/cambridge-era-ai-fellowship/ SEP 10
 - [ ] Mitacs Globalink Research Internship 2027 in Canada | Fully Funded Research Internship for International St... https://oyaop.com/opportunity/internships/mitacs-globalink-research-internship-2027-in-canada-fully-funded-research-internship-for-international-students/ SEP 13
+- [ ] Africa Fellowship for Young Energy Leaders (AFYEL) – Cohort 6 https://opportunitydesk.org/2026/08/17/africa-fellowship-for-young-energy-leaders-cohort-6/ SEP 1
 
 </details>
 
