@@ -364,6 +364,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2026 Rebecca Charles Trust Scholarship For Nigerians: Fully Funded https://www.scholarshipregion.com/rebecca-charles-trust-scholarship/ AUG 28
 - [ ] Globe and Mail Foundation Scholarship for Syrian Media Professionals: Online Journalism Fellowship at the U... https://opportunitiesforyouth.org/2026/08/16/globe-and-mail-foundation-scholarship-for-syrian-media-professionals-online-journalism-fellowship-at-the-university-of-toronto/ AUG 21
 - [ ] KAIST University Scholarship 2027 in South Korea | Fully Funded https://www.opportunitiescircle.com/kaist-university-scholarship-in-south-korea/ AUG 29
+- [ ] PMNCH Advocating for Change for Adolescents AY Grants 2026–2027: Up to US$15,000 for Youth-Led Organizations https://opportunitiesforyouth.org/2026/08/17/pmnch-advocating-for-change/ AUG 18
+- [ ] University of Johannesburg Short-Term Research Positions 2026: Apply for the DSI/NRF SARChI Innovation Agen... https://opportunitiesforyouth.org/2026/08/17/johannesburg-research/ AUG 18
 
 </details>
 
