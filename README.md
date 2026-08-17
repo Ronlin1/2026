@@ -400,6 +400,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WomenLift Health 2027 Nigeria Signature Leadership Journey Program for mid to senior career women https://www.opportunitiesforafricans.com/womenlift-health-2027-nigeria-signature-leadership-journey-program/ SEP 5
 - [ ] MORE HEALTH for Africa Program 2027 https://www.opportunitiesforafricans.com/more-health-for-africa-program-2027-for-african-social-entrepreneurs/ SEP 7
 - [ ] MORE HEALTH for Africa Program 2026 [Cohort 3] https://opportunitydesk.org/2026/08/14/more-health-for-africa-program-2026-cohort-3/ SEP 7
+- [ ] Cambridge ERA AI Fellowship 2027 in UK (Fully Funded) https://scholarshipscorner.website/cambridge-era-ai-fellowship/ SEP 10
+- [ ] Mitacs Globalink Research Internship 2027 in Canada | Fully Funded Research Internship for International St... https://oyaop.com/opportunity/internships/mitacs-globalink-research-internship-2027-in-canada-fully-funded-research-internship-for-international-students/ SEP 13
 
 </details>
 
