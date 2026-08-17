@@ -366,6 +366,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] KAIST University Scholarship 2027 in South Korea | Fully Funded https://www.opportunitiescircle.com/kaist-university-scholarship-in-south-korea/ AUG 29
 - [ ] PMNCH Advocating for Change for Adolescents AY Grants 2026–2027: Up to US$15,000 for Youth-Led Organizations https://opportunitiesforyouth.org/2026/08/17/pmnch-advocating-for-change/ AUG 18
 - [ ] University of Johannesburg Short-Term Research Positions 2026: Apply for the DSI/NRF SARChI Innovation Agen... https://opportunitiesforyouth.org/2026/08/17/johannesburg-research/ AUG 18
+- [ ] University of Michigan Online Courses https://www.opportunitiescircle.com/university-of-michigan-online-courses/ AUG 18
+- [ ] DivInc Women in Tech Accelerator 2026 https://opportunitydesk.org/2026/08/17/divinc-women-in-tech-accelerator-2026/ AUG 20
 
 </details>
 
