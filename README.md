@@ -375,6 +375,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Meta AI Academy Nigeria for Nigerian developers, startups, students, and early-career professionals https://www.opportunitiesforafricans.com/meta-ai-academy-nigeria/ AUG 18
 - [ ] UNITAR Women’s Leadership in Disaster Risk Reduction Training Programme 2026: Apply for Free UN Training on... https://opportunitiesforyouth.org/2026/08/17/unitar-womens-leadership-in-disaster-risk-reduction-training-programme-2026-apply-for-free-un-training-on-disaster-preparedness-and-inclusive-leadership/ AUG 18
 - [ ] Youth Strategic Forum Dubai 2026 | YSF Dubai https://scholarshipscorner.website/youth-strategic-forum-dubai/ AUG 18
+- [ ] Globe and Mail Foundation Scholarship for a Syrian Media Professional: Online Journalism Fellowship at the... https://opportunitydesk.org/2026/08/18/globe-and-mail-foundation-scholarship-for-a-syrian-media-professional-online-journalism-fellowship-2026/ AUG 21
+- [ ] Refugee Leadership Program Fellow 2026–2027: Paid Fellowship for People with Forced Displacement Experience... https://opportunitiesforyouth.org/2026/08/17/refugee-leadership-program-fellow-2026-2027-paid-fellowship-for-people-with-forced-displacement-experience-in-the-united-states/ AUG 27
 
 </details>
 
