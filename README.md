@@ -379,6 +379,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Refugee Leadership Program Fellow 2026–2027: Paid Fellowship for People with Forced Displacement Experience... https://opportunitiesforyouth.org/2026/08/17/refugee-leadership-program-fellow-2026-2027-paid-fellowship-for-people-with-forced-displacement-experience-in-the-united-states/ AUG 27
 - [ ] British Council International Consultant for Recognition of Prior Learning in Sudan 2026: Application Guide... https://opportunitiesforyouth.org/2026/08/18/british-council-international/ AUG 23
 - [ ] UfM Med Youth Lab 2026 in Italy (Fully Funded) https://scholarshipscorner.website/ufm-med-youth-lab-italy/ AUG 27
+- [ ] Pulitzer Center Lavwa Lenpak African content creator program 2026 https://www.opportunitiesforafricans.com/pulitzer-center-lavwa-lenpak-african-content-creator-program-2026/ AUG 23
+- [ ] Catalyst Now Learning Initiatives Fellowship 2026 (stipend available) https://opportunitydesk.org/2026/08/18/catalyst-now-learning-initiatives-fellowship-2026/ AUG 28
 
 </details>
 
