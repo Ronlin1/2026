@@ -377,6 +377,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Youth Strategic Forum Dubai 2026 | YSF Dubai https://scholarshipscorner.website/youth-strategic-forum-dubai/ AUG 18
 - [ ] Globe and Mail Foundation Scholarship for a Syrian Media Professional: Online Journalism Fellowship at the... https://opportunitydesk.org/2026/08/18/globe-and-mail-foundation-scholarship-for-a-syrian-media-professional-online-journalism-fellowship-2026/ AUG 21
 - [ ] Refugee Leadership Program Fellow 2026–2027: Paid Fellowship for People with Forced Displacement Experience... https://opportunitiesforyouth.org/2026/08/17/refugee-leadership-program-fellow-2026-2027-paid-fellowship-for-people-with-forced-displacement-experience-in-the-united-states/ AUG 27
+- [ ] British Council International Consultant for Recognition of Prior Learning in Sudan 2026: Application Guide... https://opportunitiesforyouth.org/2026/08/18/british-council-international/ AUG 23
+- [ ] UfM Med Youth Lab 2026 in Italy (Fully Funded) https://scholarshipscorner.website/ufm-med-youth-lab-italy/ AUG 27
 
 </details>
 
