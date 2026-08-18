@@ -371,6 +371,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Imperial College MBA Scholarships in the UK 2027 https://www.opportunitiescircle.com/imperial-college-mba-scholarships/ AUG 18
 - [ ] Etica ESG Fellowship Vibers Cohort 2026 https://opportunitydesk.org/2026/08/17/etica-esg-fellowship-vibers-cohort-2026/ AUG 28
 - [ ] ACET Regional Integration Graduate Intern 2026: Fully Funded Career Opportunity in Economic Research and Af... https://opportunitiesforyouth.org/2026/08/17/acet-regional-integration-graduate-intern-2026-fully-funded-career-opportunity-in-economic-research-and-african-development/ AUG 24
+- [ ] Education Cannot Wait Clean Cooking & Climate Finance RFP 2026 | Ethiopia https://opportunitiesforyouth.org/2026/08/17/education-cannot-wait-clean-cooking-climate-finance-rfp-2026-ethiopia/ AUG 18
+- [ ] Meta AI Academy Nigeria for Nigerian developers, startups, students, and early-career professionals https://www.opportunitiesforafricans.com/meta-ai-academy-nigeria/ AUG 18
 
 </details>
 
