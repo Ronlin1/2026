@@ -385,6 +385,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ANeSA 2026 Research Grants: Up to CAD 1.2 Million for Sexual and Reproductive Health and Rights Projects in... https://opportunitiesforyouth.org/2026/08/18/anesa-2026-research-grants/ AUG 20
 - [ ] Pulitzer Center Lavwa Lenpak – Africa Content Creators Program 2026 https://opportunitydesk.org/2026/08/19/pulitzer-center-lavwa-lenpak-africa-content-creators-program-2026/ AUG 23
 - [ ] CRCA Emerging Conflict Analysts Fellowship 2026 https://opportunitydesk.org/2026/08/18/crca-emerging-conflict-analysts-fellowship-2026/ AUG 28
+- [ ] The Emerging Leaders Foundation Africa iLead Fellowship Program 2026 https://www.opportunitiesforafricans.com/the-emerging-leaders-foundation-elf-africa-ilead-fellowship-program-2026/ AUG 28
+- [ ] UNFPA Foresight Paid Intern 2026: Strategic Foresight and Futures Work Internship in Nairobi, Kenya https://opportunitiesforyouth.org/2026/08/19/unfpa-foresight-intern-2026-strategic-foresight-and-futures-work-internship-in-nairobi-kenya-remote/ AUG 28
 
 </details>
 
