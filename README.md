@@ -381,6 +381,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UfM Med Youth Lab 2026 in Italy (Fully Funded) https://scholarshipscorner.website/ufm-med-youth-lab-italy/ AUG 27
 - [ ] Pulitzer Center Lavwa Lenpak African content creator program 2026 https://www.opportunitiesforafricans.com/pulitzer-center-lavwa-lenpak-african-content-creator-program-2026/ AUG 23
 - [ ] Catalyst Now Learning Initiatives Fellowship 2026 (stipend available) https://opportunitydesk.org/2026/08/18/catalyst-now-learning-initiatives-fellowship-2026/ AUG 28
+- [ ] Canon Collins Master & PhD Scholarships 2027 (Funded) https://opportunityportal.info/canon-collins-master-phd-scholarships/ AUG 19
+- [ ] ANeSA 2026 Research Grants: Up to CAD 1.2 Million for Sexual and Reproductive Health and Rights Projects in... https://opportunitiesforyouth.org/2026/08/18/anesa-2026-research-grants/ AUG 20
 
 </details>
 
