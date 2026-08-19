@@ -389,6 +389,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNFPA Foresight Paid Intern 2026: Strategic Foresight and Futures Work Internship in Nairobi, Kenya https://opportunitiesforyouth.org/2026/08/19/unfpa-foresight-intern-2026-strategic-foresight-and-futures-work-internship-in-nairobi-kenya-remote/ AUG 28
 - [ ] Australia-France Indo-Pacific Studies Visiting Fellowship 2026-27: Up to AUD 18,900 for Early-Career Social... https://opportunitiesforyouth.org/2026/08/19/australia-france-indo-pacific-studies-program-visiting-fellowships-for-early-career-researchers/ AUG 28
 - [ ] Research Fellow in African Studies at the University of Birmingham, UK – 2027. https://opportunitiesforyouth.org/2026/08/19/research-fellow-cadbury-postdoctoral-fellowship-in-african-studies-at-the-university-of-birmingham-uk-2027/ AUG 29
+- [ ] Emerging Leaders Program 2027: Join Chicago’s Next Generation of Global Leaders https://opportunitiesforyouth.org/2026/08/19/vice-president-research-at-the-chicago-council-on-global-affairs-a-senior-leadership-opportunity-in-global-policy/ AUG 29
+- [ ] ETH Pioneer Fellowship 2026 in Switzerland | Pioneer Fellowship Program https://www.opportunitiescircle.com/eth-pioneer-fellowship-in-switzerland/ AUG 29
 
 </details>
 
