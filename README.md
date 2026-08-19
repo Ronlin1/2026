@@ -387,6 +387,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CRCA Emerging Conflict Analysts Fellowship 2026 https://opportunitydesk.org/2026/08/18/crca-emerging-conflict-analysts-fellowship-2026/ AUG 28
 - [ ] The Emerging Leaders Foundation Africa iLead Fellowship Program 2026 https://www.opportunitiesforafricans.com/the-emerging-leaders-foundation-elf-africa-ilead-fellowship-program-2026/ AUG 28
 - [ ] UNFPA Foresight Paid Intern 2026: Strategic Foresight and Futures Work Internship in Nairobi, Kenya https://opportunitiesforyouth.org/2026/08/19/unfpa-foresight-intern-2026-strategic-foresight-and-futures-work-internship-in-nairobi-kenya-remote/ AUG 28
+- [ ] Australia-France Indo-Pacific Studies Visiting Fellowship 2026-27: Up to AUD 18,900 for Early-Career Social... https://opportunitiesforyouth.org/2026/08/19/australia-france-indo-pacific-studies-program-visiting-fellowships-for-early-career-researchers/ AUG 28
+- [ ] Research Fellow in African Studies at the University of Birmingham, UK – 2027. https://opportunitiesforyouth.org/2026/08/19/research-fellow-cadbury-postdoctoral-fellowship-in-african-studies-at-the-university-of-birmingham-uk-2027/ AUG 29
 
 </details>
 
