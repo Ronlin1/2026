@@ -383,6 +383,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Catalyst Now Learning Initiatives Fellowship 2026 (stipend available) https://opportunitydesk.org/2026/08/18/catalyst-now-learning-initiatives-fellowship-2026/ AUG 28
 - [ ] Canon Collins Master & PhD Scholarships 2027 (Funded) https://opportunityportal.info/canon-collins-master-phd-scholarships/ AUG 19
 - [ ] ANeSA 2026 Research Grants: Up to CAD 1.2 Million for Sexual and Reproductive Health and Rights Projects in... https://opportunitiesforyouth.org/2026/08/18/anesa-2026-research-grants/ AUG 20
+- [ ] Pulitzer Center Lavwa Lenpak – Africa Content Creators Program 2026 https://opportunitydesk.org/2026/08/19/pulitzer-center-lavwa-lenpak-africa-content-creators-program-2026/ AUG 23
+- [ ] CRCA Emerging Conflict Analysts Fellowship 2026 https://opportunitydesk.org/2026/08/18/crca-emerging-conflict-analysts-fellowship-2026/ AUG 28
 
 </details>
 
