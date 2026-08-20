@@ -397,6 +397,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] FAO Regular Volunteer Programme for Africa 2026: Applications Open for the United Nations Volunteer Opportu... https://opportunitiesforyouth.org/2026/08/20/fao-regular-volunteer/ AUG 23
 - [ ] 2026 Africa Intellectual Property Day My IP Story: Call for African Entrepreneurs, Businesses and Innovators https://opportunitiesforyouth.org/2026/08/20/africa-intellectual-property/ AUG 28
 - [ ] ONE Global Activists Program in Canada 2026-2027 https://opportunitydesk.org/2026/08/20/one-global-activists-program-in-canada-2026-2027/ AUG 28
+- [ ] BRAC Regular Internship 2026: Apply for Internship Opportunities in Human Resources, Finance, Technology, M... https://opportunitiesforyouth.org/2026/08/20/internship-opportunities-at-brac/ AUG 20
+- [ ] NICEF Partnerships Officer, NO-1, Fixed-Term Job in Pretoria, South Africa: Apply by August 28, 2026 https://opportunitiesforyouth.org/2026/08/20/nicef-partnerships-officer-no-1-fixed-term-job-in-pretoria-south-africa-apply-by-august-28-2026/ AUG 25
 
 </details>
 
