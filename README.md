@@ -391,6 +391,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Research Fellow in African Studies at the University of Birmingham, UK – 2027. https://opportunitiesforyouth.org/2026/08/19/research-fellow-cadbury-postdoctoral-fellowship-in-african-studies-at-the-university-of-birmingham-uk-2027/ AUG 29
 - [ ] Emerging Leaders Program 2027: Join Chicago’s Next Generation of Global Leaders https://opportunitiesforyouth.org/2026/08/19/vice-president-research-at-the-chicago-council-on-global-affairs-a-senior-leadership-opportunity-in-global-policy/ AUG 29
 - [ ] ETH Pioneer Fellowship 2026 in Switzerland | Pioneer Fellowship Program https://www.opportunitiescircle.com/eth-pioneer-fellowship-in-switzerland/ AUG 29
+- [ ] African Philanthropy Director at CorpsAfrica: Full-Time Leadership Opportunity for Experienced Fundraising... https://opportunitiesforyouth.org/2026/08/19/african-philanthropy-director-at-corpsafrica-full-time-leadership-opportunity-for-experienced-fundraising-professionals/ AUG 20
+- [ ] Open Call for INISA Initiatives Sahel Projects https://www2.fundsforngos.org/peace-conflict-resolution/open-call-for-inisa-initiatives-sahel-projects/ AUG 20
 
 </details>
 
