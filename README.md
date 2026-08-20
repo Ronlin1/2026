@@ -395,6 +395,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Open Call for INISA Initiatives Sahel Projects https://www2.fundsforngos.org/peace-conflict-resolution/open-call-for-inisa-initiatives-sahel-projects/ AUG 20
 - [ ] APSIG Fellowship 2026 in Taiwan (Fully Funded) https://scholarshipscorner.website/apsig-fellowship-taiwan/ AUG 20
 - [ ] FAO Regular Volunteer Programme for Africa 2026: Applications Open for the United Nations Volunteer Opportu... https://opportunitiesforyouth.org/2026/08/20/fao-regular-volunteer/ AUG 23
+- [ ] 2026 Africa Intellectual Property Day My IP Story: Call for African Entrepreneurs, Businesses and Innovators https://opportunitiesforyouth.org/2026/08/20/africa-intellectual-property/ AUG 28
+- [ ] ONE Global Activists Program in Canada 2026-2027 https://opportunitydesk.org/2026/08/20/one-global-activists-program-in-canada-2026-2027/ AUG 28
 
 </details>
 
