@@ -393,6 +393,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ETH Pioneer Fellowship 2026 in Switzerland | Pioneer Fellowship Program https://www.opportunitiescircle.com/eth-pioneer-fellowship-in-switzerland/ AUG 29
 - [ ] African Philanthropy Director at CorpsAfrica: Full-Time Leadership Opportunity for Experienced Fundraising... https://opportunitiesforyouth.org/2026/08/19/african-philanthropy-director-at-corpsafrica-full-time-leadership-opportunity-for-experienced-fundraising-professionals/ AUG 20
 - [ ] Open Call for INISA Initiatives Sahel Projects https://www2.fundsforngos.org/peace-conflict-resolution/open-call-for-inisa-initiatives-sahel-projects/ AUG 20
+- [ ] APSIG Fellowship 2026 in Taiwan (Fully Funded) https://scholarshipscorner.website/apsig-fellowship-taiwan/ AUG 20
+- [ ] FAO Regular Volunteer Programme for Africa 2026: Applications Open for the United Nations Volunteer Opportu... https://opportunitiesforyouth.org/2026/08/20/fao-regular-volunteer/ AUG 23
 
 </details>
 
