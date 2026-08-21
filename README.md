@@ -402,6 +402,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AKU Fall 2026 Virtual Internship Programme | Virtual Internships for Students https://opportunitiesforyouth.org/2026/08/20/aku-fall-2026-virtual-internship-programme-virtual-internships-for-students/ AUG 27
 - [ ] DataCamp Data Community Africa Scholarship 2026 | How To Apply https://www.scholarshipregion.com/datacamp-data-community-africa-scholarship/ AUG 27
 - [ ] 2026 Africa Intellectual Property Day: SG Prize for Outstanding AfCFTA Intellectual Property Innovation and... https://opportunitiesforyouth.org/2026/08/20/2026-africa-intellectual-property-day-sg-prize-for-outstanding-afcfta-intellectual-property-innovation-and-impact/ AUG 28
+- [ ] Policy Advocacy and Leadership (PAL) Fellowship 2026 [Cohort 3] https://opportunitydesk.org/2026/08/21/policy-advocacy-and-leadership-fellowship-2026-cohort-3/ AUG 21
 
 </details>
 
@@ -442,6 +443,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Mitacs Globalink Research Internship 2027 in Canada | Fully Funded Research Internship for International St... https://oyaop.com/opportunity/internships/mitacs-globalink-research-internship-2027-in-canada-fully-funded-research-internship-for-international-students/ SEP 13
 - [ ] Africa Fellowship for Young Energy Leaders (AFYEL) – Cohort 6 https://opportunitydesk.org/2026/08/17/africa-fellowship-for-young-energy-leaders-cohort-6/ SEP 1
 - [ ] Team4Tech Experience AI Cohort 2026 | Free AI Education Training for NGOs in Africa https://opportunitiesforyouth.org/2026/08/20/team4tech-experience-ai-cohort-2026-free-ai-education-training-for-ngos-in-africa/ SEP 1
+- [ ] Afya na Haki Doctoral/Post-Doctoral Fellowship 2026: Fully Remunerated Global Health Research Opportunity https://opportunitiesforyouth.org/2026/08/21/afya-na-haki-doctoral-post-doctoral-fellowship-2026-fully-remunerated-global-health-research-opportunity/ SEP 1
 
 </details>
 
