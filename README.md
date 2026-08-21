@@ -444,6 +444,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Africa Fellowship for Young Energy Leaders (AFYEL) – Cohort 6 https://opportunitydesk.org/2026/08/17/africa-fellowship-for-young-energy-leaders-cohort-6/ SEP 1
 - [ ] Team4Tech Experience AI Cohort 2026 | Free AI Education Training for NGOs in Africa https://opportunitiesforyouth.org/2026/08/20/team4tech-experience-ai-cohort-2026-free-ai-education-training-for-ngos-in-africa/ SEP 1
 - [ ] Afya na Haki Doctoral/Post-Doctoral Fellowship 2026: Fully Remunerated Global Health Research Opportunity https://opportunitiesforyouth.org/2026/08/21/afya-na-haki-doctoral-post-doctoral-fellowship-2026-fully-remunerated-global-health-research-opportunity/ SEP 1
+- [ ] Global Logic & Reasoning Competition 2026 (up to $1,500) https://opportunitydesk.org/2026/08/20/global-logic-reasoning-competition-2026/ SEP 3
+- [ ] Pulitzer Center Global South Civil Society Microgrants 2026 (up to $4,000) https://opportunitydesk.org/2026/08/21/pulitzer-center-global-south-civil-society-microgrants-2026/ SEP 3
 
 </details>
 
