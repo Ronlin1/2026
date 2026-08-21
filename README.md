@@ -401,6 +401,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NICEF Partnerships Officer, NO-1, Fixed-Term Job in Pretoria, South Africa: Apply by August 28, 2026 https://opportunitiesforyouth.org/2026/08/20/nicef-partnerships-officer-no-1-fixed-term-job-in-pretoria-south-africa-apply-by-august-28-2026/ AUG 25
 - [ ] AKU Fall 2026 Virtual Internship Programme | Virtual Internships for Students https://opportunitiesforyouth.org/2026/08/20/aku-fall-2026-virtual-internship-programme-virtual-internships-for-students/ AUG 27
 - [ ] DataCamp Data Community Africa Scholarship 2026 | How To Apply https://www.scholarshipregion.com/datacamp-data-community-africa-scholarship/ AUG 27
+- [ ] 2026 Africa Intellectual Property Day: SG Prize for Outstanding AfCFTA Intellectual Property Innovation and... https://opportunitiesforyouth.org/2026/08/20/2026-africa-intellectual-property-day-sg-prize-for-outstanding-afcfta-intellectual-property-innovation-and-impact/ AUG 28
 
 </details>
 
@@ -440,6 +441,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Cambridge ERA AI Fellowship 2027 in UK (Fully Funded) https://scholarshipscorner.website/cambridge-era-ai-fellowship/ SEP 10
 - [ ] Mitacs Globalink Research Internship 2027 in Canada | Fully Funded Research Internship for International St... https://oyaop.com/opportunity/internships/mitacs-globalink-research-internship-2027-in-canada-fully-funded-research-internship-for-international-students/ SEP 13
 - [ ] Africa Fellowship for Young Energy Leaders (AFYEL) – Cohort 6 https://opportunitydesk.org/2026/08/17/africa-fellowship-for-young-energy-leaders-cohort-6/ SEP 1
+- [ ] Team4Tech Experience AI Cohort 2026 | Free AI Education Training for NGOs in Africa https://opportunitiesforyouth.org/2026/08/20/team4tech-experience-ai-cohort-2026-free-ai-education-training-for-ngos-in-africa/ SEP 1
 
 </details>
 
