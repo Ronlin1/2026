@@ -405,6 +405,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Policy Advocacy and Leadership (PAL) Fellowship 2026 [Cohort 3] https://opportunitydesk.org/2026/08/21/policy-advocacy-and-leadership-fellowship-2026-cohort-3/ AUG 21
 - [ ] Green Growth Africa Recruitment 2026: Applications Open for Three Climate and Sustainable Development Jobs... https://opportunitiesforyouth.org/2026/08/21/green-growth-africa-recruitment-2026-applications-open-for-three-climate-and-sustainable-development-jobs-in-ghana/ AUG 25
 - [ ] OSCE ODIHR Human Rights Internship 2026 in Warsaw: Applications Open for a Six-Month Placement https://opportunitiesforyouth.org/2026/08/21/osce-odihr-human-rights-internship-2026-in-warsaw-applications-open-for-a-six-month-placement/ AUG 31
+- [ ] Safeguarding Consultant Jobs in Southeast Asia 2026: Cowater International Opens Regional Safeguarding Roster https://opportunitiesforyouth.org/2026/08/21/safeguarding-consultant-jobs-in-southeast-asia-2026-cowater-international-opens-regional-safeguarding-roster/ AUG 25
 
 </details>
 
@@ -448,6 +449,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Afya na Haki Doctoral/Post-Doctoral Fellowship 2026: Fully Remunerated Global Health Research Opportunity https://opportunitiesforyouth.org/2026/08/21/afya-na-haki-doctoral-post-doctoral-fellowship-2026-fully-remunerated-global-health-research-opportunity/ SEP 1
 - [ ] Global Logic & Reasoning Competition 2026 (up to $1,500) https://opportunitydesk.org/2026/08/20/global-logic-reasoning-competition-2026/ SEP 3
 - [ ] Pulitzer Center Global South Civil Society Microgrants 2026 (up to $4,000) https://opportunitydesk.org/2026/08/21/pulitzer-center-global-south-civil-society-microgrants-2026/ SEP 3
+- [ ] The Government of Kenya Presidential Digital Talent Programme Cohort XI. https://www.opportunitiesforafricans.com/the-government-of-kenya-presidential-digital-talent-programme-cohort-xi/ SEP 4
 
 </details>
 
