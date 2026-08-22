@@ -410,6 +410,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNDP Early Warning & Preparedness Internship 2026: Home-Based Opportunity for Disaster Risk Reduction and A... https://opportunitiesforyouth.org/2026/08/21/undp-early-warning-preparedness-internship-2026-home-based-opportunity-for-disaster-risk-reduction-and-ai-enthusiasts/ AUG 29
 - [ ] Technical University of Berlin DAAD EPOS Scholarship in Germany 2027 | Fully Funded https://www.scholarshipregion.com/tu-berlin-daad-epos-scholarship/ AUG 28
 - [ ] Western Balkans Meet Japan: A Bridge into the Future 2026/2027 (Funded) https://opportunitydesk.org/2026/08/22/western-balkans-meet-japan-a-bridge-into-the-future-2026-2027/ AUG 28
+- [ ] Communications Assistant Paid Traineeship at Friends of Europe in Belgium: Apply by August 26, 2026 https://opportunitiesforyouth.org/2026/08/22/communications-assistant-paid-traineeship-at-friends-of-europe-in-belgium-apply-by-august-26-2026/ AUG 23
+- [ ] AIMS Rwanda Program Manager Job 2026 in Kigali: Apply by August 31, 2026 https://opportunitiesforyouth.org/2026/08/22/aims-rwanda-program-manager-job-2026-in-kigali-apply-by-august-31-2026/ AUG 28
 
 </details>
 
