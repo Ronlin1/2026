@@ -458,6 +458,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Global Logic & Reasoning Competition 2026 (up to $1,500) https://opportunitydesk.org/2026/08/20/global-logic-reasoning-competition-2026/ SEP 3
 - [ ] Pulitzer Center Global South Civil Society Microgrants 2026 (up to $4,000) https://opportunitydesk.org/2026/08/21/pulitzer-center-global-south-civil-society-microgrants-2026/ SEP 3
 - [ ] The Government of Kenya Presidential Digital Talent Programme Cohort XI. https://www.opportunitiesforafricans.com/the-government-of-kenya-presidential-digital-talent-programme-cohort-xi/ SEP 4
+- [ ] National Association of Nigerian Students (NANS) Innovate 2026 https://opportunitydesk.org/2026/08/21/nans-innovate-2026/ SEP 5
+- [ ] Harvard Radcliffe Institute Scholarships In USA 2027 (Fully Funded) https://opportunityportal.info/harvard-radcliffe-institute-fellowship/ SEP 7
 
 </details>
 
