@@ -412,6 +412,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Western Balkans Meet Japan: A Bridge into the Future 2026/2027 (Funded) https://opportunitydesk.org/2026/08/22/western-balkans-meet-japan-a-bridge-into-the-future-2026-2027/ AUG 28
 - [ ] Communications Assistant Paid Traineeship at Friends of Europe in Belgium: Apply by August 26, 2026 https://opportunitiesforyouth.org/2026/08/22/communications-assistant-paid-traineeship-at-friends-of-europe-in-belgium-apply-by-august-26-2026/ AUG 23
 - [ ] AIMS Rwanda Program Manager Job 2026 in Kigali: Apply by August 31, 2026 https://opportunitiesforyouth.org/2026/08/22/aims-rwanda-program-manager-job-2026-in-kigali-apply-by-august-31-2026/ AUG 28
+- [ ] African Nutrition Leadership Programme 2027: Apply for the 10-Day Nutrition Leadership Development Programm... https://opportunitiesforyouth.org/2026/08/21/african-nutrition-leadership-programme-anlp-2027-apply-for-the-10-day-nutrition-leadership-development-programme-in-africa/ AUG 28
+- [ ] Agenda 2063 in Power Spaces Cohort 3: Apply for the 7-Week UNDP Online Volunteer Opportunity https://opportunitiesforyouth.org/2026/08/21/agenda-2063-in-power-spaces-cohort-3-apply-for-the-7-week-undp-online-volunteer-opportunity/ AUG 28
 
 </details>
 
