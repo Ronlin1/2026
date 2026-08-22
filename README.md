@@ -408,6 +408,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Safeguarding Consultant Jobs in Southeast Asia 2026: Cowater International Opens Regional Safeguarding Roster https://opportunitiesforyouth.org/2026/08/21/safeguarding-consultant-jobs-in-southeast-asia-2026-cowater-international-opens-regional-safeguarding-roster/ AUG 25
 - [ ] The Andersen Nigeria 2027 Graduate Trainee Programme for young Nigerian graduates. https://www.opportunitiesforafricans.com/the-andersen-nigeria-2027-graduate-trainee-programme-for-young-nigerian-graduates/ AUG 22
 - [ ] UNDP Early Warning & Preparedness Internship 2026: Home-Based Opportunity for Disaster Risk Reduction and A... https://opportunitiesforyouth.org/2026/08/21/undp-early-warning-preparedness-internship-2026-home-based-opportunity-for-disaster-risk-reduction-and-ai-enthusiasts/ AUG 29
+- [ ] Technical University of Berlin DAAD EPOS Scholarship in Germany 2027 | Fully Funded https://www.scholarshipregion.com/tu-berlin-daad-epos-scholarship/ AUG 28
+- [ ] Western Balkans Meet Japan: A Bridge into the Future 2026/2027 (Funded) https://opportunitydesk.org/2026/08/22/western-balkans-meet-japan-a-bridge-into-the-future-2026-2027/ AUG 28
 
 </details>
 
