@@ -460,6 +460,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Government of Kenya Presidential Digital Talent Programme Cohort XI. https://www.opportunitiesforafricans.com/the-government-of-kenya-presidential-digital-talent-programme-cohort-xi/ SEP 4
 - [ ] National Association of Nigerian Students (NANS) Innovate 2026 https://opportunitydesk.org/2026/08/21/nans-innovate-2026/ SEP 5
 - [ ] Harvard Radcliffe Institute Scholarships In USA 2027 (Fully Funded) https://opportunityportal.info/harvard-radcliffe-institute-fellowship/ SEP 7
+- [ ] Inter-University Council for East Africa (IUCEA) Scholarship 2027-2028 https://opportunitydesk.org/2026/08/21/iucea-scholarship-2027-2028/ SEP 7
+- [ ] KfW EAC Master’s Scholarships 2026/2027 for young East Africans ( Fully Funded) https://www.opportunitiesforafricans.com/kfw-eac-masters-scholarships-2026-2027/ SEP 7
 
 </details>
 
