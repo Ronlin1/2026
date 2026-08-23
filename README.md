@@ -414,6 +414,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AIMS Rwanda Program Manager Job 2026 in Kigali: Apply by August 31, 2026 https://opportunitiesforyouth.org/2026/08/22/aims-rwanda-program-manager-job-2026-in-kigali-apply-by-august-31-2026/ AUG 28
 - [ ] African Nutrition Leadership Programme 2027: Apply for the 10-Day Nutrition Leadership Development Programm... https://opportunitiesforyouth.org/2026/08/21/african-nutrition-leadership-programme-anlp-2027-apply-for-the-10-day-nutrition-leadership-development-programme-in-africa/ AUG 28
 - [ ] Agenda 2063 in Power Spaces Cohort 3: Apply for the 7-Week UNDP Online Volunteer Opportunity https://opportunitiesforyouth.org/2026/08/21/agenda-2063-in-power-spaces-cohort-3-apply-for-the-7-week-undp-online-volunteer-opportunity/ AUG 28
+- [ ] NUS IRIS Research Internship in Singapore 2027 (Fully Funded) https://scholarshipscorner.website/nus-iris-research-internship-singapore/ AUG 25
 
 </details>
 
@@ -462,6 +463,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Harvard Radcliffe Institute Scholarships In USA 2027 (Fully Funded) https://opportunityportal.info/harvard-radcliffe-institute-fellowship/ SEP 7
 - [ ] Inter-University Council for East Africa (IUCEA) Scholarship 2027-2028 https://opportunitydesk.org/2026/08/21/iucea-scholarship-2027-2028/ SEP 7
 - [ ] KfW EAC Master’s Scholarships 2026/2027 for young East Africans ( Fully Funded) https://www.opportunitiesforafricans.com/kfw-eac-masters-scholarships-2026-2027/ SEP 7
+- [ ] CDC Advancing Active People, Healthy Nation Through Science – Physical Activity Fellowship 2026 https://opportunitiesforyouth.org/2026/08/21/cdc-advancing-active-people-healthy-nation-through-science-physical-activity-fellowship-2026/ SEP 8
 
 </details>
 
