@@ -466,6 +466,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CDC Advancing Active People, Healthy Nation Through Science – Physical Activity Fellowship 2026 https://opportunitiesforyouth.org/2026/08/21/cdc-advancing-active-people-healthy-nation-through-science-physical-activity-fellowship-2026/ SEP 8
 - [ ] EAC Two-Year Funded Master’s Scholarships 2026 https://oyaop.com/opportunity/scholarships-and-fellowships/eac-two-year-funded-masters-scholarships-2026/ SEP 7
 - [ ] WHO 2026 Global youth competition on influenza and COVID-19 prevention and control https://www.opportunitiesforafricans.com/who-2026-global-youth-competition-on-influenza-and-covid-19-prevention-and-control/ SEP 10
+- [ ] University of Siena DSU Scholarship 2026-27 https://www.opportunitiescircle.com/university-of-siena-dsu-scholarship/ SEP 4
+- [ ] Harpswell Leadership Resident Program 2027 https://opportunitydesk.org/2026/08/21/harpswell-leadership-resident-program-2027/ SEP 15
 
 </details>
 
