@@ -415,6 +415,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] African Nutrition Leadership Programme 2027: Apply for the 10-Day Nutrition Leadership Development Programm... https://opportunitiesforyouth.org/2026/08/21/african-nutrition-leadership-programme-anlp-2027-apply-for-the-10-day-nutrition-leadership-development-programme-in-africa/ AUG 28
 - [ ] Agenda 2063 in Power Spaces Cohort 3: Apply for the 7-Week UNDP Online Volunteer Opportunity https://opportunitiesforyouth.org/2026/08/21/agenda-2063-in-power-spaces-cohort-3-apply-for-the-7-week-undp-online-volunteer-opportunity/ AUG 28
 - [ ] NUS IRIS Research Internship in Singapore 2027 (Fully Funded) https://scholarshipscorner.website/nus-iris-research-internship-singapore/ AUG 25
+- [ ] Climate Caucus Programs & Policy Senior Manager 2026: Fully Remote Climate Policy Role Paying $75,000–$80,0... https://opportunitiesforyouth.org/2026/08/23/climate-senior-manager-2026/ AUG 25
 
 </details>
 
@@ -468,6 +469,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WHO 2026 Global youth competition on influenza and COVID-19 prevention and control https://www.opportunitiesforafricans.com/who-2026-global-youth-competition-on-influenza-and-covid-19-prevention-and-control/ SEP 10
 - [ ] University of Siena DSU Scholarship 2026-27 https://www.opportunitiescircle.com/university-of-siena-dsu-scholarship/ SEP 4
 - [ ] Harpswell Leadership Resident Program 2027 https://opportunitydesk.org/2026/08/21/harpswell-leadership-resident-program-2027/ SEP 15
+- [ ] Adaptation Fund Climate Innovation Accelerator 2026: WFP Climate Innovation Opportunity for Scalable Soluti... https://opportunitiesforyouth.org/2026/08/23/adaptation-fund-climate-innovation-accelerator-2026-wfp-climate-innovation-opportunity-for-scalable-solutions-in-latin-america-and-the-caribbean/ SEP 3
 
 </details>
 
