@@ -421,6 +421,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] IPU Internship 2026 in Geneva, Switzerland: Paid One-Year Internship with CHF 1,500 Monthly Stipend https://opportunitiesforyouth.org/2026/08/24/ipu-internship-2026-in-geneva-switzerland-paid-one-year-internship-with-chf-1500-monthly-stipend/ AUG 31
 - [ ] British High Commission Islamabad Education Advisor Job 2026: Apply for FCDO Grade 7 Role with PKR 924,324... https://opportunitiesforyouth.org/2026/08/24/bhc-education-advisor/ AUG 28
 - [ ] EEOC Office of Communications and Legislative Affairs Externship Program: Internship Opportunities for Unde... https://opportunitiesforyouth.org/2026/08/24/eeoc-office-of-communications-and-legislative-affairs-externship-program-internship-opportunities-for-undergraduate-and-graduate-students/ AUG 28
+- [ ] IRIS@NUS 2026–2027: Fully Funded Research Internship in Singapore https://oyaop.com/opportunity/internships/irisnus-2026-2027-fully-funded-research-internship-in-singapore/ AUG 25
+- [ ] NUS IRIS Internship 2027 in Singapore https://www.opportunitiescircle.com/nus-iris-internship/ AUG 25
 
 </details>
 
