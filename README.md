@@ -417,6 +417,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NUS IRIS Research Internship in Singapore 2027 (Fully Funded) https://scholarshipscorner.website/nus-iris-research-internship-singapore/ AUG 25
 - [ ] Climate Caucus Programs & Policy Senior Manager 2026: Fully Remote Climate Policy Role Paying $75,000–$80,0... https://opportunitiesforyouth.org/2026/08/23/climate-senior-manager-2026/ AUG 25
 - [ ] Constructor University Scholarship in Germany (Fully Funded) https://opportunityportal.info/constructor-university-scholarship/ AUG 28
+- [ ] Global Mental Health Africa Conference (GMHAC) Scholarship 2027 https://opportunitydesk.org/2026/08/24/global-mental-health-africa-conference-scholarship-2027/ AUG 28
+- [ ] IPU Internship 2026 in Geneva, Switzerland: Paid One-Year Internship with CHF 1,500 Monthly Stipend https://opportunitiesforyouth.org/2026/08/24/ipu-internship-2026-in-geneva-switzerland-paid-one-year-internship-with-chf-1500-monthly-stipend/ AUG 31
 
 </details>
 
