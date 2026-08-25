@@ -424,6 +424,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] IRIS@NUS 2026–2027: Fully Funded Research Internship in Singapore https://oyaop.com/opportunity/internships/irisnus-2026-2027-fully-funded-research-internship-in-singapore/ AUG 25
 - [ ] NUS IRIS Internship 2027 in Singapore https://www.opportunitiescircle.com/nus-iris-internship/ AUG 25
 - [ ] UNICEF Thailand Young Professionals Programme 2026: Communication Internship in Bangkok for University Stud... https://opportunitiesforyouth.org/2026/08/24/unicef-thailand-ypp-2026/ AUG 31
+- [ ] TMU Graduate Scholarships in Taiwan 2027 (Fully Funded) https://opportunityportal.info/tmu-graduate-scholarships/ AUG 28
 
 </details>
 
@@ -480,6 +481,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Adaptation Fund Climate Innovation Accelerator 2026: WFP Climate Innovation Opportunity for Scalable Soluti... https://opportunitiesforyouth.org/2026/08/23/adaptation-fund-climate-innovation-accelerator-2026-wfp-climate-innovation-opportunity-for-scalable-solutions-in-latin-america-and-the-caribbean/ SEP 3
 - [ ] Global South Civil Society Microgrants 2026: Apply for USD 2,000–4,000 to Fund Climate, Rainforest and Ocea... https://opportunitiesforyouth.org/2026/08/23/global-south-civil-society-microgrants-2026-apply-for-usd-2000-4000-to-fund-climate-rainforest-and-ocean-civic-engagement-projects/ SEP 3
 - [ ] WFP Innovation Accelerator x Adaptation Fund Climate Innovation Accelerator 2027 https://opportunitydesk.org/2026/08/24/wfp-innovation-accelerator-x-adaptation-fund-climate-innovation-accelerator-2027/ SEP 3
+- [ ] Leading Change Fellowship 2026-2027 https://opportunitydesk.org/2026/08/24/leading-change-fellowship-2026-2027/ SEP 4
 
 </details>
 
