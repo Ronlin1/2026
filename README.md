@@ -427,6 +427,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] TMU Graduate Scholarships in Taiwan 2027 (Fully Funded) https://opportunityportal.info/tmu-graduate-scholarships/ AUG 28
 - [ ] NVIDIA Early Talent Programs 2026–2027: Internships, Ignite, MBA, PhD and New College Graduate Opportunities https://opportunitiesforyouth.org/2026/08/24/nvidia-early-talent-program/ AUG 28
 - [ ] PhD at INSAIT in Bulgaria: Fully Funded Doctoral Fellowship of €39,684 Per Year for International Students https://opportunitiesforyouth.org/2026/08/24/insait-graduate-research/ AUG 28
+- [ ] AgenTrust Fellowship to Advance Open Standards for Verifiable AI Agents 2026 https://opportunitydesk.org/2026/08/25/agentrust-fellowship-2026/ AUG 26
+- [ ] Center for Applied Artificial Intelligence Second Year AI Fellowship 2026-2027 https://opportunitydesk.org/2026/08/25/caai-second-year-ai-fellowship-2026-2027/ AUG 28
 
 </details>
 
