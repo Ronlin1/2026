@@ -425,6 +425,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NUS IRIS Internship 2027 in Singapore https://www.opportunitiescircle.com/nus-iris-internship/ AUG 25
 - [ ] UNICEF Thailand Young Professionals Programme 2026: Communication Internship in Bangkok for University Stud... https://opportunitiesforyouth.org/2026/08/24/unicef-thailand-ypp-2026/ AUG 31
 - [ ] TMU Graduate Scholarships in Taiwan 2027 (Fully Funded) https://opportunityportal.info/tmu-graduate-scholarships/ AUG 28
+- [ ] NVIDIA Early Talent Programs 2026–2027: Internships, Ignite, MBA, PhD and New College Graduate Opportunities https://opportunitiesforyouth.org/2026/08/24/nvidia-early-talent-program/ AUG 28
+- [ ] PhD at INSAIT in Bulgaria: Fully Funded Doctoral Fellowship of €39,684 Per Year for International Students https://opportunitiesforyouth.org/2026/08/24/insait-graduate-research/ AUG 28
 
 </details>
 
