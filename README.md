@@ -429,6 +429,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] PhD at INSAIT in Bulgaria: Fully Funded Doctoral Fellowship of €39,684 Per Year for International Students https://opportunitiesforyouth.org/2026/08/24/insait-graduate-research/ AUG 28
 - [ ] AgenTrust Fellowship to Advance Open Standards for Verifiable AI Agents 2026 https://opportunitydesk.org/2026/08/25/agentrust-fellowship-2026/ AUG 26
 - [ ] Center for Applied Artificial Intelligence Second Year AI Fellowship 2026-2027 https://opportunitydesk.org/2026/08/25/caai-second-year-ai-fellowship-2026-2027/ AUG 28
+- [ ] University of Birmingham Cadbury Postdoctoral Fellowship 2027: Earn Up to £48,822 in African History and Af... https://opportunitiesforyouth.org/2026/08/25/university-of-birmingham-cadbury-postdoctoral-fellowship-2027-earn-up-to-48822-in-african-history-and-african-studies/ AUG 29
 
 </details>
 
@@ -486,6 +487,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Global South Civil Society Microgrants 2026: Apply for USD 2,000–4,000 to Fund Climate, Rainforest and Ocea... https://opportunitiesforyouth.org/2026/08/23/global-south-civil-society-microgrants-2026-apply-for-usd-2000-4000-to-fund-climate-rainforest-and-ocean-civic-engagement-projects/ SEP 3
 - [ ] WFP Innovation Accelerator x Adaptation Fund Climate Innovation Accelerator 2027 https://opportunitydesk.org/2026/08/24/wfp-innovation-accelerator-x-adaptation-fund-climate-innovation-accelerator-2027/ SEP 3
 - [ ] Leading Change Fellowship 2026-2027 https://opportunitydesk.org/2026/08/24/leading-change-fellowship-2026-2027/ SEP 4
+- [ ] Call for Proposals: Miami Law & AI Lab AI, Law & Ethics Research Awards 2026 https://opportunitydesk.org/2026/08/25/mila-lab-ai-law-ethics-research-awards-2026/ SEP 1
 
 </details>
 
