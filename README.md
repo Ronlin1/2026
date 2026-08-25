@@ -488,6 +488,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WFP Innovation Accelerator x Adaptation Fund Climate Innovation Accelerator 2027 https://opportunitydesk.org/2026/08/24/wfp-innovation-accelerator-x-adaptation-fund-climate-innovation-accelerator-2027/ SEP 3
 - [ ] Leading Change Fellowship 2026-2027 https://opportunitydesk.org/2026/08/24/leading-change-fellowship-2026-2027/ SEP 4
 - [ ] Call for Proposals: Miami Law & AI Lab AI, Law & Ethics Research Awards 2026 https://opportunitydesk.org/2026/08/25/mila-lab-ai-law-ethics-research-awards-2026/ SEP 1
+- [ ] Kenya Artificial Intelligence Accelerator Programme 2026 https://www.opportunitiesforafricans.com/kenya-artificial-intelligence-accelerator-programme-2026-for-kenyan-startups-and-innovators/ SEP 3
+- [ ] Turin University Scholarships In Italy 2027 (Funded) https://opportunityportal.info/turin-university-scholarships/ SEP 5
 
 </details>
 
