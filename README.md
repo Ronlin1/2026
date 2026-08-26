@@ -490,6 +490,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Call for Proposals: Miami Law & AI Lab AI, Law & Ethics Research Awards 2026 https://opportunitydesk.org/2026/08/25/mila-lab-ai-law-ethics-research-awards-2026/ SEP 1
 - [ ] Kenya Artificial Intelligence Accelerator Programme 2026 https://www.opportunitiesforafricans.com/kenya-artificial-intelligence-accelerator-programme-2026-for-kenyan-startups-and-innovators/ SEP 3
 - [ ] Turin University Scholarships In Italy 2027 (Funded) https://opportunityportal.info/turin-university-scholarships/ SEP 5
+- [ ] Fully Funded PhD in Global Talent Mobility and Europe’s Strategic Autonomy at Utrecht University: €4,051 Mo... https://opportunitiesforyouth.org/2026/08/25/fully-funded-phd-in-global-talent-mobility-and-europes-strategic-autonomy-at-utrecht-university-e4051-monthly-salary/ SEP 11
+- [ ] Texas Aerospace Scholars Research Brief Development Opportunity at NASA Johnson Space Center: Apply for the... https://opportunitiesforyouth.org/2026/08/25/texas-aerospace-scholars-research-brief-development-opportunity-at-nasa-johnson-space-center-apply-for-the-spring-2027-program/ SEP 11
 
 </details>
 
