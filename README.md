@@ -432,6 +432,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] University of Birmingham Cadbury Postdoctoral Fellowship 2027: Earn Up to £48,822 in African History and Af... https://opportunitiesforyouth.org/2026/08/25/university-of-birmingham-cadbury-postdoctoral-fellowship-2027-earn-up-to-48822-in-african-history-and-african-studies/ AUG 29
 - [ ] British Council Free Online Courses 2026 https://www.opportunitiescircle.com/british-council-free-online-courses/ AUG 27
 - [ ] Stamps Scholars Program 2026 in UK and USA https://www.opportunitiescircle.com/stamps-scholars-program/ AUG 27
+- [ ] UNFPA Human Rights Officer Consultant in Accra, Ghana: Apply for the 9-Month Individual Consultancy Before... https://opportunitiesforyouth.org/2026/08/26/unfpa-human-rights-officer-consultant-in-accra-ghana-apply-for-the-9-month-individual-consultancy-before-31-august-2026/ AUG 28
 
 </details>
 
@@ -494,6 +495,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Turin University Scholarships In Italy 2027 (Funded) https://opportunityportal.info/turin-university-scholarships/ SEP 5
 - [ ] Fully Funded PhD in Global Talent Mobility and Europe’s Strategic Autonomy at Utrecht University: €4,051 Mo... https://opportunitiesforyouth.org/2026/08/25/fully-funded-phd-in-global-talent-mobility-and-europes-strategic-autonomy-at-utrecht-university-e4051-monthly-salary/ SEP 11
 - [ ] Texas Aerospace Scholars Research Brief Development Opportunity at NASA Johnson Space Center: Apply for the... https://opportunitiesforyouth.org/2026/08/25/texas-aerospace-scholars-research-brief-development-opportunity-at-nasa-johnson-space-center-apply-for-the-spring-2027-program/ SEP 11
+- [ ] GEF SGP CSO Challenge Program: Grants of Up to $300,000 for Civil Society Organizations Leading Environment... https://opportunitiesforyouth.org/2026/08/25/gender-equality-fund-small-grants-for-adolescent-girls-and-young-women-led-or-serving-organizations-in-nigeria/ SEP 12
 
 </details>
 
