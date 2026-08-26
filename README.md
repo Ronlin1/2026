@@ -433,6 +433,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] British Council Free Online Courses 2026 https://www.opportunitiescircle.com/british-council-free-online-courses/ AUG 27
 - [ ] Stamps Scholars Program 2026 in UK and USA https://www.opportunitiescircle.com/stamps-scholars-program/ AUG 27
 - [ ] UNFPA Human Rights Officer Consultant in Accra, Ghana: Apply for the 9-Month Individual Consultancy Before... https://opportunitiesforyouth.org/2026/08/26/unfpa-human-rights-officer-consultant-in-accra-ghana-apply-for-the-9-month-individual-consultancy-before-31-august-2026/ AUG 28
+- [ ] We Are Not Waiting 2026: Young Changemakers Aged 14–35 Invited to Submit Abstracts for Global Youth-Led Sys... https://opportunitiesforyouth.org/2026/08/26/we-are-not-waiting/ AUG 28
+- [ ] AARP Foundation California Quality Employment Grant 2026: Up to $750,000 for Projects Supporting Older Workers https://opportunitiesforyouth.org/2026/08/26/aarp-foundation-california-quality-employment-grant-2026-up-to-750000-for-projects-supporting-older-workers/ AUG 29
 
 </details>
 
