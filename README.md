@@ -430,6 +430,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AgenTrust Fellowship to Advance Open Standards for Verifiable AI Agents 2026 https://opportunitydesk.org/2026/08/25/agentrust-fellowship-2026/ AUG 26
 - [ ] Center for Applied Artificial Intelligence Second Year AI Fellowship 2026-2027 https://opportunitydesk.org/2026/08/25/caai-second-year-ai-fellowship-2026-2027/ AUG 28
 - [ ] University of Birmingham Cadbury Postdoctoral Fellowship 2027: Earn Up to £48,822 in African History and Af... https://opportunitiesforyouth.org/2026/08/25/university-of-birmingham-cadbury-postdoctoral-fellowship-2027-earn-up-to-48822-in-african-history-and-african-studies/ AUG 29
+- [ ] British Council Free Online Courses 2026 https://www.opportunitiescircle.com/british-council-free-online-courses/ AUG 27
+- [ ] Stamps Scholars Program 2026 in UK and USA https://www.opportunitiescircle.com/stamps-scholars-program/ AUG 27
 
 </details>
 
