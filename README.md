@@ -440,6 +440,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Jobberman Monitoring, Evaluation, Research and Learning (MERL) Fellowship 2026 https://opportunitydesk.org/2026/08/26/jobberman-merl-fellowship-2026/ AUG 27
 - [ ] Fully Funded UCL PhD Studentships 2026 in Social Networks, Stereotypes and Social Inequalities – Open to In... https://opportunitiesforyouth.org/2026/08/27/fully-funded-ucl-phd-studentships-2026-in-social-networks-stereotypes-and-social-inequalities-open-to-international-applicants/ AUG 29
 - [ ] Investigative Reporters and Editors (IRE) Freelance Fellowship 2026 https://opportunitydesk.org/2026/08/27/ire-freelance-fellowship-2026/ AUG 29
+- [ ] Southwest Airlines 2027 Internship Opportunities: Campus Reach Information Sessions and How to Prepare https://opportunitiesforyouth.org/2026/08/27/southwest-airlines-2027-internship-opportunities-campus-reach-information-sessions-and-how-to-prepare/ AUG 28
 
 </details>
 
@@ -504,6 +505,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Texas Aerospace Scholars Research Brief Development Opportunity at NASA Johnson Space Center: Apply for the... https://opportunitiesforyouth.org/2026/08/25/texas-aerospace-scholars-research-brief-development-opportunity-at-nasa-johnson-space-center-apply-for-the-spring-2027-program/ SEP 11
 - [ ] GEF SGP CSO Challenge Program: Grants of Up to $300,000 for Civil Society Organizations Leading Environment... https://opportunitiesforyouth.org/2026/08/25/gender-equality-fund-small-grants-for-adolescent-girls-and-young-women-led-or-serving-organizations-in-nigeria/ SEP 12
 - [ ] Chatham House Research Associate – Digital Society Programme: £38,000 Permanent Job in London https://opportunitiesforyouth.org/2026/08/27/chatham-house-research-associate-digital-society-programme-38000-permanent-job-in-london/ SEP 4
+- [ ] The African Investigative Journalism Conference Fellowships 2026 https://www.opportunitiesforafricans.com/the-african-investigative-journalism-conference-aijc-fellowships-2026/ SEP 1
 
 </details>
 
