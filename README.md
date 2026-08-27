@@ -439,6 +439,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] University of Cambridge DE-GSJ Free Online Courses 2026: Apply for Fully Funded Sustainability, Climate and... https://opportunitiesforyouth.org/2026/08/26/cambridge-de-gsj/ AUG 29
 - [ ] Jobberman Monitoring, Evaluation, Research and Learning (MERL) Fellowship 2026 https://opportunitydesk.org/2026/08/26/jobberman-merl-fellowship-2026/ AUG 27
 - [ ] Fully Funded UCL PhD Studentships 2026 in Social Networks, Stereotypes and Social Inequalities – Open to In... https://opportunitiesforyouth.org/2026/08/27/fully-funded-ucl-phd-studentships-2026-in-social-networks-stereotypes-and-social-inequalities-open-to-international-applicants/ AUG 29
+- [ ] Investigative Reporters and Editors (IRE) Freelance Fellowship 2026 https://opportunitydesk.org/2026/08/27/ire-freelance-fellowship-2026/ AUG 29
 
 </details>
 
@@ -502,6 +503,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Fully Funded PhD in Global Talent Mobility and Europe’s Strategic Autonomy at Utrecht University: €4,051 Mo... https://opportunitiesforyouth.org/2026/08/25/fully-funded-phd-in-global-talent-mobility-and-europes-strategic-autonomy-at-utrecht-university-e4051-monthly-salary/ SEP 11
 - [ ] Texas Aerospace Scholars Research Brief Development Opportunity at NASA Johnson Space Center: Apply for the... https://opportunitiesforyouth.org/2026/08/25/texas-aerospace-scholars-research-brief-development-opportunity-at-nasa-johnson-space-center-apply-for-the-spring-2027-program/ SEP 11
 - [ ] GEF SGP CSO Challenge Program: Grants of Up to $300,000 for Civil Society Organizations Leading Environment... https://opportunitiesforyouth.org/2026/08/25/gender-equality-fund-small-grants-for-adolescent-girls-and-young-women-led-or-serving-organizations-in-nigeria/ SEP 12
+- [ ] Chatham House Research Associate – Digital Society Programme: £38,000 Permanent Job in London https://opportunitiesforyouth.org/2026/08/27/chatham-house-research-associate-digital-society-programme-38000-permanent-job-in-london/ SEP 4
 
 </details>
 
