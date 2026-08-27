@@ -437,6 +437,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AARP Foundation California Quality Employment Grant 2026: Up to $750,000 for Projects Supporting Older Workers https://opportunitiesforyouth.org/2026/08/26/aarp-foundation-california-quality-employment-grant-2026-up-to-750000-for-projects-supporting-older-workers/ AUG 29
 - [ ] La Trobe University Project-Based Graduate Research Scholarships 2026/27 https://www.opportunitiescircle.com/la-trobe-university-project-based-graduate-research-scholarships/ AUG 27
 - [ ] University of Cambridge DE-GSJ Free Online Courses 2026: Apply for Fully Funded Sustainability, Climate and... https://opportunitiesforyouth.org/2026/08/26/cambridge-de-gsj/ AUG 29
+- [ ] Jobberman Monitoring, Evaluation, Research and Learning (MERL) Fellowship 2026 https://opportunitydesk.org/2026/08/26/jobberman-merl-fellowship-2026/ AUG 27
+- [ ] Fully Funded UCL PhD Studentships 2026 in Social Networks, Stereotypes and Social Inequalities – Open to In... https://opportunitiesforyouth.org/2026/08/27/fully-funded-ucl-phd-studentships-2026-in-social-networks-stereotypes-and-social-inequalities-open-to-international-applicants/ AUG 29
 
 </details>
 
