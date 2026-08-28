@@ -514,6 +514,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ARES Belgium Training Scholarships 2027–2028 (Fully Funded) https://opportunityportal.info/ares-belgium-training-scholarships/ SEP 1
 - [ ] WHO 2026 Urban Health Training: Apply for the Urban Health Capacity Assessment and Response Kit Training https://opportunitiesforyouth.org/2026/08/28/call-for-applicants-1st-who-training-on-the-urban-health-capacity-assessment-and-response-resource-kit/ SEP 1
 - [ ] UN Political Integrity Traineeship 2026 in Brussels: Paid 6-Month EU Policy and Anti-Corruption Opportunity... https://opportunitiesforyouth.org/2026/08/28/un-political-integrity-traineeship-2026-in-brussels-paid-6-month-eu-policy-and-anti-corruption-opportunity-at-transparency-international-eu/ SEP 3
+- [ ] Ogilvy South Africa 2027 Ogilvy Giants Graduate Programme for young South Africans. https://www.opportunitiesforafricans.com/ogilvy-south-africa-2027-ogilvy-giants-og-graduate-programme-for-young-south-africans/ SEP 4
+- [ ] The Cybersafe x SANS AI Security Fellowship 2026 https://www.opportunitiesforafricans.com/the-cybersafe-x-sans-ai-security-fellowship-2026-for-african-women-in-cybersecurity/ SEP 7
 
 </details>
 
