@@ -510,6 +510,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Civic Action DiverseCity Fellows Program 2027-2028 https://opportunitydesk.org/2026/08/27/civic-action-diversecity-fellows-program-2027-2028/ SEP 4
 - [ ] Fostering the Future Together: $15 Million U.S. Grant Opportunity to Protect Children Online and Empower Yo... https://opportunitiesforyouth.org/2026/08/27/fostering-the-future-together-15-million-u-s-grant-opportunity-to-protect-children-online-and-empower-youth-globally/ SEP 7
 - [ ] Defra Research and Development Fellowship Programme 2027/28: Fully Funded UK Government Fellowship for Scie... https://opportunitiesforyouth.org/2026/08/27/defra-research-and-development-fellowship-programme-2027-28-fully-funded-uk-government-fellowship-for-scientists-researchers-and-analysts/ SEP 11
+- [ ] African Investigative Journalism Conference Fellowship 2026 https://opportunitydesk.org/2026/08/28/aijc-fellowship-2026-for-french-speaking-journalists/ SEP 1
+- [ ] ARES Belgium Training Scholarships 2027–2028 (Fully Funded) https://opportunityportal.info/ares-belgium-training-scholarships/ SEP 1
 
 </details>
 
