@@ -512,6 +512,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Defra Research and Development Fellowship Programme 2027/28: Fully Funded UK Government Fellowship for Scie... https://opportunitiesforyouth.org/2026/08/27/defra-research-and-development-fellowship-programme-2027-28-fully-funded-uk-government-fellowship-for-scientists-researchers-and-analysts/ SEP 11
 - [ ] African Investigative Journalism Conference Fellowship 2026 https://opportunitydesk.org/2026/08/28/aijc-fellowship-2026-for-french-speaking-journalists/ SEP 1
 - [ ] ARES Belgium Training Scholarships 2027–2028 (Fully Funded) https://opportunityportal.info/ares-belgium-training-scholarships/ SEP 1
+- [ ] WHO 2026 Urban Health Training: Apply for the Urban Health Capacity Assessment and Response Kit Training https://opportunitiesforyouth.org/2026/08/28/call-for-applicants-1st-who-training-on-the-urban-health-capacity-assessment-and-response-resource-kit/ SEP 1
+- [ ] UN Political Integrity Traineeship 2026 in Brussels: Paid 6-Month EU Policy and Anti-Corruption Opportunity... https://opportunitiesforyouth.org/2026/08/28/un-political-integrity-traineeship-2026-in-brussels-paid-6-month-eu-policy-and-anti-corruption-opportunity-at-transparency-international-eu/ SEP 3
 
 </details>
 
