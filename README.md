@@ -516,6 +516,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UN Political Integrity Traineeship 2026 in Brussels: Paid 6-Month EU Policy and Anti-Corruption Opportunity... https://opportunitiesforyouth.org/2026/08/28/un-political-integrity-traineeship-2026-in-brussels-paid-6-month-eu-policy-and-anti-corruption-opportunity-at-transparency-international-eu/ SEP 3
 - [ ] Ogilvy South Africa 2027 Ogilvy Giants Graduate Programme for young South Africans. https://www.opportunitiesforafricans.com/ogilvy-south-africa-2027-ogilvy-giants-og-graduate-programme-for-young-south-africans/ SEP 4
 - [ ] The Cybersafe x SANS AI Security Fellowship 2026 https://www.opportunitiesforafricans.com/the-cybersafe-x-sans-ai-security-fellowship-2026-for-african-women-in-cybersecurity/ SEP 7
+- [ ] Cybersafe x SANS AI Security Fellowship 2026 (Fully-funded) https://opportunitydesk.org/2026/08/28/cybersafe-x-sans-ai-security-fellowship-2026/ SEP 7
+- [ ] Defra Research and Development Fellowship Programme 2026 https://opportunitydesk.org/2026/08/28/defra-research-and-development-fellowship-programme-2026/ SEP 11
 
 </details>
 
