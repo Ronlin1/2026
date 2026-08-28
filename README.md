@@ -508,6 +508,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Chatham House Research Associate – Digital Society Programme: £38,000 Permanent Job in London https://opportunitiesforyouth.org/2026/08/27/chatham-house-research-associate-digital-society-programme-38000-permanent-job-in-london/ SEP 4
 - [ ] The African Investigative Journalism Conference Fellowships 2026 https://www.opportunitiesforafricans.com/the-african-investigative-journalism-conference-aijc-fellowships-2026/ SEP 1
 - [ ] Civic Action DiverseCity Fellows Program 2027-2028 https://opportunitydesk.org/2026/08/27/civic-action-diversecity-fellows-program-2027-2028/ SEP 4
+- [ ] Fostering the Future Together: $15 Million U.S. Grant Opportunity to Protect Children Online and Empower Yo... https://opportunitiesforyouth.org/2026/08/27/fostering-the-future-together-15-million-u-s-grant-opportunity-to-protect-children-online-and-empower-youth-globally/ SEP 7
+- [ ] Defra Research and Development Fellowship Programme 2027/28: Fully Funded UK Government Fellowship for Scie... https://opportunitiesforyouth.org/2026/08/27/defra-research-and-development-fellowship-programme-2027-28-fully-funded-uk-government-fellowship-for-scientists-researchers-and-analysts/ SEP 11
 
 </details>
 
