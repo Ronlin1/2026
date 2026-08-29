@@ -526,6 +526,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Mission 44 Trustee Board Members Opportunity 2026: Apply for a Leadership Role in Driving Social Change https://opportunitiesforyouth.org/2026/08/29/mission-44-trustee-board-members-opportunity-2026-apply-for-a-leadership-role-in-driving-social-change/ SEP 10
 - [ ] Tara’s Circle 2026 for Women Entrepreneurs (up to €20,000) https://opportunitydesk.org/2026/08/29/tara-circle-2026/ SEP 14
 - [ ] ARES Scholarships 2027–2028 in Belgium: Fully Funded International Training Opportunities https://oyaop.com/opportunity/scholarships-and-fellowships/ares-scholarships-2027-2028-in-belgium-fully-funded-international-training-opportunities/ SEP 15
+- [ ] Harpswell Leadership Residency 2027 in Cambodia | Funded https://scholarshipscorner.website/harpswell-leadership-residency-cambodia/ SEP 15
+- [ ] Stigler Center Journalists in Residence Program 2027 in USA (Fully Funded) https://scholarshipscorner.website/stigler-center-journalists-in-residence-program/ SEP 17
 
 </details>
 
