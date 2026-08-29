@@ -442,6 +442,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Investigative Reporters and Editors (IRE) Freelance Fellowship 2026 https://opportunitydesk.org/2026/08/27/ire-freelance-fellowship-2026/ AUG 29
 - [ ] Southwest Airlines 2027 Internship Opportunities: Campus Reach Information Sessions and How to Prepare https://opportunitiesforyouth.org/2026/08/27/southwest-airlines-2027-internship-opportunities-campus-reach-information-sessions-and-how-to-prepare/ AUG 28
 - [ ] 2027 KAIST University Graduate Scholarship in Korea For International Students https://www.scholarshipregion.com/kaist-university-graduate-scholarship/ AUG 29
+- [ ] Commonwealth Startup Fellowship In UK 2027 (Fully Funded) https://opportunityportal.info/commonwealth-startup-fellowship/ AUG 29
 
 </details>
 
@@ -520,6 +521,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Defra Research and Development Fellowship Programme 2026 https://opportunitydesk.org/2026/08/28/defra-research-and-development-fellowship-programme-2026/ SEP 11
 - [ ] ACT-PREP PhD and Postdoctoral Fellowships 2026: Apply for 25 Funded Research Opportunities in Africa https://opportunitiesforyouth.org/2026/08/28/act-prep-phd-and-postdoctoral-fellowships-2026-apply-for-25-funded-research-opportunities-in-africa/ SEP 12
 - [ ] MOVE Fund 2026: Apply for Two-Year Grants of $40,000–$150,000 for Sport and Youth Development Coalitions https://opportunitiesforyouth.org/2026/08/28/move-fund-2026-apply-for-two-year-grants-of-40000-150000-for-sport-and-youth-development-coalitions/ SEP 13
+- [ ] Nonprofit Open Source Partnership 2026: Free Technical Support, 800 Hours of Development and Open Source Tr... https://opportunitiesforyouth.org/2026/08/29/nonprofit-open-source-partnership-2026-free-technical-support-800-hours-of-development-and-open-source-transformation-for-nonprofits/ SEP 6
 
 </details>
 
