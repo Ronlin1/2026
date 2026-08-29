@@ -518,6 +518,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Cybersafe x SANS AI Security Fellowship 2026 https://www.opportunitiesforafricans.com/the-cybersafe-x-sans-ai-security-fellowship-2026-for-african-women-in-cybersecurity/ SEP 7
 - [ ] Cybersafe x SANS AI Security Fellowship 2026 (Fully-funded) https://opportunitydesk.org/2026/08/28/cybersafe-x-sans-ai-security-fellowship-2026/ SEP 7
 - [ ] Defra Research and Development Fellowship Programme 2026 https://opportunitydesk.org/2026/08/28/defra-research-and-development-fellowship-programme-2026/ SEP 11
+- [ ] ACT-PREP PhD and Postdoctoral Fellowships 2026: Apply for 25 Funded Research Opportunities in Africa https://opportunitiesforyouth.org/2026/08/28/act-prep-phd-and-postdoctoral-fellowships-2026-apply-for-25-funded-research-opportunities-in-africa/ SEP 12
+- [ ] MOVE Fund 2026: Apply for Two-Year Grants of $40,000–$150,000 for Sport and Youth Development Coalitions https://opportunitiesforyouth.org/2026/08/28/move-fund-2026-apply-for-two-year-grants-of-40000-150000-for-sport-and-youth-development-coalitions/ SEP 13
 
 </details>
 
