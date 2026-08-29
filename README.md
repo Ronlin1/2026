@@ -524,6 +524,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Nonprofit Open Source Partnership 2026: Free Technical Support, 800 Hours of Development and Open Source Tr... https://opportunitiesforyouth.org/2026/08/29/nonprofit-open-source-partnership-2026-free-technical-support-800-hours-of-development-and-open-source-transformation-for-nonprofits/ SEP 6
 - [ ] Caribbean Biodiversity Fund Board of Directors 2026: Call for Expressions of Interest and Nominations https://opportunitiesforyouth.org/2026/08/29/caribbean-biodiversity-fund-board-of-directors-2026-call-for-expressions-of-interest-and-nominations/ SEP 4
 - [ ] Mission 44 Trustee Board Members Opportunity 2026: Apply for a Leadership Role in Driving Social Change https://opportunitiesforyouth.org/2026/08/29/mission-44-trustee-board-members-opportunity-2026-apply-for-a-leadership-role-in-driving-social-change/ SEP 10
+- [ ] Tara’s Circle 2026 for Women Entrepreneurs (up to €20,000) https://opportunitydesk.org/2026/08/29/tara-circle-2026/ SEP 14
+- [ ] ARES Scholarships 2027–2028 in Belgium: Fully Funded International Training Opportunities https://oyaop.com/opportunity/scholarships-and-fellowships/ares-scholarships-2027-2028-in-belgium-fully-funded-international-training-opportunities/ SEP 15
 
 </details>
 
