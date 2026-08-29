@@ -522,6 +522,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ACT-PREP PhD and Postdoctoral Fellowships 2026: Apply for 25 Funded Research Opportunities in Africa https://opportunitiesforyouth.org/2026/08/28/act-prep-phd-and-postdoctoral-fellowships-2026-apply-for-25-funded-research-opportunities-in-africa/ SEP 12
 - [ ] MOVE Fund 2026: Apply for Two-Year Grants of $40,000–$150,000 for Sport and Youth Development Coalitions https://opportunitiesforyouth.org/2026/08/28/move-fund-2026-apply-for-two-year-grants-of-40000-150000-for-sport-and-youth-development-coalitions/ SEP 13
 - [ ] Nonprofit Open Source Partnership 2026: Free Technical Support, 800 Hours of Development and Open Source Tr... https://opportunitiesforyouth.org/2026/08/29/nonprofit-open-source-partnership-2026-free-technical-support-800-hours-of-development-and-open-source-transformation-for-nonprofits/ SEP 6
+- [ ] Caribbean Biodiversity Fund Board of Directors 2026: Call for Expressions of Interest and Nominations https://opportunitiesforyouth.org/2026/08/29/caribbean-biodiversity-fund-board-of-directors-2026-call-for-expressions-of-interest-and-nominations/ SEP 4
+- [ ] Mission 44 Trustee Board Members Opportunity 2026: Apply for a Leadership Role in Driving Social Change https://opportunitiesforyouth.org/2026/08/29/mission-44-trustee-board-members-opportunity-2026-apply-for-a-leadership-role-in-driving-social-change/ SEP 10
 
 </details>
 
