@@ -530,6 +530,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Harpswell Leadership Residency 2027 in Cambodia | Funded https://scholarshipscorner.website/harpswell-leadership-residency-cambodia/ SEP 15
 - [ ] Stigler Center Journalists in Residence Program 2027 in USA (Fully Funded) https://scholarshipscorner.website/stigler-center-journalists-in-residence-program/ SEP 17
 - [ ] UNCTAD Supply Chain Innovation Challenge 2026: Submit Your Frontier Technology Solution and Present at the... https://opportunitiesforyouth.org/2026/08/30/unctad-supply-chain/ SEP 1
+- [ ] Co-operatives UK Youth Advisory Group 2026: Paid Opportunity for Young People Aged 16–30 to Shape the Futur... https://opportunitiesforyouth.org/2026/08/30/uk-youth-advisory-2026/ SEP 3
+- [ ] University of Cape Town PhD Scholarships 2027: Two Funded Health Research Positions Worth R315,000 Per Year https://opportunitiesforyouth.org/2026/08/30/cape-town-phd-2027/ SEP 11
 
 </details>
 
