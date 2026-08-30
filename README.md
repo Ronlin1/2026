@@ -532,6 +532,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNCTAD Supply Chain Innovation Challenge 2026: Submit Your Frontier Technology Solution and Present at the... https://opportunitiesforyouth.org/2026/08/30/unctad-supply-chain/ SEP 1
 - [ ] Co-operatives UK Youth Advisory Group 2026: Paid Opportunity for Young People Aged 16–30 to Shape the Futur... https://opportunitiesforyouth.org/2026/08/30/uk-youth-advisory-2026/ SEP 3
 - [ ] University of Cape Town PhD Scholarships 2027: Two Funded Health Research Positions Worth R315,000 Per Year https://opportunitiesforyouth.org/2026/08/30/cape-town-phd-2027/ SEP 11
+- [ ] UN Youth Townhall 2026 in Germany ( Fully Funded) https://scholarshipscorner.website/un-youth-townhall-germany/ SEP 4
+- [ ] CDT Non-Resident Fellows Program 2026: Two-Year Technology Policy Fellowship for Leading Academics and Rese... https://opportunitiesforyouth.org/2026/08/30/cdt-non-resident/ SEP 15
 
 </details>
 
