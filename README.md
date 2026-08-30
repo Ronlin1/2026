@@ -534,6 +534,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] University of Cape Town PhD Scholarships 2027: Two Funded Health Research Positions Worth R315,000 Per Year https://opportunitiesforyouth.org/2026/08/30/cape-town-phd-2027/ SEP 11
 - [ ] UN Youth Townhall 2026 in Germany ( Fully Funded) https://scholarshipscorner.website/un-youth-townhall-germany/ SEP 4
 - [ ] CDT Non-Resident Fellows Program 2026: Two-Year Technology Policy Fellowship for Leading Academics and Rese... https://opportunitiesforyouth.org/2026/08/30/cdt-non-resident/ SEP 15
+- [ ] UN Junior Professional Officer Programme 2026: Belgium-Funded Opportunities in Political Affairs, Humanitar... https://opportunitiesforyouth.org/2026/08/30/junior-professional-officer-jpo-program-united-nations-young-professionals-internship-funded-by-belgium/ SEP 15
+- [ ] Chicago Booth Journalists in Residence Program 2027 https://oyaop.com/opportunity/exchange-programs/chicago-booth-journalists-in-residence-program-2027/ SEP 17
 
 </details>
 
