@@ -443,6 +443,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Southwest Airlines 2027 Internship Opportunities: Campus Reach Information Sessions and How to Prepare https://opportunitiesforyouth.org/2026/08/27/southwest-airlines-2027-internship-opportunities-campus-reach-information-sessions-and-how-to-prepare/ AUG 28
 - [ ] 2027 KAIST University Graduate Scholarship in Korea For International Students https://www.scholarshipregion.com/kaist-university-graduate-scholarship/ AUG 29
 - [ ] Commonwealth Startup Fellowship In UK 2027 (Fully Funded) https://opportunityportal.info/commonwealth-startup-fellowship/ AUG 29
+- [ ] British Embassy France Internships 2026 | Apply for Internship Opportunities in Paris https://opportunitiesforyouth.org/2026/08/29/british-embassy-france-internships-2026-apply-for-internship-opportunities-in-paris/ AUG 30
 
 </details>
 
@@ -528,6 +529,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ARES Scholarships 2027–2028 in Belgium: Fully Funded International Training Opportunities https://oyaop.com/opportunity/scholarships-and-fellowships/ares-scholarships-2027-2028-in-belgium-fully-funded-international-training-opportunities/ SEP 15
 - [ ] Harpswell Leadership Residency 2027 in Cambodia | Funded https://scholarshipscorner.website/harpswell-leadership-residency-cambodia/ SEP 15
 - [ ] Stigler Center Journalists in Residence Program 2027 in USA (Fully Funded) https://scholarshipscorner.website/stigler-center-journalists-in-residence-program/ SEP 17
+- [ ] UNCTAD Supply Chain Innovation Challenge 2026: Submit Your Frontier Technology Solution and Present at the... https://opportunitiesforyouth.org/2026/08/30/unctad-supply-chain/ SEP 1
 
 </details>
 
