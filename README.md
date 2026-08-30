@@ -536,6 +536,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CDT Non-Resident Fellows Program 2026: Two-Year Technology Policy Fellowship for Leading Academics and Rese... https://opportunitiesforyouth.org/2026/08/30/cdt-non-resident/ SEP 15
 - [ ] UN Junior Professional Officer Programme 2026: Belgium-Funded Opportunities in Political Affairs, Humanitar... https://opportunitiesforyouth.org/2026/08/30/junior-professional-officer-jpo-program-united-nations-young-professionals-internship-funded-by-belgium/ SEP 15
 - [ ] Chicago Booth Journalists in Residence Program 2027 https://oyaop.com/opportunity/exchange-programs/chicago-booth-journalists-in-residence-program-2027/ SEP 17
+- [ ] Call for Research Proposals: Economic Opportunities for Women and Men — How Regulation and Fiscal Policy Sh... https://opportunitiesforyouth.org/2026/08/30/call-for-research-proposals-economic-opportunities-for-women-and-men-how-regulation-and-fiscal-policy-shape-economic-opportunities-in-latin-america-and-the-caribbean/ SEP 21
+- [ ] Rhodes University Patrick & Margaret Flanagan Scholarship For Africans 2027 | Fully Funded https://www.scholarshipregion.com/patrick-margaret-flanagan-scholarship/ SEP 21
 
 </details>
 
