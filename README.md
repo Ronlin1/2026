@@ -444,6 +444,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2027 KAIST University Graduate Scholarship in Korea For International Students https://www.scholarshipregion.com/kaist-university-graduate-scholarship/ AUG 29
 - [ ] Commonwealth Startup Fellowship In UK 2027 (Fully Funded) https://opportunityportal.info/commonwealth-startup-fellowship/ AUG 29
 - [ ] British Embassy France Internships 2026 | Apply for Internship Opportunities in Paris https://opportunitiesforyouth.org/2026/08/29/british-embassy-france-internships-2026-apply-for-internship-opportunities-in-paris/ AUG 30
+- [ ] World Bank Young Professionals Program 2027 in the USA | WBG YPP https://scholarshipscorner.website/world-bank-young-professionals-program/ AUG 31
 
 </details>
 
@@ -540,6 +541,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Rhodes University Patrick & Margaret Flanagan Scholarship For Africans 2027 | Fully Funded https://www.scholarshipregion.com/patrick-margaret-flanagan-scholarship/ SEP 21
 - [ ] Management Intern, Mastercard Foundation Scholars Program at Arizona State University: $21/Hour Opportunity... https://opportunitiesforyouth.org/2026/08/30/2025-arizona-state-university-asu-fully-funded-online-graduate-certificate-scholarships-in-supply-chain-management-and-global-management-entrepreneurship-and-innovation/ SEP 1
 - [ ] The University of British Columbia Mastercard Foundation Scholars Program 2027/2028 https://www.opportunitiesforafricans.com/university-of-british-columbia-mastercard-foundation-scholars-program-2027/ SEP 3
+- [ ] 2026 Baobab Platform Mentorship Program for African Youth: Apply by 6 September 2026 https://opportunitiesforyouth.org/2026/08/31/2026-baobab-platform-mentorship-program-for-african-youth-apply-by-6-september-2026/ SEP 3
 
 </details>
 
