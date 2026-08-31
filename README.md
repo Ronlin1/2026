@@ -544,6 +544,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2026 Baobab Platform Mentorship Program for African Youth: Apply by 6 September 2026 https://opportunitiesforyouth.org/2026/08/31/2026-baobab-platform-mentorship-program-for-african-youth-apply-by-6-september-2026/ SEP 3
 - [ ] UN Chemicals and Waste Management Study Programme 2026: Fully Funded Youth Scholarship in Geneva https://oyaop.com/opportunity/exchange-programs/un-chemicals-and-waste-management-study-programme-2026-fully-funded-youth-scholarship-in-geneva/ SEP 8
 - [ ] Do Good Accelerator 2026 ($2,000 stipend) https://opportunitydesk.org/2026/08/31/do-good-accelerator-2026/ SEP 11
+- [ ] Call for Innovative Green Education Action Projects 2026: Share Your Climate Education Project and Win a Fu... https://opportunitiesforyouth.org/2026/08/31/call-for-innovative-green-education-action-projects-2026-share-your-climate-education-project-and-win-a-fully-funded-visit-to-brussels/ SEP 3
+- [ ] Center for Democracy & Technology (CDT) Non-Resident Fellows Program 2026 https://opportunitydesk.org/2026/08/31/cdt-non-resident-fellows-program-2026/ SEP 15
 
 </details>
 
