@@ -538,6 +538,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Chicago Booth Journalists in Residence Program 2027 https://oyaop.com/opportunity/exchange-programs/chicago-booth-journalists-in-residence-program-2027/ SEP 17
 - [ ] Call for Research Proposals: Economic Opportunities for Women and Men — How Regulation and Fiscal Policy Sh... https://opportunitiesforyouth.org/2026/08/30/call-for-research-proposals-economic-opportunities-for-women-and-men-how-regulation-and-fiscal-policy-shape-economic-opportunities-in-latin-america-and-the-caribbean/ SEP 21
 - [ ] Rhodes University Patrick & Margaret Flanagan Scholarship For Africans 2027 | Fully Funded https://www.scholarshipregion.com/patrick-margaret-flanagan-scholarship/ SEP 21
+- [ ] Management Intern, Mastercard Foundation Scholars Program at Arizona State University: $21/Hour Opportunity... https://opportunitiesforyouth.org/2026/08/30/2025-arizona-state-university-asu-fully-funded-online-graduate-certificate-scholarships-in-supply-chain-management-and-global-management-entrepreneurship-and-innovation/ SEP 1
+- [ ] The University of British Columbia Mastercard Foundation Scholars Program 2027/2028 https://www.opportunitiesforafricans.com/university-of-british-columbia-mastercard-foundation-scholars-program-2027/ SEP 3
 
 </details>
 
