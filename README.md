@@ -542,6 +542,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Management Intern, Mastercard Foundation Scholars Program at Arizona State University: $21/Hour Opportunity... https://opportunitiesforyouth.org/2026/08/30/2025-arizona-state-university-asu-fully-funded-online-graduate-certificate-scholarships-in-supply-chain-management-and-global-management-entrepreneurship-and-innovation/ SEP 1
 - [ ] The University of British Columbia Mastercard Foundation Scholars Program 2027/2028 https://www.opportunitiesforafricans.com/university-of-british-columbia-mastercard-foundation-scholars-program-2027/ SEP 3
 - [ ] 2026 Baobab Platform Mentorship Program for African Youth: Apply by 6 September 2026 https://opportunitiesforyouth.org/2026/08/31/2026-baobab-platform-mentorship-program-for-african-youth-apply-by-6-september-2026/ SEP 3
+- [ ] UN Chemicals and Waste Management Study Programme 2026: Fully Funded Youth Scholarship in Geneva https://oyaop.com/opportunity/exchange-programs/un-chemicals-and-waste-management-study-programme-2026-fully-funded-youth-scholarship-in-geneva/ SEP 8
+- [ ] Do Good Accelerator 2026 ($2,000 stipend) https://opportunitydesk.org/2026/08/31/do-good-accelerator-2026/ SEP 11
 
 </details>
 
