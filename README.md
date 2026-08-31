@@ -546,6 +546,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Do Good Accelerator 2026 ($2,000 stipend) https://opportunitydesk.org/2026/08/31/do-good-accelerator-2026/ SEP 11
 - [ ] Call for Innovative Green Education Action Projects 2026: Share Your Climate Education Project and Win a Fu... https://opportunitiesforyouth.org/2026/08/31/call-for-innovative-green-education-action-projects-2026-share-your-climate-education-project-and-win-a-fully-funded-visit-to-brussels/ SEP 3
 - [ ] Center for Democracy & Technology (CDT) Non-Resident Fellows Program 2026 https://opportunitydesk.org/2026/08/31/cdt-non-resident-fellows-program-2026/ SEP 15
+- [ ] ITU Free Online Course 2026: Responsible Digital Transformation, AI and Data Governance https://oyaop.com/opportunity/scholarships-and-fellowships/itu-free-online-course-2026-responsible-digital-transformation-ai-and-data-governance/ SEP 16
+- [ ] PhD Candidate in Hydroinformatics at IHE Delft: Uncertainty-Aware Optimisation for Robust Water Distributio... https://opportunitiesforyouth.org/2026/08/31/phd-candidate-in-hydroinformatics-at-ihe-delft-uncertainty-aware-optimisation-for-robust-water-distribution-system-operation/ SEP 17
 
 </details>
 
