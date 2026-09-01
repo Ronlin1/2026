@@ -550,6 +550,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] PhD Candidate in Hydroinformatics at IHE Delft: Uncertainty-Aware Optimisation for Robust Water Distributio... https://opportunitiesforyouth.org/2026/08/31/phd-candidate-in-hydroinformatics-at-ihe-delft-uncertainty-aware-optimisation-for-robust-water-distribution-system-operation/ SEP 17
 - [ ] Longview Philanthropy COO / Director of Operations 2026 | Apply by 6 September https://opportunitiesforyouth.org/2026/09/01/longview-philanthropy-coo-director-of-operations-2026-apply-by-6-september/ SEP 3
 - [ ] Mastercard Foundation Scholars Program at University of British Columbia 2027 https://opportunitydesk.org/2026/09/01/mastercard-foundation-scholars-program-at-ubc-2027/ SEP 3
+- [ ] CPJ Recruitment 2026: Apply for Remote Press Freedom Positions in Europe and Central Asia https://opportunitiesforyouth.org/2026/09/01/cpj-recruitment-2026-apply-for-remote-press-freedom-positions-in-europe-and-central-asia/ SEP 7
+- [ ] The AfricaCDC Youth Pre-Conference 2026 https://www.opportunitiesforafricans.com/the-africacdc-youth-pre-conference-2026/ SEP 10
 
 </details>
 
