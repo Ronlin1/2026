@@ -552,6 +552,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Mastercard Foundation Scholars Program at University of British Columbia 2027 https://opportunitydesk.org/2026/09/01/mastercard-foundation-scholars-program-at-ubc-2027/ SEP 3
 - [ ] CPJ Recruitment 2026: Apply for Remote Press Freedom Positions in Europe and Central Asia https://opportunitiesforyouth.org/2026/09/01/cpj-recruitment-2026-apply-for-remote-press-freedom-positions-in-europe-and-central-asia/ SEP 7
 - [ ] The AfricaCDC Youth Pre-Conference 2026 https://www.opportunitiesforafricans.com/the-africacdc-youth-pre-conference-2026/ SEP 10
+- [ ] Why Municipal Youth Participation? European Training Seminar 2026 in Budapest, Hungary https://opportunitiesforyouth.org/2026/09/01/why-municipal-youth-participation-european-training-seminar-2026-in-budapest-hungary/ SEP 12
+- [ ] Tara’s Circle 2026 Global Open Call Offers €100,000 to Women-Led Impact Projects https://opportunitiesforyouth.org/2026/09/01/taras-circle-2026-global-open-call-offers-e100000-to-women-led-impact-projects/ SEP 14
 
 </details>
 
