@@ -548,6 +548,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Center for Democracy & Technology (CDT) Non-Resident Fellows Program 2026 https://opportunitydesk.org/2026/08/31/cdt-non-resident-fellows-program-2026/ SEP 15
 - [ ] ITU Free Online Course 2026: Responsible Digital Transformation, AI and Data Governance https://oyaop.com/opportunity/scholarships-and-fellowships/itu-free-online-course-2026-responsible-digital-transformation-ai-and-data-governance/ SEP 16
 - [ ] PhD Candidate in Hydroinformatics at IHE Delft: Uncertainty-Aware Optimisation for Robust Water Distributio... https://opportunitiesforyouth.org/2026/08/31/phd-candidate-in-hydroinformatics-at-ihe-delft-uncertainty-aware-optimisation-for-robust-water-distribution-system-operation/ SEP 17
+- [ ] Longview Philanthropy COO / Director of Operations 2026 | Apply by 6 September https://opportunitiesforyouth.org/2026/09/01/longview-philanthropy-coo-director-of-operations-2026-apply-by-6-september/ SEP 3
+- [ ] Mastercard Foundation Scholars Program at University of British Columbia 2027 https://opportunitydesk.org/2026/09/01/mastercard-foundation-scholars-program-at-ubc-2027/ SEP 3
 
 </details>
 
