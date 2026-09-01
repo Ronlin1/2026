@@ -554,6 +554,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The AfricaCDC Youth Pre-Conference 2026 https://www.opportunitiesforafricans.com/the-africacdc-youth-pre-conference-2026/ SEP 10
 - [ ] Why Municipal Youth Participation? European Training Seminar 2026 in Budapest, Hungary https://opportunitiesforyouth.org/2026/09/01/why-municipal-youth-participation-european-training-seminar-2026-in-budapest-hungary/ SEP 12
 - [ ] Tara’s Circle 2026 Global Open Call Offers €100,000 to Women-Led Impact Projects https://opportunitiesforyouth.org/2026/09/01/taras-circle-2026-global-open-call-offers-e100000-to-women-led-impact-projects/ SEP 14
+- [ ] CDT Non-Resident Fellows Program 2026 https://oyaop.com/opportunity/scholarships-and-fellowships/cdt-non-resident-fellows-program-2026/ SEP 15
+- [ ] UN Junior Professional Officer Programme 2026 | Three Positions Open https://opportunitiesforyouth.org/2026/09/01/un-junior-professional-officer-programme-2026-three-positions-open/ SEP 15
 
 </details>
 
