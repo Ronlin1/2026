@@ -566,6 +566,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Young Leaders Programme 2026 in Vietnam: Fully Funded Opportunity for Young Researchers to Attend the South... https://opportunitiesforyouth.org/2026/09/02/apply-now-fully-funded-young-leaders-programme-at-the-17th-international-south-china-sea-conference-2025/ SEP 10
 - [ ] Julius Berger Engineer Development Program For Nigerians 2026 | How To Apply https://www.scholarshipregion.com/julius-berger-engineer-development-program/ SEP 11
 - [ ] Creative Changemakers Fellowship (CCMF) 2026 https://opportunitydesk.org/2026/09/02/creative-changemakers-fellowship-2026/ SEP 12
+- [ ] Japan International Cooperation Center Japan-Africa Youth Program 2026 https://www.opportunitiesforafricans.com/japan-international-cooperation-center-jice-japan-africa-youth-program-2026/ SEP 5
+- [ ] The CivicHive Creative Changemakers Fellowship 2026 https://www.opportunitiesforafricans.com/the-civichive-creative-changemakers-fellowship-ccmf-2026-for-young-nigerian-creatives/ SEP 12
 
 </details>
 
