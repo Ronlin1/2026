@@ -564,6 +564,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Young Leaders Programme 2026 in Vietnam: Fully Funded Opportunity for Emerging Leaders Interested in Region... https://opportunitiesforyouth.org/2026/09/02/young-leaders-programme-2026-in-vietnam-fully-funded-opportunity-for-emerging-leaders-interested-in-regional-cooperation-and-maritime-security/ SEP 10
 - [ ] Australian Embassy Direct Aid Program 2026–27: Small Grants for Humanitarian and Development Projects in Le... https://opportunitiesforyouth.org/2026/09/02/australian-embassy-direct-aid-program-2026-27-small-grants-for-humanitarian-and-development-projects-in-lebanon-and-syria/ SEP 8
 - [ ] Young Leaders Programme 2026 in Vietnam: Fully Funded Opportunity for Young Researchers to Attend the South... https://opportunitiesforyouth.org/2026/09/02/apply-now-fully-funded-young-leaders-programme-at-the-17th-international-south-china-sea-conference-2025/ SEP 10
+- [ ] Julius Berger Engineer Development Program For Nigerians 2026 | How To Apply https://www.scholarshipregion.com/julius-berger-engineer-development-program/ SEP 11
+- [ ] Creative Changemakers Fellowship (CCMF) 2026 https://opportunitydesk.org/2026/09/02/creative-changemakers-fellowship-2026/ SEP 12
 
 </details>
 
