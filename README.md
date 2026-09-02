@@ -562,6 +562,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Africa CDC Youth Pre-Conference 2026 (Funded) https://opportunitydesk.org/2026/09/02/africa-cdc-youth-pre-conference-2026-funded/ SEP 10
 - [ ] Mycelia Fellowship 2026: $2,000 Remote Fellowship for Ethical Storytelling, Arts, Civic Engagement and AI P... https://opportunitiesforyouth.org/2026/09/02/mycelia-fellowship-2026-2000-remote-fellowship-for-ethical-storytelling-arts-civic-engagement-and-ai-projects/ SEP 10
 - [ ] Young Leaders Programme 2026 in Vietnam: Fully Funded Opportunity for Emerging Leaders Interested in Region... https://opportunitiesforyouth.org/2026/09/02/young-leaders-programme-2026-in-vietnam-fully-funded-opportunity-for-emerging-leaders-interested-in-regional-cooperation-and-maritime-security/ SEP 10
+- [ ] Australian Embassy Direct Aid Program 2026–27: Small Grants for Humanitarian and Development Projects in Le... https://opportunitiesforyouth.org/2026/09/02/australian-embassy-direct-aid-program-2026-27-small-grants-for-humanitarian-and-development-projects-in-lebanon-and-syria/ SEP 8
+- [ ] Young Leaders Programme 2026 in Vietnam: Fully Funded Opportunity for Young Researchers to Attend the South... https://opportunitiesforyouth.org/2026/09/02/apply-now-fully-funded-young-leaders-programme-at-the-17th-international-south-china-sea-conference-2025/ SEP 10
 
 </details>
 
