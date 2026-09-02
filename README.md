@@ -560,6 +560,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ADB Young Professionals Program 2027: Apply for Asian Development Bank Young Professional Jobs in Manila https://opportunitiesforyouth.org/2026/09/01/adb-young-professionals-program-2027-apply-for-asian-development-bank-young-professional-jobs-in-manila/ SEP 27
 - [ ] JICE Japan-Africa Youth Program 2026: Fully Funded Japan Visit for African Animation Professionals https://opportunitiesforyouth.org/2026/09/02/jice-japan-africa-youth-program-2026-fully-funded-japan-visit-for-african-animation-professionals/ SEP 5
 - [ ] Africa CDC Youth Pre-Conference 2026 (Funded) https://opportunitydesk.org/2026/09/02/africa-cdc-youth-pre-conference-2026-funded/ SEP 10
+- [ ] Mycelia Fellowship 2026: $2,000 Remote Fellowship for Ethical Storytelling, Arts, Civic Engagement and AI P... https://opportunitiesforyouth.org/2026/09/02/mycelia-fellowship-2026-2000-remote-fellowship-for-ethical-storytelling-arts-civic-engagement-and-ai-projects/ SEP 10
+- [ ] Young Leaders Programme 2026 in Vietnam: Fully Funded Opportunity for Emerging Leaders Interested in Region... https://opportunitiesforyouth.org/2026/09/02/young-leaders-programme-2026-in-vietnam-fully-funded-opportunity-for-emerging-leaders-interested-in-regional-cooperation-and-maritime-security/ SEP 10
 
 </details>
 
