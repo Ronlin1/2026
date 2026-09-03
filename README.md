@@ -570,6 +570,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The CivicHive Creative Changemakers Fellowship 2026 https://www.opportunitiesforafricans.com/the-civichive-creative-changemakers-fellowship-ccmf-2026-for-young-nigerian-creatives/ SEP 12
 - [ ] Third Wave Fund Mobilize Power Fund 2026: Rapid Response Funding for Gender Justice Organizations https://opportunitiesforyouth.org/2026/09/03/third-wave-fund/ SEP 5
 - [ ] WHO Research Officer Position 2026 | Apply in Burkina Faso https://opportunitiesforyouth.org/2026/09/02/who-research-officer-position-2026-apply-in-burkina-faso/ SEP 8
+- [ ] JICE Professionals’ Japan Visit Program for Co-creation 2026 https://opportunitydesk.org/2026/09/03/jice-professionals-japan-visit-program-for-co-creation-2026/ SEP 5
+- [ ] Migrant Women Press Emerging Women Journalists Fellowship 2026–27: £600 Stipend, Mentoring, Training and Me... https://opportunitiesforyouth.org/2026/09/03/migrant-women-journalists/ SEP 10
 
 </details>
 
