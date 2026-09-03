@@ -574,6 +574,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Migrant Women Press Emerging Women Journalists Fellowship 2026–27: £600 Stipend, Mentoring, Training and Me... https://opportunitiesforyouth.org/2026/09/03/migrant-women-journalists/ SEP 10
 - [ ] The Claude Campus Ambassador Program 2026 https://www.opportunitiesforafricans.com/the-claude-anthropic-campus-ambassador-program-2026/ SEP 9
 - [ ] NASA Multimedia, Social Media, Public Engagement and Internal Communications Internship 2027 https://opportunitiesforyouth.org/2026/09/03/nasa-fall-2026-science-communications-internship-at-goddard-space-flight-center-a-comprehensive-guide-for-aspiring-communicators/ SEP 11
+- [ ] African Food Baskets Country Researchers Program 2026 https://opportunitydesk.org/2026/09/03/african-food-baskets-country-researchers-2026/ SEP 3
+- [ ] Scotland Pakistan Scholarships for Young Women and Girls 2026 https://opportunitydesk.org/2026/09/03/scotland-pakistan-scholarships-for-young-women-and-girls-2026/ SEP 12
 
 </details>
 
