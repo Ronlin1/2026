@@ -568,6 +568,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Creative Changemakers Fellowship (CCMF) 2026 https://opportunitydesk.org/2026/09/02/creative-changemakers-fellowship-2026/ SEP 12
 - [ ] Japan International Cooperation Center Japan-Africa Youth Program 2026 https://www.opportunitiesforafricans.com/japan-international-cooperation-center-jice-japan-africa-youth-program-2026/ SEP 5
 - [ ] The CivicHive Creative Changemakers Fellowship 2026 https://www.opportunitiesforafricans.com/the-civichive-creative-changemakers-fellowship-ccmf-2026-for-young-nigerian-creatives/ SEP 12
+- [ ] Third Wave Fund Mobilize Power Fund 2026: Rapid Response Funding for Gender Justice Organizations https://opportunitiesforyouth.org/2026/09/03/third-wave-fund/ SEP 5
+- [ ] WHO Research Officer Position 2026 | Apply in Burkina Faso https://opportunitiesforyouth.org/2026/09/02/who-research-officer-position-2026-apply-in-burkina-faso/ SEP 8
 
 </details>
 
