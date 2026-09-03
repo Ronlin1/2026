@@ -572,6 +572,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WHO Research Officer Position 2026 | Apply in Burkina Faso https://opportunitiesforyouth.org/2026/09/02/who-research-officer-position-2026-apply-in-burkina-faso/ SEP 8
 - [ ] JICE Professionals’ Japan Visit Program for Co-creation 2026 https://opportunitydesk.org/2026/09/03/jice-professionals-japan-visit-program-for-co-creation-2026/ SEP 5
 - [ ] Migrant Women Press Emerging Women Journalists Fellowship 2026–27: £600 Stipend, Mentoring, Training and Me... https://opportunitiesforyouth.org/2026/09/03/migrant-women-journalists/ SEP 10
+- [ ] The Claude Campus Ambassador Program 2026 https://www.opportunitiesforafricans.com/the-claude-anthropic-campus-ambassador-program-2026/ SEP 9
+- [ ] NASA Multimedia, Social Media, Public Engagement and Internal Communications Internship 2027 https://opportunitiesforyouth.org/2026/09/03/nasa-fall-2026-science-communications-internship-at-goddard-space-flight-center-a-comprehensive-guide-for-aspiring-communicators/ SEP 11
 
 </details>
 
