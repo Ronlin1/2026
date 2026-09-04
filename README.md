@@ -582,6 +582,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] BKR VC Fellowship Program 2026-2027 https://opportunitydesk.org/2026/09/04/bkr-vc-fellowship-program-2026-2027/ SEP 9
 - [ ] ICCROM Fellowships 2027: Apply for a 3–6 Month Cultural Heritage Research Fellowship in Rome https://opportunitiesforyouth.org/2026/09/04/iccrom-fellowships-2027/ SEP 12
 - [ ] Harpswell Leadership Residents Program 2027 in Cambodia https://www.opportunitiescircle.com/harpswell-leadership-residents-program/ SEP 15
+- [ ] UNIDIR Graduate Professional Programme 2026 in Geneva: $1,500 Monthly Stipend for Graduate Students and Rec... https://opportunitiesforyouth.org/2026/09/04/unidir-graduate-professional-programme-2026-join-the-next-generation-of-disarmament-researchers/ SEP 13
+- [ ] Olympic Studies Centre PhD Students & Early Career Academics Research Grant Programme 2027 https://opportunitydesk.org/2026/09/03/olympic-studies-centre-phd-students-early-career-academics-research-grant-programme-2027/ SEP 19
 
 </details>
 
