@@ -586,6 +586,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Olympic Studies Centre PhD Students & Early Career Academics Research Grant Programme 2027 https://opportunitydesk.org/2026/09/03/olympic-studies-centre-phd-students-early-career-academics-research-grant-programme-2027/ SEP 19
 - [ ] The EAC Youth Fellowship 2026 for emerging East African Leaders (Fully Funded) https://www.opportunitiesforafricans.com/the-eac-youth-fellowship-2026-for-emerging-east-african-leaders-fully-funded/ SEP 4
 - [ ] WWF-Amano Fellows Program 2026 for young Zimbabwean leaders https://www.opportunitiesforafricans.com/wwf-amano-fellows-program-2026-for-young-zimbabwean-leaders/ SEP 13
+- [ ] KAUST Microelectronics Winter Camp 2027: Fully Funded Research Internship in Saudi Arabia https://oyaop.com/opportunity/exchange-programs/kaust-microelectronics-winter-camp-2027-fully-funded-research-internship-in-saudi-arabia/ SEP 21
+- [ ] Pursuit Awards International Competition 2026 for PhD Students and Graduates https://opportunitydesk.org/2026/09/03/pursuit-awards-international-competition-2026-for-phd-students-and-graduates/ SEP 22
 
 </details>
 
