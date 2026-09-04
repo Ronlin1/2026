@@ -580,6 +580,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Julius Berger Nigeria Plc. Female Scholarship Award 2026 https://www.opportunitiesforafricans.com/julius-berger-nigeria-plc-female-scholarship-award-2026-for-nigerian-female-undergraduates/ SEP 13
 - [ ] IACHR Internship Program 2027: Apply for the Winter/Spring Human Rights Internship in Washington, D.C. and... https://opportunitiesforyouth.org/2026/09/03/iachr-internship-program-2027-apply-for-the-winter-spring-human-rights-internship-in-washington-d-c-and-national-offices/ SEP 8
 - [ ] BKR VC Fellowship Program 2026-2027 https://opportunitydesk.org/2026/09/04/bkr-vc-fellowship-program-2026-2027/ SEP 9
+- [ ] ICCROM Fellowships 2027: Apply for a 3–6 Month Cultural Heritage Research Fellowship in Rome https://opportunitiesforyouth.org/2026/09/04/iccrom-fellowships-2027/ SEP 12
+- [ ] Harpswell Leadership Residents Program 2027 in Cambodia https://www.opportunitiescircle.com/harpswell-leadership-residents-program/ SEP 15
 
 </details>
 
