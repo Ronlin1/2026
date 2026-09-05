@@ -596,6 +596,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] EMA Traineeship Program 2026 | Paid Traineeships in Netherlands https://www.opportunitiescircle.com/ema-traineeship-program/ SEP 27
 - [ ] IRENA Youth Forum 2027 in Abu Dhabi, UAE | Fully Funded https://scholarshipscorner.website/irena-youth-forum-uae/ SEP 27
 - [ ] TGI Distri Ltd Commercial Trainee Programme 2027 https://www.opportunitiesforafricans.com/tgi-distri-ltd-commercial-trainee-programme-ctp-2027-for-young-nigerian-graduates/ SEP 27
+- [ ] East African Community (EAC) Youth Fellowship 2027 (Fully-funded) https://opportunitydesk.org/2026/09/05/eac-youth-fellowship-2027/ SEP 5
+- [ ] WWF Amano Fellows Program 2027 for Zimbabweans https://opportunitydesk.org/2026/09/05/wwf-amano-fellows-program-2027/ SEP 13
 
 </details>
 
