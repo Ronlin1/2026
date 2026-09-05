@@ -594,6 +594,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NASA SSERVI CAN-5 2026 Funding Opportunity: Up to $1.8 Million Per Year for Lunar, Mars-Forward, Workforce... https://opportunitiesforyouth.org/2026/09/04/nasa-sservi-can-5-2026/ SEP 26
 - [ ] GIFTS Global Institute Fellowship 2026–2027: Global Opportunity for Education System Leaders to Transform E... https://opportunitiesforyouth.org/2026/09/05/gifts-global-institute-fellowship-2026-2027-global-opportunity-for-education-system-leaders-to-transform-education-at-scale/ SEP 8
 - [ ] EMA Traineeship Program 2026 | Paid Traineeships in Netherlands https://www.opportunitiescircle.com/ema-traineeship-program/ SEP 27
+- [ ] IRENA Youth Forum 2027 in Abu Dhabi, UAE | Fully Funded https://scholarshipscorner.website/irena-youth-forum-uae/ SEP 27
+- [ ] TGI Distri Ltd Commercial Trainee Programme 2027 https://www.opportunitiesforafricans.com/tgi-distri-ltd-commercial-trainee-programme-ctp-2027-for-young-nigerian-graduates/ SEP 27
 
 </details>
 
