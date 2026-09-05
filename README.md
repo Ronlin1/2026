@@ -592,6 +592,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Rotary Yoneyama Scholarship for Overseas Candidates 2027 in Japan (Fully Funded) https://opportunityportal.info/rotary-yoneyama-scholarship/ SEP 12
 - [ ] DA Young Leaders Programme 2027: Applications Open for Young South Africans Interested in Political and Pub... https://opportunitiesforyouth.org/2026/09/05/da-young-leaders-programme-2027-applications-open-for-young-south-africans-interested-in-political-and-public-service-leadership/ SEP 22
 - [ ] NASA SSERVI CAN-5 2026 Funding Opportunity: Up to $1.8 Million Per Year for Lunar, Mars-Forward, Workforce... https://opportunitiesforyouth.org/2026/09/04/nasa-sservi-can-5-2026/ SEP 26
+- [ ] GIFTS Global Institute Fellowship 2026–2027: Global Opportunity for Education System Leaders to Transform E... https://opportunitiesforyouth.org/2026/09/05/gifts-global-institute-fellowship-2026-2027-global-opportunity-for-education-system-leaders-to-transform-education-at-scale/ SEP 8
+- [ ] EMA Traineeship Program 2026 | Paid Traineeships in Netherlands https://www.opportunitiescircle.com/ema-traineeship-program/ SEP 27
 
 </details>
 
