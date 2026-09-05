@@ -588,6 +588,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WWF-Amano Fellows Program 2026 for young Zimbabwean leaders https://www.opportunitiesforafricans.com/wwf-amano-fellows-program-2026-for-young-zimbabwean-leaders/ SEP 13
 - [ ] KAUST Microelectronics Winter Camp 2027: Fully Funded Research Internship in Saudi Arabia https://oyaop.com/opportunity/exchange-programs/kaust-microelectronics-winter-camp-2027-fully-funded-research-internship-in-saudi-arabia/ SEP 21
 - [ ] Pursuit Awards International Competition 2026 for PhD Students and Graduates https://opportunitydesk.org/2026/09/03/pursuit-awards-international-competition-2026-for-phd-students-and-graduates/ SEP 22
+- [ ] Funded traineeships for young graduates at the EU Delegation to the United States – Apply by 14 September https://opportunitiesforyouth.org/2026/09/04/funded-traineeships-for-young-graduates-at-the-eu-delegation-to-the-united-states-apply-by-14-september/ SEP 11
+- [ ] Rotary Yoneyama Scholarship for Overseas Candidates 2027 in Japan (Fully Funded) https://opportunityportal.info/rotary-yoneyama-scholarship/ SEP 12
 
 </details>
 
