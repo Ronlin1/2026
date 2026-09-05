@@ -590,6 +590,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Pursuit Awards International Competition 2026 for PhD Students and Graduates https://opportunitydesk.org/2026/09/03/pursuit-awards-international-competition-2026-for-phd-students-and-graduates/ SEP 22
 - [ ] Funded traineeships for young graduates at the EU Delegation to the United States – Apply by 14 September https://opportunitiesforyouth.org/2026/09/04/funded-traineeships-for-young-graduates-at-the-eu-delegation-to-the-united-states-apply-by-14-september/ SEP 11
 - [ ] Rotary Yoneyama Scholarship for Overseas Candidates 2027 in Japan (Fully Funded) https://opportunityportal.info/rotary-yoneyama-scholarship/ SEP 12
+- [ ] DA Young Leaders Programme 2027: Applications Open for Young South Africans Interested in Political and Pub... https://opportunitiesforyouth.org/2026/09/05/da-young-leaders-programme-2027-applications-open-for-young-south-africans-interested-in-political-and-public-service-leadership/ SEP 22
+- [ ] NASA SSERVI CAN-5 2026 Funding Opportunity: Up to $1.8 Million Per Year for Lunar, Mars-Forward, Workforce... https://opportunitiesforyouth.org/2026/09/04/nasa-sservi-can-5-2026/ SEP 26
 
 </details>
 
