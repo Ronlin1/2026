@@ -606,6 +606,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] University Of Pretoria Mastercard Scholarship 2027 (Fully Funded) https://opportunityportal.info/university-of-pretoria-mastercard-scholarship/ SEP 27
 - [ ] World Bank Young Professionals Program 2027 in USA | WBG YPP https://www.opportunitiescircle.com/world-bank-young-professionals-program/ SEP 27
 - [ ] Doctor of Public Health Scholarships 2027-2028 https://www.opportunitiescircle.com/doctor-of-public-health-scholarships/ SEP 28
+- [ ] Careers at LEAP Africa 2026: Apply for the Director of Programmes Position in Lagos, Nigeria https://opportunitiesforyouth.org/2026/09/06/careers-at-leap-africa-2026-apply-for-the-director-of-programmes-position-in-lagos-nigeria/ SEP 17
 
 </details>
 
@@ -614,6 +615,7 @@ If you want to contribute, follow the instructions in the Contributing file
 
 - [ ] Human Rights Advocates Program 2027/2028 at Columbia University. https://www.opportunitiesforafricans.com/human-rights-advocates-program-hrap-2027-2028/ OCT 12
 - [ ] The France–South Africa Scholarship Programme 2027 https://www.opportunitiesforafricans.com/the-francesouth-africa-scholarship-programme-2027-for-southern-africans-to-study-in-france/ OCT 5
+- [ ] Mycoskie–UC Berkeley Psychedelic Documentary Fellowship 2026: Up to $20,000 for Documentary Filmmakers Worl... https://opportunitiesforyouth.org/2026/09/06/mycoskie-uc-berkeley-psychedelic-documentary-fellowship-2026-up-to-20000-for-documentary-filmmakers-worldwide/ OCT 2
 
 </details>
 
