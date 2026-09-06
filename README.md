@@ -602,6 +602,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NASA Spring 2027 OSTEM Internships: Apply for Paid NASA Internship Opportunities Before September 14, 2026 https://opportunitiesforyouth.org/2026/09/06/nasa-spring-2027-ostem-internships-apply-for-paid-nasa-internship-opportunities-before-september-14-2026/ SEP 11
 - [ ] Africa’s Data Future Fellowship 2026 ($1,500 stipend) https://opportunitydesk.org/2026/09/05/africa-data-future-fellowship-2026/ SEP 15
 - [ ] Become an Ambassador at the 2027 AFS Youth Assembly: Apply by September 18, 2026 https://opportunitiesforyouth.org/2026/09/06/youth-assembly-2026-geneva/ SEP 15
+- [ ] SUSTAIN Seminar 2026 in Slovakia: Fully Supported Rural Youth Leadership and Policy-Making Opportunity for... https://opportunitiesforyouth.org/2026/09/06/sustain-seminar-2026-in-slovakia-fully-supported-rural-youth-leadership-and-policy-making-opportunity-for-young-europeans/ SEP 22
+- [ ] University Of Pretoria Mastercard Scholarship 2027 (Fully Funded) https://opportunityportal.info/university-of-pretoria-mastercard-scholarship/ SEP 27
 
 </details>
 
