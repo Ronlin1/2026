@@ -598,6 +598,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] TGI Distri Ltd Commercial Trainee Programme 2027 https://www.opportunitiesforafricans.com/tgi-distri-ltd-commercial-trainee-programme-ctp-2027-for-young-nigerian-graduates/ SEP 27
 - [ ] East African Community (EAC) Youth Fellowship 2027 (Fully-funded) https://opportunitydesk.org/2026/09/05/eac-youth-fellowship-2027/ SEP 5
 - [ ] WWF Amano Fellows Program 2027 for Zimbabweans https://opportunitydesk.org/2026/09/05/wwf-amano-fellows-program-2027/ SEP 13
+- [ ] ACET Procurement Intern 2026 in Ghana: Apply for Procurement and Supply Chain Opportunity in Accra. https://opportunitiesforyouth.org/2026/09/06/acet-procurement-intern-2026-in-ghana-apply-for-procurement-and-supply-chain-opportunity-in-accra/ SEP 8
+- [ ] NASA Spring 2027 OSTEM Internships: Apply for Paid NASA Internship Opportunities Before September 14, 2026 https://opportunitiesforyouth.org/2026/09/06/nasa-spring-2027-ostem-internships-apply-for-paid-nasa-internship-opportunities-before-september-14-2026/ SEP 11
 
 </details>
 
