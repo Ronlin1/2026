@@ -604,6 +604,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Become an Ambassador at the 2027 AFS Youth Assembly: Apply by September 18, 2026 https://opportunitiesforyouth.org/2026/09/06/youth-assembly-2026-geneva/ SEP 15
 - [ ] SUSTAIN Seminar 2026 in Slovakia: Fully Supported Rural Youth Leadership and Policy-Making Opportunity for... https://opportunitiesforyouth.org/2026/09/06/sustain-seminar-2026-in-slovakia-fully-supported-rural-youth-leadership-and-policy-making-opportunity-for-young-europeans/ SEP 22
 - [ ] University Of Pretoria Mastercard Scholarship 2027 (Fully Funded) https://opportunityportal.info/university-of-pretoria-mastercard-scholarship/ SEP 27
+- [ ] World Bank Young Professionals Program 2027 in USA | WBG YPP https://www.opportunitiescircle.com/world-bank-young-professionals-program/ SEP 27
+- [ ] Doctor of Public Health Scholarships 2027-2028 https://www.opportunitiescircle.com/doctor-of-public-health-scholarships/ SEP 28
 
 </details>
 
