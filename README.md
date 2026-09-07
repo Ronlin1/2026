@@ -615,6 +615,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ChangemakerXchange Programme Lead Job 2026: Global Responsible Tech and AI Programme Management Opportunity... https://opportunitiesforyouth.org/2026/09/07/changemakerxchange-programme-lead-job-2026-global-responsible-tech-and-ai-programme-management-opportunity-in-berlin/ SEP 17
 - [ ] Erasmus University Rotterdam PhD Candidate Position 2026: Study the Transimperial History of Women’s Work https://opportunitiesforyouth.org/2026/09/07/erasmus-university-rotterdam-phd-candidate-position-2026-study-the-transimperial-history-of-womens-work/ SEP 17
 - [ ] Venture Catalyst Program 2027 for Founders https://opportunitydesk.org/2026/09/07/venture-catalyst-program-2027/ SEP 22
+- [ ] How To Apply for Commonwealth Masters Scholarship 2027 (Step-by-Step Guide) https://www.scholarshipregion.com/how-to-apply-for-commonwealth-masters-scholarship-2027/ SEP 7
+- [ ] NCTU International Student Scholarship in Taiwan 2027 (Fully Funded) https://opportunityportal.info/nctu-international-student-scholarship/ SEP 27
 
 </details>
 
