@@ -609,6 +609,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Careers at LEAP Africa 2026: Apply for the Director of Programmes Position in Lagos, Nigeria https://opportunitiesforyouth.org/2026/09/06/careers-at-leap-africa-2026-apply-for-the-director-of-programmes-position-in-lagos-nigeria/ SEP 17
 - [ ] National Programme for Job-Generating Entrepreneurs 2026: One Young World Opportunity for Young South Afric... https://opportunitiesforyouth.org/2026/09/07/national-programme-for-job-generating-entrepreneurs-2026-one-young-world-opportunity-for-young-south-african-entrepreneurs/ SEP 9
 - [ ] Czech Republic Small-Scale Development Projects 2027: Apply for Up to CZK 500,000 in Development Funding https://opportunitiesforyouth.org/2026/09/07/czech-republic/ SEP 12
+- [ ] NGO Whisperer Global Fellows Programme Class of 2027 https://opportunitydesk.org/2026/09/07/ngo-whisperer-global-fellows-programme-2027/ SEP 12
+- [ ] Brand South Africa Play Your Part Bursary 2026: Attend the One Young World Summit in Cape Town https://opportunitiesforyouth.org/2026/09/07/brand-south-africa/ SEP 13
 
 </details>
 
