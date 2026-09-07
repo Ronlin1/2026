@@ -607,6 +607,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] World Bank Young Professionals Program 2027 in USA | WBG YPP https://www.opportunitiescircle.com/world-bank-young-professionals-program/ SEP 27
 - [ ] Doctor of Public Health Scholarships 2027-2028 https://www.opportunitiescircle.com/doctor-of-public-health-scholarships/ SEP 28
 - [ ] Careers at LEAP Africa 2026: Apply for the Director of Programmes Position in Lagos, Nigeria https://opportunitiesforyouth.org/2026/09/06/careers-at-leap-africa-2026-apply-for-the-director-of-programmes-position-in-lagos-nigeria/ SEP 17
+- [ ] National Programme for Job-Generating Entrepreneurs 2026: One Young World Opportunity for Young South Afric... https://opportunitiesforyouth.org/2026/09/07/national-programme-for-job-generating-entrepreneurs-2026-one-young-world-opportunity-for-young-south-african-entrepreneurs/ SEP 9
+- [ ] Czech Republic Small-Scale Development Projects 2027: Apply for Up to CZK 500,000 in Development Funding https://opportunitiesforyouth.org/2026/09/07/czech-republic/ SEP 12
 
 </details>
 
