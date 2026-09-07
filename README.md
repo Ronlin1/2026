@@ -613,6 +613,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Brand South Africa Play Your Part Bursary 2026: Attend the One Young World Summit in Cape Town https://opportunitiesforyouth.org/2026/09/07/brand-south-africa/ SEP 13
 - [ ] Harvard Academy Scholars Program 2027–2028: Fully Funded Postdoctoral Fellowship at Harvard University https://opportunitiesforyouth.org/2026/09/07/harvard-academy-scholars-program-2027-2028-fully-funded-postdoctoral-fellowship-at-harvard-university/ SEP 15
 - [ ] ChangemakerXchange Programme Lead Job 2026: Global Responsible Tech and AI Programme Management Opportunity... https://opportunitiesforyouth.org/2026/09/07/changemakerxchange-programme-lead-job-2026-global-responsible-tech-and-ai-programme-management-opportunity-in-berlin/ SEP 17
+- [ ] Erasmus University Rotterdam PhD Candidate Position 2026: Study the Transimperial History of Women’s Work https://opportunitiesforyouth.org/2026/09/07/erasmus-university-rotterdam-phd-candidate-position-2026-study-the-transimperial-history-of-womens-work/ SEP 17
+- [ ] Venture Catalyst Program 2027 for Founders https://opportunitydesk.org/2026/09/07/venture-catalyst-program-2027/ SEP 22
 
 </details>
 
