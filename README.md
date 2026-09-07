@@ -611,6 +611,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Czech Republic Small-Scale Development Projects 2027: Apply for Up to CZK 500,000 in Development Funding https://opportunitiesforyouth.org/2026/09/07/czech-republic/ SEP 12
 - [ ] NGO Whisperer Global Fellows Programme Class of 2027 https://opportunitydesk.org/2026/09/07/ngo-whisperer-global-fellows-programme-2027/ SEP 12
 - [ ] Brand South Africa Play Your Part Bursary 2026: Attend the One Young World Summit in Cape Town https://opportunitiesforyouth.org/2026/09/07/brand-south-africa/ SEP 13
+- [ ] Harvard Academy Scholars Program 2027–2028: Fully Funded Postdoctoral Fellowship at Harvard University https://opportunitiesforyouth.org/2026/09/07/harvard-academy-scholars-program-2027-2028-fully-funded-postdoctoral-fellowship-at-harvard-university/ SEP 15
+- [ ] ChangemakerXchange Programme Lead Job 2026: Global Responsible Tech and AI Programme Management Opportunity... https://opportunitiesforyouth.org/2026/09/07/changemakerxchange-programme-lead-job-2026-global-responsible-tech-and-ai-programme-management-opportunity-in-berlin/ SEP 17
 
 </details>
 
