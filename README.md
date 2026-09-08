@@ -621,6 +621,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] University of Rochester Political Science Professor Job 2027: Tenure-Track Assistant Professor Position in... https://opportunitiesforyouth.org/2026/09/08/university-of-rochester-political-science-professor-job-2027-tenure-track-assistant-professor-position-in-political-methodology/ SEP 12
 - [ ] WIPO Internship 2027 in Geneva: Paid Economics, Data Science and Innovation Research Internship at WIPO https://opportunitiesforyouth.org/2026/09/08/wipo-internship-2027-in-geneva-paid-economics-data-science-and-innovation-research-internship-at-wipo/ SEP 12
 - [ ] ACET Graduate Intern – Gender Equality Program 2026: Six-Month Opportunity Supporting Gender Equality and W... https://opportunitiesforyouth.org/2026/09/08/acet-graduate-intern/ SEP 14
+- [ ] The Centre for the Study of the Economies of Africa 2026 Africa’s Data Future Fellowship https://www.opportunitiesforafricans.com/the-centre-for-the-study-of-the-economies-of-africa-csea-2026-africas-data-future-fellowship/ SEP 15
+- [ ] iProBono Accelerate Program Cohort 2026 https://opportunitydesk.org/2026/09/08/iprobono-accelerate-program-2026/ SEP 15
 
 </details>
 
