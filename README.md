@@ -617,6 +617,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Venture Catalyst Program 2027 for Founders https://opportunitydesk.org/2026/09/07/venture-catalyst-program-2027/ SEP 22
 - [ ] How To Apply for Commonwealth Masters Scholarship 2027 (Step-by-Step Guide) https://www.scholarshipregion.com/how-to-apply-for-commonwealth-masters-scholarship-2027/ SEP 7
 - [ ] NCTU International Student Scholarship in Taiwan 2027 (Fully Funded) https://opportunityportal.info/nctu-international-student-scholarship/ SEP 27
+- [ ] Innovation & Growth Pitch Competition 2026 https://opportunitydesk.org/2026/09/08/innovation-growth-pitch-competition-2026/ SEP 12
+- [ ] University of Rochester Political Science Professor Job 2027: Tenure-Track Assistant Professor Position in... https://opportunitiesforyouth.org/2026/09/08/university-of-rochester-political-science-professor-job-2027-tenure-track-assistant-professor-position-in-political-methodology/ SEP 12
 
 </details>
 
