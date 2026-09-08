@@ -623,6 +623,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ACET Graduate Intern – Gender Equality Program 2026: Six-Month Opportunity Supporting Gender Equality and W... https://opportunitiesforyouth.org/2026/09/08/acet-graduate-intern/ SEP 14
 - [ ] The Centre for the Study of the Economies of Africa 2026 Africa’s Data Future Fellowship https://www.opportunitiesforafricans.com/the-centre-for-the-study-of-the-economies-of-africa-csea-2026-africas-data-future-fellowship/ SEP 15
 - [ ] iProBono Accelerate Program Cohort 2026 https://opportunitydesk.org/2026/09/08/iprobono-accelerate-program-2026/ SEP 15
+- [ ] IOM Ethical Migration Journalism Fellowship Programme 2026: Apply for a USD 1,000 Reporting Grant in Chiang... https://opportunitiesforyouth.org/2026/09/08/iom-ethical-migration-journalism-fellowship-programme-2026-apply-for-a-usd-1000-reporting-grant-in-chiang-rai-thailand/ SEP 19
+- [ ] EDAD AI Global Campus Ambassador Program 2026 https://opportunitydesk.org/2026/09/08/edad-ai-global-campus-ambassador-program-2026/ SEP 22
 
 </details>
 
