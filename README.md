@@ -619,6 +619,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NCTU International Student Scholarship in Taiwan 2027 (Fully Funded) https://opportunityportal.info/nctu-international-student-scholarship/ SEP 27
 - [ ] Innovation & Growth Pitch Competition 2026 https://opportunitydesk.org/2026/09/08/innovation-growth-pitch-competition-2026/ SEP 12
 - [ ] University of Rochester Political Science Professor Job 2027: Tenure-Track Assistant Professor Position in... https://opportunitiesforyouth.org/2026/09/08/university-of-rochester-political-science-professor-job-2027-tenure-track-assistant-professor-position-in-political-methodology/ SEP 12
+- [ ] WIPO Internship 2027 in Geneva: Paid Economics, Data Science and Innovation Research Internship at WIPO https://opportunitiesforyouth.org/2026/09/08/wipo-internship-2027-in-geneva-paid-economics-data-science-and-innovation-research-internship-at-wipo/ SEP 12
+- [ ] ACET Graduate Intern – Gender Equality Program 2026: Six-Month Opportunity Supporting Gender Equality and W... https://opportunitiesforyouth.org/2026/09/08/acet-graduate-intern/ SEP 14
 
 </details>
 
