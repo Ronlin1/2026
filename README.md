@@ -633,6 +633,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Green Climate Fund Internship 2026 in South Korea | US$1,600/Month https://scholarshipscorner.website/green-climate-fund-internship-south-korea/ SEP 14
 - [ ] Hot Job: ChangemakerXchange Program Lead 2026 https://opportunitydesk.org/2026/09/09/changemakerxchange-program-lead-2026/ SEP 17
 - [ ] Nordic Baltic Youth Summit 2026 in Tallinn, Estonia: Applications Open for 200 Young Changemakers https://opportunitiesforyouth.org/2026/09/09/nordic-baltic-youth-summit-2026-in-tallinn-estonia-applications-open-for-200-young-changemakers/ SEP 17
+- [ ] WMO Internship 2026 in Geneva: Paid Six-Month UN Opportunity in Partnerships, Climate and Resource Mobiliza... https://opportunitiesforyouth.org/2026/09/09/wmo-internship-2026-in-geneva-paid-six-month-un-opportunity-in-partnerships-climate-and-resource-mobilization/ SEP 19
+- [ ] Rio Changemakers Call for Funds: Apply to Join the First Global Climate and Nature Investment Cohort https://opportunitiesforyouth.org/2026/09/09/rio-changemakers-call-for-funds-apply-to-join-the-first-global-climate-and-nature-investment-cohort/ SEP 23
 
 </details>
 
