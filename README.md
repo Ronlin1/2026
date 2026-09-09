@@ -629,6 +629,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] PhD Position in Medical Imaging AI at the University of Zurich and AWS: Apply for a PhD in 3D Medical Imagi... https://opportunitiesforyouth.org/2026/09/08/phd-position-in-medical-imaging-ai-at-the-university-of-zurich-and-aws-apply-for-a-phd-in-3d-medical-imaging-ai-and-computer-vision/ SEP 27
 - [ ] Claude Campus Ambassador Program 2026 for Students | How To Apply https://www.scholarshipregion.com/claude-campus-ambassador-program/ SEP 9
 - [ ] Medecins Sans Frontieres (MSF) Eastern Africa Media Fellowship 2026 https://opportunitydesk.org/2026/09/09/msf-eastern-africa-media-fellowship-2026/ SEP 9
+- [ ] YES Program Pakistan 2027 in USA | Fully Funded https://www.opportunitiescircle.com/yes-program-pakistan/ SEP 12
+- [ ] Green Climate Fund Internship 2026 in South Korea | US$1,600/Month https://scholarshipscorner.website/green-climate-fund-internship-south-korea/ SEP 14
 
 </details>
 
