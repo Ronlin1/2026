@@ -631,6 +631,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Medecins Sans Frontieres (MSF) Eastern Africa Media Fellowship 2026 https://opportunitydesk.org/2026/09/09/msf-eastern-africa-media-fellowship-2026/ SEP 9
 - [ ] YES Program Pakistan 2027 in USA | Fully Funded https://www.opportunitiescircle.com/yes-program-pakistan/ SEP 12
 - [ ] Green Climate Fund Internship 2026 in South Korea | US$1,600/Month https://scholarshipscorner.website/green-climate-fund-internship-south-korea/ SEP 14
+- [ ] Hot Job: ChangemakerXchange Program Lead 2026 https://opportunitydesk.org/2026/09/09/changemakerxchange-program-lead-2026/ SEP 17
+- [ ] Nordic Baltic Youth Summit 2026 in Tallinn, Estonia: Applications Open for 200 Young Changemakers https://opportunitiesforyouth.org/2026/09/09/nordic-baltic-youth-summit-2026-in-tallinn-estonia-applications-open-for-200-young-changemakers/ SEP 17
 
 </details>
 
