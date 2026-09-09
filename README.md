@@ -627,6 +627,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] EDAD AI Global Campus Ambassador Program 2026 https://opportunitydesk.org/2026/09/08/edad-ai-global-campus-ambassador-program-2026/ SEP 22
 - [ ] Institute for AI Policy and Strategy AI Policy Fellowship 2027 https://opportunitydesk.org/2026/09/08/iaps-ai-policy-fellowship-spring-2027/ SEP 24
 - [ ] PhD Position in Medical Imaging AI at the University of Zurich and AWS: Apply for a PhD in 3D Medical Imagi... https://opportunitiesforyouth.org/2026/09/08/phd-position-in-medical-imaging-ai-at-the-university-of-zurich-and-aws-apply-for-a-phd-in-3d-medical-imaging-ai-and-computer-vision/ SEP 27
+- [ ] Claude Campus Ambassador Program 2026 for Students | How To Apply https://www.scholarshipregion.com/claude-campus-ambassador-program/ SEP 9
+- [ ] Medecins Sans Frontieres (MSF) Eastern Africa Media Fellowship 2026 https://opportunitydesk.org/2026/09/09/msf-eastern-africa-media-fellowship-2026/ SEP 9
 
 </details>
 
