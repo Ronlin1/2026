@@ -637,6 +637,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Rio Changemakers Call for Funds: Apply to Join the First Global Climate and Nature Investment Cohort https://opportunitiesforyouth.org/2026/09/09/rio-changemakers-call-for-funds-apply-to-join-the-first-global-climate-and-nature-investment-cohort/ SEP 23
 - [ ] Arizona State University Mastercard Foundation Innovation and Technology Scholarships 2027/2028 https://www.opportunitiesforafricans.com/arizona-state-university-mastercard-foundation-innovation-and-technology-scholarships-2027-2028/ SEP 24
 - [ ] Chevening Europe Defence and Security Fellowship in UK (Fully Funded) https://scholarshipscorner.website/chevening-europe-defence-security-fellowship/ SEP 24
+- [ ] IAPS AI Policy Fellowship 2027- Fully Funded https://oyaop.com/opportunity/conferences/iaps-ai-policy-fellowship-2027-fully-funded/ SEP 24
+- [ ] Mastercard Foundation Scholars Program at Arizona State University 2027: Fully Funded Innovation and Techno... https://opportunitiesforyouth.org/2026/09/10/asu-and-mastercard-foundation-scholars-program-announce-remote-africa-based-coordinator-position/ SEP 24
 
 </details>
 
