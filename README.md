@@ -645,6 +645,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Remote Research Internship at United Nations University in Neuroscience, Learning and AI in Higher Education https://opportunitiesforyouth.org/2026/09/10/remote-research-internship-at-united-nations-university-unu-in-neuroscience-learning-and-ai-in-higher-education/ SEP 15
 - [ ] Archbishop Tutu Leadership Fellowship 2027: Prestigious African Leadership Fellowship for Emerging Leaders... https://opportunitiesforyouth.org/2026/09/10/empowering-the-next-generation-of-african-leaders-archbishop-tutu-leadership-programme/ SEP 17
 - [ ] Mastercard Foundation Scholars Program at Arizona State University 2027-2028 https://opportunitydesk.org/2026/09/10/mastercard-foundation-scholars-program-at-asu-2027-2028/ SEP 24
+- [ ] Pitch Perfect Africa 2026 Innovation Fellowship for African Health Startups https://www.opportunitiesforafricans.com/pitch-perfect-africa-2026-innovation-fellowship/ SEP 26
+- [ ] Royal Commonwealth Society Recruitment 2026: Apply for the Digital Communications and Public Affairs Office... https://opportunitiesforyouth.org/2026/09/10/royal-commonwealth-society-recruitment-2026-apply-for-the-digital-communications-and-public-affairs-officer-role-in-london/ SEP 26
 
 </details>
 
