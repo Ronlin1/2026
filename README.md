@@ -639,6 +639,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Chevening Europe Defence and Security Fellowship in UK (Fully Funded) https://scholarshipscorner.website/chevening-europe-defence-security-fellowship/ SEP 24
 - [ ] IAPS AI Policy Fellowship 2027- Fully Funded https://oyaop.com/opportunity/conferences/iaps-ai-policy-fellowship-2027-fully-funded/ SEP 24
 - [ ] Mastercard Foundation Scholars Program at Arizona State University 2027: Fully Funded Innovation and Techno... https://opportunitiesforyouth.org/2026/09/10/asu-and-mastercard-foundation-scholars-program-announce-remote-africa-based-coordinator-position/ SEP 24
+- [ ] AbdulSamad Rabiu ASR Africa International Professional Development Program | How To Apply https://www.scholarshipregion.com/asr-africa-international-professional-development-program/ SEP 11
+- [ ] Nivishe Mental Health Fellowship Cohort 7 https://opportunitydesk.org/2026/09/10/nivishe-mental-health-fellowship-cohort-7/ SEP 15
 
 </details>
 
