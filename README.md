@@ -641,6 +641,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Mastercard Foundation Scholars Program at Arizona State University 2027: Fully Funded Innovation and Techno... https://opportunitiesforyouth.org/2026/09/10/asu-and-mastercard-foundation-scholars-program-announce-remote-africa-based-coordinator-position/ SEP 24
 - [ ] AbdulSamad Rabiu ASR Africa International Professional Development Program | How To Apply https://www.scholarshipregion.com/asr-africa-international-professional-development-program/ SEP 11
 - [ ] Nivishe Mental Health Fellowship Cohort 7 https://opportunitydesk.org/2026/09/10/nivishe-mental-health-fellowship-cohort-7/ SEP 15
+- [ ] Nivishe Mental Health Fellowship Cohort 7: Apply for a 12-Week Virtual Mental Health Leadership Fellowship... https://opportunitiesforyouth.org/2026/09/10/nivishe-mental-health-fellowship-cohort-7-apply-for-a-12-week-virtual-mental-health-leadership-fellowship-in-africa/ SEP 15
+- [ ] Remote Research Internship at United Nations University in Neuroscience, Learning and AI in Higher Education https://opportunitiesforyouth.org/2026/09/10/remote-research-internship-at-united-nations-university-unu-in-neuroscience-learning-and-ai-in-higher-education/ SEP 15
 
 </details>
 
