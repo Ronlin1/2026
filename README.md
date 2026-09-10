@@ -643,6 +643,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Nivishe Mental Health Fellowship Cohort 7 https://opportunitydesk.org/2026/09/10/nivishe-mental-health-fellowship-cohort-7/ SEP 15
 - [ ] Nivishe Mental Health Fellowship Cohort 7: Apply for a 12-Week Virtual Mental Health Leadership Fellowship... https://opportunitiesforyouth.org/2026/09/10/nivishe-mental-health-fellowship-cohort-7-apply-for-a-12-week-virtual-mental-health-leadership-fellowship-in-africa/ SEP 15
 - [ ] Remote Research Internship at United Nations University in Neuroscience, Learning and AI in Higher Education https://opportunitiesforyouth.org/2026/09/10/remote-research-internship-at-united-nations-university-unu-in-neuroscience-learning-and-ai-in-higher-education/ SEP 15
+- [ ] Archbishop Tutu Leadership Fellowship 2027: Prestigious African Leadership Fellowship for Emerging Leaders... https://opportunitiesforyouth.org/2026/09/10/empowering-the-next-generation-of-african-leaders-archbishop-tutu-leadership-programme/ SEP 17
+- [ ] Mastercard Foundation Scholars Program at Arizona State University 2027-2028 https://opportunitydesk.org/2026/09/10/mastercard-foundation-scholars-program-at-asu-2027-2028/ SEP 24
 
 </details>
 
