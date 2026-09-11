@@ -655,6 +655,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UC Berkeley–Packard Foundation Philanthropy Fellow 2026: Apply for a $90,000 Professional Opportunity in Ci... https://opportunitiesforyouth.org/2026/09/11/uc-berkeley-packard-foundation-philanthropy-fellow-2026-apply-for-a-90000-professional-opportunity-in-civil-society-and-leadership/ SEP 19
 - [ ] The 50 Percent Storytelling Fellowship 2026 https://opportunitydesk.org/2026/09/11/the-50-percent-storytelling-fellowship-2026/ SEP 18
 - [ ] Democracy Group Podcast Fellowship 2026 https://opportunitydesk.org/2026/09/11/democracy-group-podcast-fellowship-2026/ SEP 20
+- [ ] Niongoze Fellowship 2026: Leadership, Mentorship and Training Opportunity for Young Tanzanian Women https://opportunitiesforyouth.org/2026/09/11/niongoze-fellowship-2026/ SEP 22
+- [ ] York University YSpace Venture Catalyst 2026: Free Startup Program for Early-Stage Technology Founders https://opportunitiesforyouth.org/2026/09/11/york-university-yspace-venture-catalyst-2026-free-startup-program-for-early-stage-technology-founders/ SEP 22
 
 </details>
 
