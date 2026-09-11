@@ -651,6 +651,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Google Apprenticeships 2027: Paid Entry-Level Career Opportunities in Data Analytics, Digital Marketing, IT... https://opportunitiesforyouth.org/2026/09/11/google-apprenticeships-2026-2027-paid-work-and-study-opportunities-at-google-across-europe-launch-your-career-in-software-engineering-ai-marketing-ux-customer-engineering-more/ SEP 18
 - [ ] African Leadership Institute Archbishop Tutu Fellowship Programme 2027 https://www.opportunitiesforafricans.com/african-leadership-institute-afli-archbishop-tutu-fellowship-programme-2027/ SEP 17
 - [ ] WTO SPS Mentoring System 2026: Applications Open for Government Officials Working on Sanitary and Phytosani... https://opportunitiesforyouth.org/2026/09/11/wto-sps-mentoring-2026/ SEP 22
+- [ ] 2027 Tools Competition: Multi-Million-Dollar Funding Opportunity for Innovative Education Technology, AI To... https://opportunitiesforyouth.org/2026/09/11/2027-tools-competition-multi-million-dollar-funding-opportunity-for-innovative-education-technology-ai-tools-and-learning-datasets/ SEP 12
+- [ ] UC Berkeley–Packard Foundation Philanthropy Fellow 2026: Apply for a $90,000 Professional Opportunity in Ci... https://opportunitiesforyouth.org/2026/09/11/uc-berkeley-packard-foundation-philanthropy-fellow-2026-apply-for-a-90000-professional-opportunity-in-civil-society-and-leadership/ SEP 19
 
 </details>
 
