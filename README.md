@@ -649,6 +649,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Royal Commonwealth Society Recruitment 2026: Apply for the Digital Communications and Public Affairs Office... https://opportunitiesforyouth.org/2026/09/10/royal-commonwealth-society-recruitment-2026-apply-for-the-digital-communications-and-public-affairs-officer-role-in-london/ SEP 26
 - [ ] UNDP Communications Internship 2026 in Italy | 6-Month Internship in Rome https://opportunitiesforyouth.org/2026/09/11/undp-rome-centre-internship-2025-climate-energy-portfolio/ SEP 14
 - [ ] Google Apprenticeships 2027: Paid Entry-Level Career Opportunities in Data Analytics, Digital Marketing, IT... https://opportunitiesforyouth.org/2026/09/11/google-apprenticeships-2026-2027-paid-work-and-study-opportunities-at-google-across-europe-launch-your-career-in-software-engineering-ai-marketing-ux-customer-engineering-more/ SEP 18
+- [ ] African Leadership Institute Archbishop Tutu Fellowship Programme 2027 https://www.opportunitiesforafricans.com/african-leadership-institute-afli-archbishop-tutu-fellowship-programme-2027/ SEP 17
+- [ ] WTO SPS Mentoring System 2026: Applications Open for Government Officials Working on Sanitary and Phytosani... https://opportunitiesforyouth.org/2026/09/11/wto-sps-mentoring-2026/ SEP 22
 
 </details>
 
