@@ -653,6 +653,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WTO SPS Mentoring System 2026: Applications Open for Government Officials Working on Sanitary and Phytosani... https://opportunitiesforyouth.org/2026/09/11/wto-sps-mentoring-2026/ SEP 22
 - [ ] 2027 Tools Competition: Multi-Million-Dollar Funding Opportunity for Innovative Education Technology, AI To... https://opportunitiesforyouth.org/2026/09/11/2027-tools-competition-multi-million-dollar-funding-opportunity-for-innovative-education-technology-ai-tools-and-learning-datasets/ SEP 12
 - [ ] UC Berkeley–Packard Foundation Philanthropy Fellow 2026: Apply for a $90,000 Professional Opportunity in Ci... https://opportunitiesforyouth.org/2026/09/11/uc-berkeley-packard-foundation-philanthropy-fellow-2026-apply-for-a-90000-professional-opportunity-in-civil-society-and-leadership/ SEP 19
+- [ ] The 50 Percent Storytelling Fellowship 2026 https://opportunitydesk.org/2026/09/11/the-50-percent-storytelling-fellowship-2026/ SEP 18
+- [ ] Democracy Group Podcast Fellowship 2026 https://opportunitydesk.org/2026/09/11/democracy-group-podcast-fellowship-2026/ SEP 20
 
 </details>
 
