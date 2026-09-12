@@ -663,6 +663,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Charles Darwin University RTP Scholarship 2026/27: Research Funding for PhD and Master by Research Students... https://opportunitiesforyouth.org/2026/09/11/charles-darwin-scholarship/ SEP 27
 - [ ] Comic Relief Community Fund 2026/27: Grants of Up to £5,000 for Grassroots Organisations in England https://opportunitiesforyouth.org/2026/09/12/comic-relief-community-fund-2026-27-grants-of-up-to-5000-for-grassroots-organisations-in-england/ SEP 27
 - [ ] EU No Child Left Behind Grant 2026: Up to €1 Million for NGOs Supporting Children with Disabilities in Egypt https://opportunitiesforyouth.org/2026/09/11/eu-grant-2026-up-to-1-million/ SEP 27
+- [ ] Indomie Scholarship Program 2026 For Nigerians | Step-by-Step Process https://www.scholarshipregion.com/indomie-scholarship-program/ SEP 27
+- [ ] USTC Research Internship 2027 in China https://www.opportunitiescircle.com/ustc-research-internship/ SEP 27
 
 </details>
 
