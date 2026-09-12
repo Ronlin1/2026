@@ -657,6 +657,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Democracy Group Podcast Fellowship 2026 https://opportunitydesk.org/2026/09/11/democracy-group-podcast-fellowship-2026/ SEP 20
 - [ ] Niongoze Fellowship 2026: Leadership, Mentorship and Training Opportunity for Young Tanzanian Women https://opportunitiesforyouth.org/2026/09/11/niongoze-fellowship-2026/ SEP 22
 - [ ] York University YSpace Venture Catalyst 2026: Free Startup Program for Early-Stage Technology Founders https://opportunitiesforyouth.org/2026/09/11/york-university-yspace-venture-catalyst-2026-free-startup-program-for-early-stage-technology-founders/ SEP 22
+- [ ] LeadGreen Fellowship Cohort 4 https://opportunitydesk.org/2026/09/11/leadgreen-fellowship-cohort-4/ SEP 17
+- [ ] Arizona State University Mastercard Foundation Scholars Program (Fully Funded) https://opportunityportal.info/arizona-state-university-mastercard-foundation/ SEP 24
 
 </details>
 
