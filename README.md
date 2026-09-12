@@ -659,6 +659,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] York University YSpace Venture Catalyst 2026: Free Startup Program for Early-Stage Technology Founders https://opportunitiesforyouth.org/2026/09/11/york-university-yspace-venture-catalyst-2026-free-startup-program-for-early-stage-technology-founders/ SEP 22
 - [ ] LeadGreen Fellowship Cohort 4 https://opportunitydesk.org/2026/09/11/leadgreen-fellowship-cohort-4/ SEP 17
 - [ ] Arizona State University Mastercard Foundation Scholars Program (Fully Funded) https://opportunityportal.info/arizona-state-university-mastercard-foundation/ SEP 24
+- [ ] ADB Young Professionals Program 2027 | ADB YPP | Fully Funded https://www.opportunitiescircle.com/adb-young-professionals-program/ SEP 27
+- [ ] Charles Darwin University RTP Scholarship 2026/27: Research Funding for PhD and Master by Research Students... https://opportunitiesforyouth.org/2026/09/11/charles-darwin-scholarship/ SEP 27
 
 </details>
 
