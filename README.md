@@ -665,6 +665,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] EU No Child Left Behind Grant 2026: Up to €1 Million for NGOs Supporting Children with Disabilities in Egypt https://opportunitiesforyouth.org/2026/09/11/eu-grant-2026-up-to-1-million/ SEP 27
 - [ ] Indomie Scholarship Program 2026 For Nigerians | Step-by-Step Process https://www.scholarshipregion.com/indomie-scholarship-program/ SEP 27
 - [ ] USTC Research Internship 2027 in China https://www.opportunitiescircle.com/ustc-research-internship/ SEP 27
+- [ ] Pennsylvania Apprenticeships on the Move Grant 2026: Apply for Up to $249,999 to Expand Workforce Apprentic... https://opportunitiesforyouth.org/2026/09/11/pennsylvania-apprenticeships-on-the-move-grant-2026-apply-for-up-to-249999-to-expand-workforce-apprenticeship-programs/ SEP 29
 
 </details>
 
@@ -674,6 +675,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Human Rights Advocates Program 2027/2028 at Columbia University. https://www.opportunitiesforafricans.com/human-rights-advocates-program-hrap-2027-2028/ OCT 12
 - [ ] The France–South Africa Scholarship Programme 2027 https://www.opportunitiesforafricans.com/the-francesouth-africa-scholarship-programme-2027-for-southern-africans-to-study-in-france/ OCT 5
 - [ ] Mycoskie–UC Berkeley Psychedelic Documentary Fellowship 2026: Up to $20,000 for Documentary Filmmakers Worl... https://opportunitiesforyouth.org/2026/09/06/mycoskie-uc-berkeley-psychedelic-documentary-fellowship-2026-up-to-20000-for-documentary-filmmakers-worldwide/ OCT 2
+- [ ] ARC Ltd–GSSP Scholarship Program 2026 https://www.opportunitiesforafricans.com/arc-ltdgssp-scholarship-program-2026/ OCT 4
 
 </details>
 
