@@ -666,6 +666,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Indomie Scholarship Program 2026 For Nigerians | Step-by-Step Process https://www.scholarshipregion.com/indomie-scholarship-program/ SEP 27
 - [ ] USTC Research Internship 2027 in China https://www.opportunitiescircle.com/ustc-research-internship/ SEP 27
 - [ ] Pennsylvania Apprenticeships on the Move Grant 2026: Apply for Up to $249,999 to Expand Workforce Apprentic... https://opportunitiesforyouth.org/2026/09/11/pennsylvania-apprenticeships-on-the-move-grant-2026-apply-for-up-to-249999-to-expand-workforce-apprenticeship-programs/ SEP 29
+- [ ] AAUW International Fellowships In USA 2027 (Fully Funded) https://opportunityportal.info/aauw-international-fellowships/ SEP 14
+- [ ] UNU-WIDER Visiting PhD Fellowship 2027 in Finland | Fully Funded https://www.opportunitiescircle.com/unu-wider-visiting-phd-fellowship/ SEP 27
 
 </details>
 
