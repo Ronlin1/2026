@@ -682,6 +682,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Australia Government ARC Future Fellowships 2027 (Fully Funded) https://opportunityportal.info/arc-future-fellowships/ OCT 5
 - [ ] Nordic Africa Institute’s Nordic Scholarship Programme 2027/2028 https://www.opportunitiesforafricans.com/nordic-africa-institutes-nordic-scholarship-programme-2027-2028/ OCT 8
 - [ ] Gates Cambridge Scholarship 2027 | Study Free in UK | Fully Funded https://www.opportunitiescircle.com/gates-cambridge-scholarship/ OCT 11
+- [ ] International Health DAAD EPOS Scholarship in Germany 2027 | Fully Funded https://www.scholarshipregion.com/international-health-daad-epos-scholarship/ OCT 12
+- [ ] Leaders of Africa Institute Research Communication Program 2026 https://opportunitydesk.org/2026/09/11/leaders-of-africa-institute-research-communication-program-2026/ OCT 13
 
 </details>
 
