@@ -678,6 +678,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The France–South Africa Scholarship Programme 2027 https://www.opportunitiesforafricans.com/the-francesouth-africa-scholarship-programme-2027-for-southern-africans-to-study-in-france/ OCT 5
 - [ ] Mycoskie–UC Berkeley Psychedelic Documentary Fellowship 2026: Up to $20,000 for Documentary Filmmakers Worl... https://opportunitiesforyouth.org/2026/09/06/mycoskie-uc-berkeley-psychedelic-documentary-fellowship-2026-up-to-20000-for-documentary-filmmakers-worldwide/ OCT 2
 - [ ] ARC Ltd–GSSP Scholarship Program 2026 https://www.opportunitiesforafricans.com/arc-ltdgssp-scholarship-program-2026/ OCT 4
+- [ ] GIST Scholarship in South Korea 2027 | Fully Funded | Study in Korea https://www.opportunitiescircle.com/gist-scholarship-in-south-korea/ OCT 4
+- [ ] Australia Government ARC Future Fellowships 2027 (Fully Funded) https://opportunityportal.info/arc-future-fellowships/ OCT 5
 
 </details>
 
