@@ -680,6 +680,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ARC Ltd–GSSP Scholarship Program 2026 https://www.opportunitiesforafricans.com/arc-ltdgssp-scholarship-program-2026/ OCT 4
 - [ ] GIST Scholarship in South Korea 2027 | Fully Funded | Study in Korea https://www.opportunitiescircle.com/gist-scholarship-in-south-korea/ OCT 4
 - [ ] Australia Government ARC Future Fellowships 2027 (Fully Funded) https://opportunityportal.info/arc-future-fellowships/ OCT 5
+- [ ] Nordic Africa Institute’s Nordic Scholarship Programme 2027/2028 https://www.opportunitiesforafricans.com/nordic-africa-institutes-nordic-scholarship-programme-2027-2028/ OCT 8
+- [ ] Gates Cambridge Scholarship 2027 | Study Free in UK | Fully Funded https://www.opportunitiescircle.com/gates-cambridge-scholarship/ OCT 11
 
 </details>
 
