@@ -694,6 +694,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Leaders of Africa Institute Research Communication Program 2026 https://opportunitydesk.org/2026/09/11/leaders-of-africa-institute-research-communication-program-2026/ OCT 13
 - [ ] Morgan Stanley Global Capital Markets Internship 2027 in London https://www.opportunitiescircle.com/morgan-stanley-global-capital-markets-internship/ OCT 15
 - [ ] Commonwealth Master’s Scholarships 2027/2028 https://www.opportunitiesforafricans.com/commonwealth-masters-scholarships-2027-2028/ OCT 17
+- [ ] Harris Social Impact Fellowship 2027-2028 (Funded) https://opportunitydesk.org/2026/09/14/harris-social-impact-fellowship-2027-2028/ OCT 16
+- [ ] Clooney Foundation for Justice (CFJ) Fellowship 2027 https://opportunitydesk.org/2026/09/14/cfj-fellowship-2027/ OCT 17
 
 </details>
 
