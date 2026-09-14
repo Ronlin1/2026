@@ -668,6 +668,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Pennsylvania Apprenticeships on the Move Grant 2026: Apply for Up to $249,999 to Expand Workforce Apprentic... https://opportunitiesforyouth.org/2026/09/11/pennsylvania-apprenticeships-on-the-move-grant-2026-apply-for-up-to-249999-to-expand-workforce-apprenticeship-programs/ SEP 29
 - [ ] AAUW International Fellowships In USA 2027 (Fully Funded) https://opportunityportal.info/aauw-international-fellowships/ SEP 14
 - [ ] UNU-WIDER Visiting PhD Fellowship 2027 in Finland | Fully Funded https://www.opportunitiescircle.com/unu-wider-visiting-phd-fellowship/ SEP 27
+- [ ] Mama Cash Spark Fund 2026: Apply for €5,000–€12,000 Grants for Feminist Groups in the Netherlands and ABCSS... https://opportunitiesforyouth.org/2026/09/13/mama-cash-spark-fund-2026/ SEP 17
+- [ ] UN Youth Champions for Environment and Peace 2026: Apply for the UN Youth Peacebuilding Programme in Cyprus https://opportunitiesforyouth.org/2026/09/14/un-youth-champions-for-environment-and-peace-2026-apply-for-the-un-youth-peacebuilding-programme-in-cyprus/ SEP 17
 
 </details>
 
