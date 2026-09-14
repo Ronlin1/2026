@@ -672,6 +672,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UN Youth Champions for Environment and Peace 2026: Apply for the UN Youth Peacebuilding Programme in Cyprus https://opportunitiesforyouth.org/2026/09/14/un-youth-champions-for-environment-and-peace-2026-apply-for-the-un-youth-peacebuilding-programme-in-cyprus/ SEP 17
 - [ ] Citi Corporate Banking Sustainability and Corporate Transitions Full-Time Analyst 2027: Apply for a $110,00... https://opportunitiesforyouth.org/2026/09/14/citi-corporate-banking-sustainability-and-corporate-transitions-full-time-analyst-2027-apply-for-a-110000-analyst-role-in-new-york/ SEP 14
 - [ ] London Mathematical Society Mathematics in Africa Grant 2026 https://opportunitydesk.org/2026/09/14/mathematics-in-africa-grant-2026/ SEP 14
+- [ ] African Philanthropy Media Fellowship (APMF) Cohort 2 https://opportunitydesk.org/2026/09/14/african-philanthropy-media-fellowship-cohort-2/ SEP 18
+- [ ] Youth Travel Grants to attend UNEP’s 1st International Conference of the Global Framework on Chemicals 2026... https://opportunitydesk.org/2026/09/13/youth-travel-grants-to-attend-international-conference-of-the-global-framework-on-chemicals-gfc-ic-1/ SEP 26
 
 </details>
 
