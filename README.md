@@ -670,6 +670,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNU-WIDER Visiting PhD Fellowship 2027 in Finland | Fully Funded https://www.opportunitiescircle.com/unu-wider-visiting-phd-fellowship/ SEP 27
 - [ ] Mama Cash Spark Fund 2026: Apply for €5,000–€12,000 Grants for Feminist Groups in the Netherlands and ABCSS... https://opportunitiesforyouth.org/2026/09/13/mama-cash-spark-fund-2026/ SEP 17
 - [ ] UN Youth Champions for Environment and Peace 2026: Apply for the UN Youth Peacebuilding Programme in Cyprus https://opportunitiesforyouth.org/2026/09/14/un-youth-champions-for-environment-and-peace-2026-apply-for-the-un-youth-peacebuilding-programme-in-cyprus/ SEP 17
+- [ ] Citi Corporate Banking Sustainability and Corporate Transitions Full-Time Analyst 2027: Apply for a $110,00... https://opportunitiesforyouth.org/2026/09/14/citi-corporate-banking-sustainability-and-corporate-transitions-full-time-analyst-2027-apply-for-a-110000-analyst-role-in-new-york/ SEP 14
+- [ ] London Mathematical Society Mathematics in Africa Grant 2026 https://opportunitydesk.org/2026/09/14/mathematics-in-africa-grant-2026/ SEP 14
 
 </details>
 
