@@ -680,6 +680,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2027 Khalifa University Graduate Scholarship in UAE | Fully Funded https://www.scholarshipregion.com/khalifa-university-graduate-scholarship/ SEP 25
 - [ ] NASA Pathways Internship Program 2027: Launch Your Career with NASA Through the Spring 2027 Internship https://opportunitiesforyouth.org/2026/09/15/nasa-pathways-internship-program-2027-launch-your-career-with-nasa-through-the-spring-2027-internship/ SEP 18
 - [ ] Field Studies Council Youth Panel 2026: Join the UK-Wide Youth Environmental Leadership Panel https://opportunitiesforyouth.org/2026/09/15/field-studies-council-youth-panel-2026-join-the-uk-wide-youth-environmental-leadership-panel/ SEP 24
+- [ ] AfricaLics PhD Visiting Fellowship Programme 2027: Fully Supported 3-Month Research Fellowship in South Afr... https://opportunitiesforyouth.org/2026/09/15/africalics-phd-visiting-fellowship-programme-2027-fully-supported-3-month-research-fellowship-in-south-africa-for-african-phd-students/ SEP 29
+- [ ] AfricaLics Visiting PhD Fellowship Programme 2027 https://www.opportunitiesforafricans.com/africalics-visiting-phd-fellowship-programme-2027/ SEP 29
 
 </details>
 
