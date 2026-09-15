@@ -676,6 +676,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Youth Travel Grants to attend UNEP’s 1st International Conference of the Global Framework on Chemicals 2026... https://opportunitydesk.org/2026/09/13/youth-travel-grants-to-attend-international-conference-of-the-global-framework-on-chemicals-gfc-ic-1/ SEP 26
 - [ ] IBRO Seeding Neuroscience Grants 2026: Funding for New Neuroscience Societies and Thematic Networks in Afri... https://opportunitiesforyouth.org/2026/09/14/ibro-seeding-grants-2026/ SEP 27
 - [ ] Blue Catalyst Fund 2026: Funding and Technical Support for High-Quality Mangrove Conservation and Restorati... https://opportunitiesforyouth.org/2026/09/14/blue-catalyst-fund-2026-funding-and-technical-support-for-high-quality-mangrove-conservation-and-restoration-projects/ SEP 28
+- [ ] Nordic Baltic Youth Summit 2026 https://opportunitydesk.org/2026/09/15/nordic-baltic-youth-summit-2026/ SEP 17
+- [ ] 2027 Khalifa University Graduate Scholarship in UAE | Fully Funded https://www.scholarshipregion.com/khalifa-university-graduate-scholarship/ SEP 25
 
 </details>
 
