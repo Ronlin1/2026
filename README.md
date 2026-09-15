@@ -682,6 +682,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Field Studies Council Youth Panel 2026: Join the UK-Wide Youth Environmental Leadership Panel https://opportunitiesforyouth.org/2026/09/15/field-studies-council-youth-panel-2026-join-the-uk-wide-youth-environmental-leadership-panel/ SEP 24
 - [ ] AfricaLics PhD Visiting Fellowship Programme 2027: Fully Supported 3-Month Research Fellowship in South Afr... https://opportunitiesforyouth.org/2026/09/15/africalics-phd-visiting-fellowship-programme-2027-fully-supported-3-month-research-fellowship-in-south-africa-for-african-phd-students/ SEP 29
 - [ ] AfricaLics Visiting PhD Fellowship Programme 2027 https://www.opportunitiesforafricans.com/africalics-visiting-phd-fellowship-programme-2027/ SEP 29
+- [ ] Women in Foreign Affairs Mentorship Group 2026 with Alyse Nelson: Applications Open for Women in Foreign Af... https://opportunitiesforyouth.org/2026/09/15/women-in-foreign-affairs-mentorship-group-2026-with-alyse-nelson-applications-open-for-women-in-foreign-affairs/ SEP 29
 
 </details>
 
@@ -702,6 +703,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Commonwealth Master’s Scholarships 2027/2028 https://www.opportunitiesforafricans.com/commonwealth-masters-scholarships-2027-2028/ OCT 17
 - [ ] Harris Social Impact Fellowship 2027-2028 (Funded) https://opportunitydesk.org/2026/09/14/harris-social-impact-fellowship-2027-2028/ OCT 16
 - [ ] Clooney Foundation for Justice (CFJ) Fellowship 2027 https://opportunitydesk.org/2026/09/14/cfj-fellowship-2027/ OCT 17
+- [ ] Digital Science Catalyst Grant 2026 (up to £25,000) https://opportunitydesk.org/2026/09/15/digital-science-catalyst-grant-2026/ OCT 2
 
 </details>
 
