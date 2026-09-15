@@ -678,6 +678,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Blue Catalyst Fund 2026: Funding and Technical Support for High-Quality Mangrove Conservation and Restorati... https://opportunitiesforyouth.org/2026/09/14/blue-catalyst-fund-2026-funding-and-technical-support-for-high-quality-mangrove-conservation-and-restoration-projects/ SEP 28
 - [ ] Nordic Baltic Youth Summit 2026 https://opportunitydesk.org/2026/09/15/nordic-baltic-youth-summit-2026/ SEP 17
 - [ ] 2027 Khalifa University Graduate Scholarship in UAE | Fully Funded https://www.scholarshipregion.com/khalifa-university-graduate-scholarship/ SEP 25
+- [ ] NASA Pathways Internship Program 2027: Launch Your Career with NASA Through the Spring 2027 Internship https://opportunitiesforyouth.org/2026/09/15/nasa-pathways-internship-program-2027-launch-your-career-with-nasa-through-the-spring-2027-internship/ SEP 18
+- [ ] Field Studies Council Youth Panel 2026: Join the UK-Wide Youth Environmental Leadership Panel https://opportunitiesforyouth.org/2026/09/15/field-studies-council-youth-panel-2026-join-the-uk-wide-youth-environmental-leadership-panel/ SEP 24
 
 </details>
 
