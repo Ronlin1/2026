@@ -687,6 +687,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Fully Funded PhD Studentship at Edinburgh Law School 2026: Apply to Research AI, Algorithms and Legal Decis... https://opportunitiesforyouth.org/2026/09/16/fully-funded-phd-studentship-at-edinburgh-law-school-2026-apply-to-research-ai-algorithms-and-legal-decision-making/ SEP 27
 - [ ] Global Korea Undergraduate Scholarship 2027 | Korean Government Scholarship | Fully Funded https://www.opportunitiescircle.com/global-korea-undergraduate-scholarship/ SEP 27
 - [ ] SIIT Thailand Scholarship For Masters & Ph.D. (Fully Funded) https://opportunityportal.info/siit-scholarship-in-thailand/ SEP 27
+- [ ] AfricaLics PhD Visiting Fellowship Programme (VFP) 2027 https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027/ SEP 29
 
 </details>
 
@@ -708,6 +709,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Harris Social Impact Fellowship 2027-2028 (Funded) https://opportunitydesk.org/2026/09/14/harris-social-impact-fellowship-2027-2028/ OCT 16
 - [ ] Clooney Foundation for Justice (CFJ) Fellowship 2027 https://opportunitydesk.org/2026/09/14/cfj-fellowship-2027/ OCT 17
 - [ ] Digital Science Catalyst Grant 2026 (up to £25,000) https://opportunitydesk.org/2026/09/15/digital-science-catalyst-grant-2026/ OCT 2
+- [ ] The Citi Foundation Global Innovation Challenge 2027 https://www.opportunitiesforafricans.com/the-citi-foundation-global-innovation-challenge-2026/ OCT 3
 
 </details>
 
