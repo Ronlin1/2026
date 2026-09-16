@@ -688,6 +688,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Global Korea Undergraduate Scholarship 2027 | Korean Government Scholarship | Fully Funded https://www.opportunitiescircle.com/global-korea-undergraduate-scholarship/ SEP 27
 - [ ] SIIT Thailand Scholarship For Masters & Ph.D. (Fully Funded) https://opportunityportal.info/siit-scholarship-in-thailand/ SEP 27
 - [ ] AfricaLics PhD Visiting Fellowship Programme (VFP) 2027 https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027/ SEP 29
+- [ ] CANEX Create-Thon 2026 ($50,000 prize pool) https://opportunitydesk.org/2026/09/16/canex-create-thon-2026/ SEP 22
 
 </details>
 
@@ -710,6 +711,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Clooney Foundation for Justice (CFJ) Fellowship 2027 https://opportunitydesk.org/2026/09/14/cfj-fellowship-2027/ OCT 17
 - [ ] Digital Science Catalyst Grant 2026 (up to £25,000) https://opportunitydesk.org/2026/09/15/digital-science-catalyst-grant-2026/ OCT 2
 - [ ] The Citi Foundation Global Innovation Challenge 2027 https://www.opportunitiesforafricans.com/the-citi-foundation-global-innovation-challenge-2026/ OCT 3
+- [ ] Global Entrepreneurship Festival Entrepreneurs Investment Program 2026 https://opportunitydesk.org/2026/09/16/entrepreneurs-investment-program-2026/ OCT 3
 
 </details>
 
