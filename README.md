@@ -689,6 +689,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] SIIT Thailand Scholarship For Masters & Ph.D. (Fully Funded) https://opportunityportal.info/siit-scholarship-in-thailand/ SEP 27
 - [ ] AfricaLics PhD Visiting Fellowship Programme (VFP) 2027 https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027/ SEP 29
 - [ ] CANEX Create-Thon 2026 ($50,000 prize pool) https://opportunitydesk.org/2026/09/16/canex-create-thon-2026/ SEP 22
+- [ ] Stevens Initiative AI Ignite Lab 2026: AI and Social Impact Program for Young People in the U.S. and UAE https://opportunitiesforyouth.org/2026/09/16/stevens-initiative-ai-ignite-lab-2026-ai-and-social-impact-program-for-young-people-in-the-u-s-and-uae/ SEP 21
+- [ ] LEGO Group Employee Engagement & Analytics Internship 2027 in London: Paid 12-Month Opportunity for Students https://opportunitiesforyouth.org/2026/09/16/lego-group-employee-engagement-analytics-internship-2027-in-london-paid-12-month-opportunity-for-students/ SEP 22
 
 </details>
 
