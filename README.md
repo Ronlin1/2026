@@ -683,6 +683,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AfricaLics PhD Visiting Fellowship Programme 2027: Fully Supported 3-Month Research Fellowship in South Afr... https://opportunitiesforyouth.org/2026/09/15/africalics-phd-visiting-fellowship-programme-2027-fully-supported-3-month-research-fellowship-in-south-africa-for-african-phd-students/ SEP 29
 - [ ] AfricaLics Visiting PhD Fellowship Programme 2027 https://www.opportunitiesforafricans.com/africalics-visiting-phd-fellowship-programme-2027/ SEP 29
 - [ ] Women in Foreign Affairs Mentorship Group 2026 with Alyse Nelson: Applications Open for Women in Foreign Af... https://opportunitiesforyouth.org/2026/09/15/women-in-foreign-affairs-mentorship-group-2026-with-alyse-nelson-applications-open-for-women-in-foreign-affairs/ SEP 29
+- [ ] 2026 Dwabo Small Grants Programme in Ghana: Apply for €8,000–€10,000 Grants Supporting Persons with Disabil... https://opportunitiesforyouth.org/2026/09/16/2026-dwabo-small-grants-programme-in-ghana-apply-for-e8000-e10000-grants-supporting-persons-with-disabilities/ SEP 20
+- [ ] Fully Funded PhD Studentship at Edinburgh Law School 2026: Apply to Research AI, Algorithms and Legal Decis... https://opportunitiesforyouth.org/2026/09/16/fully-funded-phd-studentship-at-edinburgh-law-school-2026-apply-to-research-ai-algorithms-and-legal-decision-making/ SEP 27
 
 </details>
 
