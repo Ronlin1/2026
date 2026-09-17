@@ -720,6 +720,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Citi Foundation Global Innovation Challenge 2027 https://www.opportunitiesforafricans.com/the-citi-foundation-global-innovation-challenge-2026/ OCT 3
 - [ ] Global Entrepreneurship Festival Entrepreneurs Investment Program 2026 https://opportunitydesk.org/2026/09/16/entrepreneurs-investment-program-2026/ OCT 3
 - [ ] California Documentary Project (CDP) Grants 2026-2027 https://opportunitydesk.org/2026/09/16/california-documentary-project-grants-2026-2027/ OCT 11
+- [ ] ESDC Internship 2027 in Brussels, Belgium: EUR 1,500 Monthly Allowance for EU Security and Defence Policy S... https://opportunitiesforyouth.org/2026/09/17/esdc-internship-2027-in-brussels-belgium-eur-1500-monthly-allowance-for-eu-security-and-defence-policy-students/ OCT 11
+- [ ] 2026 AGNES Intra-Africa Mobility Grants for Junior Researchers https://www.opportunitiesforafricans.com/2026-agnes-intra-africa-mobility-grants-for-junior-researchers/ OCT 13
 
 </details>
 
