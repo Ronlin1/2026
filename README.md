@@ -691,6 +691,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CANEX Create-Thon 2026 ($50,000 prize pool) https://opportunitydesk.org/2026/09/16/canex-create-thon-2026/ SEP 22
 - [ ] Stevens Initiative AI Ignite Lab 2026: AI and Social Impact Program for Young People in the U.S. and UAE https://opportunitiesforyouth.org/2026/09/16/stevens-initiative-ai-ignite-lab-2026-ai-and-social-impact-program-for-young-people-in-the-u-s-and-uae/ SEP 21
 - [ ] LEGO Group Employee Engagement & Analytics Internship 2027 in London: Paid 12-Month Opportunity for Students https://opportunitiesforyouth.org/2026/09/16/lego-group-employee-engagement-analytics-internship-2027-in-london-paid-12-month-opportunity-for-students/ SEP 22
+- [ ] Max Planck MTL Internship 2027 in Germany (Fully Funded) https://scholarshipscorner.website/max-planck-mtl-internship-germany/ SEP 28
 
 </details>
 
@@ -714,6 +715,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Digital Science Catalyst Grant 2026 (up to £25,000) https://opportunitydesk.org/2026/09/15/digital-science-catalyst-grant-2026/ OCT 2
 - [ ] The Citi Foundation Global Innovation Challenge 2027 https://www.opportunitiesforafricans.com/the-citi-foundation-global-innovation-challenge-2026/ OCT 3
 - [ ] Global Entrepreneurship Festival Entrepreneurs Investment Program 2026 https://opportunitydesk.org/2026/09/16/entrepreneurs-investment-program-2026/ OCT 3
+- [ ] California Documentary Project (CDP) Grants 2026-2027 https://opportunitydesk.org/2026/09/16/california-documentary-project-grants-2026-2027/ OCT 11
 
 </details>
 
