@@ -694,6 +694,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Max Planck MTL Internship 2027 in Germany (Fully Funded) https://scholarshipscorner.website/max-planck-mtl-internship-germany/ SEP 28
 - [ ] The World Bank Group Small AI for Development Hackathon Challenge 2026 https://www.opportunitiesforafricans.com/the-world-bank-group-small-ai-for-development-hackathon-challenge-2026/ SEP 23
 - [ ] U.S. Department of State’s Gilman-McCain Scholarship – Fall 2026 (Funded) https://opportunitydesk.org/2026/09/17/gilman-mccain-scholarship-fall-2026/ SEP 28
+- [ ] Resist Urgent Action Fund Grant 2026: Apply for Up to $5,000 in Rapid-Response Funding for Grassroots Organ... https://opportunitiesforyouth.org/2026/09/17/resist-urgent-action-fund-grant-2026-apply-for-up-to-5000-in-rapid-response-funding-for-grassroots-organizations/ SEP 17
+- [ ] PPG Research Fellowship 2026 in the USA | $50 Per Hour for Early-Career Researchers https://opportunitiesforyouth.org/2026/09/17/ppg-research-fellowship-2026-in-the-usa-50-per-hour-for-early-career-researchers/ SEP 25
 
 </details>
 
