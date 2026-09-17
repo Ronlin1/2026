@@ -692,6 +692,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Stevens Initiative AI Ignite Lab 2026: AI and Social Impact Program for Young People in the U.S. and UAE https://opportunitiesforyouth.org/2026/09/16/stevens-initiative-ai-ignite-lab-2026-ai-and-social-impact-program-for-young-people-in-the-u-s-and-uae/ SEP 21
 - [ ] LEGO Group Employee Engagement & Analytics Internship 2027 in London: Paid 12-Month Opportunity for Students https://opportunitiesforyouth.org/2026/09/16/lego-group-employee-engagement-analytics-internship-2027-in-london-paid-12-month-opportunity-for-students/ SEP 22
 - [ ] Max Planck MTL Internship 2027 in Germany (Fully Funded) https://scholarshipscorner.website/max-planck-mtl-internship-germany/ SEP 28
+- [ ] The World Bank Group Small AI for Development Hackathon Challenge 2026 https://www.opportunitiesforafricans.com/the-world-bank-group-small-ai-for-development-hackathon-challenge-2026/ SEP 23
+- [ ] U.S. Department of State’s Gilman-McCain Scholarship – Fall 2026 (Funded) https://opportunitydesk.org/2026/09/17/gilman-mccain-scholarship-fall-2026/ SEP 28
 
 </details>
 
