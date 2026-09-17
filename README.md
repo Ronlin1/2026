@@ -722,6 +722,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] California Documentary Project (CDP) Grants 2026-2027 https://opportunitydesk.org/2026/09/16/california-documentary-project-grants-2026-2027/ OCT 11
 - [ ] ESDC Internship 2027 in Brussels, Belgium: EUR 1,500 Monthly Allowance for EU Security and Defence Policy S... https://opportunitiesforyouth.org/2026/09/17/esdc-internship-2027-in-brussels-belgium-eur-1500-monthly-allowance-for-eu-security-and-defence-policy-students/ OCT 11
 - [ ] 2026 AGNES Intra-Africa Mobility Grants for Junior Researchers https://www.opportunitiesforafricans.com/2026-agnes-intra-africa-mobility-grants-for-junior-researchers/ OCT 13
+- [ ] AGNES Intra-Africa Mobility Grants for Junior Researchers 2026 (Funded) https://opportunitydesk.org/2026/09/17/agnes-intra-africa-mobility-grants-2026/ OCT 13
+- [ ] The European University Institute Jean Monnet Fellowships 2027 https://www.opportunitiesforafricans.com/the-european-university-institute-jean-monnet-fellowships-2027/ OCT 20
 
 </details>
 
