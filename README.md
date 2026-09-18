@@ -702,6 +702,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Office of the Chief Justice Graduate Internship Programme 2027 https://www.opportunitiesforafricans.com/office-of-the-chief-justice-ocj-graduate-internship-programme-2027/ SEP 25
 - [ ] EBRD Internship 2026 in Brussels: Apply for a 6-Month Intern Position in Corporate Strategy https://opportunitiesforyouth.org/2026/09/18/ebrd-internship-2026-in-brussels-apply-for-a-6-month-intern-position-in-corporate-strategy/ SEP 22
 - [ ] Europe Defence and Security Fellowship 2027: Fully Funded Leadership Programme for Mid-Career Security and... https://opportunitiesforyouth.org/2026/09/18/europe-defence-and-security-fellowship-2027-fully-funded-leadership-programme-for-mid-career-security-and-defence-professionals/ SEP 24
+- [ ] Morgan Stanley 2027 Investment Management Sophomore Summer Analyst Program in New York: Private Credit & Eq... https://opportunitiesforyouth.org/2026/09/18/morgan-stanley-2027-investment-management-sophomore-summer-analyst-program-in-new-york-private-credit-equity-internship/ SEP 22
+- [ ] Migration Policy Institute Associate Policy Analyst 2026: Apply for a Global Migration Policy Career with W... https://opportunitiesforyouth.org/2026/09/18/migration-policy-institute-associate-policy-analyst-2026-apply-for-a-global-migration-policy-career-with-worldwide-remote-work-considered/ SEP 27
 
 </details>
 
