@@ -697,6 +697,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Resist Urgent Action Fund Grant 2026: Apply for Up to $5,000 in Rapid-Response Funding for Grassroots Organ... https://opportunitiesforyouth.org/2026/09/17/resist-urgent-action-fund-grant-2026-apply-for-up-to-5000-in-rapid-response-funding-for-grassroots-organizations/ SEP 17
 - [ ] PPG Research Fellowship 2026 in the USA | $50 Per Hour for Early-Career Researchers https://opportunitiesforyouth.org/2026/09/17/ppg-research-fellowship-2026-in-the-usa-50-per-hour-for-early-career-researchers/ SEP 25
 - [ ] MAIA AI Safety Fundamentals (AISF) Fellowship – Fall 2026 https://opportunitydesk.org/2026/09/17/maia-ai-safety-fundamentals-fellowship-fall-2026/ SEP 20
+- [ ] Global Mental Health Fellowship Program 2026 (Cohort 5) https://opportunitydesk.org/2026/09/18/global-mental-health-fellowship-program-2026-cohort-5/ SEP 23
 
 </details>
 
@@ -726,6 +727,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AGNES Intra-Africa Mobility Grants for Junior Researchers 2026 (Funded) https://opportunitydesk.org/2026/09/17/agnes-intra-africa-mobility-grants-2026/ OCT 13
 - [ ] The European University Institute Jean Monnet Fellowships 2027 https://www.opportunitiesforafricans.com/the-european-university-institute-jean-monnet-fellowships-2027/ OCT 20
 - [ ] Chevening British Library Coptic Collections Fellowship in UK (Fully Funded) https://scholarshipscorner.website/chevening-british-library-coptic-collections-fellowship/ OCT 24
+- [ ] OpenAI’s AI & Teen Development Research Grant Program 2026 https://opportunitydesk.org/2026/09/18/openai-ai-teen-development-research-grant-program-2026/ OCT 3
 
 </details>
 
