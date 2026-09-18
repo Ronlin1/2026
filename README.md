@@ -698,6 +698,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] PPG Research Fellowship 2026 in the USA | $50 Per Hour for Early-Career Researchers https://opportunitiesforyouth.org/2026/09/17/ppg-research-fellowship-2026-in-the-usa-50-per-hour-for-early-career-researchers/ SEP 25
 - [ ] MAIA AI Safety Fundamentals (AISF) Fellowship – Fall 2026 https://opportunitydesk.org/2026/09/17/maia-ai-safety-fundamentals-fellowship-fall-2026/ SEP 20
 - [ ] Global Mental Health Fellowship Program 2026 (Cohort 5) https://opportunitydesk.org/2026/09/18/global-mental-health-fellowship-program-2026-cohort-5/ SEP 23
+- [ ] Renaissance Africa Energy Company Operations and Maintenance Technician Program 2026 https://www.opportunitiesforafricans.com/renaissance-africa-energy-company-operations-and-maintenance-technician-program-2026/ SEP 22
+- [ ] Office of the Chief Justice Graduate Internship Programme 2027 https://www.opportunitiesforafricans.com/office-of-the-chief-justice-ocj-graduate-internship-programme-2027/ SEP 25
 
 </details>
 
