@@ -700,6 +700,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Global Mental Health Fellowship Program 2026 (Cohort 5) https://opportunitydesk.org/2026/09/18/global-mental-health-fellowship-program-2026-cohort-5/ SEP 23
 - [ ] Renaissance Africa Energy Company Operations and Maintenance Technician Program 2026 https://www.opportunitiesforafricans.com/renaissance-africa-energy-company-operations-and-maintenance-technician-program-2026/ SEP 22
 - [ ] Office of the Chief Justice Graduate Internship Programme 2027 https://www.opportunitiesforafricans.com/office-of-the-chief-justice-ocj-graduate-internship-programme-2027/ SEP 25
+- [ ] EBRD Internship 2026 in Brussels: Apply for a 6-Month Intern Position in Corporate Strategy https://opportunitiesforyouth.org/2026/09/18/ebrd-internship-2026-in-brussels-apply-for-a-6-month-intern-position-in-corporate-strategy/ SEP 22
+- [ ] Europe Defence and Security Fellowship 2027: Fully Funded Leadership Programme for Mid-Career Security and... https://opportunitiesforyouth.org/2026/09/18/europe-defence-and-security-fellowship-2027-fully-funded-leadership-programme-for-mid-career-security-and-defence-professionals/ SEP 24
 
 </details>
 
