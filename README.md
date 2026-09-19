@@ -738,6 +738,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Green Climate Fund Indigenous Peoples Advisory Group 2027–2030: Call for Nominations for Indigenous Peoples... https://opportunitiesforyouth.org/2026/09/19/green-climate-fund-indigenous-peoples-advisory-group-2027-2030-call-for-nominations-for-indigenous-peoples-representatives/ OCT 6
 - [ ] Cornell University AI for Sustainability Visiting Professorship Program 2027 https://opportunitydesk.org/2026/09/18/ai4s-visiting-professorship-program-2027/ OCT 12
 - [ ] Black Ideas Grant (B.I.G.) 4.0 2026 https://opportunitydesk.org/2026/09/18/black-ideas-grant-4-0-2026/ OCT 17
+- [ ] Commonwealth Master’s Scholarships 2027/28: Fully Funded UK Scholarships for Students from Developing Commo... https://opportunitiesforyouth.org/2026/09/18/40-fully-funded-commonwealth-masters-scholarships-for-small-island-developing-states-sids/ OCT 17
+- [ ] 90th Know India Programme (United Kingdom) https://www2.fundsforngos.org/individuals/call-for-applications-90th-know-india-programme-united-kingdom/ OCT 28
 
 </details>
 
