@@ -745,6 +745,14 @@ If you want to contribute, follow the instructions in the Contributing file
 
 </details>
 
+<details open>
+ <summary><h2> NOV :sparkles: </h2></summary>
+
+- [ ] Leverhulme Trust Research Fellowships 2027: Up to £70,000 for Experienced Researchers in Any Discipline https://opportunitiesforyouth.org/2026/09/18/leverhulme-trust-research-fellowships-2027-up-to-70000-for-experienced-researchers-in-any-discipline/ NOV 2
+- [ ] Interactivity Foundation Collaborative Discussion Emerging Fellowship 2027 https://opportunitydesk.org/2026/09/18/collaborative-discussion-emerging-fellowship-2026/ NOV 3
+
+</details>
+
 ## ⭐️ Other Great Repos for Students: OPEN LINKS
 - [x] https://tinyurl.com/4wfed4pv
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux 
