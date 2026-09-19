@@ -740,6 +740,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Black Ideas Grant (B.I.G.) 4.0 2026 https://opportunitydesk.org/2026/09/18/black-ideas-grant-4-0-2026/ OCT 17
 - [ ] Commonwealth Master’s Scholarships 2027/28: Fully Funded UK Scholarships for Students from Developing Commo... https://opportunitiesforyouth.org/2026/09/18/40-fully-funded-commonwealth-masters-scholarships-for-small-island-developing-states-sids/ OCT 17
 - [ ] 90th Know India Programme (United Kingdom) https://www2.fundsforngos.org/individuals/call-for-applications-90th-know-india-programme-united-kingdom/ OCT 28
+- [ ] The Open Notebook Early-Career Fellowship Program 2027 https://www.opportunitiesforafricans.com/the-open-notebook-ton-early-career-fellowship-program-2027/ OCT 28
+- [ ] President’s PhD Scholarships 2027-28 at Imperial College London | Funded https://scholarshipscorner.website/presidents-phd-scholarships/ OCT 30
 
 </details>
 
