@@ -736,6 +736,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Chevening British Library Coptic Collections Fellowship in UK (Fully Funded) https://scholarshipscorner.website/chevening-british-library-coptic-collections-fellowship/ OCT 24
 - [ ] OpenAI’s AI & Teen Development Research Grant Program 2026 https://opportunitydesk.org/2026/09/18/openai-ai-teen-development-research-grant-program-2026/ OCT 3
 - [ ] Green Climate Fund Indigenous Peoples Advisory Group 2027–2030: Call for Nominations for Indigenous Peoples... https://opportunitiesforyouth.org/2026/09/19/green-climate-fund-indigenous-peoples-advisory-group-2027-2030-call-for-nominations-for-indigenous-peoples-representatives/ OCT 6
+- [ ] Cornell University AI for Sustainability Visiting Professorship Program 2027 https://opportunitydesk.org/2026/09/18/ai4s-visiting-professorship-program-2027/ OCT 12
+- [ ] Black Ideas Grant (B.I.G.) 4.0 2026 https://opportunitydesk.org/2026/09/18/black-ideas-grant-4-0-2026/ OCT 17
 
 </details>
 
