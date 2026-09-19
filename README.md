@@ -704,6 +704,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Europe Defence and Security Fellowship 2027: Fully Funded Leadership Programme for Mid-Career Security and... https://opportunitiesforyouth.org/2026/09/18/europe-defence-and-security-fellowship-2027-fully-funded-leadership-programme-for-mid-career-security-and-defence-professionals/ SEP 24
 - [ ] Morgan Stanley 2027 Investment Management Sophomore Summer Analyst Program in New York: Private Credit & Eq... https://opportunitiesforyouth.org/2026/09/18/morgan-stanley-2027-investment-management-sophomore-summer-analyst-program-in-new-york-private-credit-equity-internship/ SEP 22
 - [ ] Migration Policy Institute Associate Policy Analyst 2026: Apply for a Global Migration Policy Career with W... https://opportunitiesforyouth.org/2026/09/18/migration-policy-institute-associate-policy-analyst-2026-apply-for-a-global-migration-policy-career-with-worldwide-remote-work-considered/ SEP 27
+- [ ] EU Delegation Vienna Funded Traineeships 2027: Paid Opportunities for Young Graduates in International Rela... https://opportunitiesforyouth.org/2026/09/18/the-eu-delegation-to-the-international-organisations-in-vienna-is-offering-funded-traineeships-for-young-graduates-in-the-un-osce-and-non-proliferation-sections-apply-now/ SEP 27
 
 </details>
 
@@ -734,6 +735,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The European University Institute Jean Monnet Fellowships 2027 https://www.opportunitiesforafricans.com/the-european-university-institute-jean-monnet-fellowships-2027/ OCT 20
 - [ ] Chevening British Library Coptic Collections Fellowship in UK (Fully Funded) https://scholarshipscorner.website/chevening-british-library-coptic-collections-fellowship/ OCT 24
 - [ ] OpenAI’s AI & Teen Development Research Grant Program 2026 https://opportunitydesk.org/2026/09/18/openai-ai-teen-development-research-grant-program-2026/ OCT 3
+- [ ] Green Climate Fund Indigenous Peoples Advisory Group 2027–2030: Call for Nominations for Indigenous Peoples... https://opportunitiesforyouth.org/2026/09/19/green-climate-fund-indigenous-peoples-advisory-group-2027-2030-call-for-nominations-for-indigenous-peoples-representatives/ OCT 6
 
 </details>
 
