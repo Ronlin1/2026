@@ -750,6 +750,8 @@ If you want to contribute, follow the instructions in the Contributing file
 
 - [ ] Leverhulme Trust Research Fellowships 2027: Up to £70,000 for Experienced Researchers in Any Discipline https://opportunitiesforyouth.org/2026/09/18/leverhulme-trust-research-fellowships-2027-up-to-70000-for-experienced-researchers-in-any-discipline/ NOV 2
 - [ ] Interactivity Foundation Collaborative Discussion Emerging Fellowship 2027 https://opportunitydesk.org/2026/09/18/collaborative-discussion-emerging-fellowship-2026/ NOV 3
+- [ ] Kectil Youth Leadership Program 2027 | Free Online Leadership Program https://scholarshipscorner.website/kectil-youth-leadership-program/ NOV 12
+- [ ] Early Career Investigator Award for Ataxia Research https://www2.fundsforngos.org/innovation/early-career-investigator-award-for-ataxia-research/ NOV 15
 
 </details>
 
