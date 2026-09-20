@@ -758,6 +758,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Early Career Investigator Award for Ataxia Research https://www2.fundsforngos.org/innovation/early-career-investigator-award-for-ataxia-research/ NOV 15
 - [ ] National Ataxia Foundation Postdoctoral Fellowship Award 2027 https://www2.fundsforngos.org/innovation/national-ataxia-foundation-postdoctoral-fellowship-award-2027/ NOV 15
 - [ ] Open Call: Research Seed Money Grant Program 2027 https://www2.fundsforngos.org/science/open-call-research-seed-money-grant-program-2027/ NOV 15
+- [ ] 2027 Italy-AOSIS Fellowship Programme: $5,000 Monthly Stipend, Benefits and How to Apply https://opportunitiesforyouth.org/2026/09/19/apply-for-the-2026-italy-aosis-fellowship-fully-funded/ NOV 17
+- [ ] CGIAR++ PhD Scholarship 2026: Call for Applications for 10 PhD Candidates at German Universities https://opportunitiesforyouth.org/2026/09/20/cgiar-phd-scholarship-2026-call-for-applications-for-10-phd-candidates-at-german-universities/ NOV 27
 
 </details>
 
