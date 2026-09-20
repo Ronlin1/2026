@@ -743,6 +743,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Open Notebook Early-Career Fellowship Program 2027 https://www.opportunitiesforafricans.com/the-open-notebook-ton-early-career-fellowship-program-2027/ OCT 28
 - [ ] President’s PhD Scholarships 2027-28 at Imperial College London | Funded https://scholarshipscorner.website/presidents-phd-scholarships/ OCT 30
 - [ ] YSEALI Academic Fellows Program 2027 in the USA | Fully Funded https://scholarshipscorner.website/yseali-academic-fellows-program/ OCT 9
+- [ ] GIST University South Korea Scholarship 2027 – Fully Funded https://oyaop.com/opportunity/scholarships-and-fellowships/gist-university-south-korea-scholarship-2027-fully-funded/ OCT 4
 
 </details>
 
@@ -754,6 +755,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Kectil Youth Leadership Program 2027 | Free Online Leadership Program https://scholarshipscorner.website/kectil-youth-leadership-program/ NOV 12
 - [ ] Early Career Investigator Award for Ataxia Research https://www2.fundsforngos.org/innovation/early-career-investigator-award-for-ataxia-research/ NOV 15
 - [ ] National Ataxia Foundation Postdoctoral Fellowship Award 2027 https://www2.fundsforngos.org/innovation/national-ataxia-foundation-postdoctoral-fellowship-award-2027/ NOV 15
+- [ ] Open Call: Research Seed Money Grant Program 2027 https://www2.fundsforngos.org/science/open-call-research-seed-money-grant-program-2027/ NOV 15
 
 </details>
 
