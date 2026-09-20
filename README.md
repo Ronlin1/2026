@@ -705,6 +705,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Morgan Stanley 2027 Investment Management Sophomore Summer Analyst Program in New York: Private Credit & Eq... https://opportunitiesforyouth.org/2026/09/18/morgan-stanley-2027-investment-management-sophomore-summer-analyst-program-in-new-york-private-credit-equity-internship/ SEP 22
 - [ ] Migration Policy Institute Associate Policy Analyst 2026: Apply for a Global Migration Policy Career with W... https://opportunitiesforyouth.org/2026/09/18/migration-policy-institute-associate-policy-analyst-2026-apply-for-a-global-migration-policy-career-with-worldwide-remote-work-considered/ SEP 27
 - [ ] EU Delegation Vienna Funded Traineeships 2027: Paid Opportunities for Young Graduates in International Rela... https://opportunitiesforyouth.org/2026/09/18/the-eu-delegation-to-the-international-organisations-in-vienna-is-offering-funded-traineeships-for-young-graduates-in-the-un-osce-and-non-proliferation-sections-apply-now/ SEP 27
+- [ ] Research Fellow at Chatham House: Full-Time Policy Research Job in London https://opportunitiesforyouth.org/2026/09/20/research-fellow-west-africa-at-chatham-house-full-time-policy-research-job-in-london/ SEP 26
 
 </details>
 
@@ -744,6 +745,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] President’s PhD Scholarships 2027-28 at Imperial College London | Funded https://scholarshipscorner.website/presidents-phd-scholarships/ OCT 30
 - [ ] YSEALI Academic Fellows Program 2027 in the USA | Fully Funded https://scholarshipscorner.website/yseali-academic-fellows-program/ OCT 9
 - [ ] GIST University South Korea Scholarship 2027 – Fully Funded https://oyaop.com/opportunity/scholarships-and-fellowships/gist-university-south-korea-scholarship-2027-fully-funded/ OCT 4
+- [ ] AGNES Intra-Africa Mobility Grants 2026: Up to €3,000 for Doctoral Researchers in Sub-Saharan Africa https://opportunitiesforyouth.org/2026/09/20/agnes-intra-africa-mobility-grants-2026-up-to-e3000-for-doctoral-researchers-in-sub-saharan-africa/ OCT 13
 
 </details>
 
