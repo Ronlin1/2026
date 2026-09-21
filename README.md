@@ -706,6 +706,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Migration Policy Institute Associate Policy Analyst 2026: Apply for a Global Migration Policy Career with W... https://opportunitiesforyouth.org/2026/09/18/migration-policy-institute-associate-policy-analyst-2026-apply-for-a-global-migration-policy-career-with-worldwide-remote-work-considered/ SEP 27
 - [ ] EU Delegation Vienna Funded Traineeships 2027: Paid Opportunities for Young Graduates in International Rela... https://opportunitiesforyouth.org/2026/09/18/the-eu-delegation-to-the-international-organisations-in-vienna-is-offering-funded-traineeships-for-young-graduates-in-the-un-osce-and-non-proliferation-sections-apply-now/ SEP 27
 - [ ] Research Fellow at Chatham House: Full-Time Policy Research Job in London https://opportunitiesforyouth.org/2026/09/20/research-fellow-west-africa-at-chatham-house-full-time-policy-research-job-in-london/ SEP 26
+- [ ] UK MEET Fellowship 2026 https://opportunitiesforyouth.org/2026/09/21/uk-meet-fellowship-2026/ SEP 21
+- [ ] The LEX Foundation Grant Opportunity for Merseyside Community Projects https://www2.fundsforngos.org/community-development-2/the-lex-foundation-grant-opportunity-for-merseyside-community-projects/ SEP 22
 
 </details>
 
