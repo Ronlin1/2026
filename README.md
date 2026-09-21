@@ -710,6 +710,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The LEX Foundation Grant Opportunity for Merseyside Community Projects https://www2.fundsforngos.org/community-development-2/the-lex-foundation-grant-opportunity-for-merseyside-community-projects/ SEP 22
 - [ ] Global AI and Digital Summit 2026 – World Bank Small AI Hackathon in Seoul https://oyaop.com/opportunity/conferences/global-ai-and-digital-summit-2026-world-bank-small-ai-hackathon-in-seoul/ SEP 23
 - [ ] BIS@80 Commemorative Logo Design Competition https://www2.fundsforngos.org/individuals/bis-80-commemorative-logo-design-competition/ SEP 24
+- [ ] KAUST Scholarship Program 2027 in Saudi Arabia | Fully Funded https://www.opportunitiescircle.com/kaust-scholarship-in-saudi-arabia/ SEP 24
+- [ ] Partnering for Health, Equality and Rights (P4HER) Grant Opportunity https://www2.fundsforngos.org/domestic-violence/partnering-for-health-equality-and-rights-p4her-grant-opportunity/ SEP 24
 
 </details>
 
