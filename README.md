@@ -712,6 +712,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] BIS@80 Commemorative Logo Design Competition https://www2.fundsforngos.org/individuals/bis-80-commemorative-logo-design-competition/ SEP 24
 - [ ] KAUST Scholarship Program 2027 in Saudi Arabia | Fully Funded https://www.opportunitiescircle.com/kaust-scholarship-in-saudi-arabia/ SEP 24
 - [ ] Partnering for Health, Equality and Rights (P4HER) Grant Opportunity https://www2.fundsforngos.org/domestic-violence/partnering-for-health-equality-and-rights-p4her-grant-opportunity/ SEP 24
+- [ ] 90th Know India Programme: Opportunity for Young Indian Diaspora (Saudi Arabia) https://www2.fundsforngos.org/individuals/90th-know-india-programme-kip-for-diaspora-youth/ SEP 25
+- [ ] Partnership for Public Good (PPG) Research Fellowship 2026 https://opportunitydesk.org/2026/09/21/ppg-research-fellowship-2026/ SEP 25
 
 </details>
 
