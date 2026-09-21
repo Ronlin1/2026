@@ -708,6 +708,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Research Fellow at Chatham House: Full-Time Policy Research Job in London https://opportunitiesforyouth.org/2026/09/20/research-fellow-west-africa-at-chatham-house-full-time-policy-research-job-in-london/ SEP 26
 - [ ] UK MEET Fellowship 2026 https://opportunitiesforyouth.org/2026/09/21/uk-meet-fellowship-2026/ SEP 21
 - [ ] The LEX Foundation Grant Opportunity for Merseyside Community Projects https://www2.fundsforngos.org/community-development-2/the-lex-foundation-grant-opportunity-for-merseyside-community-projects/ SEP 22
+- [ ] Global AI and Digital Summit 2026 – World Bank Small AI Hackathon in Seoul https://oyaop.com/opportunity/conferences/global-ai-and-digital-summit-2026-world-bank-small-ai-hackathon-in-seoul/ SEP 23
+- [ ] BIS@80 Commemorative Logo Design Competition https://www2.fundsforngos.org/individuals/bis-80-commemorative-logo-design-competition/ SEP 24
 
 </details>
 
