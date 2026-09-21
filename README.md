@@ -714,6 +714,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Partnering for Health, Equality and Rights (P4HER) Grant Opportunity https://www2.fundsforngos.org/domestic-violence/partnering-for-health-equality-and-rights-p4her-grant-opportunity/ SEP 24
 - [ ] 90th Know India Programme: Opportunity for Young Indian Diaspora (Saudi Arabia) https://www2.fundsforngos.org/individuals/90th-know-india-programme-kip-for-diaspora-youth/ SEP 25
 - [ ] Partnership for Public Good (PPG) Research Fellowship 2026 https://opportunitydesk.org/2026/09/21/ppg-research-fellowship-2026/ SEP 25
+- [ ] Youth NTDs Fellowship Cohort 2 2026: 12-Week Hybrid Fellowship for Young Leaders in Tanzania and Kenya https://opportunitiesforyouth.org/2026/09/21/youth-ntds-fellowship-cohort-2-2026-12-week-hybrid-fellowship-for-young-leaders-in-tanzania-and-kenya/ SEP 22
+- [ ] British Red Cross Youth Engagement & Early Careers Internship 2026: Paid London Opportunity for Young People https://opportunitiesforyouth.org/2026/09/21/british-red-cross-youth-engagement-early-careers-internship-2026-paid-london-opportunity-for-young-people/ SEP 24
 
 </details>
 
