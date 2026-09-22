@@ -720,6 +720,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2026-27 Regional NSW Strategic Partnerships Program: Funding for Arts and Culture https://www2.fundsforngos.org/individuals/2026-27-regional-nsw-strategic-partnerships-program-funding-for-arts-and/ SEP 25
 - [ ] Hustle Fund’s Venture Fellowship 2026 https://opportunitydesk.org/2026/09/22/hustle-fund-venture-fellowship-2026/ SEP 24
 - [ ] WHO Internship 2027 in Geneva – Global Tobacco Epidemic Report https://oyaop.com/opportunity/internships/who-internship-2027-in-geneva-global-tobacco-epidemic-report/ SEP 26
+- [ ] The Africa Institute Senior and Postdoctoral Fellowships 2027 in UAE: Applications Now Open for Researchers... https://opportunitiesforyouth.org/2026/09/22/the-africa-institute-senior-and-postdoctoral-fellowships-2027-in-uae-applications-now-open-for-researchers-in-african-and-african-diaspora-studies/ SEP 27
+- [ ] Citizen AI Arts & Technology Fellowship 2026-2027 ($3,000 stipend) https://opportunitydesk.org/2026/09/21/citizen-ai-arts-technology-fellowship-2026-2027/ SEP 27
 
 </details>
 
