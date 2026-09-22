@@ -718,6 +718,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] British Red Cross Youth Engagement & Early Careers Internship 2026: Paid London Opportunity for Young People https://opportunitiesforyouth.org/2026/09/21/british-red-cross-youth-engagement-early-careers-internship-2026-paid-london-opportunity-for-young-people/ SEP 24
 - [ ] UNICEF Venture Fund Internship 2026 – 6-Month Paid Internship in Sweden or Remote https://oyaop.com/opportunity/internships/unicef-venture-fund-internship-2026-6-month-paid-internship-in-sweden-or-remote/ SEP 22
 - [ ] 2026-27 Regional NSW Strategic Partnerships Program: Funding for Arts and Culture https://www2.fundsforngos.org/individuals/2026-27-regional-nsw-strategic-partnerships-program-funding-for-arts-and/ SEP 25
+- [ ] Hustle Fund’s Venture Fellowship 2026 https://opportunitydesk.org/2026/09/22/hustle-fund-venture-fellowship-2026/ SEP 24
+- [ ] WHO Internship 2027 in Geneva – Global Tobacco Epidemic Report https://oyaop.com/opportunity/internships/who-internship-2027-in-geneva-global-tobacco-epidemic-report/ SEP 26
 
 </details>
 
