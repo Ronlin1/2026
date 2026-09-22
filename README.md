@@ -724,6 +724,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Citizen AI Arts & Technology Fellowship 2026-2027 ($3,000 stipend) https://opportunitydesk.org/2026/09/21/citizen-ai-arts-technology-fellowship-2026-2027/ SEP 27
 - [ ] World Bank Group Young Professionals Program 2027 – Fully Funded https://oyaop.com/opportunity/exchange-programs/world-bank-group-young-professionals-program-2027-fully-funded/ SEP 27
 - [ ] Gilman-McCain Scholarship 2026 – $5,000 Study Abroad Scholarship for Military Families https://oyaop.com/opportunity/scholarships-and-fellowships/gilman-mccain-scholarship-2026-5000-study-abroad-scholarship-for-military-families/ SEP 28
+- [ ] Pierre Elliott Trudeau Foundation Scholarship 2027 in Canada (Fully Funded) https://opportunityportal.info/pierre-elliott-trudeau-foundation-scholarship/ SEP 29
 
 </details>
 
@@ -764,6 +765,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] YSEALI Academic Fellows Program 2027 in the USA | Fully Funded https://scholarshipscorner.website/yseali-academic-fellows-program/ OCT 9
 - [ ] GIST University South Korea Scholarship 2027 – Fully Funded https://oyaop.com/opportunity/scholarships-and-fellowships/gist-university-south-korea-scholarship-2027-fully-funded/ OCT 4
 - [ ] AGNES Intra-Africa Mobility Grants 2026: Up to €3,000 for Doctoral Researchers in Sub-Saharan Africa https://opportunitiesforyouth.org/2026/09/20/agnes-intra-africa-mobility-grants-2026-up-to-e3000-for-doctoral-researchers-in-sub-saharan-africa/ OCT 13
+- [ ] Free Consultations for Entrepreneurs in Kharkiv and Odesa Regions https://www2.fundsforngos.org/individuals/free-consultations-for-entrepreneurs-in-kharkiv-and-odesa-regions/ OCT 2
 
 </details>
 
