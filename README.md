@@ -722,6 +722,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WHO Internship 2027 in Geneva – Global Tobacco Epidemic Report https://oyaop.com/opportunity/internships/who-internship-2027-in-geneva-global-tobacco-epidemic-report/ SEP 26
 - [ ] The Africa Institute Senior and Postdoctoral Fellowships 2027 in UAE: Applications Now Open for Researchers... https://opportunitiesforyouth.org/2026/09/22/the-africa-institute-senior-and-postdoctoral-fellowships-2027-in-uae-applications-now-open-for-researchers-in-african-and-african-diaspora-studies/ SEP 27
 - [ ] Citizen AI Arts & Technology Fellowship 2026-2027 ($3,000 stipend) https://opportunitydesk.org/2026/09/21/citizen-ai-arts-technology-fellowship-2026-2027/ SEP 27
+- [ ] World Bank Group Young Professionals Program 2027 – Fully Funded https://oyaop.com/opportunity/exchange-programs/world-bank-group-young-professionals-program-2027-fully-funded/ SEP 27
+- [ ] Gilman-McCain Scholarship 2026 – $5,000 Study Abroad Scholarship for Military Families https://oyaop.com/opportunity/scholarships-and-fellowships/gilman-mccain-scholarship-2026-5000-study-abroad-scholarship-for-military-families/ SEP 28
 
 </details>
 
