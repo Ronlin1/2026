@@ -727,6 +727,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Pierre Elliott Trudeau Foundation Scholarship 2027 in Canada (Fully Funded) https://opportunityportal.info/pierre-elliott-trudeau-foundation-scholarship/ SEP 29
 - [ ] NYCI Project Officer – Global Citizenship Education Trainer 2026: Apply for a €35,779–€48,408 Role in Dublin https://opportunitiesforyouth.org/2026/09/23/nyci-project-officer-global-citizenship-education-trainer-2026-apply-for-a-e35779-e48408-role-in-dublin/ SEP 25
 - [ ] INTERPOL Internship 2027 in France: Legal Support to Programmes Internship in Lyon https://opportunitiesforyouth.org/2026/09/23/interpol-internship-2027-in-france-legal-support-to-programmes-internship-in-lyon/ SEP 27
+- [ ] Guaranty Trust Bank Kenya Graduate Trainee Program 2026 https://www.opportunitiesforafricans.com/guaranty-trust-bank-gtco-kenya-graduate-trainee-program-2026/ SEP 27
+- [ ] 2027-2028 Doctor of Public Health Scholarships by Mastercard Foundation https://www2.fundsforngos.org/leadership/2027-2028-doctor-of-public-health-scholarships-by-mastercard-foundation/ SEP 28
 
 </details>
 
