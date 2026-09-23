@@ -731,6 +731,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2027-2028 Doctor of Public Health Scholarships by Mastercard Foundation https://www2.fundsforngos.org/leadership/2027-2028-doctor-of-public-health-scholarships-by-mastercard-foundation/ SEP 28
 - [ ] Energy Transition Academy 2026 https://opportunitiesforyouth.org/2026/09/23/energy-transition-academy-2026-for-latin-america-and-the-caribbean-free-online-programme-certification-and-application-guide/ SEP 27
 - [ ] Gilman-McCain Scholarship 2026-27 | $5,000 Study Abroad Scholarship https://scholarshipscorner.website/gilman-mccain-scholarship/ SEP 28
+- [ ] NNF-IAS Fellowship 2027-2029 for Researchers https://opportunitydesk.org/2026/09/23/nnf-ias-fellowship-2027-2029/ SEP 28
 
 </details>
 
@@ -772,6 +773,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] GIST University South Korea Scholarship 2027 – Fully Funded https://oyaop.com/opportunity/scholarships-and-fellowships/gist-university-south-korea-scholarship-2027-fully-funded/ OCT 4
 - [ ] AGNES Intra-Africa Mobility Grants 2026: Up to €3,000 for Doctoral Researchers in Sub-Saharan Africa https://opportunitiesforyouth.org/2026/09/20/agnes-intra-africa-mobility-grants-2026-up-to-e3000-for-doctoral-researchers-in-sub-saharan-africa/ OCT 13
 - [ ] Free Consultations for Entrepreneurs in Kharkiv and Odesa Regions https://www2.fundsforngos.org/individuals/free-consultations-for-entrepreneurs-in-kharkiv-and-odesa-regions/ OCT 2
+- [ ] UNU Finance Internship 2026-27 | Remote Internship https://www.opportunitiescircle.com/unu-finance-internship/ OCT 1
 
 </details>
 
