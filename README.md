@@ -725,6 +725,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] World Bank Group Young Professionals Program 2027 – Fully Funded https://oyaop.com/opportunity/exchange-programs/world-bank-group-young-professionals-program-2027-fully-funded/ SEP 27
 - [ ] Gilman-McCain Scholarship 2026 – $5,000 Study Abroad Scholarship for Military Families https://oyaop.com/opportunity/scholarships-and-fellowships/gilman-mccain-scholarship-2026-5000-study-abroad-scholarship-for-military-families/ SEP 28
 - [ ] Pierre Elliott Trudeau Foundation Scholarship 2027 in Canada (Fully Funded) https://opportunityportal.info/pierre-elliott-trudeau-foundation-scholarship/ SEP 29
+- [ ] NYCI Project Officer – Global Citizenship Education Trainer 2026: Apply for a €35,779–€48,408 Role in Dublin https://opportunitiesforyouth.org/2026/09/23/nyci-project-officer-global-citizenship-education-trainer-2026-apply-for-a-e35779-e48408-role-in-dublin/ SEP 25
+- [ ] INTERPOL Internship 2027 in France: Legal Support to Programmes Internship in Lyon https://opportunitiesforyouth.org/2026/09/23/interpol-internship-2027-in-france-legal-support-to-programmes-internship-in-lyon/ SEP 27
 
 </details>
 
