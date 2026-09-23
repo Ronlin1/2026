@@ -729,6 +729,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] INTERPOL Internship 2027 in France: Legal Support to Programmes Internship in Lyon https://opportunitiesforyouth.org/2026/09/23/interpol-internship-2027-in-france-legal-support-to-programmes-internship-in-lyon/ SEP 27
 - [ ] Guaranty Trust Bank Kenya Graduate Trainee Program 2026 https://www.opportunitiesforafricans.com/guaranty-trust-bank-gtco-kenya-graduate-trainee-program-2026/ SEP 27
 - [ ] 2027-2028 Doctor of Public Health Scholarships by Mastercard Foundation https://www2.fundsforngos.org/leadership/2027-2028-doctor-of-public-health-scholarships-by-mastercard-foundation/ SEP 28
+- [ ] Energy Transition Academy 2026 https://opportunitiesforyouth.org/2026/09/23/energy-transition-academy-2026-for-latin-america-and-the-caribbean-free-online-programme-certification-and-application-guide/ SEP 27
+- [ ] Gilman-McCain Scholarship 2026-27 | $5,000 Study Abroad Scholarship https://scholarshipscorner.website/gilman-mccain-scholarship/ SEP 28
 
 </details>
 
