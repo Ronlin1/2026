@@ -774,6 +774,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AGNES Intra-Africa Mobility Grants 2026: Up to €3,000 for Doctoral Researchers in Sub-Saharan Africa https://opportunitiesforyouth.org/2026/09/20/agnes-intra-africa-mobility-grants-2026-up-to-e3000-for-doctoral-researchers-in-sub-saharan-africa/ OCT 13
 - [ ] Free Consultations for Entrepreneurs in Kharkiv and Odesa Regions https://www2.fundsforngos.org/individuals/free-consultations-for-entrepreneurs-in-kharkiv-and-odesa-regions/ OCT 2
 - [ ] UNU Finance Internship 2026-27 | Remote Internship https://www.opportunitiescircle.com/unu-finance-internship/ OCT 1
+- [ ] Aarhus Institute of Advanced Studies (AIAS) Visiting Fellowships 2027 (Funded) https://opportunitydesk.org/2026/09/23/aias-visiting-fellowships-2027/ OCT 3
+- [ ] Chevening Scholarships for Timor-Leste: Study in the UK https://www2.fundsforngos.org/leadership/chevening-scholarships-for-timor-leste-study-in-the-uk/ OCT 3
 
 </details>
 
