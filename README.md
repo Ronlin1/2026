@@ -734,6 +734,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NNF-IAS Fellowship 2027-2029 for Researchers https://opportunitydesk.org/2026/09/23/nnf-ias-fellowship-2027-2029/ SEP 28
 - [ ] RFPs: CITE Investigative Journalism Grant Program (Zimbabwe) https://www2.fundsforngos.org/individuals/cite-investigative-journalism-grants-zimbabwe-up-to-us-800-for/ SEP 29
 - [ ] Indomie Scholarship Program 2026 (Fully-funded) https://opportunitydesk.org/2026/09/24/indomie-scholarship-program-2026/ SEP 27
+- [ ] Elliot L. Richardson Leadership Lab 2026: Fully Funded Public Service Leadership Opportunity for Undergradu... https://opportunitiesforyouth.org/2026/09/24/elliot-l-richardson-leadership-lab-2026-fully-funded-public-service-leadership-opportunity-for-undergraduate-and-graduate-students-in-washington-d-c/ SEP 24
+- [ ] MAKE/SENSE PhD Programme 2026 at Academy of Art and Design Basel FHNW, Switzerland https://opportunitiesforyouth.org/2026/09/24/make-sense-phd-programme-2026-at-academy-of-art-and-design-basel-fhnw-switzerland/ SEP 24
 
 </details>
 
