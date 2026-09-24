@@ -732,6 +732,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Energy Transition Academy 2026 https://opportunitiesforyouth.org/2026/09/23/energy-transition-academy-2026-for-latin-america-and-the-caribbean-free-online-programme-certification-and-application-guide/ SEP 27
 - [ ] Gilman-McCain Scholarship 2026-27 | $5,000 Study Abroad Scholarship https://scholarshipscorner.website/gilman-mccain-scholarship/ SEP 28
 - [ ] NNF-IAS Fellowship 2027-2029 for Researchers https://opportunitydesk.org/2026/09/23/nnf-ias-fellowship-2027-2029/ SEP 28
+- [ ] RFPs: CITE Investigative Journalism Grant Program (Zimbabwe) https://www2.fundsforngos.org/individuals/cite-investigative-journalism-grants-zimbabwe-up-to-us-800-for/ SEP 29
 
 </details>
 
@@ -776,6 +777,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNU Finance Internship 2026-27 | Remote Internship https://www.opportunitiescircle.com/unu-finance-internship/ OCT 1
 - [ ] Aarhus Institute of Advanced Studies (AIAS) Visiting Fellowships 2027 (Funded) https://opportunitydesk.org/2026/09/23/aias-visiting-fellowships-2027/ OCT 3
 - [ ] Chevening Scholarships for Timor-Leste: Study in the UK https://www2.fundsforngos.org/leadership/chevening-scholarships-for-timor-leste-study-in-the-uk/ OCT 3
+- [ ] 2027 Bush Fellowship: Apply for Up to $150,000 to Transform Your Leadership Journey https://opportunitiesforyouth.org/2026/09/24/bush-fellowship-2026-a-transformative-leadership-program-supporting-bold-changemakers/ OCT 3
 
 </details>
 
