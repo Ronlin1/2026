@@ -794,6 +794,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AIAS Visiting Fellowship Program for Researchers on Sabbaticals https://www2.fundsforngos.org/individuals/aias-visiting-fellowship-program-for-researchers-on-sabbaticals/ OCT 3
 - [ ] McKinsey’s Forward Program Fall 2026 for young African Professionals. https://www.opportunitiesforafricans.com/mckinseys-forward-program-fall-2026-for-young-african-professionals/ OCT 2
 - [ ] Policy & Monitoring Analyst Programme 2026: Join the First Remote CIW Analyst Cohort in Climate Security, G... https://opportunitiesforyouth.org/2026/09/25/policy-monitoring-analyst-26/ OCT 3
+- [ ] Google Technical Program Manager Internship 2027 in USA https://www.opportunitiescircle.com/google-technical-program-manager-internship/ OCT 6
+- [ ] Open Call: Samhita-CGF Catalytic Grant Programme (India) https://www2.fundsforngos.org/leadership/open-call-samhita-cgf-catalytic-grant-programme-india/ OCT 6
 
 </details>
 
