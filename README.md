@@ -737,6 +737,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Elliot L. Richardson Leadership Lab 2026: Fully Funded Public Service Leadership Opportunity for Undergradu... https://opportunitiesforyouth.org/2026/09/24/elliot-l-richardson-leadership-lab-2026-fully-funded-public-service-leadership-opportunity-for-undergraduate-and-graduate-students-in-washington-d-c/ SEP 24
 - [ ] MAKE/SENSE PhD Programme 2026 at Academy of Art and Design Basel FHNW, Switzerland https://opportunitiesforyouth.org/2026/09/24/make-sense-phd-programme-2026-at-academy-of-art-and-design-basel-fhnw-switzerland/ SEP 24
 - [ ] Center for Community Health Equity Accelerator Fellowship 2027: Up to $10,000 in Project Funding and Leader... https://opportunitiesforyouth.org/2026/09/24/center-for-community-health-equity-accelerator-fellowship-2027-up-to-10000-in-project-funding-and-leadership-support-for-community-health-equity-leaders/ SEP 28
+- [ ] Australia University of Canberra Scholarships 2027 (Funded) https://opportunityportal.info/australia-university-of-canberra-scholarships/ SEP 27
+- [ ] KAUST Global Fellowship Program in Saudi Arabia (Fully Funded) https://opportunityportal.info/kaust-global-fellowship-program/ SEP 28
 
 </details>
 
