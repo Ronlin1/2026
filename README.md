@@ -790,6 +790,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Submit Applications for International Scholarships Programme https://www2.fundsforngos.org/leadership/submit-applications-for-international-scholarships-programme-dominican-republic/ OCT 3
 - [ ] The Airtel Africa Foundation Tech Scholarship 2026/2027 https://www.opportunitiesforafricans.com/the-airtel-africa-foundation-tech-scholarship-2026-2027-for-young-zambian-students/ OCT 6
 - [ ] Apply Now: Official Development Assistance Grant 2026 (Malta) https://www2.fundsforngos.org/cat/official-development-assistance-oda-2026-in-malta-ministry-for-foreign-and/ OCT 6
+- [ ] McKinsey Forward Program Fall 2026 https://opportunitydesk.org/2026/09/25/mckinsey-forward-program-fall-2026/ OCT 2
+- [ ] AIAS Visiting Fellowship Program for Researchers on Sabbaticals https://www2.fundsforngos.org/individuals/aias-visiting-fellowship-program-for-researchers-on-sabbaticals/ OCT 3
 
 </details>
 
