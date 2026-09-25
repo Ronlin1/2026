@@ -792,6 +792,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Apply Now: Official Development Assistance Grant 2026 (Malta) https://www2.fundsforngos.org/cat/official-development-assistance-oda-2026-in-malta-ministry-for-foreign-and/ OCT 6
 - [ ] McKinsey Forward Program Fall 2026 https://opportunitydesk.org/2026/09/25/mckinsey-forward-program-fall-2026/ OCT 2
 - [ ] AIAS Visiting Fellowship Program for Researchers on Sabbaticals https://www2.fundsforngos.org/individuals/aias-visiting-fellowship-program-for-researchers-on-sabbaticals/ OCT 3
+- [ ] McKinsey’s Forward Program Fall 2026 for young African Professionals. https://www.opportunitiesforafricans.com/mckinseys-forward-program-fall-2026-for-young-african-professionals/ OCT 2
+- [ ] Policy & Monitoring Analyst Programme 2026: Join the First Remote CIW Analyst Cohort in Climate Security, G... https://opportunitiesforyouth.org/2026/09/25/policy-monitoring-analyst-26/ OCT 3
 
 </details>
 
