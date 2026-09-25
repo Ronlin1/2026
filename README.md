@@ -739,6 +739,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Center for Community Health Equity Accelerator Fellowship 2027: Up to $10,000 in Project Funding and Leader... https://opportunitiesforyouth.org/2026/09/24/center-for-community-health-equity-accelerator-fellowship-2027-up-to-10000-in-project-funding-and-leadership-support-for-community-health-equity-leaders/ SEP 28
 - [ ] Australia University of Canberra Scholarships 2027 (Funded) https://opportunityportal.info/australia-university-of-canberra-scholarships/ SEP 27
 - [ ] KAUST Global Fellowship Program in Saudi Arabia (Fully Funded) https://opportunityportal.info/kaust-global-fellowship-program/ SEP 28
+- [ ] CITE Investigative Journalism Grants 2026 https://opportunitydesk.org/2026/09/25/cite-investigative-journalism-grants-2026/ SEP 29
+- [ ] UNDP Ethiopia Call for Proposals 2026: CSOs and NGOs for the Spotlight Initiative Africa Regional Programme... https://opportunitiesforyouth.org/2026/09/25/undp-call-for-proposals-2026-funding-opportunity-for-csos-and-ngos-to-end-violence-against-women-and-girls-in-africa/ SEP 29
 
 </details>
 
