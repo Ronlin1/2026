@@ -798,6 +798,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Open Call: Samhita-CGF Catalytic Grant Programme (India) https://www2.fundsforngos.org/leadership/open-call-samhita-cgf-catalytic-grant-programme-india/ OCT 6
 - [ ] NextGen ICANN88 Program 2027 in Portugal (Fully Funded) https://scholarshipscorner.website/nextgen-icann88-program-portugal/ OCT 6
 - [ ] Nordic Scholarship Programme In Sweden 2027 (Fully Funded) https://opportunityportal.info/nordic-scholarship-programme/ OCT 8
+- [ ] The NITDA National AI Innovation Challenge 2026 for young Nigerian developers. https://www.opportunitiesforafricans.com/the-nitda-national-ai-innovation-challenge-2026-for-young-nigerian-developers/ OCT 9
+- [ ] PCR Early Career Fellowship in Prostate Cancer Research (UK) https://www2.fundsforngos.org/leadership/pcr-early-career-fellowship-in-prostate-cancer-research-uk/ OCT 9
 
 </details>
 
