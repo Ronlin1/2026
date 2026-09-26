@@ -804,6 +804,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] PCR Early Career Fellowship in Prostate Cancer Research (UK) https://www2.fundsforngos.org/leadership/pcr-early-career-fellowship-in-prostate-cancer-research-uk/ OCT 9
 - [ ] Commonwealth Scholarship Commission Mentoring Programme 2026-27: Applications Now Open https://opportunitiesforyouth.org/2026/09/26/commonwealth-scholarship-commission-mentoring-programme-2026-27-applications-now-open/ OCT 8
 - [ ] CEES Fellowship Program 2027 at University of Zurich | Fully Funded Residential Research Fellowship https://opportunitiesforyouth.org/2026/09/26/cees-fellowship-program-2027-at-university-of-zurich-fully-funded-residential-research-fellowship/ OCT 9
+- [ ] Readers for the 2027 Mandela Washington Fellowship (Honorarium available) https://opportunitiesforyouth.org/2026/09/26/u-s-department-of-state-and-irex-seeking-readers-for-2025-yali-fellowship-applicationsearn-an-honorarium/ OCT 10
+- [ ] Apply Now: Modernising Bowel Screening Services (United Kingdom) https://www2.fundsforngos.org/innovation/apply-now-modernising-bowel-screening-services-united-kingdom/ OCT 17
 
 </details>
 
