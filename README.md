@@ -796,6 +796,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Policy & Monitoring Analyst Programme 2026: Join the First Remote CIW Analyst Cohort in Climate Security, G... https://opportunitiesforyouth.org/2026/09/25/policy-monitoring-analyst-26/ OCT 3
 - [ ] Google Technical Program Manager Internship 2027 in USA https://www.opportunitiescircle.com/google-technical-program-manager-internship/ OCT 6
 - [ ] Open Call: Samhita-CGF Catalytic Grant Programme (India) https://www2.fundsforngos.org/leadership/open-call-samhita-cgf-catalytic-grant-programme-india/ OCT 6
+- [ ] NextGen ICANN88 Program 2027 in Portugal (Fully Funded) https://scholarshipscorner.website/nextgen-icann88-program-portugal/ OCT 6
+- [ ] Nordic Scholarship Programme In Sweden 2027 (Fully Funded) https://opportunityportal.info/nordic-scholarship-programme/ OCT 8
 
 </details>
 
