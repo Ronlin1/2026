@@ -802,6 +802,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Nordic Scholarship Programme In Sweden 2027 (Fully Funded) https://opportunityportal.info/nordic-scholarship-programme/ OCT 8
 - [ ] The NITDA National AI Innovation Challenge 2026 for young Nigerian developers. https://www.opportunitiesforafricans.com/the-nitda-national-ai-innovation-challenge-2026-for-young-nigerian-developers/ OCT 9
 - [ ] PCR Early Career Fellowship in Prostate Cancer Research (UK) https://www2.fundsforngos.org/leadership/pcr-early-career-fellowship-in-prostate-cancer-research-uk/ OCT 9
+- [ ] Commonwealth Scholarship Commission Mentoring Programme 2026-27: Applications Now Open https://opportunitiesforyouth.org/2026/09/26/commonwealth-scholarship-commission-mentoring-programme-2026-27-applications-now-open/ OCT 8
+- [ ] CEES Fellowship Program 2027 at University of Zurich | Fully Funded Residential Research Fellowship https://opportunitiesforyouth.org/2026/09/26/cees-fellowship-program-2027-at-university-of-zurich-fully-funded-residential-research-fellowship/ OCT 9
 
 </details>
 
