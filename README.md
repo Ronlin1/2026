@@ -812,6 +812,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Youth Endowment Fund Youth Voice Officer 2026: Apply for a £34,200 Youth Engagement Role in London https://opportunitiesforyouth.org/2026/09/27/youth-endowment-fund/ OCT 4
 - [ ] Reckitt Nigeria 2026 Management Trainee Program: Applications Open for Recent Graduates https://opportunitiesforyouth.org/2026/09/27/reckitt-nigeria-2026/ OCT 7
 - [ ] Center for Eastern European Studies (CEES) Fellowship Program 2027 (Funded) https://opportunitydesk.org/2026/09/26/cees-fellowship-program-2027/ OCT 9
+- [ ] PAIE Scholars Program 2026: US$1,000 Award, Up to US$10,000 Research Support and Up to US$75,000 Pilot Funding https://opportunitiesforyouth.org/2026/09/27/paie-scholars-program-2026-us1000-award-up-to-us10000-research-support-and-up-to-us75000-pilot-funding/ OCT 13
+- [ ] CFAs: Improving Safeguarding for High-Risk Domestic Abuse (UK) https://www2.fundsforngos.org/domestic-violence/cfas-improving-safeguarding-for-high-risk-domestic-abuse-uk/ OCT 17
 
 </details>
 
