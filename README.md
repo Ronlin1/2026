@@ -814,6 +814,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Center for Eastern European Studies (CEES) Fellowship Program 2027 (Funded) https://opportunitydesk.org/2026/09/26/cees-fellowship-program-2027/ OCT 9
 - [ ] PAIE Scholars Program 2026: US$1,000 Award, Up to US$10,000 Research Support and Up to US$75,000 Pilot Funding https://opportunitiesforyouth.org/2026/09/27/paie-scholars-program-2026-us1000-award-up-to-us10000-research-support-and-up-to-us75000-pilot-funding/ OCT 13
 - [ ] CFAs: Improving Safeguarding for High-Risk Domestic Abuse (UK) https://www2.fundsforngos.org/domestic-violence/cfas-improving-safeguarding-for-high-risk-domestic-abuse-uk/ OCT 17
+- [ ] CFPs: Reducing Missed Appointments Through Planned Care Innovation (UK) https://www2.fundsforngos.org/innovation/cfps-reducing-missed-appointments-through-planned-care-innovation-uk/ OCT 17
+- [ ] Open Call: Better Support for Stroke Survivors Beyond Hospital (UK) https://www2.fundsforngos.org/innovation/open-call-better-support-for-stroke-survivors-beyond-hospital-uk/ OCT 17
 
 </details>
 
