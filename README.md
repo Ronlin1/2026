@@ -743,6 +743,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNDP Ethiopia Call for Proposals 2026: CSOs and NGOs for the Spotlight Initiative Africa Regional Programme... https://opportunitiesforyouth.org/2026/09/25/undp-call-for-proposals-2026-funding-opportunity-for-csos-and-ngos-to-end-violence-against-women-and-girls-in-africa/ SEP 29
 - [ ] UNFCCC Current Job Openings 2026 | Programme, Consultancy & Internship Opportunities https://opportunitiesforyouth.org/2026/09/26/unfccc-current-job-openings-2026-programme-consultancy-internship-opportunities/ SEP 26
 - [ ] NFL Rotational Program 2027 | $72,000 Salary and Two-Year Career Opportunity https://opportunitiesforyouth.org/2026/09/26/nfl-rotational-program-2027-72000-salary-and-two-year-career-opportunity/ SEP 27
+- [ ] 20 Fully Funded European Scholarships for International Students 2027/28 https://opportunityportal.info/fully-funded-european-scholarships/ SEP 27
 
 </details>
 
@@ -806,6 +807,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CEES Fellowship Program 2027 at University of Zurich | Fully Funded Residential Research Fellowship https://opportunitiesforyouth.org/2026/09/26/cees-fellowship-program-2027-at-university-of-zurich-fully-funded-residential-research-fellowship/ OCT 9
 - [ ] Readers for the 2027 Mandela Washington Fellowship (Honorarium available) https://opportunitiesforyouth.org/2026/09/26/u-s-department-of-state-and-irex-seeking-readers-for-2025-yali-fellowship-applicationsearn-an-honorarium/ OCT 10
 - [ ] Apply Now: Modernising Bowel Screening Services (United Kingdom) https://www2.fundsforngos.org/innovation/apply-now-modernising-bowel-screening-services-united-kingdom/ OCT 17
+- [ ] University of Science and Technology Scholarships in South Korea https://opportunityportal.info/university-of-science-and-technology-ust-scholarships/ OCT 3
 
 </details>
 
