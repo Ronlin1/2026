@@ -810,6 +810,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Apply Now: Modernising Bowel Screening Services (United Kingdom) https://www2.fundsforngos.org/innovation/apply-now-modernising-bowel-screening-services-united-kingdom/ OCT 17
 - [ ] University of Science and Technology Scholarships in South Korea https://opportunityportal.info/university-of-science-and-technology-ust-scholarships/ OCT 3
 - [ ] Youth Endowment Fund Youth Voice Officer 2026: Apply for a £34,200 Youth Engagement Role in London https://opportunitiesforyouth.org/2026/09/27/youth-endowment-fund/ OCT 4
+- [ ] Reckitt Nigeria 2026 Management Trainee Program: Applications Open for Recent Graduates https://opportunitiesforyouth.org/2026/09/27/reckitt-nigeria-2026/ OCT 7
+- [ ] Center for Eastern European Studies (CEES) Fellowship Program 2027 (Funded) https://opportunitydesk.org/2026/09/26/cees-fellowship-program-2027/ OCT 9
 
 </details>
 
