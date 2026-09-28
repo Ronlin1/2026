@@ -820,6 +820,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Submit Entries for Australia-Indonesia Institute Indonesian Studies Awards https://www2.fundsforngos.org/leadership/submit-entries-for-australia-indonesia-institute-indonesian-studies-awards/ OCT 2
 - [ ] King’s College London Chevening Scholarship 2027 in UK | Fully Funded https://www.opportunitiescircle.com/kings-college-london-chevening-scholarship/ OCT 3
 - [ ] Request for Proposals: Student Research Grant Program (Nepal) https://www2.fundsforngos.org/individuals/request-for-proposals-student-research-grant-program-nepal/ OCT 7
+- [ ] GFF x CIVIC VOICES Call for Proposals 2026: Up to US$175,000 for Civil Society and Youth-Led Organizations... https://opportunitiesforyouth.org/2026/09/28/gff-x-civic-voices-call-for-proposals-2026-up-to-us175000-for-civil-society-and-youth-led-organizations-in-africa/ OCT 4
+- [ ] The ACEP Media Fellowship on Fiscal Accountability and Anti-Corruption 2026 https://www.opportunitiesforafricans.com/the-acep-media-fellowship-on-fiscal-accountability-and-anti-corruption-2026-for-journalists-and-content-producers/ OCT 7
 
 </details>
 
