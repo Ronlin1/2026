@@ -818,6 +818,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CFPs: Reducing Missed Appointments Through Planned Care Innovation (UK) https://www2.fundsforngos.org/innovation/cfps-reducing-missed-appointments-through-planned-care-innovation-uk/ OCT 17
 - [ ] Open Call: Better Support for Stroke Survivors Beyond Hospital (UK) https://www2.fundsforngos.org/innovation/open-call-better-support-for-stroke-survivors-beyond-hospital-uk/ OCT 17
 - [ ] Submit Entries for Australia-Indonesia Institute Indonesian Studies Awards https://www2.fundsforngos.org/leadership/submit-entries-for-australia-indonesia-institute-indonesian-studies-awards/ OCT 2
+- [ ] King’s College London Chevening Scholarship 2027 in UK | Fully Funded https://www.opportunitiescircle.com/kings-college-london-chevening-scholarship/ OCT 3
+- [ ] Request for Proposals: Student Research Grant Program (Nepal) https://www2.fundsforngos.org/individuals/request-for-proposals-student-research-grant-program-nepal/ OCT 7
 
 </details>
 
