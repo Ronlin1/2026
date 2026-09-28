@@ -745,6 +745,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NFL Rotational Program 2027 | $72,000 Salary and Two-Year Career Opportunity https://opportunitiesforyouth.org/2026/09/26/nfl-rotational-program-2027-72000-salary-and-two-year-career-opportunity/ SEP 27
 - [ ] 20 Fully Funded European Scholarships for International Students 2027/28 https://opportunityportal.info/fully-funded-european-scholarships/ SEP 27
 - [ ] CorpsAfrica Development Associate 2026: Apply for a $55,000–$60,000 Fundraising and Donor Relations Role in... https://opportunitiesforyouth.org/2026/09/27/corpsafrica-development/ SEP 27
+- [ ] African Development Bank and UNDP AI Hub Free Government AI Training 2026 https://opportunitiesforyouth.org/2026/09/27/african-development-bank-and-undp-ai-hub-free-government-ai-training-2026-for-public-servants/ SEP 28
 
 </details>
 
@@ -816,6 +817,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CFAs: Improving Safeguarding for High-Risk Domestic Abuse (UK) https://www2.fundsforngos.org/domestic-violence/cfas-improving-safeguarding-for-high-risk-domestic-abuse-uk/ OCT 17
 - [ ] CFPs: Reducing Missed Appointments Through Planned Care Innovation (UK) https://www2.fundsforngos.org/innovation/cfps-reducing-missed-appointments-through-planned-care-innovation-uk/ OCT 17
 - [ ] Open Call: Better Support for Stroke Survivors Beyond Hospital (UK) https://www2.fundsforngos.org/innovation/open-call-better-support-for-stroke-survivors-beyond-hospital-uk/ OCT 17
+- [ ] Submit Entries for Australia-Indonesia Institute Indonesian Studies Awards https://www2.fundsforngos.org/leadership/submit-entries-for-australia-indonesia-institute-indonesian-studies-awards/ OCT 2
 
 </details>
 
