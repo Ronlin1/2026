@@ -822,6 +822,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Request for Proposals: Student Research Grant Program (Nepal) https://www2.fundsforngos.org/individuals/request-for-proposals-student-research-grant-program-nepal/ OCT 7
 - [ ] GFF x CIVIC VOICES Call for Proposals 2026: Up to US$175,000 for Civil Society and Youth-Led Organizations... https://opportunitiesforyouth.org/2026/09/28/gff-x-civic-voices-call-for-proposals-2026-up-to-us175000-for-civil-society-and-youth-led-organizations-in-africa/ OCT 4
 - [ ] The ACEP Media Fellowship on Fiscal Accountability and Anti-Corruption 2026 https://www.opportunitiesforafricans.com/the-acep-media-fellowship-on-fiscal-accountability-and-anti-corruption-2026-for-journalists-and-content-producers/ OCT 7
+- [ ] 2026 Greening STEM Grant | $5,000 Grants for Schools in the United States https://opportunitiesforyouth.org/2026/09/28/2026-greening-stem-grant-5000-grants-for-schools-in-the-united-states/ OCT 5
+- [ ] The ACEP Youth Champions for Fiscal Accountability Fellowship 2026 https://www.opportunitiesforafricans.com/the-acep-youth-champions-for-fiscal-accountability-ycfa-fellowship-2026-for-young-ghanaians/ OCT 7
 
 </details>
 
