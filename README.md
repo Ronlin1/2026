@@ -824,6 +824,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The ACEP Media Fellowship on Fiscal Accountability and Anti-Corruption 2026 https://www.opportunitiesforafricans.com/the-acep-media-fellowship-on-fiscal-accountability-and-anti-corruption-2026-for-journalists-and-content-producers/ OCT 7
 - [ ] 2026 Greening STEM Grant | $5,000 Grants for Schools in the United States https://opportunitiesforyouth.org/2026/09/28/2026-greening-stem-grant-5000-grants-for-schools-in-the-united-states/ OCT 5
 - [ ] The ACEP Youth Champions for Fiscal Accountability Fellowship 2026 https://www.opportunitiesforafricans.com/the-acep-youth-champions-for-fiscal-accountability-ycfa-fellowship-2026-for-young-ghanaians/ OCT 7
+- [ ] National AI Innovation Challenge 2027 https://opportunitydesk.org/2026/09/28/national-ai-innovation-challenge-2027/ OCT 9
+- [ ] Bringing Top Global Talent to Israeli Bio-Pharma Industry (Israel) https://www2.fundsforngos.org/innovation/bringing-top-global-talent-to-israeli-bio-pharma-industry-israel/ OCT 10
 
 </details>
 
