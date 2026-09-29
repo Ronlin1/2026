@@ -826,6 +826,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The ACEP Youth Champions for Fiscal Accountability Fellowship 2026 https://www.opportunitiesforafricans.com/the-acep-youth-champions-for-fiscal-accountability-ycfa-fellowship-2026-for-young-ghanaians/ OCT 7
 - [ ] National AI Innovation Challenge 2027 https://opportunitydesk.org/2026/09/28/national-ai-innovation-challenge-2027/ OCT 9
 - [ ] Bringing Top Global Talent to Israeli Bio-Pharma Industry (Israel) https://www2.fundsforngos.org/innovation/bringing-top-global-talent-to-israeli-bio-pharma-industry-israel/ OCT 10
+- [ ] Initiatives Grant Program for Nature-Based Climate Solutions in Coastal https://www2.fundsforngos.org/community-development-2/call-for-proposals-for-community-ideas-vn-cscc-in-vietnam-nature-based/ OCT 3
+- [ ] Duolingo Internships 2027: Apply for Paid Associate Product Manager, Software Engineer and Thrive Software... https://opportunitiesforyouth.org/2026/09/29/duolingo-internships-2027-apply-for-paid-associate-product-manager-software-engineer-and-thrive-software-engineering-internships-in-the-usa/ OCT 4
 
 </details>
 
