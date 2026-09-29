@@ -834,6 +834,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] OJP FY 2026 Special Attorneys Program Round 9 — Bureau of Justice Assistance Grants Notice for Cooperative... https://www2.fundsforngos.org/human-rights-2/ojp-fy-2026-special-attorneys-program-round-9-o-bja-2026-172762-bureau-of/ OCT 5
 - [ ] PhD Studentships at the University of Leicester: Funded Population Health, Genetics and Healthcare Research... https://opportunitiesforyouth.org/2026/09/29/phd-studentships-at-the-university-of-leicester-funded-population-health-genetics-and-healthcare-research-opportunities-2027/ OCT 2
 - [ ] USC PhD in Population, Health and Place 2027: Fully Funded Doctoral Program in Public Health, Demography an... https://opportunitiesforyouth.org/2026/09/29/usc-phd-public-policy/ OCT 3
+- [ ] Mandela Washington Fellowship 2027 in the USA (Fully Funded) https://scholarshipscorner.website/mandela-washington-fellowship-usa/ OCT 10
+- [ ] RFAs: Mandela Washington Fellowship for Young African Leaders https://www2.fundsforngos.org/leadership/mandela-washington-fellowship-2027-application-eligibility-selection/ OCT 10
 
 </details>
 
