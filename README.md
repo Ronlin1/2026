@@ -828,6 +828,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Bringing Top Global Talent to Israeli Bio-Pharma Industry (Israel) https://www2.fundsforngos.org/innovation/bringing-top-global-talent-to-israeli-bio-pharma-industry-israel/ OCT 10
 - [ ] Initiatives Grant Program for Nature-Based Climate Solutions in Coastal https://www2.fundsforngos.org/community-development-2/call-for-proposals-for-community-ideas-vn-cscc-in-vietnam-nature-based/ OCT 3
 - [ ] Duolingo Internships 2027: Apply for Paid Associate Product Manager, Software Engineer and Thrive Software... https://opportunitiesforyouth.org/2026/09/29/duolingo-internships-2027-apply-for-paid-associate-product-manager-software-engineer-and-thrive-software-engineering-internships-in-the-usa/ OCT 4
+- [ ] Max Weber Foundation Gerald D. Feldman Travel Grants 2026 https://opportunitydesk.org/2026/09/29/gerald-d-feldman-travel-grants-2026/ OCT 1
+- [ ] CFPs: Innovation Challenge for Equitable Access to Justice and Social Services https://www2.fundsforngos.org/social-service/social-tech-challenge-2026-innovation-challenge-for-equitable-access-to/ OCT 5
 
 </details>
 
