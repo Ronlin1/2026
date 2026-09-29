@@ -832,6 +832,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Max Weber Foundation Gerald D. Feldman Travel Grants 2026 https://opportunitydesk.org/2026/09/29/gerald-d-feldman-travel-grants-2026/ OCT 1
 - [ ] CFPs: Innovation Challenge for Equitable Access to Justice and Social Services https://www2.fundsforngos.org/social-service/social-tech-challenge-2026-innovation-challenge-for-equitable-access-to/ OCT 5
 - [ ] OJP FY 2026 Special Attorneys Program Round 9 — Bureau of Justice Assistance Grants Notice for Cooperative... https://www2.fundsforngos.org/human-rights-2/ojp-fy-2026-special-attorneys-program-round-9-o-bja-2026-172762-bureau-of/ OCT 5
+- [ ] PhD Studentships at the University of Leicester: Funded Population Health, Genetics and Healthcare Research... https://opportunitiesforyouth.org/2026/09/29/phd-studentships-at-the-university-of-leicester-funded-population-health-genetics-and-healthcare-research-opportunities-2027/ OCT 2
+- [ ] USC PhD in Population, Health and Place 2027: Fully Funded Doctoral Program in Public Health, Demography an... https://opportunitiesforyouth.org/2026/09/29/usc-phd-public-policy/ OCT 3
 
 </details>
 
