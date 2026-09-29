@@ -746,6 +746,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 20 Fully Funded European Scholarships for International Students 2027/28 https://opportunityportal.info/fully-funded-european-scholarships/ SEP 27
 - [ ] CorpsAfrica Development Associate 2026: Apply for a $55,000–$60,000 Fundraising and Donor Relations Role in... https://opportunitiesforyouth.org/2026/09/27/corpsafrica-development/ SEP 27
 - [ ] African Development Bank and UNDP AI Hub Free Government AI Training 2026 https://opportunitiesforyouth.org/2026/09/27/african-development-bank-and-undp-ai-hub-free-government-ai-training-2026-for-public-servants/ SEP 28
+- [ ] Applications Open: Design & Digital Marketing School Cohort 3 for Lagos Residents https://opportunitydesk.org/2026/09/29/design-digital-marketing-school-cohort-3-for-lagos-residents/ SEP 29
 
 </details>
 
@@ -830,6 +831,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Duolingo Internships 2027: Apply for Paid Associate Product Manager, Software Engineer and Thrive Software... https://opportunitiesforyouth.org/2026/09/29/duolingo-internships-2027-apply-for-paid-associate-product-manager-software-engineer-and-thrive-software-engineering-internships-in-the-usa/ OCT 4
 - [ ] Max Weber Foundation Gerald D. Feldman Travel Grants 2026 https://opportunitydesk.org/2026/09/29/gerald-d-feldman-travel-grants-2026/ OCT 1
 - [ ] CFPs: Innovation Challenge for Equitable Access to Justice and Social Services https://www2.fundsforngos.org/social-service/social-tech-challenge-2026-innovation-challenge-for-equitable-access-to/ OCT 5
+- [ ] OJP FY 2026 Special Attorneys Program Round 9 — Bureau of Justice Assistance Grants Notice for Cooperative... https://www2.fundsforngos.org/human-rights-2/ojp-fy-2026-special-attorneys-program-round-9-o-bja-2026-172762-bureau-of/ OCT 5
 
 </details>
 
