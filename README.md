@@ -838,6 +838,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] RFAs: Mandela Washington Fellowship for Young African Leaders https://www2.fundsforngos.org/leadership/mandela-washington-fellowship-2027-application-eligibility-selection/ OCT 10
 - [ ] RFAs: Design and Construction of Community Spaces for the Circular and Popular Economy https://www2.fundsforngos.org/construction/rfas-design-and-construction-of-community-spaces-for-the-circular-and-popular-economy-colombia/ OCT 6
 - [ ] The Carter Center Educational Programs 2027: Internships and Graduate Assistantships in Peace, Health and O... https://opportunitiesforyouth.org/2026/09/30/carter-center-internships/ OCT 9
+- [ ] Submit Applications for Direct Assistance Program (São Tomé) https://www2.fundsforngos.org/community-development-2/submit-applications-for-direct-assistance-program-sao-tome/ OCT 10
+- [ ] Apply Now: HEAL and Youth Building and Belonging Fellowships (US) https://www2.fundsforngos.org/individuals/apply-now-heal-and-youth-building-and-belonging-fellowships-us/ OCT 13
 
 </details>
 
