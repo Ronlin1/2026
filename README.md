@@ -840,6 +840,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Carter Center Educational Programs 2027: Internships and Graduate Assistantships in Peace, Health and O... https://opportunitiesforyouth.org/2026/09/30/carter-center-internships/ OCT 9
 - [ ] Submit Applications for Direct Assistance Program (São Tomé) https://www2.fundsforngos.org/community-development-2/submit-applications-for-direct-assistance-program-sao-tome/ OCT 10
 - [ ] Apply Now: HEAL and Youth Building and Belonging Fellowships (US) https://www2.fundsforngos.org/individuals/apply-now-heal-and-youth-building-and-belonging-fellowships-us/ OCT 13
+- [ ] European Commission JRC Jobs 2026: 20+ Auxiliary Contract Staff Vacancies in Science, AI, Energy, Climate... https://opportunitiesforyouth.org/2026/09/30/european-commission-jrc-jobs-2026-20-auxiliary-contract-staff-vacancies-in-science-ai-energy-climate-economics-and-policy/ OCT 1
+- [ ] King’s Commonwealth Fellowship Programme 2027: Fully Funded Undergraduate Fellowships for Students from Sma... https://opportunitiesforyouth.org/2026/09/30/kings-commonwealth-fellowship-programme-climate-resilience-fellowships-2/ OCT 11
 
 </details>
 
