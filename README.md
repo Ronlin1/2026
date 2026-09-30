@@ -842,6 +842,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Apply Now: HEAL and Youth Building and Belonging Fellowships (US) https://www2.fundsforngos.org/individuals/apply-now-heal-and-youth-building-and-belonging-fellowships-us/ OCT 13
 - [ ] European Commission JRC Jobs 2026: 20+ Auxiliary Contract Staff Vacancies in Science, AI, Energy, Climate... https://opportunitiesforyouth.org/2026/09/30/european-commission-jrc-jobs-2026-20-auxiliary-contract-staff-vacancies-in-science-ai-energy-climate-economics-and-policy/ OCT 1
 - [ ] King’s Commonwealth Fellowship Programme 2027: Fully Funded Undergraduate Fellowships for Students from Sma... https://opportunitiesforyouth.org/2026/09/30/kings-commonwealth-fellowship-programme-climate-resilience-fellowships-2/ OCT 11
+- [ ] DesignMersive by Grohwie Program 2026 https://opportunitydesk.org/2026/09/30/designmersive-by-grohwie-program-2026/ OCT 5
+- [ ] African Development Bank (AfDB) Internship Program 2027 https://opportunitydesk.org/2026/09/30/afdb-internship-program-2027/ OCT 9
 
 </details>
 
