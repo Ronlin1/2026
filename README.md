@@ -836,6 +836,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] USC PhD in Population, Health and Place 2027: Fully Funded Doctoral Program in Public Health, Demography an... https://opportunitiesforyouth.org/2026/09/29/usc-phd-public-policy/ OCT 3
 - [ ] Mandela Washington Fellowship 2027 in the USA (Fully Funded) https://scholarshipscorner.website/mandela-washington-fellowship-usa/ OCT 10
 - [ ] RFAs: Mandela Washington Fellowship for Young African Leaders https://www2.fundsforngos.org/leadership/mandela-washington-fellowship-2027-application-eligibility-selection/ OCT 10
+- [ ] RFAs: Design and Construction of Community Spaces for the Circular and Popular Economy https://www2.fundsforngos.org/construction/rfas-design-and-construction-of-community-spaces-for-the-circular-and-popular-economy-colombia/ OCT 6
+- [ ] The Carter Center Educational Programs 2027: Internships and Graduate Assistantships in Peace, Health and O... https://opportunitiesforyouth.org/2026/09/30/carter-center-internships/ OCT 9
 
 </details>
 
