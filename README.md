@@ -844,6 +844,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] King’s Commonwealth Fellowship Programme 2027: Fully Funded Undergraduate Fellowships for Students from Sma... https://opportunitiesforyouth.org/2026/09/30/kings-commonwealth-fellowship-programme-climate-resilience-fellowships-2/ OCT 11
 - [ ] DesignMersive by Grohwie Program 2026 https://opportunitydesk.org/2026/09/30/designmersive-by-grohwie-program-2026/ OCT 5
 - [ ] African Development Bank (AfDB) Internship Program 2027 https://opportunitydesk.org/2026/09/30/afdb-internship-program-2027/ OCT 9
+- [ ] The African Development Bank Group Internship Program 2027 https://www.opportunitiesforafricans.com/the-african-development-bank-group-internship-program-2027-session-1/ OCT 9
+- [ ] The University of Rwanda Mastercard Foundation Undergraduate Scholars Program 2026/2027 https://www.opportunitiesforafricans.com/the-university-of-rwanda-mastercard-foundation-undergraduate-scholars-program-2026-2027/ OCT 9
 
 </details>
 
