@@ -854,6 +854,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Open Call for CHI-Zone Fellowship Programme (UK) https://www2.fundsforngos.org/innovation/open-call-for-chi-zone-fellowship-programme-uk/ OCT 13
 - [ ] Chief Executive Officer, Girls Leadership: Remote US-Based Executive Job Paying Up to $200,000 https://opportunitiesforyouth.org/2026/10/01/chief-executive-officer-girls-leadership-remote-us-based-executive-job-paying-up-to-200000/ OCT 15
 - [ ] Wessex Water Community Fund (UK) https://www2.fundsforngos.org/community-development-2/call-for-applications-wessex-water-community-fund-uk/ OCT 16
+- [ ] ECB Traineeship in International Policy Analysis 2027: €1,170 Monthly Grant and Accommodation Allowance in... https://opportunitiesforyouth.org/2026/10/01/traineeship-in-digital-communications-at-the-european-central-bank-ecb-apply-by-10-june-2025/ OCT 17
+- [ ] The UONGOZI Institute Emerging Leaders Programme 2026/2027 https://www.opportunitiesforafricans.com/the-uongozi-institute-emerging-leaders-programme-2026-2027/ OCT 20
 
 </details>
 
