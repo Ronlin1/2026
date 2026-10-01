@@ -852,6 +852,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Mastercard Foundation Scholars Program at the University of Rwanda 2026/2027 https://opportunitydesk.org/2026/10/01/mastercard-foundation-scholars-program-at-the-university-of-rwanda-2026-2027/ OCT 9
 - [ ] King’s Commonwealth Fellowship Programme Undergraduate Fellowships 2026-2027 https://opportunitydesk.org/2026/10/01/kcfp-programme-undergraduate-fellowships-2026-2027/ OCT 11
 - [ ] Open Call for CHI-Zone Fellowship Programme (UK) https://www2.fundsforngos.org/innovation/open-call-for-chi-zone-fellowship-programme-uk/ OCT 13
+- [ ] Chief Executive Officer, Girls Leadership: Remote US-Based Executive Job Paying Up to $200,000 https://opportunitiesforyouth.org/2026/10/01/chief-executive-officer-girls-leadership-remote-us-based-executive-job-paying-up-to-200000/ OCT 15
+- [ ] Wessex Water Community Fund (UK) https://www2.fundsforngos.org/community-development-2/call-for-applications-wessex-water-community-fund-uk/ OCT 16
 
 </details>
 
