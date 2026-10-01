@@ -846,6 +846,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] African Development Bank (AfDB) Internship Program 2027 https://opportunitydesk.org/2026/09/30/afdb-internship-program-2027/ OCT 9
 - [ ] The African Development Bank Group Internship Program 2027 https://www.opportunitiesforafricans.com/the-african-development-bank-group-internship-program-2027-session-1/ OCT 9
 - [ ] The University of Rwanda Mastercard Foundation Undergraduate Scholars Program 2026/2027 https://www.opportunitiesforafricans.com/the-university-of-rwanda-mastercard-foundation-undergraduate-scholars-program-2026-2027/ OCT 9
+- [ ] Commonwealth Youth Council Wellbeing Champions 2026: Join the “Are You Okay?” Youth Mental Health Campaign... https://opportunitiesforyouth.org/2026/10/01/commonwealth-youth-2026/ OCT 1
+- [ ] UNDP Technical Advisor 2026 in Pretoria, South Africa: International IPSA-11 Opportunity for Development, E... https://opportunitiesforyouth.org/2026/10/01/undp-technical-advisor-2026-in-pretoria-south-africa-international-ipsa-11-opportunity-for-development-economics-and-policy-experts/ OCT 3
 
 </details>
 
