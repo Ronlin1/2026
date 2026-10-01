@@ -848,6 +848,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The University of Rwanda Mastercard Foundation Undergraduate Scholars Program 2026/2027 https://www.opportunitiesforafricans.com/the-university-of-rwanda-mastercard-foundation-undergraduate-scholars-program-2026-2027/ OCT 9
 - [ ] Commonwealth Youth Council Wellbeing Champions 2026: Join the “Are You Okay?” Youth Mental Health Campaign... https://opportunitiesforyouth.org/2026/10/01/commonwealth-youth-2026/ OCT 1
 - [ ] UNDP Technical Advisor 2026 in Pretoria, South Africa: International IPSA-11 Opportunity for Development, E... https://opportunitiesforyouth.org/2026/10/01/undp-technical-advisor-2026-in-pretoria-south-africa-international-ipsa-11-opportunity-for-development-economics-and-policy-experts/ OCT 3
+- [ ] Call for Proposals: Build Digital Skills for Women in Underserved Communities https://www2.fundsforngos.org/community-development-2/call-for-proposals-build-digital-skills-for-women-in-underserved-communities-uganda/ OCT 9
+- [ ] Mastercard Foundation Scholars Program at the University of Rwanda 2026/2027 https://opportunitydesk.org/2026/10/01/mastercard-foundation-scholars-program-at-the-university-of-rwanda-2026-2027/ OCT 9
 
 </details>
 
