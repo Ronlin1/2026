@@ -862,6 +862,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Chevening Scholarship 2027/28 in UK (Fully Funded) https://oyaop.com/opportunity/scholarships-and-fellowships/chevening-scholarship-2027-28-in-uk-fully-funded/ OCT 3
 - [ ] Youth Changemakers Summit 2026 in Hungary (YCS Budapest) https://scholarshipscorner.website/youth-changemakers-summit-hungary/ OCT 8
 - [ ] Mastercard Foundation Scholars Program 2027 (Fully Funded) https://oyaop.com/opportunity/scholarships-and-fellowships/mastercard-foundation-scholars-program-2027-fully-funded/ OCT 9
+- [ ] DIViNE Doctoral Network 2026–2027: 10 PhD Positions in Political Violence, Democracy and Democratic Resilie... https://opportunitiesforyouth.org/2026/10/02/divine-doctoral-network-2026-2027-10-phd-positions-in-political-violence-democracy-and-democratic-resilience-across-europe/ OCT 7
+- [ ] University of Rwanda Mastercard Foundation Scholars Program 2026–2027: 170 Fully Funded Undergraduate Schol... https://opportunitiesforyouth.org/2026/10/02/university-of-rwanda-mastercard-foundation-scholars-program-2026-2027-170-fully-funded-undergraduate-scholarships-for-african-students/ OCT 9
 
 </details>
 
