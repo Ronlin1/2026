@@ -858,6 +858,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The UONGOZI Institute Emerging Leaders Programme 2026/2027 https://www.opportunitiesforafricans.com/the-uongozi-institute-emerging-leaders-programme-2026-2027/ OCT 20
 - [ ] Humanitarian AI Research Fellowship 2026 at NetHope: Remote, Part-Time Fellowship for AI Researchers and Hu... https://opportunitiesforyouth.org/2026/10/02/93657/ OCT 6
 - [ ] IOM Ghana Local Consultancy 2026: Apply for Migration Governance Consultancy Opportunity in Accra https://opportunitiesforyouth.org/2026/10/02/iom-ghana/ OCT 8
+- [ ] Brooke Owens Fellowship 2027 In USA (Fully Funded) https://oyaop.com/opportunity/scholarships-and-fellowships/brooke-owens-fellowship-2027-in-usa-fully-funded/ OCT 2
+- [ ] Chevening Scholarship 2027/28 in UK (Fully Funded) https://oyaop.com/opportunity/scholarships-and-fellowships/chevening-scholarship-2027-28-in-uk-fully-funded/ OCT 3
 
 </details>
 
