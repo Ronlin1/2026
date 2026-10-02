@@ -856,6 +856,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Wessex Water Community Fund (UK) https://www2.fundsforngos.org/community-development-2/call-for-applications-wessex-water-community-fund-uk/ OCT 16
 - [ ] ECB Traineeship in International Policy Analysis 2027: €1,170 Monthly Grant and Accommodation Allowance in... https://opportunitiesforyouth.org/2026/10/01/traineeship-in-digital-communications-at-the-european-central-bank-ecb-apply-by-10-june-2025/ OCT 17
 - [ ] The UONGOZI Institute Emerging Leaders Programme 2026/2027 https://www.opportunitiesforafricans.com/the-uongozi-institute-emerging-leaders-programme-2026-2027/ OCT 20
+- [ ] Humanitarian AI Research Fellowship 2026 at NetHope: Remote, Part-Time Fellowship for AI Researchers and Hu... https://opportunitiesforyouth.org/2026/10/02/93657/ OCT 6
+- [ ] IOM Ghana Local Consultancy 2026: Apply for Migration Governance Consultancy Opportunity in Accra https://opportunitiesforyouth.org/2026/10/02/iom-ghana/ OCT 8
 
 </details>
 
