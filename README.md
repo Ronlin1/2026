@@ -860,6 +860,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] IOM Ghana Local Consultancy 2026: Apply for Migration Governance Consultancy Opportunity in Accra https://opportunitiesforyouth.org/2026/10/02/iom-ghana/ OCT 8
 - [ ] Brooke Owens Fellowship 2027 In USA (Fully Funded) https://oyaop.com/opportunity/scholarships-and-fellowships/brooke-owens-fellowship-2027-in-usa-fully-funded/ OCT 2
 - [ ] Chevening Scholarship 2027/28 in UK (Fully Funded) https://oyaop.com/opportunity/scholarships-and-fellowships/chevening-scholarship-2027-28-in-uk-fully-funded/ OCT 3
+- [ ] Youth Changemakers Summit 2026 in Hungary (YCS Budapest) https://scholarshipscorner.website/youth-changemakers-summit-hungary/ OCT 8
+- [ ] Mastercard Foundation Scholars Program 2027 (Fully Funded) https://oyaop.com/opportunity/scholarships-and-fellowships/mastercard-foundation-scholars-program-2027-fully-funded/ OCT 9
 
 </details>
 
