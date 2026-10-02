@@ -864,6 +864,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Mastercard Foundation Scholars Program 2027 (Fully Funded) https://oyaop.com/opportunity/scholarships-and-fellowships/mastercard-foundation-scholars-program-2027-fully-funded/ OCT 9
 - [ ] DIViNE Doctoral Network 2026–2027: 10 PhD Positions in Political Violence, Democracy and Democratic Resilie... https://opportunitiesforyouth.org/2026/10/02/divine-doctoral-network-2026-2027-10-phd-positions-in-political-violence-democracy-and-democratic-resilience-across-europe/ OCT 7
 - [ ] University of Rwanda Mastercard Foundation Scholars Program 2026–2027: 170 Fully Funded Undergraduate Schol... https://opportunitiesforyouth.org/2026/10/02/university-of-rwanda-mastercard-foundation-scholars-program-2026-2027-170-fully-funded-undergraduate-scholarships-for-african-students/ OCT 9
+- [ ] QUWA Research Grants 2027 for Women Researchers https://opportunitydesk.org/2026/10/01/quwa-research-grants-2027/ OCT 12
+- [ ] FOR-GHP Fellowship 2027–2028: Fully Funded Outbreak Readiness Training for Public Health Professionals in S... https://opportunitiesforyouth.org/2026/10/02/for-ghp-fellowship-2027-2028-fully-funded-outbreak-readiness-training-for-public-health-professionals-in-sub-saharan-africa/ OCT 18
 
 </details>
 
