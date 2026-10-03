@@ -874,6 +874,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NVIDIA International Graduate Fellowship Program 2027/2028 https://www.opportunitiesforafricans.com/nvidia-international-graduate-fellowship-program-2027-2028/ OCT 27
 - [ ] Google Ireland Scholarship for Women in Computer Science 2027 (€5,000 award) https://opportunitydesk.org/2026/10/03/google-ireland-scholarship-for-women-in-computer-science-2027/ OCT 3
 - [ ] Jasiri Growth Accelerator 2026 for Entrepreneurs from Kenya & Rwanda https://opportunitydesk.org/2026/10/03/jasiri-growth-accelerator-2026/ OCT 5
+- [ ] citiesRISE Fellowship for Emerging Leaders in Mental Health and Spirituality 2026 https://opportunitydesk.org/2026/10/03/citiesrise-fellowship-2026/ OCT 9
+- [ ] Chief Executive Officer, Girls Leadership (Remote, US-Based) https://opportunitiesforyouth.org/2026/10/03/chief-executive-officer-girls-leadership-remote-us-based/ OCT 15
 
 </details>
 
