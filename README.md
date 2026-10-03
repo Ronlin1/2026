@@ -868,6 +868,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] FOR-GHP Fellowship 2027–2028: Fully Funded Outbreak Readiness Training for Public Health Professionals in S... https://opportunitiesforyouth.org/2026/10/02/for-ghp-fellowship-2027-2028-fully-funded-outbreak-readiness-training-for-public-health-professionals-in-sub-saharan-africa/ OCT 18
 - [ ] Emerging Leaders Programme 2026–2027: Leadership Development Opportunity for Mid-Level Executives Across Af... https://opportunitiesforyouth.org/2026/10/03/emerging-leaders-programme-2026-2027-leadership-development-opportunity-for-mid-level-executives-across-africa/ OCT 20
 - [ ] NATO Internship Opportunities 2026 in the Netherlands | €1,477 Monthly Stipend https://opportunitiesforyouth.org/2026/10/03/nato-internship-opportunities-2026-in-the-netherlands-e1477-monthly-stipend/ OCT 20
+- [ ] Universal Youth Leadership Summit Malaysia 2027 | UYLS Malaysia https://scholarshipscorner.website/universal-youth-leadership-summit-malaysia-2027/ OCT 22
+- [ ] Kyungpook National University Scholarships 2027 in South Korea https://opportunityportal.info/kyungpook-national-university-knu-scholarships/ OCT 27
 
 </details>
 
