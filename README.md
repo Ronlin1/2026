@@ -870,6 +870,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NATO Internship Opportunities 2026 in the Netherlands | €1,477 Monthly Stipend https://opportunitiesforyouth.org/2026/10/03/nato-internship-opportunities-2026-in-the-netherlands-e1477-monthly-stipend/ OCT 20
 - [ ] Universal Youth Leadership Summit Malaysia 2027 | UYLS Malaysia https://scholarshipscorner.website/universal-youth-leadership-summit-malaysia-2027/ OCT 22
 - [ ] Kyungpook National University Scholarships 2027 in South Korea https://opportunityportal.info/kyungpook-national-university-knu-scholarships/ OCT 27
+- [ ] NVIDIA Graduate Fellowship 2027-2028 (up to $60,000) https://opportunitydesk.org/2026/10/02/nvidia-graduate-fellowship-2027-2028/ OCT 27
+- [ ] NVIDIA International Graduate Fellowship Program 2027/2028 https://www.opportunitiesforafricans.com/nvidia-international-graduate-fellowship-program-2027-2028/ OCT 27
 
 </details>
 
