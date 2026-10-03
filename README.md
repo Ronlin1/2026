@@ -872,6 +872,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Kyungpook National University Scholarships 2027 in South Korea https://opportunityportal.info/kyungpook-national-university-knu-scholarships/ OCT 27
 - [ ] NVIDIA Graduate Fellowship 2027-2028 (up to $60,000) https://opportunitydesk.org/2026/10/02/nvidia-graduate-fellowship-2027-2028/ OCT 27
 - [ ] NVIDIA International Graduate Fellowship Program 2027/2028 https://www.opportunitiesforafricans.com/nvidia-international-graduate-fellowship-program-2027-2028/ OCT 27
+- [ ] Google Ireland Scholarship for Women in Computer Science 2027 (€5,000 award) https://opportunitydesk.org/2026/10/03/google-ireland-scholarship-for-women-in-computer-science-2027/ OCT 3
+- [ ] Jasiri Growth Accelerator 2026 for Entrepreneurs from Kenya & Rwanda https://opportunitydesk.org/2026/10/03/jasiri-growth-accelerator-2026/ OCT 5
 
 </details>
 
