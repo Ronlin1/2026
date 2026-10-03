@@ -866,6 +866,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] University of Rwanda Mastercard Foundation Scholars Program 2026–2027: 170 Fully Funded Undergraduate Schol... https://opportunitiesforyouth.org/2026/10/02/university-of-rwanda-mastercard-foundation-scholars-program-2026-2027-170-fully-funded-undergraduate-scholarships-for-african-students/ OCT 9
 - [ ] QUWA Research Grants 2027 for Women Researchers https://opportunitydesk.org/2026/10/01/quwa-research-grants-2027/ OCT 12
 - [ ] FOR-GHP Fellowship 2027–2028: Fully Funded Outbreak Readiness Training for Public Health Professionals in S... https://opportunitiesforyouth.org/2026/10/02/for-ghp-fellowship-2027-2028-fully-funded-outbreak-readiness-training-for-public-health-professionals-in-sub-saharan-africa/ OCT 18
+- [ ] Emerging Leaders Programme 2026–2027: Leadership Development Opportunity for Mid-Level Executives Across Af... https://opportunitiesforyouth.org/2026/10/03/emerging-leaders-programme-2026-2027-leadership-development-opportunity-for-mid-level-executives-across-africa/ OCT 20
+- [ ] NATO Internship Opportunities 2026 in the Netherlands | €1,477 Monthly Stipend https://opportunitiesforyouth.org/2026/10/03/nato-internship-opportunities-2026-in-the-netherlands-e1477-monthly-stipend/ OCT 20
 
 </details>
 
