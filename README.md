@@ -880,6 +880,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Aspen Healthy Communities Fellowship 2027: Leadership Training, Covered Programme Costs and a Stronger Voic... https://opportunitiesforyouth.org/2026/10/04/aspen-healthy-communities-fellowship-2027-leadership-training-covered-programme-costs-and-a-stronger-voice-for-community-change/ OCT 27
 - [ ] Open Call for Bath and West Community Energy Fund (UK) https://www2.fundsforngos.org/individuals/bath-and-west-community-energy-fund-bwce-fund-2026-grants-up-to-5-000-for/ OCT 26
 - [ ] Submissions open for Women in STEM Scholarship Program (Canada) https://www2.fundsforngos.org/science/submissions-open-for-women-in-stem-scholarship-program-canada/ OCT 27
+- [ ] IAEA Marie Sklodowska-Curie Fellowship Programme https://www2.fundsforngos.org/individuals/iaea-marie-sklodowska-curie-fellowship-programme/ OCT 28
+- [ ] MIT Solve Global Challenges 2027 Open with Over USD 1 Million in Prize Funding and Nine Months of Support https://opportunitiesforyouth.org/2026/10/04/mit-solve-global-challenges-2027-open-with-over-usd-1-million-in-prize-funding-and-nine-months-of-support/ OCT 30
 
 </details>
 
