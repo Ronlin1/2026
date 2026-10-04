@@ -898,6 +898,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CGIAR++ PhD Scholarship 2026: Call for Applications for 10 PhD Candidates at German Universities https://opportunitiesforyouth.org/2026/09/20/cgiar-phd-scholarship-2026-call-for-applications-for-10-phd-candidates-at-german-universities/ NOV 27
 - [ ] Asia Pacific University Japanese Government Scholarship 2027 (Fully Funded) https://opportunityportal.info/asia-pacific-university-japanese-government-scholarship/ NOV 2
 - [ ] Global Leadership Challenge 2026 | Chance to Visit Switzerland for Free https://scholarshipscorner.website/global-leadership-challenge/ NOV 2
+- [ ] USTC Winter Camp 2027 in China – Fully Funded Scholarship Available https://scholarshipscorner.website/ustc-winter-camp-china/ NOV 5
+- [ ] Request for Applications: Communication Grants (Ireland) https://www2.fundsforngos.org/marketing/circular-ie-circular-communication-grants-ireland-1-000-10-000-for/ NOV 6
 
 </details>
 
