@@ -876,6 +876,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Jasiri Growth Accelerator 2026 for Entrepreneurs from Kenya & Rwanda https://opportunitydesk.org/2026/10/03/jasiri-growth-accelerator-2026/ OCT 5
 - [ ] citiesRISE Fellowship for Emerging Leaders in Mental Health and Spirituality 2026 https://opportunitydesk.org/2026/10/03/citiesrise-fellowship-2026/ OCT 9
 - [ ] Chief Executive Officer, Girls Leadership (Remote, US-Based) https://opportunitiesforyouth.org/2026/10/03/chief-executive-officer-girls-leadership-remote-us-based/ OCT 15
+- [ ] Iceland Writers Retreat Award 2027 | Full Funding & Partial Funding https://scholarshipscorner.website/iceland-writers-retreat-award/ OCT 12
+- [ ] Aspen Healthy Communities Fellowship 2027: Leadership Training, Covered Programme Costs and a Stronger Voic... https://opportunitiesforyouth.org/2026/10/04/aspen-healthy-communities-fellowship-2027-leadership-training-covered-programme-costs-and-a-stronger-voice-for-community-change/ OCT 27
 
 </details>
 
