@@ -878,6 +878,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Chief Executive Officer, Girls Leadership (Remote, US-Based) https://opportunitiesforyouth.org/2026/10/03/chief-executive-officer-girls-leadership-remote-us-based/ OCT 15
 - [ ] Iceland Writers Retreat Award 2027 | Full Funding & Partial Funding https://scholarshipscorner.website/iceland-writers-retreat-award/ OCT 12
 - [ ] Aspen Healthy Communities Fellowship 2027: Leadership Training, Covered Programme Costs and a Stronger Voic... https://opportunitiesforyouth.org/2026/10/04/aspen-healthy-communities-fellowship-2027-leadership-training-covered-programme-costs-and-a-stronger-voice-for-community-change/ OCT 27
+- [ ] Open Call for Bath and West Community Energy Fund (UK) https://www2.fundsforngos.org/individuals/bath-and-west-community-energy-fund-bwce-fund-2026-grants-up-to-5-000-for/ OCT 26
+- [ ] Submissions open for Women in STEM Scholarship Program (Canada) https://www2.fundsforngos.org/science/submissions-open-for-women-in-stem-scholarship-program-canada/ OCT 27
 
 </details>
 
