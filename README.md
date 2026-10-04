@@ -896,6 +896,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Open Call: Research Seed Money Grant Program 2027 https://www2.fundsforngos.org/science/open-call-research-seed-money-grant-program-2027/ NOV 15
 - [ ] 2027 Italy-AOSIS Fellowship Programme: $5,000 Monthly Stipend, Benefits and How to Apply https://opportunitiesforyouth.org/2026/09/19/apply-for-the-2026-italy-aosis-fellowship-fully-funded/ NOV 17
 - [ ] CGIAR++ PhD Scholarship 2026: Call for Applications for 10 PhD Candidates at German Universities https://opportunitiesforyouth.org/2026/09/20/cgiar-phd-scholarship-2026-call-for-applications-for-10-phd-candidates-at-german-universities/ NOV 27
+- [ ] Asia Pacific University Japanese Government Scholarship 2027 (Fully Funded) https://opportunityportal.info/asia-pacific-university-japanese-government-scholarship/ NOV 2
+- [ ] Global Leadership Challenge 2026 | Chance to Visit Switzerland for Free https://scholarshipscorner.website/global-leadership-challenge/ NOV 2
 
 </details>
 
