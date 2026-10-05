@@ -886,6 +886,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Chonnam National University Scholarships 2027 in South Korea (Fully Funded) https://opportunityportal.info/chonnam-national-university-scholarships/ OCT 5
 - [ ] The JASIRI Growth Accelerator Program 2026 for young East Africans. https://www.opportunitiesforafricans.com/the-jasiri-growth-accelerator-program-2026-for-young-east-africans/ OCT 5
 - [ ] NetHope Humanitarian AI Research Fellowship 2026/2027 https://opportunitydesk.org/2026/10/05/nethope-humanitarian-ai-research-fellowship-2026-2027/ OCT 6
+- [ ] The Jasiri Talent Investor Programme for young East African Entrepreneurs https://www.opportunitiesforafricans.com/the-jasiri-talent-investor-programme-cohort-9-for-young-east-african-entrepreneurs/ OCT 9
+- [ ] CFAs: NGO for the implementation of Structuring and Capacity Building Program https://www2.fundsforngos.org/community-development-2/cfas-ngo-for-the-implementation-of-structuring-and-capacity-building-program-congo-2/ OCT 10
 
 </details>
 
