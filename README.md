@@ -882,6 +882,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Submissions open for Women in STEM Scholarship Program (Canada) https://www2.fundsforngos.org/science/submissions-open-for-women-in-stem-scholarship-program-canada/ OCT 27
 - [ ] IAEA Marie Sklodowska-Curie Fellowship Programme https://www2.fundsforngos.org/individuals/iaea-marie-sklodowska-curie-fellowship-programme/ OCT 28
 - [ ] MIT Solve Global Challenges 2027 Open with Over USD 1 Million in Prize Funding and Nine Months of Support https://opportunitiesforyouth.org/2026/10/04/mit-solve-global-challenges-2027-open-with-over-usd-1-million-in-prize-funding-and-nine-months-of-support/ OCT 30
+- [ ] Apply Now: Local Sport Defibrillator Program (Australia) https://www2.fundsforngos.org/community-development-2/apply-now-local-sport-defibrillator-program-australia/ OCT 5
+- [ ] Chonnam National University Scholarships 2027 in South Korea (Fully Funded) https://opportunityportal.info/chonnam-national-university-scholarships/ OCT 5
 
 </details>
 
