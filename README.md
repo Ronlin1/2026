@@ -888,6 +888,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NetHope Humanitarian AI Research Fellowship 2026/2027 https://opportunitydesk.org/2026/10/05/nethope-humanitarian-ai-research-fellowship-2026-2027/ OCT 6
 - [ ] The Jasiri Talent Investor Programme for young East African Entrepreneurs https://www.opportunitiesforafricans.com/the-jasiri-talent-investor-programme-cohort-9-for-young-east-african-entrepreneurs/ OCT 9
 - [ ] CFAs: NGO for the implementation of Structuring and Capacity Building Program https://www2.fundsforngos.org/community-development-2/cfas-ngo-for-the-implementation-of-structuring-and-capacity-building-program-congo-2/ OCT 10
+- [ ] KNUST–Heinrich Heine University Düsseldorf Exchange Scholarship 2027: Apply for Up to €4,670 to Study in Ge... https://opportunitiesforyouth.org/2026/10/05/knust-heinrich-heine-university-dusseldorf-exchange-scholarship-2027-apply-for-up-to-e4670-to-study-in-germany-2/ OCT 10
+- [ ] CFPs: Utilization of In-house and DAE Mega Science Facilities Program (India) https://www2.fundsforngos.org/science/cfps-utilization-of-in-house-and-dae-mega-science-facilities-program-india/ OCT 12
 
 </details>
 
