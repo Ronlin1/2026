@@ -892,6 +892,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CFPs: Utilization of In-house and DAE Mega Science Facilities Program (India) https://www2.fundsforngos.org/science/cfps-utilization-of-in-house-and-dae-mega-science-facilities-program-india/ OCT 12
 - [ ] Catalytic Foundation Community Grants (New Zealand) https://www2.fundsforngos.org/community-development-2/call-for-applications-catalytic-foundation-community-grants-new-zealand/ OCT 13
 - [ ] First Bank Nigeria Technology Academy Graduate Trainee Program 2026 https://www.opportunitiesforafricans.com/first-bank-nigeria-technology-academy-graduate-trainee-program-2026/ OCT 15
+- [ ] AIxBio Fellowship 2027 at Cambridge (Fully-funded) https://opportunitydesk.org/2026/10/05/aixbio-fellowship-2027/ OCT 16
+- [ ] 2027 Indigenous Communities Fellowship https://www2.fundsforngos.org/community-development-2/2027-indigenous-communities-fellowship/ OCT 22
 
 </details>
 
