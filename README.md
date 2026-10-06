@@ -898,6 +898,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Jerome R. Lewis Legislative Fellows Program 2027: Paid Public Policy Fellowship at the University of Delaware https://opportunitiesforyouth.org/2026/10/06/jerome-r-lewis-legislative-fellows-program-2027-paid-public-policy-fellowship-at-the-university-of-delaware/ OCT 27
 - [ ] CFAs: Income Generating Activities and Psychosocial Support for Victims of Past Violence https://www2.fundsforngos.org/women-and-gender/cfas-income-generating-activities-and-psychosocial-support-for-victims-of-past-violence-south-sudan-2/ OCT 9
 - [ ] RFAs: Community Security and Early Warning Mechanisms through PCRCs in Warrap and Lakes States https://www2.fundsforngos.org/community-development-2/rfas-community-security-and-early-warning-mechanisms-through-pcrcs-in-warrap-and-lakes-states-south-sudan/ OCT 9
+- [ ] George Atkins Communications Award 2027 https://opportunitydesk.org/2026/10/06/george-atkins-communications-award-2027/ OCT 6
+- [ ] RFAs: District Disaster Management Plans for Jammu and Kashmir (India) https://www2.fundsforngos.org/community-development-2/rfas-district-disaster-management-plans-for-jammu-and-kashmir-india/ OCT 12
 
 </details>
 
