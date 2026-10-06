@@ -894,6 +894,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] First Bank Nigeria Technology Academy Graduate Trainee Program 2026 https://www.opportunitiesforafricans.com/first-bank-nigeria-technology-academy-graduate-trainee-program-2026/ OCT 15
 - [ ] AIxBio Fellowship 2027 at Cambridge (Fully-funded) https://opportunitydesk.org/2026/10/05/aixbio-fellowship-2027/ OCT 16
 - [ ] 2027 Indigenous Communities Fellowship https://www2.fundsforngos.org/community-development-2/2027-indigenous-communities-fellowship/ OCT 22
+- [ ] Jerome R. Lewis Legislative Fellows Program 2027 https://opportunitydesk.org/2026/10/06/jerome-r-lewis-legislative-fellows-program-2027/ OCT 27
+- [ ] Jerome R. Lewis Legislative Fellows Program 2027: Paid Public Policy Fellowship at the University of Delaware https://opportunitiesforyouth.org/2026/10/06/jerome-r-lewis-legislative-fellows-program-2027-paid-public-policy-fellowship-at-the-university-of-delaware/ OCT 27
 
 </details>
 
