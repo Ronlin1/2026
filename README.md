@@ -904,6 +904,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Spotlight Initiative SafeTech Africa HackLab 2026 https://www.opportunitiesforafricans.com/spotlight-initiative-safetech-africa-hacklab-2026-for-young-african-innovators/ OCT 15
 - [ ] DF Capital Foundation (United Kingdom) https://www2.fundsforngos.org/community-development-2/applications-open-for-df-capital-foundation-united-kingdom/ OCT 19
 - [ ] The Afya na Haki Litigating Reproductive Justice in Africa Fellowship Programme 2026 https://www.opportunitiesforafricans.com/the-afya-na-haki-ahaki-litigating-reproductive-justice-in-africa-lira-fellowship-programme-2026/ OCT 20
+- [ ] UN Youth Townhall 2026: Call for UN Contributions to the First-Ever Youth Townhall in Heidelberg, Germany https://opportunitiesforyouth.org/2026/10/07/2026-un-youth-townhall-in-germany-open-call-for-young-people-aged-18-35-to-join-the-un-youth-townhall/ OCT 11
+- [ ] IFAD $2 Million Grant Call for Proposals: Food Systems Transformation in the Central Sahel https://opportunitiesforyouth.org/2026/10/07/ifad-2-million-grant-call-for-proposals-food-systems-transformation-in-the-central-sahel/ OCT 13
 
 </details>
 
