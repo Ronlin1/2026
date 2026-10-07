@@ -908,6 +908,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] IFAD $2 Million Grant Call for Proposals: Food Systems Transformation in the Central Sahel https://opportunitiesforyouth.org/2026/10/07/ifad-2-million-grant-call-for-proposals-food-systems-transformation-in-the-central-sahel/ OCT 13
 - [ ] Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027 https://opportunitydesk.org/2026/10/07/hamburg-sustainability-conference-hsc-youth-ambassador-program-2027/ OCT 16
 - [ ] The AU Theme of the Year 2027 Official Logo and Visual Identity Competition for Young African Creatives https://www.opportunitiesforafricans.com/the-au-theme-of-the-year-2027-official-logo-and-visual-identity-competition-for-young-african-creatives/ OCT 20
+- [ ] Call for Proposals: Development of SGP 8th Operational Phase Country Programme Strategy https://www2.fundsforngos.org/community-development-2/call-for-proposals-development-of-sgp-8th-operational-phase-country-programme-strategy-eswatini/ OCT 20
+- [ ] ALF Knowledge for Action K4A Cycle 2: Apply for €700 Research Brief Funding and Up to €500 for an Academic... https://opportunitiesforyouth.org/2026/10/07/alf-knowledge-for-action-k4a-cycle-2-apply-for-e700-research-brief-funding-and-up-to-e500-for-an-academic-dialogue/ OCT 21
 
 </details>
 
