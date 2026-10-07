@@ -906,6 +906,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Afya na Haki Litigating Reproductive Justice in Africa Fellowship Programme 2026 https://www.opportunitiesforafricans.com/the-afya-na-haki-ahaki-litigating-reproductive-justice-in-africa-lira-fellowship-programme-2026/ OCT 20
 - [ ] UN Youth Townhall 2026: Call for UN Contributions to the First-Ever Youth Townhall in Heidelberg, Germany https://opportunitiesforyouth.org/2026/10/07/2026-un-youth-townhall-in-germany-open-call-for-young-people-aged-18-35-to-join-the-un-youth-townhall/ OCT 11
 - [ ] IFAD $2 Million Grant Call for Proposals: Food Systems Transformation in the Central Sahel https://opportunitiesforyouth.org/2026/10/07/ifad-2-million-grant-call-for-proposals-food-systems-transformation-in-the-central-sahel/ OCT 13
+- [ ] Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027 https://opportunitydesk.org/2026/10/07/hamburg-sustainability-conference-hsc-youth-ambassador-program-2027/ OCT 16
+- [ ] The AU Theme of the Year 2027 Official Logo and Visual Identity Competition for Young African Creatives https://www.opportunitiesforafricans.com/the-au-theme-of-the-year-2027-official-logo-and-visual-identity-competition-for-young-african-creatives/ OCT 20
 
 </details>
 
