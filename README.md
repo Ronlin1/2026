@@ -900,6 +900,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] RFAs: Community Security and Early Warning Mechanisms through PCRCs in Warrap and Lakes States https://www2.fundsforngos.org/community-development-2/rfas-community-security-and-early-warning-mechanisms-through-pcrcs-in-warrap-and-lakes-states-south-sudan/ OCT 9
 - [ ] George Atkins Communications Award 2027 https://opportunitydesk.org/2026/10/06/george-atkins-communications-award-2027/ OCT 6
 - [ ] RFAs: District Disaster Management Plans for Jammu and Kashmir (India) https://www2.fundsforngos.org/community-development-2/rfas-district-disaster-management-plans-for-jammu-and-kashmir-india/ OCT 12
+- [ ] Submissions open for Short Term Research Fellowship Program https://www2.fundsforngos.org/individuals/submissions-open-for-short-term-research-fellowship-program/ OCT 11
+- [ ] Spotlight Initiative SafeTech Africa HackLab 2026 https://www.opportunitiesforafricans.com/spotlight-initiative-safetech-africa-hacklab-2026-for-young-african-innovators/ OCT 15
 
 </details>
 
