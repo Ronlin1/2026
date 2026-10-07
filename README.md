@@ -902,6 +902,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] RFAs: District Disaster Management Plans for Jammu and Kashmir (India) https://www2.fundsforngos.org/community-development-2/rfas-district-disaster-management-plans-for-jammu-and-kashmir-india/ OCT 12
 - [ ] Submissions open for Short Term Research Fellowship Program https://www2.fundsforngos.org/individuals/submissions-open-for-short-term-research-fellowship-program/ OCT 11
 - [ ] Spotlight Initiative SafeTech Africa HackLab 2026 https://www.opportunitiesforafricans.com/spotlight-initiative-safetech-africa-hacklab-2026-for-young-african-innovators/ OCT 15
+- [ ] DF Capital Foundation (United Kingdom) https://www2.fundsforngos.org/community-development-2/applications-open-for-df-capital-foundation-united-kingdom/ OCT 19
+- [ ] The Afya na Haki Litigating Reproductive Justice in Africa Fellowship Programme 2026 https://www.opportunitiesforafricans.com/the-afya-na-haki-ahaki-litigating-reproductive-justice-in-africa-lira-fellowship-programme-2026/ OCT 20
 
 </details>
 
