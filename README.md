@@ -913,6 +913,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AU Theme of the Year 2027 Logo Competition ($5,000 prize) https://opportunitydesk.org/2026/10/08/au-theme-of-the-year-2027-logo-competition/ OCT 20
 - [ ] University of Global Health Equity Master of Science in Health Professions Education Program 2027 https://opportunitydesk.org/2026/10/07/university-of-global-health-equity-master-of-science-in-health-professions-education-program-2027/ OCT 22
 - [ ] The University of Global Health Equity Mastercard Foundation Scholars Program 2027 https://www.opportunitiesforafricans.com/the-university-of-global-health-equity-ughe-mastercard-foundation-scholars-program-2027/ OCT 22
+- [ ] Global Teacher Prize 2027 ($1,000,000 prize) https://opportunitydesk.org/2026/10/08/global-teacher-prize-2027/ OCT 9
+- [ ] WISE EdTech Accelerator 2026–2027: Apply to Scale Your Education Technology Startup Globally https://opportunitiesforyouth.org/2026/10/08/wise-edtech-accelerator-2026-2027-apply-to-scale-your-education-technology-startup-globally/ OCT 28
 
 </details>
 
