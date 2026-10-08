@@ -932,6 +932,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] USTC Winter Camp 2027 in China – Fully Funded Scholarship Available https://scholarshipscorner.website/ustc-winter-camp-china/ NOV 5
 - [ ] Request for Applications: Communication Grants (Ireland) https://www2.fundsforngos.org/marketing/circular-ie-circular-communication-grants-ireland-1-000-10-000-for/ NOV 6
 - [ ] The International Water Association & Grundfos Youth Action for SDG 6 Fellowship https://www.opportunitiesforafricans.com/the-international-water-association-iwa-grundfos-youth-action-for-sdg-6-fellowship/ NOV 2
+- [ ] Stanford University Center for International Security and Cooperation Fellowship 2027-2028 https://opportunitydesk.org/2026/10/07/stanford-cisac-fellowship-2027-2028/ NOV 29
+- [ ] Yale World Fellows Program 2027 in USA | Fully Funded Fellowship https://scholarshipscorner.website/yale-world-fellows-program-usa/ NOV 29
 
 </details>
 
