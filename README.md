@@ -912,6 +912,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ALF Knowledge for Action K4A Cycle 2: Apply for €700 Research Brief Funding and Up to €500 for an Academic... https://opportunitiesforyouth.org/2026/10/07/alf-knowledge-for-action-k4a-cycle-2-apply-for-e700-research-brief-funding-and-up-to-e500-for-an-academic-dialogue/ OCT 21
 - [ ] AU Theme of the Year 2027 Logo Competition ($5,000 prize) https://opportunitydesk.org/2026/10/08/au-theme-of-the-year-2027-logo-competition/ OCT 20
 - [ ] University of Global Health Equity Master of Science in Health Professions Education Program 2027 https://opportunitydesk.org/2026/10/07/university-of-global-health-equity-master-of-science-in-health-professions-education-program-2027/ OCT 22
+- [ ] The University of Global Health Equity Mastercard Foundation Scholars Program 2027 https://www.opportunitiesforafricans.com/the-university-of-global-health-equity-ughe-mastercard-foundation-scholars-program-2027/ OCT 22
 
 </details>
 
@@ -930,6 +931,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Global Leadership Challenge 2026 | Chance to Visit Switzerland for Free https://scholarshipscorner.website/global-leadership-challenge/ NOV 2
 - [ ] USTC Winter Camp 2027 in China – Fully Funded Scholarship Available https://scholarshipscorner.website/ustc-winter-camp-china/ NOV 5
 - [ ] Request for Applications: Communication Grants (Ireland) https://www2.fundsforngos.org/marketing/circular-ie-circular-communication-grants-ireland-1-000-10-000-for/ NOV 6
+- [ ] The International Water Association & Grundfos Youth Action for SDG 6 Fellowship https://www.opportunitiesforafricans.com/the-international-water-association-iwa-grundfos-youth-action-for-sdg-6-fellowship/ NOV 2
 
 </details>
 
