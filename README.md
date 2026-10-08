@@ -915,6 +915,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The University of Global Health Equity Mastercard Foundation Scholars Program 2027 https://www.opportunitiesforafricans.com/the-university-of-global-health-equity-ughe-mastercard-foundation-scholars-program-2027/ OCT 22
 - [ ] Global Teacher Prize 2027 ($1,000,000 prize) https://opportunitydesk.org/2026/10/08/global-teacher-prize-2027/ OCT 9
 - [ ] WISE EdTech Accelerator 2026–2027: Apply to Scale Your Education Technology Startup Globally https://opportunitiesforyouth.org/2026/10/08/wise-edtech-accelerator-2026-2027-apply-to-scale-your-education-technology-startup-globally/ OCT 28
+- [ ] WISE EdTech Accelerator 2026-2027 https://opportunitydesk.org/2026/10/08/wise-edtech-accelerator-2026-2027/ OCT 28
+- [ ] Gloria’s Foundation Fellowship 2027 ($5,000 stipend) https://opportunitydesk.org/2026/10/08/gloria-foundation-fellowship-2027/ OCT 29
 
 </details>
 
