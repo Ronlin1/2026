@@ -925,6 +925,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Hamburg Sustainability Conference Youth Ambassador Program 2027 https://www.opportunitiesforafricans.com/the-hamburg-sustainability-conference-hsc-youth-ambassador-program-2027/ OCT 16
 - [ ] ETH AI Center Fellowships 2027 in Switzerland: Fully Funded PhD and Postdoctoral Research Opportunities at... https://opportunitiesforyouth.org/2026/10/09/eth-ai-center-fellowships-2027-in-switzerland-fully-funded-phd-and-postdoctoral-research-opportunities-at-eth-zurich/ OCT 24
 - [ ] Foundation Skills Program Phase 3 New Provider Application (Australia) https://www2.fundsforngos.org/community-development-2/apply-for-foundation-skills-program-phase-3-new-provider-application-australia/ OCT 24
+- [ ] AGRA–SMEDAN Youth Agri‑Innovation Contest 2026 https://opportunitydesk.org/2026/10/09/agra-smedan-youth-agriinnovation-contest-2026/ OCT 13
+- [ ] 2027 Indigenous Youth Fellowship by Cultural Survival: Apply for $5,000 in Funding for Indigenous-Led Commu... https://opportunitiesforyouth.org/2026/10/09/2027-indigenous-youth-fellowship-by-cultural-survival-apply-for-5000-in-funding-for-indigenous-led-community-projects/ OCT 22
 
 </details>
 
