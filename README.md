@@ -921,6 +921,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] GAIMF Research Lab Associates Open Call https://www2.fundsforngos.org/innovation/open-call-for-gaimf-research-lab-associates-contribute-to-global-arts-in/ OCT 12
 - [ ] TIMERA Fellowship 2026–2029: Apply for Infectious Disease Modelling Training for African Public Health Prof... https://opportunitiesforyouth.org/2026/10/09/timera-fellowship-2026-2029-apply-for-infectious-disease-modelling-training-for-african-public-health-professionals/ OCT 12
 - [ ] Fully Funded PhD Fellowship in Spatial Genome Organization and Gene Regulation at the University of Oslo, N... https://opportunitiesforyouth.org/2026/10/09/fully-funded-phd-fellowship-in-spatial-genome-organization-and-gene-regulation-at-the-university-of-oslo-norway-2026/ OCT 13
+- [ ] SafeTech Africa HackLab 2026: Apply Youth Innovation Challenge to Win US$5,000–US$10,000 in Seed Fundin https://opportunitiesforyouth.org/2026/10/09/safetech-africa-hacklab-2026-apply-youth-innovation-challenge-to-win-us5000-us10000-in-seed-fundin/ OCT 15
+- [ ] The Hamburg Sustainability Conference Youth Ambassador Program 2027 https://www.opportunitiesforafricans.com/the-hamburg-sustainability-conference-hsc-youth-ambassador-program-2027/ OCT 16
 
 </details>
 
