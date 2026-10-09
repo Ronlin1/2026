@@ -919,6 +919,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Gloria’s Foundation Fellowship 2027 ($5,000 stipend) https://opportunitydesk.org/2026/10/08/gloria-foundation-fellowship-2027/ OCT 29
 - [ ] Agentic Africa Challenge for Healthcare Agent Solutions https://www2.fundsforngos.org/individuals/agentic-africa-challenge-for-healthcare-agent-solutions/ OCT 12
 - [ ] GAIMF Research Lab Associates Open Call https://www2.fundsforngos.org/innovation/open-call-for-gaimf-research-lab-associates-contribute-to-global-arts-in/ OCT 12
+- [ ] TIMERA Fellowship 2026–2029: Apply for Infectious Disease Modelling Training for African Public Health Prof... https://opportunitiesforyouth.org/2026/10/09/timera-fellowship-2026-2029-apply-for-infectious-disease-modelling-training-for-african-public-health-professionals/ OCT 12
+- [ ] Fully Funded PhD Fellowship in Spatial Genome Organization and Gene Regulation at the University of Oslo, N... https://opportunitiesforyouth.org/2026/10/09/fully-funded-phd-fellowship-in-spatial-genome-organization-and-gene-regulation-at-the-university-of-oslo-norway-2026/ OCT 13
 
 </details>
 
