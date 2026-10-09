@@ -917,6 +917,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WISE EdTech Accelerator 2026–2027: Apply to Scale Your Education Technology Startup Globally https://opportunitiesforyouth.org/2026/10/08/wise-edtech-accelerator-2026-2027-apply-to-scale-your-education-technology-startup-globally/ OCT 28
 - [ ] WISE EdTech Accelerator 2026-2027 https://opportunitydesk.org/2026/10/08/wise-edtech-accelerator-2026-2027/ OCT 28
 - [ ] Gloria’s Foundation Fellowship 2027 ($5,000 stipend) https://opportunitydesk.org/2026/10/08/gloria-foundation-fellowship-2027/ OCT 29
+- [ ] Agentic Africa Challenge for Healthcare Agent Solutions https://www2.fundsforngos.org/individuals/agentic-africa-challenge-for-healthcare-agent-solutions/ OCT 12
+- [ ] GAIMF Research Lab Associates Open Call https://www2.fundsforngos.org/innovation/open-call-for-gaimf-research-lab-associates-contribute-to-global-arts-in/ OCT 12
 
 </details>
 
