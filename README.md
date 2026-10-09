@@ -923,6 +923,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Fully Funded PhD Fellowship in Spatial Genome Organization and Gene Regulation at the University of Oslo, N... https://opportunitiesforyouth.org/2026/10/09/fully-funded-phd-fellowship-in-spatial-genome-organization-and-gene-regulation-at-the-university-of-oslo-norway-2026/ OCT 13
 - [ ] SafeTech Africa HackLab 2026: Apply Youth Innovation Challenge to Win US$5,000–US$10,000 in Seed Fundin https://opportunitiesforyouth.org/2026/10/09/safetech-africa-hacklab-2026-apply-youth-innovation-challenge-to-win-us5000-us10000-in-seed-fundin/ OCT 15
 - [ ] The Hamburg Sustainability Conference Youth Ambassador Program 2027 https://www.opportunitiesforafricans.com/the-hamburg-sustainability-conference-hsc-youth-ambassador-program-2027/ OCT 16
+- [ ] ETH AI Center Fellowships 2027 in Switzerland: Fully Funded PhD and Postdoctoral Research Opportunities at... https://opportunitiesforyouth.org/2026/10/09/eth-ai-center-fellowships-2027-in-switzerland-fully-funded-phd-and-postdoctoral-research-opportunities-at-eth-zurich/ OCT 24
+- [ ] Foundation Skills Program Phase 3 New Provider Application (Australia) https://www2.fundsforngos.org/community-development-2/apply-for-foundation-skills-program-phase-3-new-provider-application-australia/ OCT 24
 
 </details>
 
