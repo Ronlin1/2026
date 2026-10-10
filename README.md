@@ -931,6 +931,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] HSC Youth Ambassador Program 2027 in Germany (Fully Funded) https://scholarshipscorner.website/hsc-youth-ambassador-program-germany/ OCT 16
 - [ ] University of Canberra Snow Scholarship Program Coordinator Job 2026: Part-Time University Opportunity in A... https://opportunitiesforyouth.org/2026/10/10/university-of-canberra-snow-scholarship-program-coordinator-job-2026/ OCT 15
 - [ ] ELLIS PhD Program 2027 in Europe: Application Guide, Research Opportunities, Requirements and Deadline https://opportunitiesforyouth.org/2026/10/09/ellis-phd-program-2027-in-europe-application-guide-research-opportunities-requirements-and-deadline/ OCT 28
+- [ ] 12 UK Government and Public Sector Graduate Jobs 2026: Salaries Up to £41,280, HMRC, National Highways, Bar... https://opportunitiesforyouth.org/2026/10/09/12-uk-government-and-public-sector-graduate-jobs-2026-salaries-up-to-41280-hmrc-national-highways-baringa-and-more/ OCT 29
+- [ ] WomanKind Creative Grant 2027 https://opportunitydesk.org/2026/10/10/womankind-creative-grant-2027/ OCT 29
 
 </details>
 
