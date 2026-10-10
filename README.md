@@ -929,6 +929,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2027 Indigenous Youth Fellowship by Cultural Survival: Apply for $5,000 in Funding for Indigenous-Led Commu... https://opportunitiesforyouth.org/2026/10/09/2027-indigenous-youth-fellowship-by-cultural-survival-apply-for-5000-in-funding-for-indigenous-led-community-projects/ OCT 22
 - [ ] KITLV Visiting Fellowship 2027 in the Netherlands: Apply for a 3-Month Research Fellowship in Southeast Asi... https://opportunitiesforyouth.org/2026/10/10/kitlv-visiting-fellowship-2027-in-the-netherlands-apply-for-a-3-month-research-fellowship-in-southeast-asian-and-caribbean-studies/ OCT 11
 - [ ] HSC Youth Ambassador Program 2027 in Germany (Fully Funded) https://scholarshipscorner.website/hsc-youth-ambassador-program-germany/ OCT 16
+- [ ] University of Canberra Snow Scholarship Program Coordinator Job 2026: Part-Time University Opportunity in A... https://opportunitiesforyouth.org/2026/10/10/university-of-canberra-snow-scholarship-program-coordinator-job-2026/ OCT 15
+- [ ] ELLIS PhD Program 2027 in Europe: Application Guide, Research Opportunities, Requirements and Deadline https://opportunitiesforyouth.org/2026/10/09/ellis-phd-program-2027-in-europe-application-guide-research-opportunities-requirements-and-deadline/ OCT 28
 
 </details>
 
