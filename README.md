@@ -933,6 +933,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ELLIS PhD Program 2027 in Europe: Application Guide, Research Opportunities, Requirements and Deadline https://opportunitiesforyouth.org/2026/10/09/ellis-phd-program-2027-in-europe-application-guide-research-opportunities-requirements-and-deadline/ OCT 28
 - [ ] 12 UK Government and Public Sector Graduate Jobs 2026: Salaries Up to £41,280, HMRC, National Highways, Bar... https://opportunitiesforyouth.org/2026/10/09/12-uk-government-and-public-sector-graduate-jobs-2026-salaries-up-to-41280-hmrc-national-highways-baringa-and-more/ OCT 29
 - [ ] WomanKind Creative Grant 2027 https://opportunitydesk.org/2026/10/10/womankind-creative-grant-2027/ OCT 29
+- [ ] Baruch Blumberg Grants in Astrobiology https://www2.fundsforngos.org/individuals/baruch-blumberg-grants-in-astrobiology-funding-for-field-studies/ OCT 30
+- [ ] Request for Applications: Digital Inclusion Fund (United Kingdom) https://www2.fundsforngos.org/community-development-2/request-for-applications-digital-inclusion-fund-united-kingdom/ OCT 31
 
 </details>
 
