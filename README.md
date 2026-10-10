@@ -956,6 +956,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The International Water Association & Grundfos Youth Action for SDG 6 Fellowship https://www.opportunitiesforafricans.com/the-international-water-association-iwa-grundfos-youth-action-for-sdg-6-fellowship/ NOV 2
 - [ ] Stanford University Center for International Security and Cooperation Fellowship 2027-2028 https://opportunitydesk.org/2026/10/07/stanford-cisac-fellowship-2027-2028/ NOV 29
 - [ ] Yale World Fellows Program 2027 in USA | Fully Funded Fellowship https://scholarshipscorner.website/yale-world-fellows-program-usa/ NOV 29
+- [ ] EQUALS in Tech Awards 2027 https://opportunitydesk.org/2026/10/09/equals-in-tech-awards-2027/ NOV 4
+- [ ] ITU Equals in Tech Awards 2027 https://www.opportunitiesforafricans.com/itu-equals-in-tech-awards-2027-for-gender-equality-mainstreaming-in-technology/ NOV 4
 
 </details>
 
