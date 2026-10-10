@@ -927,6 +927,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Foundation Skills Program Phase 3 New Provider Application (Australia) https://www2.fundsforngos.org/community-development-2/apply-for-foundation-skills-program-phase-3-new-provider-application-australia/ OCT 24
 - [ ] AGRA–SMEDAN Youth Agri‑Innovation Contest 2026 https://opportunitydesk.org/2026/10/09/agra-smedan-youth-agriinnovation-contest-2026/ OCT 13
 - [ ] 2027 Indigenous Youth Fellowship by Cultural Survival: Apply for $5,000 in Funding for Indigenous-Led Commu... https://opportunitiesforyouth.org/2026/10/09/2027-indigenous-youth-fellowship-by-cultural-survival-apply-for-5000-in-funding-for-indigenous-led-community-projects/ OCT 22
+- [ ] KITLV Visiting Fellowship 2027 in the Netherlands: Apply for a 3-Month Research Fellowship in Southeast Asi... https://opportunitiesforyouth.org/2026/10/10/kitlv-visiting-fellowship-2027-in-the-netherlands-apply-for-a-3-month-research-fellowship-in-southeast-asian-and-caribbean-studies/ OCT 11
+- [ ] HSC Youth Ambassador Program 2027 in Germany (Fully Funded) https://scholarshipscorner.website/hsc-youth-ambassador-program-germany/ OCT 16
 
 </details>
 
