@@ -937,6 +937,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Request for Applications: Digital Inclusion Fund (United Kingdom) https://www2.fundsforngos.org/community-development-2/request-for-applications-digital-inclusion-fund-united-kingdom/ OCT 31
 - [ ] Fulbright Scholar Program for Pakistan 2027 in the USA | Fully Funded https://scholarshipscorner.website/fulbright-scholar-program-for-pakistan/ OCT 25
 - [ ] Dalian University of Technology Chinese Government Scholarship 2027 https://opportunityportal.info/dalian-university-of-technology-scholarship/ OCT 29
+- [ ] University of Auckland Doctoral Scholarship 2026–2027: Receive NZ$35,468 Per Year, Tuition Fee Coverage and... https://opportunitiesforyouth.org/2026/10/11/university-of-auckland-doctoral-scholarship-2026-2027-receive-nz35468-per-year-tuition-fee-coverage-and-health-insurance-support/ OCT 29
 
 </details>
 
@@ -960,6 +961,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Yale World Fellows Program 2027 in USA | Fully Funded Fellowship https://scholarshipscorner.website/yale-world-fellows-program-usa/ NOV 29
 - [ ] EQUALS in Tech Awards 2027 https://opportunitydesk.org/2026/10/09/equals-in-tech-awards-2027/ NOV 4
 - [ ] ITU Equals in Tech Awards 2027 https://www.opportunitiesforafricans.com/itu-equals-in-tech-awards-2027-for-gender-equality-mainstreaming-in-technology/ NOV 4
+- [ ] In-Country/In-Region Programme Sub-Saharan Africa Scholarship https://www2.fundsforngos.org/education-2/in-country-in-region-programme-sub-saharan-africa-scholarship/ NOV 9
 
 </details>
 
