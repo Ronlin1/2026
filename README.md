@@ -935,6 +935,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WomanKind Creative Grant 2027 https://opportunitydesk.org/2026/10/10/womankind-creative-grant-2027/ OCT 29
 - [ ] Baruch Blumberg Grants in Astrobiology https://www2.fundsforngos.org/individuals/baruch-blumberg-grants-in-astrobiology-funding-for-field-studies/ OCT 30
 - [ ] Request for Applications: Digital Inclusion Fund (United Kingdom) https://www2.fundsforngos.org/community-development-2/request-for-applications-digital-inclusion-fund-united-kingdom/ OCT 31
+- [ ] Fulbright Scholar Program for Pakistan 2027 in the USA | Fully Funded https://scholarshipscorner.website/fulbright-scholar-program-for-pakistan/ OCT 25
+- [ ] Dalian University of Technology Chinese Government Scholarship 2027 https://opportunityportal.info/dalian-university-of-technology-scholarship/ OCT 29
 
 </details>
 
