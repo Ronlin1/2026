@@ -966,6 +966,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Harvard LEAD Fellowship for Promoting Women in Global Health 2027-2028 (Funded) https://opportunitydesk.org/2026/10/09/harvard-lead-fellowship-for-promoting-women-in-global-health-2027-2028/ NOV 12
 - [ ] Harvard LEAD Fellowship 2027-2028 in the USA | Fully Funded https://scholarshipscorner.website/harvard-lead-fellowship/ NOV 12
 - [ ] MENA Regenerative Agriculture Venture Programme 2026/2027 https://opportunitydesk.org/2026/10/09/mena-regenerative-agriculture-venture-programme-2026-2027/ NOV 12
+- [ ] The University of British Columbia International Scholars Program 2027 https://www.opportunitiesforafricans.com/the-university-of-british-columbia-ubc-international-scholars-program-2027-for-international-students/ NOV 12
+- [ ] World Bank Government Analytics Fellowship 2027 in USA | Fully Funded https://scholarshipscorner.website/world-bank-government-analytics-fellowship-usa/ NOV 13
 
 </details>
 
