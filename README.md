@@ -964,6 +964,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] In-Country/In-Region Programme Sub-Saharan Africa Scholarship https://www2.fundsforngos.org/education-2/in-country-in-region-programme-sub-saharan-africa-scholarship/ NOV 9
 - [ ] Harvard Global Health Institute LEAD Fellowship Program 2027/2028 https://www.opportunitiesforafricans.com/harvard-global-health-institute-lead-fellowship-program-2027-2028/ NOV 12
 - [ ] Harvard LEAD Fellowship for Promoting Women in Global Health 2027-2028 (Funded) https://opportunitydesk.org/2026/10/09/harvard-lead-fellowship-for-promoting-women-in-global-health-2027-2028/ NOV 12
+- [ ] Harvard LEAD Fellowship 2027-2028 in the USA | Fully Funded https://scholarshipscorner.website/harvard-lead-fellowship/ NOV 12
+- [ ] MENA Regenerative Agriculture Venture Programme 2026/2027 https://opportunitydesk.org/2026/10/09/mena-regenerative-agriculture-venture-programme-2026-2027/ NOV 12
 
 </details>
 
