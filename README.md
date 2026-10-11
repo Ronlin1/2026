@@ -962,6 +962,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] EQUALS in Tech Awards 2027 https://opportunitydesk.org/2026/10/09/equals-in-tech-awards-2027/ NOV 4
 - [ ] ITU Equals in Tech Awards 2027 https://www.opportunitiesforafricans.com/itu-equals-in-tech-awards-2027-for-gender-equality-mainstreaming-in-technology/ NOV 4
 - [ ] In-Country/In-Region Programme Sub-Saharan Africa Scholarship https://www2.fundsforngos.org/education-2/in-country-in-region-programme-sub-saharan-africa-scholarship/ NOV 9
+- [ ] Harvard Global Health Institute LEAD Fellowship Program 2027/2028 https://www.opportunitiesforafricans.com/harvard-global-health-institute-lead-fellowship-program-2027-2028/ NOV 12
+- [ ] Harvard LEAD Fellowship for Promoting Women in Global Health 2027-2028 (Funded) https://opportunitydesk.org/2026/10/09/harvard-lead-fellowship-for-promoting-women-in-global-health-2027-2028/ NOV 12
 
 </details>
 
