@@ -944,6 +944,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Ban Ki-moon Centre for Global Citizens Your Future in GreenJobs Mentorship Program 2026 https://www.opportunitiesforafricans.com/the-ban-ki-moon-centre-for-global-citizens-your-future-in-greenjobs-mentorship-program-2026/ OCT 22
 - [ ] The African Export -Import Bank Internship Program 2027/2028 https://www.opportunitiesforafricans.com/the-african-export-import-bank-afreximbank-internship-program-2027-2028/ OCT 28
 - [ ] AI Ethics and Integrity International Association Startup Pitch Session 2026 https://opportunitydesk.org/2026/10/12/aiei-startup-pitch-session-2026/ OCT 28
+- [ ] Bucharest Forum Fellowship Program 2026: Submit Your Policy Paper, Get Published, and Engage with Regional... https://opportunitiesforyouth.org/2026/10/12/bucharest-forum-fellowship-program-2026-submit-your-policy-paper-get-published-and-engage-with-regional-leaders-in-romania/ OCT 28
+- [ ] Stronger Communities Programme Round 10 (Australia) https://www2.fundsforngos.org/community-development-2/stronger-communities-programme-round-10-funding-opportunity-for-grey/ OCT 28
 
 </details>
 
