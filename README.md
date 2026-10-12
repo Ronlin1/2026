@@ -942,6 +942,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] MSc in Health Professions Education 2026 at UGHE, Rwanda: Fully Funded Mastercard Foundation Scholars Program https://opportunitiesforyouth.org/2026/10/11/master-of-science-in-health-professions-education-fully-funded-by-mastercard-foundation-scholars-program/ OCT 22
 - [ ] AI and National Security Convergence Fellowship 2026–2027: Eligibility, Program Benefits, and Application G... https://opportunitiesforyouth.org/2026/10/12/ai-and-national-security-convergence-fellowship-2026-2027-eligibility-program-benefits-and-application-guide/ OCT 17
 - [ ] The Ban Ki-moon Centre for Global Citizens Your Future in GreenJobs Mentorship Program 2026 https://www.opportunitiesforafricans.com/the-ban-ki-moon-centre-for-global-citizens-your-future-in-greenjobs-mentorship-program-2026/ OCT 22
+- [ ] The African Export -Import Bank Internship Program 2027/2028 https://www.opportunitiesforafricans.com/the-african-export-import-bank-afreximbank-internship-program-2027-2028/ OCT 28
+- [ ] AI Ethics and Integrity International Association Startup Pitch Session 2026 https://opportunitydesk.org/2026/10/12/aiei-startup-pitch-session-2026/ OCT 28
 
 </details>
 
