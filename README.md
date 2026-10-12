@@ -946,6 +946,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AI Ethics and Integrity International Association Startup Pitch Session 2026 https://opportunitydesk.org/2026/10/12/aiei-startup-pitch-session-2026/ OCT 28
 - [ ] Bucharest Forum Fellowship Program 2026: Submit Your Policy Paper, Get Published, and Engage with Regional... https://opportunitiesforyouth.org/2026/10/12/bucharest-forum-fellowship-program-2026-submit-your-policy-paper-get-published-and-engage-with-regional-leaders-in-romania/ OCT 28
 - [ ] Stronger Communities Programme Round 10 (Australia) https://www2.fundsforngos.org/community-development-2/stronger-communities-programme-round-10-funding-opportunity-for-grey/ OCT 28
+- [ ] True Story Award 2027 for Journalists ($20,000 prize) https://opportunitydesk.org/2026/10/12/true-story-award-2027/ OCT 28
 
 </details>
 
@@ -976,6 +977,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] MENA Regenerative Agriculture Venture Programme 2026/2027 https://opportunitydesk.org/2026/10/09/mena-regenerative-agriculture-venture-programme-2026-2027/ NOV 12
 - [ ] The University of British Columbia International Scholars Program 2027 https://www.opportunitiesforafricans.com/the-university-of-british-columbia-ubc-international-scholars-program-2027-for-international-students/ NOV 12
 - [ ] World Bank Government Analytics Fellowship 2027 in USA | Fully Funded https://scholarshipscorner.website/world-bank-government-analytics-fellowship-usa/ NOV 13
+- [ ] Apply Now: Community Grants Scheme 2027 (United Kingdom) https://www2.fundsforngos.org/community-development-2/british-science-week-2027-community-grants-empowering-underrepresented/ NOV 1
 
 </details>
 
