@@ -938,6 +938,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Fulbright Scholar Program for Pakistan 2027 in the USA | Fully Funded https://scholarshipscorner.website/fulbright-scholar-program-for-pakistan/ OCT 25
 - [ ] Dalian University of Technology Chinese Government Scholarship 2027 https://opportunityportal.info/dalian-university-of-technology-scholarship/ OCT 29
 - [ ] University of Auckland Doctoral Scholarship 2026–2027: Receive NZ$35,468 Per Year, Tuition Fee Coverage and... https://opportunitiesforyouth.org/2026/10/11/university-of-auckland-doctoral-scholarship-2026-2027-receive-nz35468-per-year-tuition-fee-coverage-and-health-insurance-support/ OCT 29
+- [ ] Gulbenkian Institute for Advanced Study Fellowships 2027/28 in Portugal: International Research Opportunity... https://opportunitiesforyouth.org/2026/10/12/gulbenkian-institute-for-advanced-study-fellowships-2027-28-in-portugal-international-research-opportunity-with-funding-for-3-8-months/ OCT 12
+- [ ] MSc in Health Professions Education 2026 at UGHE, Rwanda: Fully Funded Mastercard Foundation Scholars Program https://opportunitiesforyouth.org/2026/10/11/master-of-science-in-health-professions-education-fully-funded-by-mastercard-foundation-scholars-program/ OCT 22
 
 </details>
 
