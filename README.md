@@ -951,6 +951,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Youth Investment Council 2026–2027: Paid Youth Leadership Opportunity to Shape Major Community Funding in N... https://opportunitiesforyouth.org/2026/10/13/youth-investment-council-2026-2027-paid-youth-leadership-opportunity-to-shape-major-community-funding-in-new-bedford-massachusetts/ OCT 13
 - [ ] Moving Minds Alliance Expert Advisory Group 2026–2028: Application, Eligibility, Responsibilities and $2,00... https://opportunitiesforyouth.org/2026/10/13/moving-minds-alliance-expert-advisory-group-2026-2028-application-eligibility-responsibilities-and-2000-annual-honorarium/ OCT 13
 - [ ] AIxBio Fellowship in UK 2027 | Fully Funded https://scholarshipscorner.website/aixbio-fellowship-uk/ OCT 16
+- [ ] 2026 Shenzhen International FinTech Competition in China (Fully Funded) https://oyaop.com/opportunity/competitions-and-awards/2026-shenzhen-international-fintech-competition-in-china-fully-funded/ OCT 17
+- [ ] Trinity College Dublin PhD Researcher in Sociology Scholarship 2027: Fully Funded PhD in Ireland with €25,0... https://opportunitiesforyouth.org/2026/10/13/trinity-college-dublin-phd-researcher-in-sociology-scholarship-2027-fully-funded-phd-in-ireland-with-e25000-annual-stipend/ OCT 27
 
 </details>
 
