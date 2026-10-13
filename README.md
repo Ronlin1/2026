@@ -949,6 +949,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] True Story Award 2027 for Journalists ($20,000 prize) https://opportunitydesk.org/2026/10/12/true-story-award-2027/ OCT 28
 - [ ] AFEPA European Master’s Programme 2027: Study Agricultural, Food and Environmental Policy at Four Leading E... https://opportunitiesforyouth.org/2026/10/13/afepa-european-masters-programme-2027-study-agricultural-food-and-environmental-policy-at-four-leading-european-universities/ OCT 13
 - [ ] Youth Investment Council 2026–2027: Paid Youth Leadership Opportunity to Shape Major Community Funding in N... https://opportunitiesforyouth.org/2026/10/13/youth-investment-council-2026-2027-paid-youth-leadership-opportunity-to-shape-major-community-funding-in-new-bedford-massachusetts/ OCT 13
+- [ ] Moving Minds Alliance Expert Advisory Group 2026–2028: Application, Eligibility, Responsibilities and $2,00... https://opportunitiesforyouth.org/2026/10/13/moving-minds-alliance-expert-advisory-group-2026-2028-application-eligibility-responsibilities-and-2000-annual-honorarium/ OCT 13
+- [ ] AIxBio Fellowship in UK 2027 | Fully Funded https://scholarshipscorner.website/aixbio-fellowship-uk/ OCT 16
 
 </details>
 
