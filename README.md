@@ -947,6 +947,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Bucharest Forum Fellowship Program 2026: Submit Your Policy Paper, Get Published, and Engage with Regional... https://opportunitiesforyouth.org/2026/10/12/bucharest-forum-fellowship-program-2026-submit-your-policy-paper-get-published-and-engage-with-regional-leaders-in-romania/ OCT 28
 - [ ] Stronger Communities Programme Round 10 (Australia) https://www2.fundsforngos.org/community-development-2/stronger-communities-programme-round-10-funding-opportunity-for-grey/ OCT 28
 - [ ] True Story Award 2027 for Journalists ($20,000 prize) https://opportunitydesk.org/2026/10/12/true-story-award-2027/ OCT 28
+- [ ] AFEPA European Master’s Programme 2027: Study Agricultural, Food and Environmental Policy at Four Leading E... https://opportunitiesforyouth.org/2026/10/13/afepa-european-masters-programme-2027-study-agricultural-food-and-environmental-policy-at-four-leading-european-universities/ OCT 13
+- [ ] Youth Investment Council 2026–2027: Paid Youth Leadership Opportunity to Shape Major Community Funding in N... https://opportunitiesforyouth.org/2026/10/13/youth-investment-council-2026-2027-paid-youth-leadership-opportunity-to-shape-major-community-funding-in-new-bedford-massachusetts/ OCT 13
 
 </details>
 
