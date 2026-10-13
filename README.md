@@ -986,6 +986,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] World Bank Government Analytics Fellowship 2027 in USA | Fully Funded https://scholarshipscorner.website/world-bank-government-analytics-fellowship-usa/ NOV 13
 - [ ] Apply Now: Community Grants Scheme 2027 (United Kingdom) https://www2.fundsforngos.org/community-development-2/british-science-week-2027-community-grants-empowering-underrepresented/ NOV 1
 - [ ] 2027 Beahrs Environmental Leadership Program at UC Berkeley: Apply for Environmental Leadership Training an... https://opportunitiesforyouth.org/2026/10/13/2027-beahrs-environmental-leadership-program-at-uc-berkeley-apply-for-environmental-leadership-training-and-scholarship-opportunities/ NOV 3
+- [ ] Indigenous Leaders Conference Scholarship in Australia: Travel Funding for Indigenous Leaders, Youth and Ch... https://opportunitiesforyouth.org/2026/10/13/indigenous-leaders-scholarship-in-australia/ NOV 3
+- [ ] Fortis Society Fellowship 2027: Apply for a Fully Funded Global Leadership Fellowship in Medellín, Colombia https://opportunitiesforyouth.org/2026/10/13/fortis-society-fellowship-2027/ NOV 5
 
 </details>
 
