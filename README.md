@@ -953,6 +953,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AIxBio Fellowship in UK 2027 | Fully Funded https://scholarshipscorner.website/aixbio-fellowship-uk/ OCT 16
 - [ ] 2026 Shenzhen International FinTech Competition in China (Fully Funded) https://oyaop.com/opportunity/competitions-and-awards/2026-shenzhen-international-fintech-competition-in-china-fully-funded/ OCT 17
 - [ ] Trinity College Dublin PhD Researcher in Sociology Scholarship 2027: Fully Funded PhD in Ireland with €25,0... https://opportunitiesforyouth.org/2026/10/13/trinity-college-dublin-phd-researcher-in-sociology-scholarship-2027-fully-funded-phd-in-ireland-with-e25000-annual-stipend/ OCT 27
+- [ ] 2027 Tyler Prize Student Ambassador Application: Global Opportunity for University Students Passionate Abou... https://opportunitiesforyouth.org/2026/10/13/2027-tyler-prize-student-ambassador-application-global-opportunity-for-university-students-passionate-about-environmental-change/ OCT 27
 
 </details>
 
@@ -984,6 +985,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The University of British Columbia International Scholars Program 2027 https://www.opportunitiesforafricans.com/the-university-of-british-columbia-ubc-international-scholars-program-2027-for-international-students/ NOV 12
 - [ ] World Bank Government Analytics Fellowship 2027 in USA | Fully Funded https://scholarshipscorner.website/world-bank-government-analytics-fellowship-usa/ NOV 13
 - [ ] Apply Now: Community Grants Scheme 2027 (United Kingdom) https://www2.fundsforngos.org/community-development-2/british-science-week-2027-community-grants-empowering-underrepresented/ NOV 1
+- [ ] 2027 Beahrs Environmental Leadership Program at UC Berkeley: Apply for Environmental Leadership Training an... https://opportunitiesforyouth.org/2026/10/13/2027-beahrs-environmental-leadership-program-at-uc-berkeley-apply-for-environmental-leadership-training-and-scholarship-opportunities/ NOV 3
 
 </details>
 
