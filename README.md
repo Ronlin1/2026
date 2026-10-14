@@ -956,6 +956,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2027 Tyler Prize Student Ambassador Application: Global Opportunity for University Students Passionate Abou... https://opportunitiesforyouth.org/2026/10/13/2027-tyler-prize-student-ambassador-application-global-opportunity-for-university-students-passionate-about-environmental-change/ OCT 27
 - [ ] AI, Ethics and Climate Governance Fellowship 2026: Apply for an Eight-Week Online Programme for Emerging Af... https://opportunitiesforyouth.org/2026/10/14/ai-ethics-and-climate-governance-fellowship-2026-apply-for-an-eight-week-online-programme-for-emerging-african-researchers-and-policy-thinkers/ OCT 14
 - [ ] UNESCO Request for Proposal 2026: Research on Youth, Nature and Sustainable Futures in India’s Biosphere Re... https://opportunitiesforyouth.org/2026/10/14/unesco-request-for-proposal-2026-research-on-youth-nature-and-sustainable-futures-in-indias-biosphere-reserves/ OCT 19
+- [ ] Call for Volunteers: Atlantic Dialogues Conference 2026 https://opportunitydesk.org/2026/10/14/call-for-volunteers-atlantic-dialogues-2026/ OCT 15
+- [ ] WHO Ethics Internship 2027 in Switzerland: Eligibility, Benefits, Requirements, and How to Apply https://opportunitiesforyouth.org/2026/10/14/who-ethics-internship-2027-in-switzerland-eligibility-benefits-requirements-and-how-to-apply/ OCT 21
 
 </details>
 
