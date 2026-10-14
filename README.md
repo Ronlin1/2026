@@ -958,6 +958,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNESCO Request for Proposal 2026: Research on Youth, Nature and Sustainable Futures in India’s Biosphere Re... https://opportunitiesforyouth.org/2026/10/14/unesco-request-for-proposal-2026-research-on-youth-nature-and-sustainable-futures-in-indias-biosphere-reserves/ OCT 19
 - [ ] Call for Volunteers: Atlantic Dialogues Conference 2026 https://opportunitydesk.org/2026/10/14/call-for-volunteers-atlantic-dialogues-2026/ OCT 15
 - [ ] WHO Ethics Internship 2027 in Switzerland: Eligibility, Benefits, Requirements, and How to Apply https://opportunitiesforyouth.org/2026/10/14/who-ethics-internship-2027-in-switzerland-eligibility-benefits-requirements-and-how-to-apply/ OCT 21
+- [ ] African Union Logo Design Competition 2027: Call for Young African Creatives to Design the Official AU Them... https://opportunitiesforyouth.org/2026/10/14/african-union-logo-design-competition-2027-call-for-young-african-creatives-to-design-the-official-au-theme-of-the-year-visual-identity/ OCT 20
+- [ ] The Afrinvest Analyst Programme 2027 https://www.opportunitiesforafricans.com/the-afrinvest-analyst-programme-taap-2027-for-young-nigerian-graduates-24-month-programme/ OCT 22
 
 </details>
 
