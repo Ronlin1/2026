@@ -954,6 +954,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2026 Shenzhen International FinTech Competition in China (Fully Funded) https://oyaop.com/opportunity/competitions-and-awards/2026-shenzhen-international-fintech-competition-in-china-fully-funded/ OCT 17
 - [ ] Trinity College Dublin PhD Researcher in Sociology Scholarship 2027: Fully Funded PhD in Ireland with €25,0... https://opportunitiesforyouth.org/2026/10/13/trinity-college-dublin-phd-researcher-in-sociology-scholarship-2027-fully-funded-phd-in-ireland-with-e25000-annual-stipend/ OCT 27
 - [ ] 2027 Tyler Prize Student Ambassador Application: Global Opportunity for University Students Passionate Abou... https://opportunitiesforyouth.org/2026/10/13/2027-tyler-prize-student-ambassador-application-global-opportunity-for-university-students-passionate-about-environmental-change/ OCT 27
+- [ ] AI, Ethics and Climate Governance Fellowship 2026: Apply for an Eight-Week Online Programme for Emerging Af... https://opportunitiesforyouth.org/2026/10/14/ai-ethics-and-climate-governance-fellowship-2026-apply-for-an-eight-week-online-programme-for-emerging-african-researchers-and-policy-thinkers/ OCT 14
+- [ ] UNESCO Request for Proposal 2026: Research on Youth, Nature and Sustainable Futures in India’s Biosphere Re... https://opportunitiesforyouth.org/2026/10/14/unesco-request-for-proposal-2026-research-on-youth-nature-and-sustainable-futures-in-indias-biosphere-reserves/ OCT 19
 
 </details>
 
