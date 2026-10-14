@@ -962,6 +962,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Afrinvest Analyst Programme 2027 https://www.opportunitiesforafricans.com/the-afrinvest-analyst-programme-taap-2027-for-young-nigerian-graduates-24-month-programme/ OCT 22
 - [ ] Ban Ki-moon Foundation Your Future in Green Jobs – Mentorship Program 2026 https://opportunitydesk.org/2026/10/13/bkmf-your-future-in-green-jobs-mentorship-program-2026/ OCT 22
 - [ ] ClimateCAP MBA Fellowship 2027: Apply for a Global Climate Leadership Fellowship for MBA Students https://opportunitiesforyouth.org/2026/10/14/climatecap-mba-fellowship-2027-apply-for-a-global-climate-leadership-fellowship-for-mba-students/ OCT 23
+- [ ] Royal Society Dorothy Hodgkin Fellowship 2027 (Funded) https://opportunitydesk.org/2026/10/14/dorothy-hodgkin-fellowship-2027/ OCT 26
+- [ ] Community-Based Living Labs Programme (South Africa) https://www2.fundsforngos.org/innovation/call-for-proposals-living-labs-programme-by-technology-innovation-agency/ OCT 27
 
 </details>
 
