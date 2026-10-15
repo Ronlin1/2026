@@ -1004,6 +1004,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Indigenous Leaders Conference Scholarship in Australia: Travel Funding for Indigenous Leaders, Youth and Ch... https://opportunitiesforyouth.org/2026/10/13/indigenous-leaders-scholarship-in-australia/ NOV 3
 - [ ] Fortis Society Fellowship 2027: Apply for a Fully Funded Global Leadership Fellowship in Medellín, Colombia https://opportunitiesforyouth.org/2026/10/13/fortis-society-fellowship-2027/ NOV 5
 - [ ] 2026 Community Festive Grants (Australia) https://www2.fundsforngos.org/community-development-2/2026-community-festive-grants-by-inner-west-council/ NOV 5
+- [ ] Changemakers for Youth Programme 2027 (Stipend available) https://opportunitydesk.org/2026/10/14/changemakers-for-youth-programme-2027/ NOV 6
+- [ ] BiodivRestore International Research Grant Program (Poland) https://www2.fundsforngos.org/innovation/biodivfuture-grants-for-international-research-on-biodiversity-and-novel/ NOV 7
 
 </details>
 
