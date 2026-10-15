@@ -964,6 +964,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ClimateCAP MBA Fellowship 2027: Apply for a Global Climate Leadership Fellowship for MBA Students https://opportunitiesforyouth.org/2026/10/14/climatecap-mba-fellowship-2027-apply-for-a-global-climate-leadership-fellowship-for-mba-students/ OCT 23
 - [ ] Royal Society Dorothy Hodgkin Fellowship 2027 (Funded) https://opportunitydesk.org/2026/10/14/dorothy-hodgkin-fellowship-2027/ OCT 26
 - [ ] Community-Based Living Labs Programme (South Africa) https://www2.fundsforngos.org/innovation/call-for-proposals-living-labs-programme-by-technology-innovation-agency/ OCT 27
+- [ ] Request for Proposals: KIN Pact Network Grant Programme (Netherlands) https://www2.fundsforngos.org/individuals/kin-pact-network-grant-2026-by-nwo/ OCT 24
+- [ ] Dutch Education Award for Vocational and Higher Education 2027 (Netherlands) https://www2.fundsforngos.org/innovation/dutch-education-award-for-vocational-and-higher-education-2027/ OCT 26
 
 </details>
 
