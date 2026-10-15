@@ -966,6 +966,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Community-Based Living Labs Programme (South Africa) https://www2.fundsforngos.org/innovation/call-for-proposals-living-labs-programme-by-technology-innovation-agency/ OCT 27
 - [ ] Request for Proposals: KIN Pact Network Grant Programme (Netherlands) https://www2.fundsforngos.org/individuals/kin-pact-network-grant-2026-by-nwo/ OCT 24
 - [ ] Dutch Education Award for Vocational and Higher Education 2027 (Netherlands) https://www2.fundsforngos.org/innovation/dutch-education-award-for-vocational-and-higher-education-2027/ OCT 26
+- [ ] RFAs: Accelerating Energy Transition in Dutch and Taiwanese Ports Program https://www2.fundsforngos.org/science/rfas-accelerating-energy-transition-in-dutch-and-taiwanese-ports-program/ OCT 26
+- [ ] Call for Get Winter Ready Kingston Cold Weather Support Grants (United Kingdom) https://www2.fundsforngos.org/community-development-2/get-winter-ready-kingston-cold-weather-support-grants-2026/ OCT 27
 
 </details>
 
