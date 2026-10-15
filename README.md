@@ -968,6 +968,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Dutch Education Award for Vocational and Higher Education 2027 (Netherlands) https://www2.fundsforngos.org/innovation/dutch-education-award-for-vocational-and-higher-education-2027/ OCT 26
 - [ ] RFAs: Accelerating Energy Transition in Dutch and Taiwanese Ports Program https://www2.fundsforngos.org/science/rfas-accelerating-energy-transition-in-dutch-and-taiwanese-ports-program/ OCT 26
 - [ ] Call for Get Winter Ready Kingston Cold Weather Support Grants (United Kingdom) https://www2.fundsforngos.org/community-development-2/get-winter-ready-kingston-cold-weather-support-grants-2026/ OCT 27
+- [ ] 2027 Processing Foundation Fellowship: $10,000 Stipend, Open-Source Technology Projects, Mentorship and Cre... https://opportunitiesforyouth.org/2026/10/15/2027-processing-foundation-fellowship/ OCT 29
 
 </details>
 
@@ -1002,6 +1003,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2027 Beahrs Environmental Leadership Program at UC Berkeley: Apply for Environmental Leadership Training an... https://opportunitiesforyouth.org/2026/10/13/2027-beahrs-environmental-leadership-program-at-uc-berkeley-apply-for-environmental-leadership-training-and-scholarship-opportunities/ NOV 3
 - [ ] Indigenous Leaders Conference Scholarship in Australia: Travel Funding for Indigenous Leaders, Youth and Ch... https://opportunitiesforyouth.org/2026/10/13/indigenous-leaders-scholarship-in-australia/ NOV 3
 - [ ] Fortis Society Fellowship 2027: Apply for a Fully Funded Global Leadership Fellowship in Medellín, Colombia https://opportunitiesforyouth.org/2026/10/13/fortis-society-fellowship-2027/ NOV 5
+- [ ] 2026 Community Festive Grants (Australia) https://www2.fundsforngos.org/community-development-2/2026-community-festive-grants-by-inner-west-council/ NOV 5
 
 </details>
 
