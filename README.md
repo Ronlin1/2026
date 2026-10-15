@@ -969,6 +969,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] RFAs: Accelerating Energy Transition in Dutch and Taiwanese Ports Program https://www2.fundsforngos.org/science/rfas-accelerating-energy-transition-in-dutch-and-taiwanese-ports-program/ OCT 26
 - [ ] Call for Get Winter Ready Kingston Cold Weather Support Grants (United Kingdom) https://www2.fundsforngos.org/community-development-2/get-winter-ready-kingston-cold-weather-support-grants-2026/ OCT 27
 - [ ] 2027 Processing Foundation Fellowship: $10,000 Stipend, Open-Source Technology Projects, Mentorship and Cre... https://opportunitiesforyouth.org/2026/10/15/2027-processing-foundation-fellowship/ OCT 29
+- [ ] United Nations University Junior Fellows Internship Programme 2027 – Tokyo, Japan https://www.opportunitiesforafricans.com/united-nations-university-junior-fellows-internship-programme-2027/ OCT 29
 
 </details>
 
@@ -1006,6 +1007,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2026 Community Festive Grants (Australia) https://www2.fundsforngos.org/community-development-2/2026-community-festive-grants-by-inner-west-council/ NOV 5
 - [ ] Changemakers for Youth Programme 2027 (Stipend available) https://opportunitydesk.org/2026/10/14/changemakers-for-youth-programme-2027/ NOV 6
 - [ ] BiodivRestore International Research Grant Program (Poland) https://www2.fundsforngos.org/innovation/biodivfuture-grants-for-international-research-on-biodiversity-and-novel/ NOV 7
+- [ ] Harrison Middleton University (HMU) Fellowship in Ideas 2027 https://opportunitydesk.org/2026/10/15/hmu-fellowship-in-ideas-2027/ NOV 12
 
 </details>
 
