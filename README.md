@@ -978,6 +978,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Rockefeller Foundation and OpenAI Foundation Launch $50 Million Cities Deliver Initiative: AI Grants of $50... https://opportunitiesforyouth.org/2026/10/16/rockefeller-foundation-and-openai-foundation-launch-50-million-cities-deliver-initiative-ai-grants-of-500000-2-million-for-public-services-worldwide/ OCT 28
 - [ ] University of Brunei Darussalam UBD Graduate Scholarship 2027 (Fully Funded) https://opportunityportal.info/ubd-graduate-scholarships/ OCT 28
 - [ ] UNDP Pakistan Human Rights Internship Programme 2026: Apply for the Three-Month Internship in Human Rights... https://opportunitiesforyouth.org/2026/10/16/undp-pakistan-human-rights-internship-programme-2026-apply-for-the-three-month-internship-in-human-rights-governance-and-research-second-cohort/ OCT 29
+- [ ] THE DO IncuVersity Program 2027 – Full and partial tuition scholarships available. https://www.opportunitiesforafricans.com/the-do-incuversity-program-2027-two-year-global-entrepreneurship-program/ OCT 28
+- [ ] United Nations University (UNU) Junior Fellows Internship 2027 https://opportunitydesk.org/2026/10/16/unu-junior-fellows-internship-2027/ OCT 29
 
 </details>
 
