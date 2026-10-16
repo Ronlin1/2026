@@ -970,6 +970,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Call for Get Winter Ready Kingston Cold Weather Support Grants (United Kingdom) https://www2.fundsforngos.org/community-development-2/get-winter-ready-kingston-cold-weather-support-grants-2026/ OCT 27
 - [ ] 2027 Processing Foundation Fellowship: $10,000 Stipend, Open-Source Technology Projects, Mentorship and Cre... https://opportunitiesforyouth.org/2026/10/15/2027-processing-foundation-fellowship/ OCT 29
 - [ ] United Nations University Junior Fellows Internship Programme 2027 – Tokyo, Japan https://www.opportunitiesforafricans.com/united-nations-university-junior-fellows-internship-programme-2027/ OCT 29
+- [ ] WHO Calls for Experts in Artificial Intelligence for Health: Apply to Join the Technical Advisory Group on... https://opportunitiesforyouth.org/2026/10/15/who-calls-for-experts-in-artificial-intelligence-for-health-apply-to-join-the-technical-advisory-group-on-ai-for-health-tag-ai-in-2026/ OCT 17
+- [ ] Submit Entries for Community Partnerships Program (Australia) https://www2.fundsforngos.org/community-development-2/submit-entries-for-community-partnerships-program-australia/ OCT 22
 
 </details>
 
