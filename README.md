@@ -974,6 +974,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Submit Entries for Community Partnerships Program (Australia) https://www2.fundsforngos.org/community-development-2/submit-entries-for-community-partnerships-program-australia/ OCT 22
 - [ ] Apply Now: Community Benefit Program Grants in Australia https://www2.fundsforngos.org/community-development-2/apply-now-community-benefit-program-grants-in-australia/ OCT 27
 - [ ] RFAs: Mildred Blaxter Postdoctoral Fellowships Award (United Kingdom) https://www2.fundsforngos.org/research-2/rfas-mildred-blaxter-postdoctoral-fellowships-award-united-kingdom/ OCT 27
+- [ ] EJN Reporting Fellowships 2026 https://opportunitydesk.org/2026/10/16/ejn-reporting-fellowships-2026-for-journalists-to-cover-bbnj-cop1/ OCT 24
+- [ ] Rockefeller Foundation and OpenAI Foundation Launch $50 Million Cities Deliver Initiative: AI Grants of $50... https://opportunitiesforyouth.org/2026/10/16/rockefeller-foundation-and-openai-foundation-launch-50-million-cities-deliver-initiative-ai-grants-of-500000-2-million-for-public-services-worldwide/ OCT 28
 
 </details>
 
