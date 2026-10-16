@@ -976,6 +976,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] RFAs: Mildred Blaxter Postdoctoral Fellowships Award (United Kingdom) https://www2.fundsforngos.org/research-2/rfas-mildred-blaxter-postdoctoral-fellowships-award-united-kingdom/ OCT 27
 - [ ] EJN Reporting Fellowships 2026 https://opportunitydesk.org/2026/10/16/ejn-reporting-fellowships-2026-for-journalists-to-cover-bbnj-cop1/ OCT 24
 - [ ] Rockefeller Foundation and OpenAI Foundation Launch $50 Million Cities Deliver Initiative: AI Grants of $50... https://opportunitiesforyouth.org/2026/10/16/rockefeller-foundation-and-openai-foundation-launch-50-million-cities-deliver-initiative-ai-grants-of-500000-2-million-for-public-services-worldwide/ OCT 28
+- [ ] University of Brunei Darussalam UBD Graduate Scholarship 2027 (Fully Funded) https://opportunityportal.info/ubd-graduate-scholarships/ OCT 28
+- [ ] UNDP Pakistan Human Rights Internship Programme 2026: Apply for the Three-Month Internship in Human Rights... https://opportunitiesforyouth.org/2026/10/16/undp-pakistan-human-rights-internship-programme-2026-apply-for-the-three-month-internship-in-human-rights-governance-and-research-second-cohort/ OCT 29
 
 </details>
 
