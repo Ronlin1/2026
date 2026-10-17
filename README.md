@@ -980,6 +980,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNDP Pakistan Human Rights Internship Programme 2026: Apply for the Three-Month Internship in Human Rights... https://opportunitiesforyouth.org/2026/10/16/undp-pakistan-human-rights-internship-programme-2026-apply-for-the-three-month-internship-in-human-rights-governance-and-research-second-cohort/ OCT 29
 - [ ] THE DO IncuVersity Program 2027 – Full and partial tuition scholarships available. https://www.opportunitiesforafricans.com/the-do-incuversity-program-2027-two-year-global-entrepreneurship-program/ OCT 28
 - [ ] United Nations University (UNU) Junior Fellows Internship 2027 https://opportunitydesk.org/2026/10/16/unu-junior-fellows-internship-2027/ OCT 29
+- [ ] Women inPower Fellowship 2026: Free Year-Long Leadership Fellowship for Senior-Level Women Leaders in the U... https://opportunitiesforyouth.org/2026/10/16/women-inpower-fellowship-2026-free-year-long-leadership-fellowship-for-senior-level-women-leaders-in-the-united-states/ OCT 23
+- [ ] AIDSWatch@Home 2026–2027 Grant Program: Apply for Up to $15,000 to Advance HIV Advocacy, Community Organizi... https://opportunitiesforyouth.org/2026/10/16/aidswatchhome-2026-2027-grant-program-apply-for-up-to-15000-to-advance-hiv-advocacy-community-organizing-and-policy-change/ OCT 27
 
 </details>
 
