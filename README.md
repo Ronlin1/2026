@@ -1026,6 +1026,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNICEF Malaysia Youth Call 2026: Help Create a Manifesto for a Safe, Clean, Healthy and Sustainable Environ... https://opportunitiesforyouth.org/2026/10/16/unicef-malaysia-youth-call-2026-help-create-a-manifesto-for-a-safe-clean-healthy-and-sustainable-environment/ NOV 11
 - [ ] CMU-Africa Certificate in Artificial Intelligence for Africa 2027 https://opportunitydesk.org/2026/10/16/cmu-africa-certificate-in-artificial-intelligence-for-africa-2027/ NOV 12
 - [ ] Community Planning and Environmental Services Payments for Savanna Restoration in DR Congo https://www2.fundsforngos.org/individuals/community-planning-and-environmental-services-payments-for-savanna-restoration-in-dr-congo/ NOV 13
+- [ ] Japan Fund for Global Environment Grants Program https://www2.fundsforngos.org/environment-2/japan-fund-for-global-environment-grants-program/ NOV 13
+- [ ] Voices from the Frontline Fund (United Kingdom) https://www2.fundsforngos.org/women-gender-2/applications-open-for-voices-from-the-frontline-fund-united-kingdom/ NOV 13
 
 </details>
 
