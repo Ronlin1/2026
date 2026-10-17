@@ -1022,6 +1022,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Harrison Middleton University (HMU) Fellowship in Ideas 2027 https://opportunitydesk.org/2026/10/15/hmu-fellowship-in-ideas-2027/ NOV 12
 - [ ] The World Intellectual Property Organization Intellectual Property Moot Court Competition 2027 https://www.opportunitiesforafricans.com/world-intellectual-property-organization-wipo-intellectual-property-moot-court-competition-2027/ NOV 3
 - [ ] CFAs: Climate Tech Incubator Student Launchpad Program Season 2 (India) https://www2.fundsforngos.org/individuals/cfas-climate-tech-incubator-student-launchpad-program-season-2-india/ NOV 12
+- [ ] SALTO PI Editorial Board 2026: Paid Sector Mentor and Editorial Fellow Opportunities Across Six Sectors https://opportunitiesforyouth.org/2026/10/17/salto-pi-editorial-board-2026-paid-sector-mentor-and-editorial-fellow-opportunities-across-six-sectors/ NOV 5
+- [ ] UNICEF Malaysia Youth Call 2026: Help Create a Manifesto for a Safe, Clean, Healthy and Sustainable Environ... https://opportunitiesforyouth.org/2026/10/16/unicef-malaysia-youth-call-2026-help-create-a-manifesto-for-a-safe-clean-healthy-and-sustainable-environment/ NOV 11
 
 </details>
 
