@@ -1020,6 +1020,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Changemakers for Youth Programme 2027 (Stipend available) https://opportunitydesk.org/2026/10/14/changemakers-for-youth-programme-2027/ NOV 6
 - [ ] BiodivRestore International Research Grant Program (Poland) https://www2.fundsforngos.org/innovation/biodivfuture-grants-for-international-research-on-biodiversity-and-novel/ NOV 7
 - [ ] Harrison Middleton University (HMU) Fellowship in Ideas 2027 https://opportunitydesk.org/2026/10/15/hmu-fellowship-in-ideas-2027/ NOV 12
+- [ ] The World Intellectual Property Organization Intellectual Property Moot Court Competition 2027 https://www.opportunitiesforafricans.com/world-intellectual-property-organization-wipo-intellectual-property-moot-court-competition-2027/ NOV 3
+- [ ] CFAs: Climate Tech Incubator Student Launchpad Program Season 2 (India) https://www2.fundsforngos.org/individuals/cfas-climate-tech-incubator-student-launchpad-program-season-2-india/ NOV 12
 
 </details>
 
