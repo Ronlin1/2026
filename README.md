@@ -1024,6 +1024,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CFAs: Climate Tech Incubator Student Launchpad Program Season 2 (India) https://www2.fundsforngos.org/individuals/cfas-climate-tech-incubator-student-launchpad-program-season-2-india/ NOV 12
 - [ ] SALTO PI Editorial Board 2026: Paid Sector Mentor and Editorial Fellow Opportunities Across Six Sectors https://opportunitiesforyouth.org/2026/10/17/salto-pi-editorial-board-2026-paid-sector-mentor-and-editorial-fellow-opportunities-across-six-sectors/ NOV 5
 - [ ] UNICEF Malaysia Youth Call 2026: Help Create a Manifesto for a Safe, Clean, Healthy and Sustainable Environ... https://opportunitiesforyouth.org/2026/10/16/unicef-malaysia-youth-call-2026-help-create-a-manifesto-for-a-safe-clean-healthy-and-sustainable-environment/ NOV 11
+- [ ] CMU-Africa Certificate in Artificial Intelligence for Africa 2027 https://opportunitydesk.org/2026/10/16/cmu-africa-certificate-in-artificial-intelligence-for-africa-2027/ NOV 12
+- [ ] Community Planning and Environmental Services Payments for Savanna Restoration in DR Congo https://www2.fundsforngos.org/individuals/community-planning-and-environmental-services-payments-for-savanna-restoration-in-dr-congo/ NOV 13
 
 </details>
 
