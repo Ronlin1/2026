@@ -1034,6 +1034,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Community Grant Program for North Glengarry (Canada) https://www2.fundsforngos.org/community-development-2/apply-for-community-grant-program-for-north-glengarry-canada/ NOV 27
 - [ ] Tokyo Institute of Technology MEXT Scholarships 2027 (Fully Funded) https://opportunityportal.info/tokyo-institute-of-technology-scholarships-2027/ NOV 19
 - [ ] FLEX Global Abroad 2027–28 | Fully Funded High School Exchange Program https://scholarshipscorner.website/flex-global-abroad-exchange-program/ NOV 27
+- [ ] United Nations Young Professionals Programme 2026: Development and Sustainability Exam – Apply by November 30 https://opportunitiesforyouth.org/2026/10/17/united-nations-young-professionals-programme-ypp-eligibility-application-process-exam-guide-and-how-to-prepare/ NOV 27
+- [ ] Connected and Respectful Tasmania Grant Program (Australia) https://www2.fundsforngos.org/community-development-2/connected-and-respectful-tasmania-grant-program-australia/ NOV 28
 
 </details>
 
