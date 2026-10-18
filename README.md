@@ -1030,6 +1030,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Japan Fund for Global Environment Grants Program https://www2.fundsforngos.org/environment-2/japan-fund-for-global-environment-grants-program/ NOV 13
 - [ ] Voices from the Frontline Fund (United Kingdom) https://www2.fundsforngos.org/women-gender-2/applications-open-for-voices-from-the-frontline-fund-united-kingdom/ NOV 13
 - [ ] BIE-Cosmos Prize Expo 2027 Yokohama https://www2.fundsforngos.org/individuals/applications-open-for-bie-cosmos-prize-expo-2027-yokohama/ NOV 17
+- [ ] DW Paid Traineeship 2028–29 in Germany | Up to €2,473/Month https://scholarshipscorner.website/dw-traineeship-germany/ NOV 14
+- [ ] Community Grant Program for North Glengarry (Canada) https://www2.fundsforngos.org/community-development-2/apply-for-community-grant-program-for-north-glengarry-canada/ NOV 27
 
 </details>
 
