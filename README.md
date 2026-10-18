@@ -982,6 +982,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] United Nations University (UNU) Junior Fellows Internship 2027 https://opportunitydesk.org/2026/10/16/unu-junior-fellows-internship-2027/ OCT 29
 - [ ] Women inPower Fellowship 2026: Free Year-Long Leadership Fellowship for Senior-Level Women Leaders in the U... https://opportunitiesforyouth.org/2026/10/16/women-inpower-fellowship-2026-free-year-long-leadership-fellowship-for-senior-level-women-leaders-in-the-united-states/ OCT 23
 - [ ] AIDSWatch@Home 2026–2027 Grant Program: Apply for Up to $15,000 to Advance HIV Advocacy, Community Organizi... https://opportunitiesforyouth.org/2026/10/16/aidswatchhome-2026-2027-grant-program-apply-for-up-to-15000-to-advance-hiv-advocacy-community-organizing-and-policy-change/ OCT 27
+- [ ] Communications Lead for the 16 Days of Activism Campaign 2026: Roma Feminist Collective Opens Applications https://opportunitiesforyouth.org/2026/10/18/communications-lead-for-the-16-days-of-activism-campaign-2026-roma-feminist-collective-opens-applications/ OCT 22
 
 </details>
 
@@ -1028,6 +1029,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Community Planning and Environmental Services Payments for Savanna Restoration in DR Congo https://www2.fundsforngos.org/individuals/community-planning-and-environmental-services-payments-for-savanna-restoration-in-dr-congo/ NOV 13
 - [ ] Japan Fund for Global Environment Grants Program https://www2.fundsforngos.org/environment-2/japan-fund-for-global-environment-grants-program/ NOV 13
 - [ ] Voices from the Frontline Fund (United Kingdom) https://www2.fundsforngos.org/women-gender-2/applications-open-for-voices-from-the-frontline-fund-united-kingdom/ NOV 13
+- [ ] BIE-Cosmos Prize Expo 2027 Yokohama https://www2.fundsforngos.org/individuals/applications-open-for-bie-cosmos-prize-expo-2027-yokohama/ NOV 17
 
 </details>
 
