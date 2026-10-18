@@ -1032,6 +1032,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] BIE-Cosmos Prize Expo 2027 Yokohama https://www2.fundsforngos.org/individuals/applications-open-for-bie-cosmos-prize-expo-2027-yokohama/ NOV 17
 - [ ] DW Paid Traineeship 2028–29 in Germany | Up to €2,473/Month https://scholarshipscorner.website/dw-traineeship-germany/ NOV 14
 - [ ] Community Grant Program for North Glengarry (Canada) https://www2.fundsforngos.org/community-development-2/apply-for-community-grant-program-for-north-glengarry-canada/ NOV 27
+- [ ] Tokyo Institute of Technology MEXT Scholarships 2027 (Fully Funded) https://opportunityportal.info/tokyo-institute-of-technology-scholarships-2027/ NOV 19
+- [ ] FLEX Global Abroad 2027–28 | Fully Funded High School Exchange Program https://scholarshipscorner.website/flex-global-abroad-exchange-program/ NOV 27
 
 </details>
 
