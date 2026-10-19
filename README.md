@@ -1046,6 +1046,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Connected and Respectful Tasmania Grant Program (Australia) https://www2.fundsforngos.org/community-development-2/connected-and-respectful-tasmania-grant-program-australia/ NOV 28
 - [ ] International Blue Carbon Institute Fellowship 2026: $60,000 Research Grant for Blue Carbon Scientists and... https://opportunitiesforyouth.org/2026/10/18/international-blue-carbon-institute-ibci-fellowship-2026-60000-research-grant-for-blue-carbon-scientists-and-practitioners/ NOV 20
 - [ ] Harvard Kennedy School Center for Public Leadership Equity Fellowship 2027-2028 https://opportunitydesk.org/2026/10/16/hks-cpl-equity-fellowship-2027-2028/ NOV 28
+- [ ] Low Value Grant for PPPs and PPCPs in Sorong (Indonesia) https://www2.fundsforngos.org/environment-2/low-value-grant-for-ppps-and-ppcps-in-sorong-indonesia/ NOV 2
+- [ ] Young Political Economy Forum Hong Kong 2026 (YPEF 2026) https://scholarshipscorner.website/young-political-economy-forum-hong-kong-2026/ NOV 2
 
 </details>
 
