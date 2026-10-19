@@ -985,6 +985,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Communications Lead for the 16 Days of Activism Campaign 2026: Roma Feminist Collective Opens Applications https://opportunitiesforyouth.org/2026/10/18/communications-lead-for-the-16-days-of-activism-campaign-2026-roma-feminist-collective-opens-applications/ OCT 22
 - [ ] 2026 Special Attorneys Program (Round 10) – United States https://www2.fundsforngos.org/business-and-industry/ojp-fy-2026-special-attorneys-program-round-10-funding-for-law-enforcement/ OCT 25
 - [ ] Impact Arcade Pilot Funding 2026: Apply for $50 Funding to Host Youth-Led Social Impact Gaming Events https://opportunitiesforyouth.org/2026/10/18/impact-arcade-pilot-funding-2026-apply-for-50-funding-to-host-youth-led-social-impact-gaming-events/ OCT 28
+- [ ] The Refugee-Led Research Hub Graduate Horizons Mentorship and Scholarship Programme for African refugee and... https://www.opportunitiesforafricans.com/the-refugee-led-research-hub-rlrh-graduate-horizons-mentorship-and-scholarship-programme/ OCT 22
+- [ ] Quality of Government Institute (QoG) Internship 2027 https://opportunitydesk.org/2026/10/19/quality-of-government-institute-internship-2027/ OCT 28
 
 </details>
 
