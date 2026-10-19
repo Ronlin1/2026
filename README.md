@@ -987,6 +987,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Impact Arcade Pilot Funding 2026: Apply for $50 Funding to Host Youth-Led Social Impact Gaming Events https://opportunitiesforyouth.org/2026/10/18/impact-arcade-pilot-funding-2026-apply-for-50-funding-to-host-youth-led-social-impact-gaming-events/ OCT 28
 - [ ] The Refugee-Led Research Hub Graduate Horizons Mentorship and Scholarship Programme for African refugee and... https://www.opportunitiesforafricans.com/the-refugee-led-research-hub-rlrh-graduate-horizons-mentorship-and-scholarship-programme/ OCT 22
 - [ ] Quality of Government Institute (QoG) Internship 2027 https://opportunitydesk.org/2026/10/19/quality-of-government-institute-internship-2027/ OCT 28
+- [ ] Call for Proposals: Women’s Peace and Humanitarian Fund (Sudan) https://www2.fundsforngos.org/peace-conflict-resolution/women-s-peace-and-humanitarian-fund-call-for-proposals-in-burkina-faso/ OCT 30
+- [ ] JPMorganChase 2027 Spring Insights: Shape & Advance Programme in Bournemouth, UK – Eligibility, Benefits an... https://opportunitiesforyouth.org/2026/10/19/jpmorganchase-2027-spring-insights-shape-advance-programme-in-bournemouth-uk-eligibility-benefits-and-application-deadline/ OCT 30
 
 </details>
 
