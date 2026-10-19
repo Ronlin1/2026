@@ -989,6 +989,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Quality of Government Institute (QoG) Internship 2027 https://opportunitydesk.org/2026/10/19/quality-of-government-institute-internship-2027/ OCT 28
 - [ ] Call for Proposals: Women’s Peace and Humanitarian Fund (Sudan) https://www2.fundsforngos.org/peace-conflict-resolution/women-s-peace-and-humanitarian-fund-call-for-proposals-in-burkina-faso/ OCT 30
 - [ ] JPMorganChase 2027 Spring Insights: Shape & Advance Programme in Bournemouth, UK – Eligibility, Benefits an... https://opportunitiesforyouth.org/2026/10/19/jpmorganchase-2027-spring-insights-shape-advance-programme-in-bournemouth-uk-eligibility-benefits-and-application-deadline/ OCT 30
+- [ ] EJN Reporting Fellowship 2027 in New York, USA (Fully Funded) https://scholarshipscorner.website/ejn-reporting-fellowship-2027-usa/ OCT 24
+- [ ] Power and Water Community Partnership Program Grants (Australia) https://www2.fundsforngos.org/community-development-2/power-and-water-2027-community-partnership-program-funding-for-initiatives/ OCT 30
 
 </details>
 
