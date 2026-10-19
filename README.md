@@ -983,6 +983,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Women inPower Fellowship 2026: Free Year-Long Leadership Fellowship for Senior-Level Women Leaders in the U... https://opportunitiesforyouth.org/2026/10/16/women-inpower-fellowship-2026-free-year-long-leadership-fellowship-for-senior-level-women-leaders-in-the-united-states/ OCT 23
 - [ ] AIDSWatch@Home 2026–2027 Grant Program: Apply for Up to $15,000 to Advance HIV Advocacy, Community Organizi... https://opportunitiesforyouth.org/2026/10/16/aidswatchhome-2026-2027-grant-program-apply-for-up-to-15000-to-advance-hiv-advocacy-community-organizing-and-policy-change/ OCT 27
 - [ ] Communications Lead for the 16 Days of Activism Campaign 2026: Roma Feminist Collective Opens Applications https://opportunitiesforyouth.org/2026/10/18/communications-lead-for-the-16-days-of-activism-campaign-2026-roma-feminist-collective-opens-applications/ OCT 22
+- [ ] 2026 Special Attorneys Program (Round 10) – United States https://www2.fundsforngos.org/business-and-industry/ojp-fy-2026-special-attorneys-program-round-10-funding-for-law-enforcement/ OCT 25
+- [ ] Impact Arcade Pilot Funding 2026: Apply for $50 Funding to Host Youth-Led Social Impact Gaming Events https://opportunitiesforyouth.org/2026/10/18/impact-arcade-pilot-funding-2026-apply-for-50-funding-to-host-youth-led-social-impact-gaming-events/ OCT 28
 
 </details>
 
