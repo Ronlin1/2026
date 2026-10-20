@@ -1054,6 +1054,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Young Political Economy Forum Hong Kong 2026 (YPEF 2026) https://scholarshipscorner.website/young-political-economy-forum-hong-kong-2026/ NOV 2
 - [ ] AJF × SDRB Somalia Business Plan Competition 2026 https://opportunitydesk.org/2026/10/20/ajf-sdrb-somalia-business-plan-competition-2026/ NOV 3
 - [ ] The HP-UCL IOE Fellowship in AI in Education – global executive leadership programme for senior education l... https://www.opportunitiesforafricans.com/the-hp-ucl-ioe-fellowship-in-ai-in-education-global-executive-leadership-programme-for-senior-education-leaders/ NOV 4
+- [ ] CFPs: FBIS Africa Freshwater Biodiversity Data Mobilisation Small Grants https://www2.fundsforngos.org/cat/fbis-africa-freshwater-biodiversity-data-mobilisation-small-grants/ NOV 6
+- [ ] Open Call: Kathmandu Community Grants 2026 (Nepal) https://www2.fundsforngos.org/community-development-2/open-call-kathmandu-community-grants-2026-nepal/ NOV 6
 
 </details>
 
