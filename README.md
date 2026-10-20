@@ -1052,6 +1052,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Harvard Kennedy School Center for Public Leadership Equity Fellowship 2027-2028 https://opportunitydesk.org/2026/10/16/hks-cpl-equity-fellowship-2027-2028/ NOV 28
 - [ ] Low Value Grant for PPPs and PPCPs in Sorong (Indonesia) https://www2.fundsforngos.org/environment-2/low-value-grant-for-ppps-and-ppcps-in-sorong-indonesia/ NOV 2
 - [ ] Young Political Economy Forum Hong Kong 2026 (YPEF 2026) https://scholarshipscorner.website/young-political-economy-forum-hong-kong-2026/ NOV 2
+- [ ] AJF × SDRB Somalia Business Plan Competition 2026 https://opportunitydesk.org/2026/10/20/ajf-sdrb-somalia-business-plan-competition-2026/ NOV 3
+- [ ] The HP-UCL IOE Fellowship in AI in Education – global executive leadership programme for senior education l... https://www.opportunitiesforafricans.com/the-hp-ucl-ioe-fellowship-in-ai-in-education-global-executive-leadership-programme-for-senior-education-leaders/ NOV 4
 
 </details>
 
