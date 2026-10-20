@@ -1056,6 +1056,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The HP-UCL IOE Fellowship in AI in Education – global executive leadership programme for senior education l... https://www.opportunitiesforafricans.com/the-hp-ucl-ioe-fellowship-in-ai-in-education-global-executive-leadership-programme-for-senior-education-leaders/ NOV 4
 - [ ] CFPs: FBIS Africa Freshwater Biodiversity Data Mobilisation Small Grants https://www2.fundsforngos.org/cat/fbis-africa-freshwater-biodiversity-data-mobilisation-small-grants/ NOV 6
 - [ ] Open Call: Kathmandu Community Grants 2026 (Nepal) https://www2.fundsforngos.org/community-development-2/open-call-kathmandu-community-grants-2026-nepal/ NOV 6
+- [ ] Open Call: Veteran Wellbeing Grants Program 2026-27 (Australia) https://www2.fundsforngos.org/cat/veteran-wellbeing-grants-vwg-program-2026-27/ NOV 7
+- [ ] Avalanche Canada AST Access Grant for Canadian Nonprofit Organizations https://www2.fundsforngos.org/equipment/avalanche-canada-ast-access-grant-2026-27-supporting-avalanche-safety/ NOV 12
 
 </details>
 
