@@ -991,6 +991,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] JPMorganChase 2027 Spring Insights: Shape & Advance Programme in Bournemouth, UK – Eligibility, Benefits an... https://opportunitiesforyouth.org/2026/10/19/jpmorganchase-2027-spring-insights-shape-advance-programme-in-bournemouth-uk-eligibility-benefits-and-application-deadline/ OCT 30
 - [ ] EJN Reporting Fellowship 2027 in New York, USA (Fully Funded) https://scholarshipscorner.website/ejn-reporting-fellowship-2027-usa/ OCT 24
 - [ ] Power and Water Community Partnership Program Grants (Australia) https://www2.fundsforngos.org/community-development-2/power-and-water-2027-community-partnership-program-funding-for-initiatives/ OCT 30
+- [ ] AI and National Security Convergence Fellowship 2026-2027 https://opportunitydesk.org/2026/10/20/ai-and-national-security-convergence-fellowship-2026-2027/ OCT 25
+- [ ] Raisina Young Fellows Programme 2027: Fully Funded International Leadership Programme in India for Young Le... https://opportunitiesforyouth.org/2026/10/20/raisina-young-fellows-programme-2027-fully-funded-international-leadership-programme-in-india-for-young-leaders/ OCT 30
 
 </details>
 
