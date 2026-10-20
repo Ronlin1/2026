@@ -993,6 +993,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Power and Water Community Partnership Program Grants (Australia) https://www2.fundsforngos.org/community-development-2/power-and-water-2027-community-partnership-program-funding-for-initiatives/ OCT 30
 - [ ] AI and National Security Convergence Fellowship 2026-2027 https://opportunitydesk.org/2026/10/20/ai-and-national-security-convergence-fellowship-2026-2027/ OCT 25
 - [ ] Raisina Young Fellows Programme 2027: Fully Funded International Leadership Programme in India for Young Le... https://opportunitiesforyouth.org/2026/10/20/raisina-young-fellows-programme-2027-fully-funded-international-leadership-programme-in-india-for-young-leaders/ OCT 30
+- [ ] The University of Edinburgh Mastercard Foundation on-campus and online postgraduate Scholars Program 2027/2028 https://www.opportunitiesforafricans.com/university-of-edinburgh-mastercard-foundation-on-campus-and-online-postgraduate-scholars-program-2027-2028/ OCT 23
+- [ ] IPU Consultancy 2026: External Researcher to Develop the 2027 Report on Women’s Progress and Setbacks in Pa... https://opportunitiesforyouth.org/2026/10/20/ipu-consultancy-2026-external-researcher-to-develop-the-2027-report-on-womens-progress-and-setbacks-in-parliament/ OCT 26
 
 </details>
 
