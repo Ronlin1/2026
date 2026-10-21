@@ -999,6 +999,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] USEFP Fulbright Scholar Program 2027: Fully Funded U.S. Research and Lectureship Opportunity for Pakistani... https://opportunitiesforyouth.org/2026/10/20/usefp-fulbright-scholar-program/ OCT 25
 - [ ] Chevening British Library Southeast Asian Fellowship 2027 (Funded) https://opportunitydesk.org/2026/10/21/chevening-british-library-southeast-asian-fellowship-2027/ OCT 24
 - [ ] Research Fellows Program 2026–2027: Apply for a Nine-Month Research Fellowship on Higher Education Transfor... https://opportunitiesforyouth.org/2026/10/21/research-fellows-program-2026-2027-apply-for-a-nine-month-research-fellowship-on-higher-education-transformation-in-africa/ OCT 27
+- [ ] U.S. Bank Discover Us: Finance & Banking Fellowship 2026 https://opportunitydesk.org/2026/10/20/discover-us-finance-banking-fellowship-2026/ OCT 27
+- [ ] UNDP Uganda ICCA-GSI Phase II Call for Proposals 2026: Up to $44,000 Grant for Indigenous and Community-Bas... https://opportunitiesforyouth.org/2026/10/21/undp-uganda-icca-gsi-phase-ii-call-for-proposals-2026-up-to-44000-grant-for-indigenous-and-community-based-organisations/ OCT 27
 
 </details>
 
