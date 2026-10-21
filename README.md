@@ -995,6 +995,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Raisina Young Fellows Programme 2027: Fully Funded International Leadership Programme in India for Young Le... https://opportunitiesforyouth.org/2026/10/20/raisina-young-fellows-programme-2027-fully-funded-international-leadership-programme-in-india-for-young-leaders/ OCT 30
 - [ ] The University of Edinburgh Mastercard Foundation on-campus and online postgraduate Scholars Program 2027/2028 https://www.opportunitiesforafricans.com/university-of-edinburgh-mastercard-foundation-on-campus-and-online-postgraduate-scholars-program-2027-2028/ OCT 23
 - [ ] IPU Consultancy 2026: External Researcher to Develop the 2027 Report on Women’s Progress and Setbacks in Pa... https://opportunitiesforyouth.org/2026/10/20/ipu-consultancy-2026-external-researcher-to-develop-the-2027-report-on-womens-progress-and-setbacks-in-parliament/ OCT 26
+- [ ] Nalafem Fund Grants 2026: Apply for US$1,500 to Support Young Feminist Initiatives Across Africa https://opportunitiesforyouth.org/2026/10/20/nalafem-fund-grants-2026-apply-for-us1500-to-support-young-feminist-initiatives-across-africa/ OCT 21
+- [ ] USEFP Fulbright Scholar Program 2027: Fully Funded U.S. Research and Lectureship Opportunity for Pakistani... https://opportunitiesforyouth.org/2026/10/20/usefp-fulbright-scholar-program/ OCT 25
 
 </details>
 
