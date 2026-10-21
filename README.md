@@ -1003,6 +1003,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNDP Uganda ICCA-GSI Phase II Call for Proposals 2026: Up to $44,000 Grant for Indigenous and Community-Bas... https://opportunitiesforyouth.org/2026/10/21/undp-uganda-icca-gsi-phase-ii-call-for-proposals-2026-up-to-44000-grant-for-indigenous-and-community-based-organisations/ OCT 27
 - [ ] The WIPO Global Innovation Index Fellowship 2027 https://www.opportunitiesforafricans.com/the-wipo-global-innovation-index-fellowship-2027/ OCT 27
 - [ ] Girl Up Project Awards 2026: Apply for Up to US$1,000 to Advance Gender Justice and Empower Young Activists https://opportunitiesforyouth.org/2026/10/21/girl-up-project-awards-2026-apply-for-up-to-us1000-to-advance-gender-justice-and-empower-young-activists/ OCT 28
+- [ ] Research Grant Program for Female Postgraduate Researchers https://www2.fundsforngos.org/innovation/research-grant-program-for-female-postgraduate-researchers/ OCT 28
+- [ ] UNU Junior Fellows Internship 2027 in Japan (Paid UN Internship) https://scholarshipscorner.website/unu-junior-fellows-internship-japan/ OCT 29
 
 </details>
 
