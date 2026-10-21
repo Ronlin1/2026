@@ -1001,6 +1001,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Research Fellows Program 2026–2027: Apply for a Nine-Month Research Fellowship on Higher Education Transfor... https://opportunitiesforyouth.org/2026/10/21/research-fellows-program-2026-2027-apply-for-a-nine-month-research-fellowship-on-higher-education-transformation-in-africa/ OCT 27
 - [ ] U.S. Bank Discover Us: Finance & Banking Fellowship 2026 https://opportunitydesk.org/2026/10/20/discover-us-finance-banking-fellowship-2026/ OCT 27
 - [ ] UNDP Uganda ICCA-GSI Phase II Call for Proposals 2026: Up to $44,000 Grant for Indigenous and Community-Bas... https://opportunitiesforyouth.org/2026/10/21/undp-uganda-icca-gsi-phase-ii-call-for-proposals-2026-up-to-44000-grant-for-indigenous-and-community-based-organisations/ OCT 27
+- [ ] The WIPO Global Innovation Index Fellowship 2027 https://www.opportunitiesforafricans.com/the-wipo-global-innovation-index-fellowship-2027/ OCT 27
+- [ ] Girl Up Project Awards 2026: Apply for Up to US$1,000 to Advance Gender Justice and Empower Young Activists https://opportunitiesforyouth.org/2026/10/21/girl-up-project-awards-2026-apply-for-up-to-us1000-to-advance-gender-justice-and-empower-young-activists/ OCT 28
 
 </details>
 
