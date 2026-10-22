@@ -1005,6 +1005,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Girl Up Project Awards 2026: Apply for Up to US$1,000 to Advance Gender Justice and Empower Young Activists https://opportunitiesforyouth.org/2026/10/21/girl-up-project-awards-2026-apply-for-up-to-us1000-to-advance-gender-justice-and-empower-young-activists/ OCT 28
 - [ ] Research Grant Program for Female Postgraduate Researchers https://www2.fundsforngos.org/innovation/research-grant-program-for-female-postgraduate-researchers/ OCT 28
 - [ ] UNU Junior Fellows Internship 2027 in Japan (Paid UN Internship) https://scholarshipscorner.website/unu-junior-fellows-internship-japan/ OCT 29
+- [ ] International Growth Centre Jobs 2026: Paid Economics, Research and Policy Opportunities in Jordan and Sout... https://opportunitiesforyouth.org/2026/10/22/international-growth-centre-igc-jobs-2026-paid-economics-research-and-policy-opportunities-in-jordan-and-south-africa/ OCT 22
+- [ ] Training on Effective Realisation of International Human Rights Instruments in Georgia https://www2.fundsforngos.org/individuals/training-on-effective-realisation-of-international-human-rights-instruments-in-georgia/ OCT 23
 
 </details>
 
