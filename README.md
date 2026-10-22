@@ -1009,6 +1009,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Training on Effective Realisation of International Human Rights Instruments in Georgia https://www2.fundsforngos.org/individuals/training-on-effective-realisation-of-international-human-rights-instruments-in-georgia/ OCT 23
 - [ ] AIRC Non-Resident Research Fellowship in AI and Social Sciences 2027 https://opportunitydesk.org/2026/10/22/airc-non-resident-research-fellowship-in-ai-and-social-sciences-2027/ OCT 22
 - [ ] SA Youth Week Grants 2027 (Australia) https://www2.fundsforngos.org/community-development-2/call-for-applications-sa-youth-week-grants-2027-australia/ OCT 25
+- [ ] USEFP Fulbright Scholar Program 2027 (Funded) https://opportunitydesk.org/2026/10/22/usefp-fulbright-scholar-program-2027/ OCT 25
+- [ ] Additional Million-euro Funding for Science (Finland) https://www2.fundsforngos.org/science/million-euro-funding-for-science-finnish-cultural-foundation-grant-for/ OCT 27
 
 </details>
 
