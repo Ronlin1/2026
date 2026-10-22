@@ -1007,6 +1007,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNU Junior Fellows Internship 2027 in Japan (Paid UN Internship) https://scholarshipscorner.website/unu-junior-fellows-internship-japan/ OCT 29
 - [ ] International Growth Centre Jobs 2026: Paid Economics, Research and Policy Opportunities in Jordan and Sout... https://opportunitiesforyouth.org/2026/10/22/international-growth-centre-igc-jobs-2026-paid-economics-research-and-policy-opportunities-in-jordan-and-south-africa/ OCT 22
 - [ ] Training on Effective Realisation of International Human Rights Instruments in Georgia https://www2.fundsforngos.org/individuals/training-on-effective-realisation-of-international-human-rights-instruments-in-georgia/ OCT 23
+- [ ] AIRC Non-Resident Research Fellowship in AI and Social Sciences 2027 https://opportunitydesk.org/2026/10/22/airc-non-resident-research-fellowship-in-ai-and-social-sciences-2027/ OCT 22
+- [ ] SA Youth Week Grants 2027 (Australia) https://www2.fundsforngos.org/community-development-2/call-for-applications-sa-youth-week-grants-2027-australia/ OCT 25
 
 </details>
 
