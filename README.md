@@ -1013,6 +1013,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Additional Million-euro Funding for Science (Finland) https://www2.fundsforngos.org/science/million-euro-funding-for-science-finnish-cultural-foundation-grant-for/ OCT 27
 - [ ] Apply Now: Working and Expenditure Grant Program (Finland) https://www2.fundsforngos.org/innovation/general-working-and-expenditure-grants-by-the-finnish-cultural-foundation/ OCT 27
 - [ ] Core Studies in Research, Science and the Arts and Purposes (Finland) https://www2.fundsforngos.org/science/basic-studies-grants-for-research-science-and-arts-by-finnish-cultural/ OCT 27
+- [ ] CoalitionWILD EXCELerator Program 2027: Apply for a Six-Month Environmental Leadership and Conservation Tra... https://opportunitiesforyouth.org/2026/10/22/coalitionwild-excelerator-program-2027-apply-for-a-six-month-environmental-leadership-and-conservation-training-programme/ OCT 26
+- [ ] RFPs: Local Culture Project Grant Program (Finland) https://www2.fundsforngos.org/individuals/local-culture-projects-grant-by-finnish-cultural-foundation/ OCT 27
 
 </details>
 
