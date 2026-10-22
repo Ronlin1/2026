@@ -1011,6 +1011,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] SA Youth Week Grants 2027 (Australia) https://www2.fundsforngos.org/community-development-2/call-for-applications-sa-youth-week-grants-2027-australia/ OCT 25
 - [ ] USEFP Fulbright Scholar Program 2027 (Funded) https://opportunitydesk.org/2026/10/22/usefp-fulbright-scholar-program-2027/ OCT 25
 - [ ] Additional Million-euro Funding for Science (Finland) https://www2.fundsforngos.org/science/million-euro-funding-for-science-finnish-cultural-foundation-grant-for/ OCT 27
+- [ ] Apply Now: Working and Expenditure Grant Program (Finland) https://www2.fundsforngos.org/innovation/general-working-and-expenditure-grants-by-the-finnish-cultural-foundation/ OCT 27
+- [ ] Core Studies in Research, Science and the Arts and Purposes (Finland) https://www2.fundsforngos.org/science/basic-studies-grants-for-research-science-and-arts-by-finnish-cultural/ OCT 27
 
 </details>
 
