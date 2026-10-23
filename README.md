@@ -1019,6 +1019,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] RFAs: Women- and Girl-Led Community Initiatives for Crisis Management and Social Cohesion in Moldova https://www2.fundsforngos.org/leadership/women-led-community-initiatives-for-crisis-management-and-social-cohesion/ OCT 27
 - [ ] PATH Global Health Strategy Intern 2026: Paid Remote Internship Supporting International Health Development... https://opportunitiesforyouth.org/2026/10/22/path-global-health-strategy-intern-2026-paid-remote-internship-supporting-international-health-development-and-funding-strategy/ OCT 28
 - [ ] POHER Scholars Program for Medical Students in Africa https://www2.fundsforngos.org/science/poher-scholars-program-2027-research-mentorship-and-career-development-for/ OCT 28
+- [ ] World Vasectomy Day Zambia Country Director Job 2026: Requirements, Responsibilities, Salary Benefits, and... https://opportunitiesforyouth.org/2026/10/23/world-vasectomy-day-wvd-zambia-country-director-job-2026-requirements-responsibilities-salary-benefits-and-how-to-apply/ OCT 28
+- [ ] EPFL E3 Summer Internship 2027 in Switzerland | Funded https://scholarshipscorner.website/epfl-e3-summer-internship/ OCT 29
 
 </details>
 
