@@ -1021,6 +1021,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] POHER Scholars Program for Medical Students in Africa https://www2.fundsforngos.org/science/poher-scholars-program-2027-research-mentorship-and-career-development-for/ OCT 28
 - [ ] World Vasectomy Day Zambia Country Director Job 2026: Requirements, Responsibilities, Salary Benefits, and... https://opportunitiesforyouth.org/2026/10/23/world-vasectomy-day-wvd-zambia-country-director-job-2026-requirements-responsibilities-salary-benefits-and-how-to-apply/ OCT 28
 - [ ] EPFL E3 Summer Internship 2027 in Switzerland | Funded https://scholarshipscorner.website/epfl-e3-summer-internship/ OCT 29
+- [ ] PATH Global Health Strategy Internship 2026 (up to $1,000) https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/ OCT 28
+- [ ] Georg Arnhold Senior Fellowship 2028 in Germany | Fully Funded https://scholarshipscorner.website/georg-arnhold-senior-fellowship/ OCT 30
 
 </details>
 
