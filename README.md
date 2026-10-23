@@ -1017,6 +1017,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] RFPs: Local Culture Project Grant Program (Finland) https://www2.fundsforngos.org/individuals/local-culture-projects-grant-by-finnish-cultural-foundation/ OCT 27
 - [ ] Submit Applications for Fulbright Scholar Program in Pakistan https://www2.fundsforngos.org/community-development-2/fulbright-scholar-program-for-pakistani-academics-and-professionals/ OCT 25
 - [ ] RFAs: Women- and Girl-Led Community Initiatives for Crisis Management and Social Cohesion in Moldova https://www2.fundsforngos.org/leadership/women-led-community-initiatives-for-crisis-management-and-social-cohesion/ OCT 27
+- [ ] PATH Global Health Strategy Intern 2026: Paid Remote Internship Supporting International Health Development... https://opportunitiesforyouth.org/2026/10/22/path-global-health-strategy-intern-2026-paid-remote-internship-supporting-international-health-development-and-funding-strategy/ OCT 28
+- [ ] POHER Scholars Program for Medical Students in Africa https://www2.fundsforngos.org/science/poher-scholars-program-2027-research-mentorship-and-career-development-for/ OCT 28
 
 </details>
 
