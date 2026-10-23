@@ -1023,6 +1023,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] EPFL E3 Summer Internship 2027 in Switzerland | Funded https://scholarshipscorner.website/epfl-e3-summer-internship/ OCT 29
 - [ ] PATH Global Health Strategy Internship 2026 (up to $1,000) https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/ OCT 28
 - [ ] Georg Arnhold Senior Fellowship 2028 in Germany | Fully Funded https://scholarshipscorner.website/georg-arnhold-senior-fellowship/ OCT 30
+- [ ] The Nedbank TalentForge Tech Graduate Program 2026 https://www.opportunitiesforafricans.com/the-nedbank-talentforge-tech-graduate-program-2026/ OCT 31
 
 </details>
 
@@ -1086,6 +1087,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Open Call: Kathmandu Community Grants 2026 (Nepal) https://www2.fundsforngos.org/community-development-2/open-call-kathmandu-community-grants-2026-nepal/ NOV 6
 - [ ] Open Call: Veteran Wellbeing Grants Program 2026-27 (Australia) https://www2.fundsforngos.org/cat/veteran-wellbeing-grants-vwg-program-2026-27/ NOV 7
 - [ ] Avalanche Canada AST Access Grant for Canadian Nonprofit Organizations https://www2.fundsforngos.org/equipment/avalanche-canada-ast-access-grant-2026-27-supporting-avalanche-safety/ NOV 12
+- [ ] Pilot Projects to Enhance the Human Virome Program (United States) https://www2.fundsforngos.org/research-2/pilot-projects-to-enhance-the-human-virome-program-united-states/ NOV 7
 
 </details>
 
