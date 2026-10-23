@@ -1015,6 +1015,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Core Studies in Research, Science and the Arts and Purposes (Finland) https://www2.fundsforngos.org/science/basic-studies-grants-for-research-science-and-arts-by-finnish-cultural/ OCT 27
 - [ ] CoalitionWILD EXCELerator Program 2027: Apply for a Six-Month Environmental Leadership and Conservation Tra... https://opportunitiesforyouth.org/2026/10/22/coalitionwild-excelerator-program-2027-apply-for-a-six-month-environmental-leadership-and-conservation-training-programme/ OCT 26
 - [ ] RFPs: Local Culture Project Grant Program (Finland) https://www2.fundsforngos.org/individuals/local-culture-projects-grant-by-finnish-cultural-foundation/ OCT 27
+- [ ] Submit Applications for Fulbright Scholar Program in Pakistan https://www2.fundsforngos.org/community-development-2/fulbright-scholar-program-for-pakistani-academics-and-professionals/ OCT 25
+- [ ] RFAs: Women- and Girl-Led Community Initiatives for Crisis Management and Social Cohesion in Moldova https://www2.fundsforngos.org/leadership/women-led-community-initiatives-for-crisis-management-and-social-cohesion/ OCT 27
 
 </details>
 
