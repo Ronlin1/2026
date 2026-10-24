@@ -1092,6 +1092,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Pilot Projects to Enhance the Human Virome Program (United States) https://www2.fundsforngos.org/research-2/pilot-projects-to-enhance-the-human-virome-program-united-states/ NOV 7
 - [ ] NNPC/Renaissance JV Sabbatical and Postgraduate Research Internship Programme 2027 https://www.opportunitiesforafricans.com/nnpc-renaissance-jv-sabbatical-and-postgraduate-research-internship-programme-2027/ NOV 3
 - [ ] IOM Ghana Procurement Opportunities 2026: Technical Assistance for the CSSM Round 3 Programme-Level Indicat... https://opportunitiesforyouth.org/2026/10/23/iom-ghana-procurement-opportunities-2026-technical-assistance-for-the-cssm-round-3-programme-level-indicator-survey/ NOV 4
+- [ ] Atlantic Council GeoEconomics Center Spring 2027 Internship: Paid Young Global Professionals Program in Was... https://opportunitiesforyouth.org/2026/10/24/atlantic-council-geoeconomics-center-spring-2027-internship-paid-young-global-professionals-program-in-washington-dc/ NOV 5
+- [ ] Film, Television and Video Game Projects (Australia) https://www2.fundsforngos.org/arts-and-culture/applications-open-for-film-television-and-video-game-projects-australia/ NOV 10
 
 </details>
 
