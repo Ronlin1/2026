@@ -1090,6 +1090,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Open Call: Veteran Wellbeing Grants Program 2026-27 (Australia) https://www2.fundsforngos.org/cat/veteran-wellbeing-grants-vwg-program-2026-27/ NOV 7
 - [ ] Avalanche Canada AST Access Grant for Canadian Nonprofit Organizations https://www2.fundsforngos.org/equipment/avalanche-canada-ast-access-grant-2026-27-supporting-avalanche-safety/ NOV 12
 - [ ] Pilot Projects to Enhance the Human Virome Program (United States) https://www2.fundsforngos.org/research-2/pilot-projects-to-enhance-the-human-virome-program-united-states/ NOV 7
+- [ ] NNPC/Renaissance JV Sabbatical and Postgraduate Research Internship Programme 2027 https://www.opportunitiesforafricans.com/nnpc-renaissance-jv-sabbatical-and-postgraduate-research-internship-programme-2027/ NOV 3
+- [ ] IOM Ghana Procurement Opportunities 2026: Technical Assistance for the CSSM Round 3 Programme-Level Indicat... https://opportunitiesforyouth.org/2026/10/23/iom-ghana-procurement-opportunities-2026-technical-assistance-for-the-cssm-round-3-programme-level-indicator-survey/ NOV 4
 
 </details>
 
