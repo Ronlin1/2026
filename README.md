@@ -1024,6 +1024,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] PATH Global Health Strategy Internship 2026 (up to $1,000) https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/ OCT 28
 - [ ] Georg Arnhold Senior Fellowship 2028 in Germany | Fully Funded https://scholarshipscorner.website/georg-arnhold-senior-fellowship/ OCT 30
 - [ ] The Nedbank TalentForge Tech Graduate Program 2026 https://www.opportunitiesforafricans.com/the-nedbank-talentforge-tech-graduate-program-2026/ OCT 31
+- [ ] WAAW Foundation Scholarship 2026/2027: $500 Undergraduate Scholarship for African Women Studying STEM – App... https://opportunitiesforyouth.org/2026/10/23/waaw-foundation-scholarship-2026-2027/ OCT 27
+- [ ] UNIDIR Research Consultant and Associate Researcher Jobs 2026: Remote UN Opportunities in Conflict Research... https://opportunitiesforyouth.org/2026/10/23/unidir-research-consultant-and-associate-researcher-jobs-2026-remote-un-opportunities-in-conflict-research-data-analysis-and-peacebuilding/ OCT 30
 
 </details>
 
