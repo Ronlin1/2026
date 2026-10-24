@@ -1026,6 +1026,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Nedbank TalentForge Tech Graduate Program 2026 https://www.opportunitiesforafricans.com/the-nedbank-talentforge-tech-graduate-program-2026/ OCT 31
 - [ ] WAAW Foundation Scholarship 2026/2027: $500 Undergraduate Scholarship for African Women Studying STEM – App... https://opportunitiesforyouth.org/2026/10/23/waaw-foundation-scholarship-2026-2027/ OCT 27
 - [ ] UNIDIR Research Consultant and Associate Researcher Jobs 2026: Remote UN Opportunities in Conflict Research... https://opportunitiesforyouth.org/2026/10/23/unidir-research-consultant-and-associate-researcher-jobs-2026-remote-un-opportunities-in-conflict-research-data-analysis-and-peacebuilding/ OCT 30
+- [ ] Anthropic STEM Fellowship 2027 (up to $167,000) https://opportunitydesk.org/2026/10/24/anthropic-stem-fellowship-2027/ OCT 25
+- [ ] IDM-Africa Fellowship Programme in Infectious Disease Modelling 2026: Eligibility, Requirements, Benefits a... https://opportunitiesforyouth.org/2026/10/24/idm-africa-fellowship-programme-in-infectious-disease-modelling-2026-eligibility-requirements-benefits-and-how-to-apply/ OCT 27
 
 </details>
 
