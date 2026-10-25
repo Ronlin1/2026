@@ -1102,6 +1102,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Atlantic Council GeoEconomics Center Young Global Professionals Program – Spring 2027 https://opportunitydesk.org/2026/10/24/geoeconomics-center-young-global-professionals-program-spring-2027/ NOV 5
 - [ ] Atlantic Council Eurasia Center Spring 2027 Young Global Professionals Program: Paid Internship in the USA https://opportunitiesforyouth.org/2026/10/25/atlantic-council-eurasia-center-spring-2027-young-global-professionals-program-paid-internship-in-the-usa/ NOV 5
 - [ ] WomenLeaders India Fellowship 2026–27: Fully Funded Leadership Fellowship for 50 Indian Women Leaders https://opportunitiesforyouth.org/2026/10/24/womenleaders-india-fellowship-2026-27-fully-funded-leadership-fellowship-for-50-indian-women-leaders/ NOV 8
+- [ ] Let’s Get Social dlr: Creative Arts and Health Residency (Ireland) https://www2.fundsforngos.org/arts-culture-2/let-s-get-social-dlr-creative-arts-and-health-residency-2026/ NOV 10
+- [ ] The Icon Scholarship for University Students in Nigeria https://www2.fundsforngos.org/scholarship/the-icon-scholarship-empowering-nigerian-university-students/ NOV 12
 
 </details>
 
