@@ -1100,6 +1100,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Film, Television and Video Game Projects (Australia) https://www2.fundsforngos.org/arts-and-culture/applications-open-for-film-television-and-video-game-projects-australia/ NOV 10
 - [ ] UKUDLA Master’s Scholarships 2027 in South Africa: DAAD-Funded Postgraduate Study in Data Science, Agricult... https://opportunitiesforyouth.org/2026/10/24/ukudla-masters-scholarships-2027-in-south-africa-daad-funded-postgraduate-study-in-data-science-agriculture-and-sustainable-food-systems/ NOV 4
 - [ ] Atlantic Council GeoEconomics Center Young Global Professionals Program – Spring 2027 https://opportunitydesk.org/2026/10/24/geoeconomics-center-young-global-professionals-program-spring-2027/ NOV 5
+- [ ] Atlantic Council Eurasia Center Spring 2027 Young Global Professionals Program: Paid Internship in the USA https://opportunitiesforyouth.org/2026/10/25/atlantic-council-eurasia-center-spring-2027-young-global-professionals-program-paid-internship-in-the-usa/ NOV 5
+- [ ] WomenLeaders India Fellowship 2026–27: Fully Funded Leadership Fellowship for 50 Indian Women Leaders https://opportunitiesforyouth.org/2026/10/24/womenleaders-india-fellowship-2026-27-fully-funded-leadership-fellowship-for-50-indian-women-leaders/ NOV 8
 
 </details>
 
