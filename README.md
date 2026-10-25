@@ -1098,6 +1098,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] IOM Ghana Procurement Opportunities 2026: Technical Assistance for the CSSM Round 3 Programme-Level Indicat... https://opportunitiesforyouth.org/2026/10/23/iom-ghana-procurement-opportunities-2026-technical-assistance-for-the-cssm-round-3-programme-level-indicator-survey/ NOV 4
 - [ ] Atlantic Council GeoEconomics Center Spring 2027 Internship: Paid Young Global Professionals Program in Was... https://opportunitiesforyouth.org/2026/10/24/atlantic-council-geoeconomics-center-spring-2027-internship-paid-young-global-professionals-program-in-washington-dc/ NOV 5
 - [ ] Film, Television and Video Game Projects (Australia) https://www2.fundsforngos.org/arts-and-culture/applications-open-for-film-television-and-video-game-projects-australia/ NOV 10
+- [ ] UKUDLA Master’s Scholarships 2027 in South Africa: DAAD-Funded Postgraduate Study in Data Science, Agricult... https://opportunitiesforyouth.org/2026/10/24/ukudla-masters-scholarships-2027-in-south-africa-daad-funded-postgraduate-study-in-data-science-agriculture-and-sustainable-food-systems/ NOV 4
+- [ ] Atlantic Council GeoEconomics Center Young Global Professionals Program – Spring 2027 https://opportunitydesk.org/2026/10/24/geoeconomics-center-young-global-professionals-program-spring-2027/ NOV 5
 
 </details>
 
