@@ -1106,6 +1106,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Icon Scholarship for University Students in Nigeria https://www2.fundsforngos.org/scholarship/the-icon-scholarship-empowering-nigerian-university-students/ NOV 12
 - [ ] MAMA HOPE Localization Development Accelerator 2027: Applications Open for East African Community-Based Org... https://opportunitiesforyouth.org/2026/10/24/mama-hope-localization-development-accelerator-lda-2027-applications-open-for-east-african-community-based-organizations/ NOV 12
 - [ ] BRICS South-South Knowledge Series 2: Online Skills Development Programme 2026 – Registration, Benefits and... https://opportunitiesforyouth.org/2026/10/25/brics-south-south-knowledge-series-2-online-skills-development-programme-2026-registration-benefits-and-application-deadline/ NOV 13
+- [ ] Community Engagement Exchange Program 2027 in the USA | Fully Funded https://scholarshipscorner.website/community-engagement-exchange-program/ NOV 15
+- [ ] MEPI Tomorrow’s Leaders Program 2027–28 | Fully Funded Undergraduate Scholarships https://scholarshipscorner.website/mepi-tomorrows-leaders-program/ NOV 15
 
 </details>
 
