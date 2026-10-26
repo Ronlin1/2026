@@ -1112,6 +1112,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] MEPI Tomorrow’s Leaders Program 2027–28 | Fully Funded Undergraduate Scholarships https://scholarshipscorner.website/mepi-tomorrows-leaders-program/ NOV 15
 - [ ] Open Call: UN Voluntary Fund for Indigenous Peoples https://www2.fundsforngos.org/individuals/un-voluntary-fund-for-indigenous-peoples-application-opportunity-for/ NOV 5
 - [ ] WACSI Next Generation Internship Programme 2027 https://opportunitydesk.org/2026/10/26/wacsi-next-generation-internship-programme-2027/ NOV 5
+- [ ] Swedish Institute Scholarships 2027-28 | Fully Funded https://www.opportunitiescircle.com/swedish-institute-scholarships/ NOV 10
+- [ ] WHO Summer School 2027 in France | Free Training Program https://scholarshipscorner.website/who-summer-school-france/ NOV 20
 
 </details>
 
