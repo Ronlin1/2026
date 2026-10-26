@@ -1110,6 +1110,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] BRICS South-South Knowledge Series 2: Online Skills Development Programme 2026 – Registration, Benefits and... https://opportunitiesforyouth.org/2026/10/25/brics-south-south-knowledge-series-2-online-skills-development-programme-2026-registration-benefits-and-application-deadline/ NOV 13
 - [ ] Community Engagement Exchange Program 2027 in the USA | Fully Funded https://scholarshipscorner.website/community-engagement-exchange-program/ NOV 15
 - [ ] MEPI Tomorrow’s Leaders Program 2027–28 | Fully Funded Undergraduate Scholarships https://scholarshipscorner.website/mepi-tomorrows-leaders-program/ NOV 15
+- [ ] Open Call: UN Voluntary Fund for Indigenous Peoples https://www2.fundsforngos.org/individuals/un-voluntary-fund-for-indigenous-peoples-application-opportunity-for/ NOV 5
+- [ ] WACSI Next Generation Internship Programme 2027 https://opportunitydesk.org/2026/10/26/wacsi-next-generation-internship-programme-2027/ NOV 5
 
 </details>
 
