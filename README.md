@@ -1032,6 +1032,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Congressional Coalition on Adoption Institute Foster Youth Internship Program 2027 https://opportunitydesk.org/2026/10/24/ccai-foster-youth-internship-program-2027/ OCT 29
 - [ ] Submit Applications for Project Award Grant Program https://www2.fundsforngos.org/leadership/girl-up-project-awards-empowering-youth-leadership-for-gender-justice/ OCT 28
 - [ ] George Moore Scholars Programme (Ireland and UK) https://www2.fundsforngos.org/individuals/george-moore-scholars-program-scholarship-opportunities-for-graduate-and/ OCT 31
+- [ ] Joint MSc in Geography of Environmental Risks and Human Security at UNU-EHS and the University of Bonn, Ger... https://opportunitiesforyouth.org/2026/10/26/joint-msc-in-geography-of-environmental-risks-and-human-security-at-unu-ehs-and-the-university-of-bonn-germany-2027-masters-programme-with-daad-epos-scholarship-opportunities/ OCT 28
+- [ ] JPMorganChase 2027 Marketing Leadership Development Program: Apply for a Full-Time Marketing Analyst Opport... https://opportunitiesforyouth.org/2026/10/26/jpmorganchase-2027-marketing-leadership-development-program-apply-for-a-full-time-marketing-analyst-opportunity-in-the-usa/ OCT 28
 
 </details>
 
