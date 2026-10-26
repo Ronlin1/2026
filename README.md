@@ -1030,6 +1030,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] IDM-Africa Fellowship Programme in Infectious Disease Modelling 2026: Eligibility, Requirements, Benefits a... https://opportunitiesforyouth.org/2026/10/24/idm-africa-fellowship-programme-in-infectious-disease-modelling-2026-eligibility-requirements-benefits-and-how-to-apply/ OCT 27
 - [ ] IDM-Africa Fellowship Programme 2027 https://opportunitydesk.org/2026/10/24/idm-africa-fellowship-programme-2027/ OCT 27
 - [ ] Congressional Coalition on Adoption Institute Foster Youth Internship Program 2027 https://opportunitydesk.org/2026/10/24/ccai-foster-youth-internship-program-2027/ OCT 29
+- [ ] Submit Applications for Project Award Grant Program https://www2.fundsforngos.org/leadership/girl-up-project-awards-empowering-youth-leadership-for-gender-justice/ OCT 28
+- [ ] George Moore Scholars Programme (Ireland and UK) https://www2.fundsforngos.org/individuals/george-moore-scholars-program-scholarship-opportunities-for-graduate-and/ OCT 31
 
 </details>
 
