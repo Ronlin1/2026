@@ -1114,6 +1114,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WACSI Next Generation Internship Programme 2027 https://opportunitydesk.org/2026/10/26/wacsi-next-generation-internship-programme-2027/ NOV 5
 - [ ] Swedish Institute Scholarships 2027-28 | Fully Funded https://www.opportunitiescircle.com/swedish-institute-scholarships/ NOV 10
 - [ ] WHO Summer School 2027 in France | Free Training Program https://scholarshipscorner.website/who-summer-school-france/ NOV 20
+- [ ] Local Improvement Fund (United Kingdom) https://www2.fundsforngos.org/community-development-2/local-improvement-fund-capacity-building-grants-for-highland-ngos/ NOV 23
+- [ ] Apply Now: ICT Next Gen Program (Solomon Islanders) https://www2.fundsforngos.org/individuals/apply-now-ict-next-gen-program-solomon-islanders/ NOV 27
 
 </details>
 
