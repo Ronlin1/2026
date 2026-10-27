@@ -1036,6 +1036,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] JPMorganChase 2027 Marketing Leadership Development Program: Apply for a Full-Time Marketing Analyst Opport... https://opportunitiesforyouth.org/2026/10/26/jpmorganchase-2027-marketing-leadership-development-program-apply-for-a-full-time-marketing-analyst-opportunity-in-the-usa/ OCT 28
 - [ ] ICON•S Winter/Summer School for Junior Scholars 2027 in Australia: Applications Open for Early-Career Legal... https://opportunitiesforyouth.org/2026/10/27/icons-winter-summer-school-for-junior-scholars-2027-in-australia-applications-open-for-early-career-legal-and-public-law-scholars/ OCT 28
 - [ ] Next Gen Programme – PEACE Action https://www2.fundsforngos.org/peace-conflict-resolution/apply-now-for-next-gen-programme-peace-action/ OCT 28
+- [ ] Open Call: Iso Lomso Fellowship Program for African Scholars https://www2.fundsforngos.org/individuals/open-call-iso-lomso-fellowship-program-for-african-scholars/ OCT 28
+- [ ] i3 Open Data Fellowship Program for Graduate Students https://www2.fundsforngos.org/individuals/i3-open-data-fellowship-program-for-graduate-students/ OCT 29
 
 </details>
 
