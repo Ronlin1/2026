@@ -1034,6 +1034,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] George Moore Scholars Programme (Ireland and UK) https://www2.fundsforngos.org/individuals/george-moore-scholars-program-scholarship-opportunities-for-graduate-and/ OCT 31
 - [ ] Joint MSc in Geography of Environmental Risks and Human Security at UNU-EHS and the University of Bonn, Ger... https://opportunitiesforyouth.org/2026/10/26/joint-msc-in-geography-of-environmental-risks-and-human-security-at-unu-ehs-and-the-university-of-bonn-germany-2027-masters-programme-with-daad-epos-scholarship-opportunities/ OCT 28
 - [ ] JPMorganChase 2027 Marketing Leadership Development Program: Apply for a Full-Time Marketing Analyst Opport... https://opportunitiesforyouth.org/2026/10/26/jpmorganchase-2027-marketing-leadership-development-program-apply-for-a-full-time-marketing-analyst-opportunity-in-the-usa/ OCT 28
+- [ ] ICON•S Winter/Summer School for Junior Scholars 2027 in Australia: Applications Open for Early-Career Legal... https://opportunitiesforyouth.org/2026/10/27/icons-winter-summer-school-for-junior-scholars-2027-in-australia-applications-open-for-early-career-legal-and-public-law-scholars/ OCT 28
+- [ ] Next Gen Programme – PEACE Action https://www2.fundsforngos.org/peace-conflict-resolution/apply-now-for-next-gen-programme-peace-action/ OCT 28
 
 </details>
 
