@@ -1038,6 +1038,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Next Gen Programme – PEACE Action https://www2.fundsforngos.org/peace-conflict-resolution/apply-now-for-next-gen-programme-peace-action/ OCT 28
 - [ ] Open Call: Iso Lomso Fellowship Program for African Scholars https://www2.fundsforngos.org/individuals/open-call-iso-lomso-fellowship-program-for-african-scholars/ OCT 28
 - [ ] i3 Open Data Fellowship Program for Graduate Students https://www2.fundsforngos.org/individuals/i3-open-data-fellowship-program-for-graduate-students/ OCT 29
+- [ ] RFPs: Labfront x Garmin Health Research Grant Program https://www2.fundsforngos.org/individuals/rfps-labfront-x-garmin-health-research-grant-program/ OCT 30
 
 </details>
 
@@ -1122,6 +1123,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WHO Summer School 2027 in France | Free Training Program https://scholarshipscorner.website/who-summer-school-france/ NOV 20
 - [ ] Local Improvement Fund (United Kingdom) https://www2.fundsforngos.org/community-development-2/local-improvement-fund-capacity-building-grants-for-highland-ngos/ NOV 23
 - [ ] Apply Now: ICT Next Gen Program (Solomon Islanders) https://www2.fundsforngos.org/individuals/apply-now-ict-next-gen-program-solomon-islanders/ NOV 27
+- [ ] IWA & Grundfos “Youth Action for SDG 6” Fellowship 2027-2028 https://opportunitydesk.org/2026/10/27/iwa-grundfos-youth-action-for-sdg-6-fellowship-2027-2028/ NOV 2
 
 </details>
 
