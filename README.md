@@ -1039,6 +1039,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Open Call: Iso Lomso Fellowship Program for African Scholars https://www2.fundsforngos.org/individuals/open-call-iso-lomso-fellowship-program-for-african-scholars/ OCT 28
 - [ ] i3 Open Data Fellowship Program for Graduate Students https://www2.fundsforngos.org/individuals/i3-open-data-fellowship-program-for-graduate-students/ OCT 29
 - [ ] RFPs: Labfront x Garmin Health Research Grant Program https://www2.fundsforngos.org/individuals/rfps-labfront-x-garmin-health-research-grant-program/ OCT 30
+- [ ] The Internews’ Earth Journalism Network Reporting Fellowships for Journalists to Cover BBNJ COP1 in New Yor... https://www.opportunitiesforafricans.com/the-internews-earth-journalism-network-ejn-reporting-fellowships-for-journalists-to-cover-bbnj-cop1/ OCT 27
+- [ ] 100x Impact Accelerator 2027/2028 (£150,000 in catalytic funding) https://opportunitydesk.org/2026/10/27/100x-impact-accelerator-2027-2028/ OCT 30
 
 </details>
 
