@@ -1042,6 +1042,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Internews’ Earth Journalism Network Reporting Fellowships for Journalists to Cover BBNJ COP1 in New Yor... https://www.opportunitiesforafricans.com/the-internews-earth-journalism-network-ejn-reporting-fellowships-for-journalists-to-cover-bbnj-cop1/ OCT 27
 - [ ] 100x Impact Accelerator 2027/2028 (£150,000 in catalytic funding) https://opportunitydesk.org/2026/10/27/100x-impact-accelerator-2027-2028/ OCT 30
 - [ ] Ghent University CAIMES PhD Fellowship 2027: Call for Research Proposals in Arabic, Islamic and Middle East... https://opportunitiesforyouth.org/2026/10/27/ghent-university-caimes-phd-fellowship-2027-call-for-research-proposals-in-arabic-islamic-and-middle-east-studies/ OCT 30
+- [ ] Legal Aid for Female Remand Inmates and Justice Capacity Building (South Sudan) https://www2.fundsforngos.org/human-rights-2/apply-for-legal-aid-for-female-remand-inmates-and-justice-capacity-building-south-sudan/ OCT 28
 
 </details>
 
@@ -1128,6 +1129,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Apply Now: ICT Next Gen Program (Solomon Islanders) https://www2.fundsforngos.org/individuals/apply-now-ict-next-gen-program-solomon-islanders/ NOV 27
 - [ ] IWA & Grundfos “Youth Action for SDG 6” Fellowship 2027-2028 https://opportunitydesk.org/2026/10/27/iwa-grundfos-youth-action-for-sdg-6-fellowship-2027-2028/ NOV 2
 - [ ] Data for Health Leadership Lab (D4HLL) 2026 https://opportunitydesk.org/2026/10/27/data-for-health-leadership-lab-2026/ NOV 3
+- [ ] Request for Applications: Good Manufacturing Practice Course (South Africa) https://www2.fundsforngos.org/manufacturing/good-manufacturing-practice-course-for-biomanufacturing-skills-development/ NOV 5
 
 </details>
 
