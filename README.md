@@ -1134,6 +1134,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Grant Support for Condominiums in Kryvyi Rih (Ukraine) https://www2.fundsforngos.org/equipment/grant-program-for-homeowners-associations-in-kryvyi-rih-to-enhance-energy/ NOV 12
 - [ ] AHRC Doctoral Landscape Scholarship Awards at Birmingham City University 2027 https://opportunitydesk.org/2026/10/28/ahrc-doctoral-landscape-awards-at-birmingham-city-university-2027/ NOV 13
 - [ ] British Council Green & Digital Employability and Enterprise Programme 2027 https://opportunitydesk.org/2026/10/28/british-council-green-digital-employability-and-enterprise-programme-2027/ NOV 14
+- [ ] WHO Summer School 2027 in France https://www.opportunitiescircle.com/who-summer-school-in-france/ NOV 20
+- [ ] Funding for Preventing Toxic and Nuisance Algae – Lake Ontario (Canada) https://www2.fundsforngos.org/environment-2/funding-for-preventing-toxic-and-nuisance-algae-lake-ontario-canada/ NOV 23
 
 </details>
 
