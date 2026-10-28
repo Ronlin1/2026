@@ -1130,6 +1130,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] IWA & Grundfos “Youth Action for SDG 6” Fellowship 2027-2028 https://opportunitydesk.org/2026/10/27/iwa-grundfos-youth-action-for-sdg-6-fellowship-2027-2028/ NOV 2
 - [ ] Data for Health Leadership Lab (D4HLL) 2026 https://opportunitydesk.org/2026/10/27/data-for-health-leadership-lab-2026/ NOV 3
 - [ ] Request for Applications: Good Manufacturing Practice Course (South Africa) https://www2.fundsforngos.org/manufacturing/good-manufacturing-practice-course-for-biomanufacturing-skills-development/ NOV 5
+- [ ] Council of Europe Development Bank (CEB) Internship 2027 https://opportunitydesk.org/2026/10/28/ceb-internship-2027/ NOV 8
+- [ ] Grant Support for Condominiums in Kryvyi Rih (Ukraine) https://www2.fundsforngos.org/equipment/grant-program-for-homeowners-associations-in-kryvyi-rih-to-enhance-energy/ NOV 12
 
 </details>
 
