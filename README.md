@@ -1132,6 +1132,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Request for Applications: Good Manufacturing Practice Course (South Africa) https://www2.fundsforngos.org/manufacturing/good-manufacturing-practice-course-for-biomanufacturing-skills-development/ NOV 5
 - [ ] Council of Europe Development Bank (CEB) Internship 2027 https://opportunitydesk.org/2026/10/28/ceb-internship-2027/ NOV 8
 - [ ] Grant Support for Condominiums in Kryvyi Rih (Ukraine) https://www2.fundsforngos.org/equipment/grant-program-for-homeowners-associations-in-kryvyi-rih-to-enhance-energy/ NOV 12
+- [ ] AHRC Doctoral Landscape Scholarship Awards at Birmingham City University 2027 https://opportunitydesk.org/2026/10/28/ahrc-doctoral-landscape-awards-at-birmingham-city-university-2027/ NOV 13
+- [ ] British Council Green & Digital Employability and Enterprise Programme 2027 https://opportunitydesk.org/2026/10/28/british-council-green-digital-employability-and-enterprise-programme-2027/ NOV 14
 
 </details>
 
