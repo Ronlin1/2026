@@ -1043,6 +1043,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 100x Impact Accelerator 2027/2028 (£150,000 in catalytic funding) https://opportunitydesk.org/2026/10/27/100x-impact-accelerator-2027-2028/ OCT 30
 - [ ] Ghent University CAIMES PhD Fellowship 2027: Call for Research Proposals in Arabic, Islamic and Middle East... https://opportunitiesforyouth.org/2026/10/27/ghent-university-caimes-phd-fellowship-2027-call-for-research-proposals-in-arabic-islamic-and-middle-east-studies/ OCT 30
 - [ ] Legal Aid for Female Remand Inmates and Justice Capacity Building (South Sudan) https://www2.fundsforngos.org/human-rights-2/apply-for-legal-aid-for-female-remand-inmates-and-justice-capacity-building-south-sudan/ OCT 28
+- [ ] Heinrich Böll Foundation Feminist Futures Fellowship 2027 https://opportunitydesk.org/2026/10/29/heinrich-boll-foundation-feminist-futures-fellowship-2027/ OCT 30
 
 </details>
 
@@ -1138,6 +1139,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Funding for Preventing Toxic and Nuisance Algae – Lake Ontario (Canada) https://www2.fundsforngos.org/environment-2/funding-for-preventing-toxic-and-nuisance-algae-lake-ontario-canada/ NOV 23
 - [ ] Mobility Grants for Young Scholars in Sudanese Studies (Sudan) https://www2.fundsforngos.org/youth-and-adolescents/call-for-applications-mobility-grants-for-young-scholars-in-sudanese-studies-sudan/ NOV 23
 - [ ] NOFO: Great Lakes Freshwater Ecosystem Initiative – Restoring Areas of Concern https://www2.fundsforngos.org/individuals/great-lakes-freshwater-ecosystem-initiative-funding-for-restoring-coastal/ NOV 23
+- [ ] Submissions open for WEL-T Investigator Programme 2026 (Belgium) https://www2.fundsforngos.org/individuals/wel-t-investigator-programme-2026-strategic-research-funding-for/ NOV 2
 
 </details>
 
