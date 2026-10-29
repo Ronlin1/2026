@@ -1140,6 +1140,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Mobility Grants for Young Scholars in Sudanese Studies (Sudan) https://www2.fundsforngos.org/youth-and-adolescents/call-for-applications-mobility-grants-for-young-scholars-in-sudanese-studies-sudan/ NOV 23
 - [ ] NOFO: Great Lakes Freshwater Ecosystem Initiative – Restoring Areas of Concern https://www2.fundsforngos.org/individuals/great-lakes-freshwater-ecosystem-initiative-funding-for-restoring-coastal/ NOV 23
 - [ ] Submissions open for WEL-T Investigator Programme 2026 (Belgium) https://www2.fundsforngos.org/individuals/wel-t-investigator-programme-2026-strategic-research-funding-for/ NOV 2
+- [ ] Crowdstarter Program (Ukraine) https://www2.fundsforngos.org/community-development-2/crowdstarter-3-0-program-empowering-ukrainian-ngos-through-crowdfunding/ NOV 3
+- [ ] RFAs: Lower Wonga Solar Farm Community Benefit Fund (Australia) https://www2.fundsforngos.org/community-development-2/2026-lower-wonga-community-benefit-fund-grant-opportunity-for-community/ NOV 3
 
 </details>
 
