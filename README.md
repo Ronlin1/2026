@@ -1044,6 +1044,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Ghent University CAIMES PhD Fellowship 2027: Call for Research Proposals in Arabic, Islamic and Middle East... https://opportunitiesforyouth.org/2026/10/27/ghent-university-caimes-phd-fellowship-2027-call-for-research-proposals-in-arabic-islamic-and-middle-east-studies/ OCT 30
 - [ ] Legal Aid for Female Remand Inmates and Justice Capacity Building (South Sudan) https://www2.fundsforngos.org/human-rights-2/apply-for-legal-aid-for-female-remand-inmates-and-justice-capacity-building-south-sudan/ OCT 28
 - [ ] Heinrich Böll Foundation Feminist Futures Fellowship 2027 https://opportunitydesk.org/2026/10/29/heinrich-boll-foundation-feminist-futures-fellowship-2027/ OCT 30
+- [ ] The Heinrich Böll Foundation’s Feminist Futures Fellowship 2027 https://www.opportunitiesforafricans.com/the-heinrich-boll-foundations-hbs-feminist-futures-fellowship-2027-for-young-feminists-fully-funded-to-csw-71-in-new-york-usa/ OCT 30
 
 </details>
 
@@ -1142,6 +1143,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Submissions open for WEL-T Investigator Programme 2026 (Belgium) https://www2.fundsforngos.org/individuals/wel-t-investigator-programme-2026-strategic-research-funding-for/ NOV 2
 - [ ] Crowdstarter Program (Ukraine) https://www2.fundsforngos.org/community-development-2/crowdstarter-3-0-program-empowering-ukrainian-ngos-through-crowdfunding/ NOV 3
 - [ ] RFAs: Lower Wonga Solar Farm Community Benefit Fund (Australia) https://www2.fundsforngos.org/community-development-2/2026-lower-wonga-community-benefit-fund-grant-opportunity-for-community/ NOV 3
+- [ ] Energy Resilience Grant (Ukraine) https://www2.fundsforngos.org/environment-2/grant-opportunity-for-energy-resilience-of-critical-service-providers-in/ NOV 12
 
 </details>
 
