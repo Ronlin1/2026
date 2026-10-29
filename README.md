@@ -1144,6 +1144,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Crowdstarter Program (Ukraine) https://www2.fundsforngos.org/community-development-2/crowdstarter-3-0-program-empowering-ukrainian-ngos-through-crowdfunding/ NOV 3
 - [ ] RFAs: Lower Wonga Solar Farm Community Benefit Fund (Australia) https://www2.fundsforngos.org/community-development-2/2026-lower-wonga-community-benefit-fund-grant-opportunity-for-community/ NOV 3
 - [ ] Energy Resilience Grant (Ukraine) https://www2.fundsforngos.org/environment-2/grant-opportunity-for-energy-resilience-of-critical-service-providers-in/ NOV 12
+- [ ] Youth4Climate Services Innovation Hackathon 2026 https://opportunitydesk.org/2026/10/29/youth4climate-services-innovation-hackathon-2026/ NOV 3
+- [ ] Hans De Wit Fellowship 2027 (stipend available) https://opportunitydesk.org/2026/10/29/hans-de-wit-fellowship-2027/ NOV 12
 
 </details>
 
