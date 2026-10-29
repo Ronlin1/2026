@@ -1146,6 +1146,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Energy Resilience Grant (Ukraine) https://www2.fundsforngos.org/environment-2/grant-opportunity-for-energy-resilience-of-critical-service-providers-in/ NOV 12
 - [ ] Youth4Climate Services Innovation Hackathon 2026 https://opportunitydesk.org/2026/10/29/youth4climate-services-innovation-hackathon-2026/ NOV 3
 - [ ] Hans De Wit Fellowship 2027 (stipend available) https://opportunitydesk.org/2026/10/29/hans-de-wit-fellowship-2027/ NOV 12
+- [ ] Mykolaiv Apartment Building Energy Support Grant (Ukraine) https://www2.fundsforngos.org/equipment/energy-support-grants-for-mykolaiv-residential-buildings-up-to-300-000-uah/ NOV 12
+- [ ] Call for Proposals: Private Sector Resilience Project (Afghanistan) https://www2.fundsforngos.org/community-development-2/private-sector-resilience-project-call-for-proposals-sub-component-2-1-a/ NOV 14
 
 </details>
 
