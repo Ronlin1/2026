@@ -1154,6 +1154,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Nominations Open: Mwangaza Award for Early Childhood Education (Tanzania) https://www2.fundsforngos.org/community-development-2/nominations-open-mwangaza-award-for-early-childhood-education-tanzania/ NOV 7
 - [ ] CFPs: GEF Small Grants Programme Environmental Grants (Sierra Leone) https://www2.fundsforngos.org/community-development-2/cfps-gef-small-grants-programme-environmental-grants-sierra-leone/ NOV 8
 - [ ] Gates Foundation AI Fellow Program 2027 https://opportunitydesk.org/2026/10/30/gates-foundation-ai-fellow-program-2027/ NOV 8
+- [ ] 2026-27 First Nations Cultural Tourism Creativity Fund (Australia) https://www2.fundsforngos.org/individuals/2026-27-first-nations-cultural-tourism-creativity-fund/ NOV 9
+- [ ] Morgan Stanley Sustainable Finance Fellowship Program 2027 (Paid) https://opportunitydesk.org/2026/10/30/morgan-stanley-sustainable-finance-fellowship-program-2027/ NOV 10
 
 </details>
 
