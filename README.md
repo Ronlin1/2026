@@ -1156,6 +1156,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Gates Foundation AI Fellow Program 2027 https://opportunitydesk.org/2026/10/30/gates-foundation-ai-fellow-program-2027/ NOV 8
 - [ ] 2026-27 First Nations Cultural Tourism Creativity Fund (Australia) https://www2.fundsforngos.org/individuals/2026-27-first-nations-cultural-tourism-creativity-fund/ NOV 9
 - [ ] Morgan Stanley Sustainable Finance Fellowship Program 2027 (Paid) https://opportunitydesk.org/2026/10/30/morgan-stanley-sustainable-finance-fellowship-program-2027/ NOV 10
+- [ ] The Gates Foundation AI Fellows Program 2027 for young African Innovators. https://www.opportunitiesforafricans.com/the-gates-foundation-ai-fellows-program-2027-for-young-african-innovators/ NOV 8
+- [ ] Safer in Sussex Community Fund (United Kingdom) https://www2.fundsforngos.org/community-development-2/apply-now-for-safer-in-sussex-community-fund-united-kingdom/ NOV 12
 
 </details>
 
