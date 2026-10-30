@@ -1148,6 +1148,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Hans De Wit Fellowship 2027 (stipend available) https://opportunitydesk.org/2026/10/29/hans-de-wit-fellowship-2027/ NOV 12
 - [ ] Mykolaiv Apartment Building Energy Support Grant (Ukraine) https://www2.fundsforngos.org/equipment/energy-support-grants-for-mykolaiv-residential-buildings-up-to-300-000-uah/ NOV 12
 - [ ] Call for Proposals: Private Sector Resilience Project (Afghanistan) https://www2.fundsforngos.org/community-development-2/private-sector-resilience-project-call-for-proposals-sub-component-2-1-a/ NOV 14
+- [ ] Funding Opportunity for Monitoring and Evaluation of Community-Conserved Territories in Ghana https://www2.fundsforngos.org/community-development-2/funding-opportunity-for-monitoring-and-evaluation-of-community-conserved-territories-in-ghana/ NOV 3
+- [ ] Holiday Break Grant – Autumn/Winter 2027: Funding for Youth Activities in NSW https://www2.fundsforngos.org/community-development-2/holiday-break-grant-autumn-winter-2027-funding-for-youth-activities-in-nsw/ NOV 3
 
 </details>
 
