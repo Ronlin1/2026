@@ -1150,6 +1150,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Call for Proposals: Private Sector Resilience Project (Afghanistan) https://www2.fundsforngos.org/community-development-2/private-sector-resilience-project-call-for-proposals-sub-component-2-1-a/ NOV 14
 - [ ] Funding Opportunity for Monitoring and Evaluation of Community-Conserved Territories in Ghana https://www2.fundsforngos.org/community-development-2/funding-opportunity-for-monitoring-and-evaluation-of-community-conserved-territories-in-ghana/ NOV 3
 - [ ] Holiday Break Grant – Autumn/Winter 2027: Funding for Youth Activities in NSW https://www2.fundsforngos.org/community-development-2/holiday-break-grant-autumn-winter-2027-funding-for-youth-activities-in-nsw/ NOV 3
+- [ ] Stream 1: Health and Development Participation Grant in Australia https://www2.fundsforngos.org/individuals/stream-1-health-and-development-participation-grant-in-australia/ NOV 5
+- [ ] Nominations Open: Mwangaza Award for Early Childhood Education (Tanzania) https://www2.fundsforngos.org/community-development-2/nominations-open-mwangaza-award-for-early-childhood-education-tanzania/ NOV 7
 
 </details>
 
