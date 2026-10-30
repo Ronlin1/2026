@@ -1152,6 +1152,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Holiday Break Grant – Autumn/Winter 2027: Funding for Youth Activities in NSW https://www2.fundsforngos.org/community-development-2/holiday-break-grant-autumn-winter-2027-funding-for-youth-activities-in-nsw/ NOV 3
 - [ ] Stream 1: Health and Development Participation Grant in Australia https://www2.fundsforngos.org/individuals/stream-1-health-and-development-participation-grant-in-australia/ NOV 5
 - [ ] Nominations Open: Mwangaza Award for Early Childhood Education (Tanzania) https://www2.fundsforngos.org/community-development-2/nominations-open-mwangaza-award-for-early-childhood-education-tanzania/ NOV 7
+- [ ] CFPs: GEF Small Grants Programme Environmental Grants (Sierra Leone) https://www2.fundsforngos.org/community-development-2/cfps-gef-small-grants-programme-environmental-grants-sierra-leone/ NOV 8
+- [ ] Gates Foundation AI Fellow Program 2027 https://opportunitydesk.org/2026/10/30/gates-foundation-ai-fellow-program-2027/ NOV 8
 
 </details>
 
