@@ -1045,6 +1045,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Legal Aid for Female Remand Inmates and Justice Capacity Building (South Sudan) https://www2.fundsforngos.org/human-rights-2/apply-for-legal-aid-for-female-remand-inmates-and-justice-capacity-building-south-sudan/ OCT 28
 - [ ] Heinrich Böll Foundation Feminist Futures Fellowship 2027 https://opportunitydesk.org/2026/10/29/heinrich-boll-foundation-feminist-futures-fellowship-2027/ OCT 30
 - [ ] The Heinrich Böll Foundation’s Feminist Futures Fellowship 2027 https://www.opportunitiesforafricans.com/the-heinrich-boll-foundations-hbs-feminist-futures-fellowship-2027-for-young-feminists-fully-funded-to-csw-71-in-new-york-usa/ OCT 30
+- [ ] Mastercard Foundation Scholars Program at American University of Cairo Spring 2027 https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-auc-2027/ OCT 31
 
 </details>
 
@@ -1160,6 +1161,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Safer in Sussex Community Fund (United Kingdom) https://www2.fundsforngos.org/community-development-2/apply-now-for-safer-in-sussex-community-fund-united-kingdom/ NOV 12
 - [ ] Wildlife Rehabilitation Program (United States) https://www2.fundsforngos.org/community-development-2/call-for-applications-wildlife-rehabilitation-program-united-states/ NOV 12
 - [ ] DSTI-NRF Policy Fellowship Programme Cohort 2 (South Africa) https://www2.fundsforngos.org/innovation/dsti-nrf-policy-fellowship-programme-cohort-2-south-africa/ NOV 14
+- [ ] New York Times Fellowship 2027-28 in the USA | Paid Fellowship https://scholarshipscorner.website/new-york-times-fellowship/ NOV 17
 
 </details>
 
