@@ -1158,6 +1158,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Morgan Stanley Sustainable Finance Fellowship Program 2027 (Paid) https://opportunitydesk.org/2026/10/30/morgan-stanley-sustainable-finance-fellowship-program-2027/ NOV 10
 - [ ] The Gates Foundation AI Fellows Program 2027 for young African Innovators. https://www.opportunitiesforafricans.com/the-gates-foundation-ai-fellows-program-2027-for-young-african-innovators/ NOV 8
 - [ ] Safer in Sussex Community Fund (United Kingdom) https://www2.fundsforngos.org/community-development-2/apply-now-for-safer-in-sussex-community-fund-united-kingdom/ NOV 12
+- [ ] Wildlife Rehabilitation Program (United States) https://www2.fundsforngos.org/community-development-2/call-for-applications-wildlife-rehabilitation-program-united-states/ NOV 12
+- [ ] DSTI-NRF Policy Fellowship Programme Cohort 2 (South Africa) https://www2.fundsforngos.org/innovation/dsti-nrf-policy-fellowship-programme-cohort-2-south-africa/ NOV 14
 
 </details>
 
