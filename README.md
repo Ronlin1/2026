@@ -1166,6 +1166,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Community Solutions Program 2027 in the USA | Fully Funded https://scholarshipscorner.website/community-solutions-program-usa/ NOV 21
 - [ ] The IREX Community Solutions Program 2027 https://www.opportunitiesforafricans.com/irex-community-solutions-program-2027-for-community-youth-leaders/ NOV 21
 - [ ] IREX Community Solutions Program (CSP) 2026-2027 (Fully-funded) https://opportunitydesk.org/2026/10/31/irex-community-solutions-program-2027/ NOV 21
+- [ ] RFPs: Data for Metascience Sandpit Grant Programme (UK) https://www2.fundsforngos.org/leadership/data-for-metascience-sandpit-2027-ukri-funding-opportunity/ NOV 21
+- [ ] CFAs: People and Capability Program – Capacity R2 (Australia) https://www2.fundsforngos.org/leadership/cfas-people-and-capability-program-capacity-r2-australia/ NOV 24
 
 </details>
 
