@@ -1164,6 +1164,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] New York Times Fellowship 2027-28 in the USA | Paid Fellowship https://scholarshipscorner.website/new-york-times-fellowship/ NOV 17
 - [ ] Women in Ocean Food Innovation Studio 2027 https://opportunitydesk.org/2026/10/31/women-in-ocean-food-innovation-studio-2027/ NOV 4
 - [ ] Community Solutions Program 2027 in the USA | Fully Funded https://scholarshipscorner.website/community-solutions-program-usa/ NOV 21
+- [ ] The IREX Community Solutions Program 2027 https://www.opportunitiesforafricans.com/irex-community-solutions-program-2027-for-community-youth-leaders/ NOV 21
+- [ ] IREX Community Solutions Program (CSP) 2026-2027 (Fully-funded) https://opportunitydesk.org/2026/10/31/irex-community-solutions-program-2027/ NOV 21
 
 </details>
 
