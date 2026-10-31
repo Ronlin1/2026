@@ -1162,6 +1162,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Wildlife Rehabilitation Program (United States) https://www2.fundsforngos.org/community-development-2/call-for-applications-wildlife-rehabilitation-program-united-states/ NOV 12
 - [ ] DSTI-NRF Policy Fellowship Programme Cohort 2 (South Africa) https://www2.fundsforngos.org/innovation/dsti-nrf-policy-fellowship-programme-cohort-2-south-africa/ NOV 14
 - [ ] New York Times Fellowship 2027-28 in the USA | Paid Fellowship https://scholarshipscorner.website/new-york-times-fellowship/ NOV 17
+- [ ] Women in Ocean Food Innovation Studio 2027 https://opportunitydesk.org/2026/10/31/women-in-ocean-food-innovation-studio-2027/ NOV 4
+- [ ] Community Solutions Program 2027 in the USA | Fully Funded https://scholarshipscorner.website/community-solutions-program-usa/ NOV 21
 
 </details>
 
