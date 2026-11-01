@@ -1170,6 +1170,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CFAs: People and Capability Program – Capacity R2 (Australia) https://www2.fundsforngos.org/leadership/cfas-people-and-capability-program-capacity-r2-australia/ NOV 24
 - [ ] Financial Assistance Grant / Grant-in-Aid in South Africa https://www2.fundsforngos.org/business-industry-2/financial-assistance-grant-grant-in-aid-in-south-africa/ NOV 24
 - [ ] People and Capability Program – Workforce – R2 (Australia) https://www2.fundsforngos.org/leadership/people-and-capability-program-workforce-r2-australia/ NOV 24
+- [ ] EPFL Summer Internship in Switzerland 2027 | Paid Research Internship https://scholarshipscorner.website/epfl-summer-internship/ NOV 26
+- [ ] Fulbright U.S.-ASEAN Visiting Scholar Awards for ASEAN Research https://www2.fundsforngos.org/individuals/fulbright-u-s-asean-visiting-scholar-awards-for-asean-research/ NOV 27
 
 </details>
 
