@@ -1174,6 +1174,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Fulbright U.S.-ASEAN Visiting Scholar Awards for ASEAN Research https://www2.fundsforngos.org/individuals/fulbright-u-s-asean-visiting-scholar-awards-for-asean-research/ NOV 27
 - [ ] NNPC/SNEPCo National University Scholarship Programme 2026 https://www.opportunitiesforafricans.com/nnpc-snepco-national-university-scholarship-programme-2026/ NOV 27
 - [ ] Music Australia Export Development Fund: International Market and Audience Development https://www2.fundsforngos.org/arts-culture-2/music-australia-export-development-fund-international-market-and-audience/ NOV 28
+- [ ] Music Australia Export Development Fund: International Professional and Artistic Development https://www2.fundsforngos.org/arts-culture-2/music-australia-export-development-fund-international-professional-and/ NOV 28
+- [ ] Music Australia Export Development Fund: International Touring and Performance Support https://www2.fundsforngos.org/arts-culture-2/music-australia-export-development-fund-international-performance-and/ NOV 28
 
 </details>
 
