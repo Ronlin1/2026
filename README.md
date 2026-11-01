@@ -1176,6 +1176,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Music Australia Export Development Fund: International Market and Audience Development https://www2.fundsforngos.org/arts-culture-2/music-australia-export-development-fund-international-market-and-audience/ NOV 28
 - [ ] Music Australia Export Development Fund: International Professional and Artistic Development https://www2.fundsforngos.org/arts-culture-2/music-australia-export-development-fund-international-professional-and/ NOV 28
 - [ ] Music Australia Export Development Fund: International Touring and Performance Support https://www2.fundsforngos.org/arts-culture-2/music-australia-export-development-fund-international-performance-and/ NOV 28
+- [ ] Nature Culture Fellowship Program https://www2.fundsforngos.org/individuals/nature-culture-fellowship-2027-cultural-transformation-for-environmental/ NOV 28
+- [ ] University of Michigan SEAS PhD in Environment & Sustainability 2027 https://opportunityportal.info/university-of-michigan-seas-phd/ NOV 28
 
 </details>
 
