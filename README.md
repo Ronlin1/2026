@@ -1178,6 +1178,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Music Australia Export Development Fund: International Touring and Performance Support https://www2.fundsforngos.org/arts-culture-2/music-australia-export-development-fund-international-performance-and/ NOV 28
 - [ ] Nature Culture Fellowship Program https://www2.fundsforngos.org/individuals/nature-culture-fellowship-2027-cultural-transformation-for-environmental/ NOV 28
 - [ ] University of Michigan SEAS PhD in Environment & Sustainability 2027 https://opportunityportal.info/university-of-michigan-seas-phd/ NOV 28
+- [ ] Apply Now: Ambition North Wales 4G+ Industry Grant Scheme (UK) https://www2.fundsforngos.org/infrastructure-support/apply-now-ambition-north-wales-4g-industry-grant-scheme-uk/ NOV 2
+- [ ] Call for Projects to Support Kaiowá and Guarani Indigenous Communities (Brazil) https://www2.fundsforngos.org/community-development-2/call-for-projects-to-support-kaiowa-and-guarani-indigenous-communities-brazil-2/ NOV 8
 
 </details>
 
