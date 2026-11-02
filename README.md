@@ -1182,6 +1182,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Call for Projects to Support Kaiowá and Guarani Indigenous Communities (Brazil) https://www2.fundsforngos.org/community-development-2/call-for-projects-to-support-kaiowa-and-guarani-indigenous-communities-brazil-2/ NOV 8
 - [ ] Call for Proposals: Strengthen Women and Youth Entrepreneurship (South Sudan) https://www2.fundsforngos.org/women-gender-2/call-for-proposals-strengthen-women-and-youth-entrepreneurship-south-sudan/ NOV 10
 - [ ] Sprint: Tribal Founder Startup Incubation Program (India) https://www2.fundsforngos.org/community-development-2/sprint-tribal-founder-startup-incubation-program-india/ NOV 12
+- [ ] Planet Health Film Fund 2027 (£20,000 award) https://opportunitydesk.org/2026/11/02/planet-health-film-fund-2027/ NOV 13
+- [ ] AUDA-NEPAD Home-Grown Solutions Agribusiness Accelerator Program 2027 https://www.opportunitiesforafricans.com/auda-nepad-home-grown-solutions-agribusiness-accelerator-program-2027/ NOV 15
 
 </details>
 
