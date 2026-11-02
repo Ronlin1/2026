@@ -1184,6 +1184,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Sprint: Tribal Founder Startup Incubation Program (India) https://www2.fundsforngos.org/community-development-2/sprint-tribal-founder-startup-incubation-program-india/ NOV 12
 - [ ] Planet Health Film Fund 2027 (£20,000 award) https://opportunitydesk.org/2026/11/02/planet-health-film-fund-2027/ NOV 13
 - [ ] AUDA-NEPAD Home-Grown Solutions Agribusiness Accelerator Program 2027 https://www.opportunitiesforafricans.com/auda-nepad-home-grown-solutions-agribusiness-accelerator-program-2027/ NOV 15
+- [ ] EEP Africa Rising Energy Leader 2026 https://opportunitydesk.org/2026/11/02/eep-africa-rising-energy-leader-2026/ NOV 17
+- [ ] The EEP Africa Rising Energy Leader 2026 for young professionals. https://www.opportunitiesforafricans.com/the-eep-africa-rising-energy-leader-2026-for-young-professionals/ NOV 17
 
 </details>
 
