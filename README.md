@@ -1180,6 +1180,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] University of Michigan SEAS PhD in Environment & Sustainability 2027 https://opportunityportal.info/university-of-michigan-seas-phd/ NOV 28
 - [ ] Apply Now: Ambition North Wales 4G+ Industry Grant Scheme (UK) https://www2.fundsforngos.org/infrastructure-support/apply-now-ambition-north-wales-4g-industry-grant-scheme-uk/ NOV 2
 - [ ] Call for Projects to Support Kaiowá and Guarani Indigenous Communities (Brazil) https://www2.fundsforngos.org/community-development-2/call-for-projects-to-support-kaiowa-and-guarani-indigenous-communities-brazil-2/ NOV 8
+- [ ] Call for Proposals: Strengthen Women and Youth Entrepreneurship (South Sudan) https://www2.fundsforngos.org/women-gender-2/call-for-proposals-strengthen-women-and-youth-entrepreneurship-south-sudan/ NOV 10
+- [ ] Sprint: Tribal Founder Startup Incubation Program (India) https://www2.fundsforngos.org/community-development-2/sprint-tribal-founder-startup-incubation-program-india/ NOV 12
 
 </details>
 
