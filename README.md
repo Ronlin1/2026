@@ -1188,6 +1188,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The EEP Africa Rising Energy Leader 2026 for young professionals. https://www.opportunitiesforafricans.com/the-eep-africa-rising-energy-leader-2026-for-young-professionals/ NOV 17
 - [ ] Apply Now: Schaufler Lab TU Dresden Doctoral Fellowship in Applied Linguistics and Digital Humanities https://www2.fundsforngos.org/social-sciences/apply-now-schaufler-lab-tu-dresden-doctoral-fellowship-in-applied-linguistics-and-digital-humanities-2/ NOV 21
 - [ ] Doctoral Fellowship in North American Literature and Cultural Studies https://www2.fundsforngos.org/individuals/doctoral-fellowship-in-north-american-literature-and-cultural-studies/ NOV 21
+- [ ] Global Citizenship Education Grant (Ireland) https://www2.fundsforngos.org/education-2/applications-open-for-global-citizenship-education-grant-ireland/ NOV 3
+- [ ] UNIL Summer Research Program 2027 in Switzerland (Fully Funded) https://scholarshipscorner.website/unil-summer-research-program-switzerland/ NOV 3
 
 </details>
 
