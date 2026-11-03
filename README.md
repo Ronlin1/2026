@@ -1192,6 +1192,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNIL Summer Research Program 2027 in Switzerland (Fully Funded) https://scholarshipscorner.website/unil-summer-research-program-switzerland/ NOV 3
 - [ ] Apply Now: Seeding Strength Grants for First Nations in Australia https://www2.fundsforngos.org/individuals/apply-now-seeding-strength-grants-for-first-nations-in-australia/ NOV 5
 - [ ] Climate Leadership Programme https://www2.fundsforngos.org/leadership/call-for-applications-climate-leadership-programme/ NOV 8
+- [ ] UN Trust Fund Global Programme Advisory Committee 2026: Call for Civil Society Organisations and Independen... https://opportunitiesforyouth.org/2026/11/03/un-trust-fund-global-programme-advisory-committee-2026-call-for-civil-society-organisations-and-independent-experts-on-ending-violence-against-women-and-girls/ NOV 3
+- [ ] AfDB’s HEI Innovation and Entrepreneurship Programme Phase II for African higher education institutions and... https://www.opportunitiesforafricans.com/afdbs-hei-innovation-and-entrepreneurship-programme-phase-ii-for-african-higher-education-institutions-and-research-centres/ NOV 6
 
 </details>
 
