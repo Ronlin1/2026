@@ -1196,6 +1196,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AfDB’s HEI Innovation and Entrepreneurship Programme Phase II for African higher education institutions and... https://www.opportunitiesforafricans.com/afdbs-hei-innovation-and-entrepreneurship-programme-phase-ii-for-african-higher-education-institutions-and-research-centres/ NOV 6
 - [ ] DOCU ACT 6.0 Advocacy Projects Competition in Ukraine https://www2.fundsforngos.org/community-development-2/docu-act-6-0-advocacy-projects-competition-in-ukraine/ NOV 12
 - [ ] Backing International Small Restaurants Grant Program 2026 https://opportunitydesk.org/2026/11/03/backing-international-small-restaurants-grant-program-2026/ NOV 13
+- [ ] Home-Grown Solutions Agribusiness Accelerator 2027 https://opportunitydesk.org/2026/11/03/home-grown-solutions-agribusiness-accelerator-2027/ NOV 15
+- [ ] Call for Proposals: NSW Carers Investment Grant Program 2026 (Australia) https://www2.fundsforngos.org/education-2/call-for-proposals-nsw-carers-investment-grant-program-2026-australia/ NOV 17
 
 </details>
 
