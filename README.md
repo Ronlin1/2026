@@ -1194,6 +1194,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Climate Leadership Programme https://www2.fundsforngos.org/leadership/call-for-applications-climate-leadership-programme/ NOV 8
 - [ ] UN Trust Fund Global Programme Advisory Committee 2026: Call for Civil Society Organisations and Independen... https://opportunitiesforyouth.org/2026/11/03/un-trust-fund-global-programme-advisory-committee-2026-call-for-civil-society-organisations-and-independent-experts-on-ending-violence-against-women-and-girls/ NOV 3
 - [ ] AfDB’s HEI Innovation and Entrepreneurship Programme Phase II for African higher education institutions and... https://www.opportunitiesforafricans.com/afdbs-hei-innovation-and-entrepreneurship-programme-phase-ii-for-african-higher-education-institutions-and-research-centres/ NOV 6
+- [ ] DOCU ACT 6.0 Advocacy Projects Competition in Ukraine https://www2.fundsforngos.org/community-development-2/docu-act-6-0-advocacy-projects-competition-in-ukraine/ NOV 12
+- [ ] Backing International Small Restaurants Grant Program 2026 https://opportunitydesk.org/2026/11/03/backing-international-small-restaurants-grant-program-2026/ NOV 13
 
 </details>
 
