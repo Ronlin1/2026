@@ -1190,6 +1190,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Doctoral Fellowship in North American Literature and Cultural Studies https://www2.fundsforngos.org/individuals/doctoral-fellowship-in-north-american-literature-and-cultural-studies/ NOV 21
 - [ ] Global Citizenship Education Grant (Ireland) https://www2.fundsforngos.org/education-2/applications-open-for-global-citizenship-education-grant-ireland/ NOV 3
 - [ ] UNIL Summer Research Program 2027 in Switzerland (Fully Funded) https://scholarshipscorner.website/unil-summer-research-program-switzerland/ NOV 3
+- [ ] Apply Now: Seeding Strength Grants for First Nations in Australia https://www2.fundsforngos.org/individuals/apply-now-seeding-strength-grants-for-first-nations-in-australia/ NOV 5
+- [ ] Climate Leadership Programme https://www2.fundsforngos.org/leadership/call-for-applications-climate-leadership-programme/ NOV 8
 
 </details>
 
