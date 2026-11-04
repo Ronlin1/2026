@@ -1202,6 +1202,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] TechCongress Communications Internship 2027 https://opportunitydesk.org/2026/11/04/techcongress-communications-internship-2027/ NOV 7
 - [ ] Grants That Give NGOs More Freedom: Explore Flexible and Unrestricted Funding! https://www2.fundsforngos.org/listing/grants-that-give-ngos-more-freedom-explore-flexible-and-unrestricted-funding/ NOV 8
 - [ ] TechCongress Programs Internship 2027 https://opportunitydesk.org/2026/11/04/techcongress-programs-internship-2027/ NOV 9
+- [ ] International Crisis Group West Africa and Sahel Projects Internship 2027 https://opportunitydesk.org/2026/11/04/international-crisis-group-west-africa-and-sahel-projects-internship-2027/ NOV 13
+- [ ] The ILO Better Regional Migration Management Programme University Essay Writing Competition 2026 https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmm-programme-university-essay-writing-competition-2026/ NOV 22
 
 </details>
 
