@@ -1206,6 +1206,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The ILO Better Regional Migration Management Programme University Essay Writing Competition 2026 https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmm-programme-university-essay-writing-competition-2026/ NOV 22
 - [ ] The ILO Better Regional Migration ManagementProgramme Journalism and Storytelling Competition 2026 https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmmprogramme-journalism-and-storytelling-competition-2026/ NOV 22
 - [ ] Institute for Policy Integrity Economic Fellowship 2027 https://opportunitydesk.org/2026/11/04/institute-for-policy-integrity-economic-fellowship-2027/ NOV 24
+- [ ] Max Planck MPIIB Summer Internship 2027 in Germany (Fully Funded) https://scholarshipscorner.website/max-planck-mpiib-summer-internship/ NOV 24
+- [ ] Precursor Ventures AI & Investment Operations Internship 2027 https://opportunitydesk.org/2026/11/04/precursor-ventures-ai-investment-operations-internship-2027/ NOV 26
 
 </details>
 
