@@ -1198,6 +1198,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Backing International Small Restaurants Grant Program 2026 https://opportunitydesk.org/2026/11/03/backing-international-small-restaurants-grant-program-2026/ NOV 13
 - [ ] Home-Grown Solutions Agribusiness Accelerator 2027 https://opportunitydesk.org/2026/11/03/home-grown-solutions-agribusiness-accelerator-2027/ NOV 15
 - [ ] Call for Proposals: NSW Carers Investment Grant Program 2026 (Australia) https://www2.fundsforngos.org/education-2/call-for-proposals-nsw-carers-investment-grant-program-2026-australia/ NOV 17
+- [ ] CEPS Climate Leadership Program in Belgium 2026/27 (Fully Funded) https://scholarshipscorner.website/ceps-climate-leadership-program/ NOV 7
+- [ ] TechCongress Communications Internship 2027 https://opportunitydesk.org/2026/11/04/techcongress-communications-internship-2027/ NOV 7
 
 </details>
 
