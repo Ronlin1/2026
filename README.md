@@ -1200,6 +1200,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Call for Proposals: NSW Carers Investment Grant Program 2026 (Australia) https://www2.fundsforngos.org/education-2/call-for-proposals-nsw-carers-investment-grant-program-2026-australia/ NOV 17
 - [ ] CEPS Climate Leadership Program in Belgium 2026/27 (Fully Funded) https://scholarshipscorner.website/ceps-climate-leadership-program/ NOV 7
 - [ ] TechCongress Communications Internship 2027 https://opportunitydesk.org/2026/11/04/techcongress-communications-internship-2027/ NOV 7
+- [ ] Grants That Give NGOs More Freedom: Explore Flexible and Unrestricted Funding! https://www2.fundsforngos.org/listing/grants-that-give-ngos-more-freedom-explore-flexible-and-unrestricted-funding/ NOV 8
+- [ ] TechCongress Programs Internship 2027 https://opportunitydesk.org/2026/11/04/techcongress-programs-internship-2027/ NOV 9
 
 </details>
 
