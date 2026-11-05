@@ -1208,6 +1208,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Institute for Policy Integrity Economic Fellowship 2027 https://opportunitydesk.org/2026/11/04/institute-for-policy-integrity-economic-fellowship-2027/ NOV 24
 - [ ] Max Planck MPIIB Summer Internship 2027 in Germany (Fully Funded) https://scholarshipscorner.website/max-planck-mpiib-summer-internship/ NOV 24
 - [ ] Precursor Ventures AI & Investment Operations Internship 2027 https://opportunitydesk.org/2026/11/04/precursor-ventures-ai-investment-operations-internship-2027/ NOV 26
+- [ ] Town and Village Renewal Scheme (Ireland) https://www2.fundsforngos.org/infrastructure-support/town-and-village-renewal-scheme-2026-funding-opportunity-for-community/ NOV 6
+- [ ] Open Call for Ontario Anti-Hate Security and Prevention Grant (Canada) https://www2.fundsforngos.org/community-development-2/ontario-anti-hate-security-and-prevention-grant-2026-2027-application/ NOV 9
 
 </details>
 
