@@ -1212,6 +1212,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Open Call for Ontario Anti-Hate Security and Prevention Grant (Canada) https://www2.fundsforngos.org/community-development-2/ontario-anti-hate-security-and-prevention-grant-2026-2027-application/ NOV 9
 - [ ] Young Security Conference (YSC) Fellowship 2026 https://opportunitydesk.org/2026/11/05/young-security-conference-fellowship-2026/ NOV 8
 - [ ] CFAs: Impulsregeling Artist Development Grant (Netherlands) https://www2.fundsforngos.org/arts-culture-2/cfas-impulsregeling-artist-development-grant-netherlands/ NOV 19
+- [ ] The Equality Fund Journalism Fellowship 2027 https://www.opportunitiesforafricans.com/the-equality-fund-journalism-fellowship-2027-for-journalists-from-the-global-south/ NOV 5
+- [ ] Request for Applications: Australia Day Grants (Australia) https://www2.fundsforngos.org/arts-culture-2/australia-day-2027-event-grants-celebrate-with-a-community-event-in-mackay/ NOV 19
 
 </details>
 
