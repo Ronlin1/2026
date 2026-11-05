@@ -1210,6 +1210,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Precursor Ventures AI & Investment Operations Internship 2027 https://opportunitydesk.org/2026/11/04/precursor-ventures-ai-investment-operations-internship-2027/ NOV 26
 - [ ] Town and Village Renewal Scheme (Ireland) https://www2.fundsforngos.org/infrastructure-support/town-and-village-renewal-scheme-2026-funding-opportunity-for-community/ NOV 6
 - [ ] Open Call for Ontario Anti-Hate Security and Prevention Grant (Canada) https://www2.fundsforngos.org/community-development-2/ontario-anti-hate-security-and-prevention-grant-2026-2027-application/ NOV 9
+- [ ] Young Security Conference (YSC) Fellowship 2026 https://opportunitydesk.org/2026/11/05/young-security-conference-fellowship-2026/ NOV 8
+- [ ] CFAs: Impulsregeling Artist Development Grant (Netherlands) https://www2.fundsforngos.org/arts-culture-2/cfas-impulsregeling-artist-development-grant-netherlands/ NOV 19
 
 </details>
 
