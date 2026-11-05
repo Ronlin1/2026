@@ -1214,6 +1214,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CFAs: Impulsregeling Artist Development Grant (Netherlands) https://www2.fundsforngos.org/arts-culture-2/cfas-impulsregeling-artist-development-grant-netherlands/ NOV 19
 - [ ] The Equality Fund Journalism Fellowship 2027 https://www.opportunitiesforafricans.com/the-equality-fund-journalism-fellowship-2027-for-journalists-from-the-global-south/ NOV 5
 - [ ] Request for Applications: Australia Day Grants (Australia) https://www2.fundsforngos.org/arts-culture-2/australia-day-2027-event-grants-celebrate-with-a-community-event-in-mackay/ NOV 19
+- [ ] ILO Writing Competitions on Safe Labour Migration in East and Horn of Africa 2027 https://opportunitydesk.org/2026/11/05/ilo-writing-competitions-on-safe-labour-migration-in-east-and-horn-of-africa-2027/ NOV 22
+- [ ] CFAs: Community Development Grant – Micro – Call 1 (United Kingdom) https://www2.fundsforngos.org/community-development-2/community-development-grant-micro-call-1-2027-28/ NOV 24
 
 </details>
 
