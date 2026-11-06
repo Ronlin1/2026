@@ -1222,6 +1222,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Apply Now: MWNO Research Scholarship Program https://www2.fundsforngos.org/scholarship/mwno-research-scholarships-2027-for-postgraduate-researchers/ NOV 12
 - [ ] The United Nations Population Fund Tanzania Youth Advisory Panel Membership 2027–2029: Call for Application... https://opportunitiesforyouth.org/2026/11/05/the-united-nations-population-fund-unfpa-tanzania-youth-advisory-panel-yap-membership-2027-2029-call-for-applications-for-15-young-tanzanians-to-join-a-voluntary-youth-leadership-programm/ NOV 12
 - [ ] UNDP Climate and Energy Internship 2026 in Italy or Home-Based: Six-Month Opportunity with Monthly Stipend https://opportunitiesforyouth.org/2026/11/06/undp-climate-and-energy-internship-2026-in-italy-or-home-based-six-month-opportunity-with-monthly-stipend/ NOV 17
+- [ ] The Sir Cyril Taylor Young African Leaders Fellowship Program 2027 https://www.opportunitiesforafricans.com/the-sir-cyril-taylor-young-african-leaders-fellowship-program-2027/ NOV 16
+- [ ] Anthropic Residency 2026: Paid AI Safety Research Program for Established Technical Leaders – Applications... https://opportunitiesforyouth.org/2026/11/06/anthropic-residency-2026-paid-ai-safety-research-program-for-established-technical-leaders-applications-open/ NOV 19
 
 </details>
 
