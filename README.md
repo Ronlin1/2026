@@ -1224,6 +1224,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNDP Climate and Energy Internship 2026 in Italy or Home-Based: Six-Month Opportunity with Monthly Stipend https://opportunitiesforyouth.org/2026/11/06/undp-climate-and-energy-internship-2026-in-italy-or-home-based-six-month-opportunity-with-monthly-stipend/ NOV 17
 - [ ] The Sir Cyril Taylor Young African Leaders Fellowship Program 2027 https://www.opportunitiesforafricans.com/the-sir-cyril-taylor-young-african-leaders-fellowship-program-2027/ NOV 16
 - [ ] Anthropic Residency 2026: Paid AI Safety Research Program for Established Technical Leaders – Applications... https://opportunitiesforyouth.org/2026/11/06/anthropic-residency-2026-paid-ai-safety-research-program-for-established-technical-leaders-applications-open/ NOV 19
+- [ ] CFA Institute Access Scholarship Programme 2026/2027 https://www.opportunitiesforafricans.com/cfa-institute-access-scholarship-programme-2026-2027/ NOV 20
+- [ ] International Blue Carbon Institute Fellowship Program 2027 https://opportunitydesk.org/2026/11/06/ibci-fellowship-program-2027/ NOV 20
 
 </details>
 
