@@ -1218,6 +1218,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CFAs: Community Development Grant – Micro – Call 1 (United Kingdom) https://www2.fundsforngos.org/community-development-2/community-development-grant-micro-call-1-2027-28/ NOV 24
 - [ ] Community Development Grant – Medium Call 1 (United Kingdom) https://www2.fundsforngos.org/community-development-2/community-development-grant-medium-call-1-2027-28/ NOV 24
 - [ ] Regional Creatives Fund (Ireland) https://www2.fundsforngos.org/community-development-2/100-000-amazon-regional-creatives-fund-ireland-2026-supporting-creative/ NOV 27
+- [ ] KAIST Visual AI Internship 2027 in South Korea | Paid Internship https://scholarshipscorner.website/kaist-visual-ai-internship-south-korea/ NOV 6
+- [ ] Apply Now: MWNO Research Scholarship Program https://www2.fundsforngos.org/scholarship/mwno-research-scholarships-2027-for-postgraduate-researchers/ NOV 12
 
 </details>
 
