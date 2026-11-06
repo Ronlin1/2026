@@ -1220,6 +1220,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Regional Creatives Fund (Ireland) https://www2.fundsforngos.org/community-development-2/100-000-amazon-regional-creatives-fund-ireland-2026-supporting-creative/ NOV 27
 - [ ] KAIST Visual AI Internship 2027 in South Korea | Paid Internship https://scholarshipscorner.website/kaist-visual-ai-internship-south-korea/ NOV 6
 - [ ] Apply Now: MWNO Research Scholarship Program https://www2.fundsforngos.org/scholarship/mwno-research-scholarships-2027-for-postgraduate-researchers/ NOV 12
+- [ ] The United Nations Population Fund Tanzania Youth Advisory Panel Membership 2027–2029: Call for Application... https://opportunitiesforyouth.org/2026/11/05/the-united-nations-population-fund-unfpa-tanzania-youth-advisory-panel-yap-membership-2027-2029-call-for-applications-for-15-young-tanzanians-to-join-a-voluntary-youth-leadership-programm/ NOV 12
+- [ ] UNDP Climate and Energy Internship 2026 in Italy or Home-Based: Six-Month Opportunity with Monthly Stipend https://opportunitiesforyouth.org/2026/11/06/undp-climate-and-energy-internship-2026-in-italy-or-home-based-six-month-opportunity-with-monthly-stipend/ NOV 17
 
 </details>
 
