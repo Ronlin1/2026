@@ -1234,6 +1234,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Hurford Youth Fellowship Program 2027 in the USA (Fully Funded) https://scholarshipscorner.website/hurford-youth-fellowship-program-usa/ NOV 27
 - [ ] The Microsoft AI Economy Institute Cohort 4 for Global Researchers https://www.opportunitiesforafricans.com/the-microsoft-ai-economy-institute-cohort-4/ NOV 27
 - [ ] United Nations Journalism Fellowship 2027 in Qatar (Fully Funded) https://scholarshipscorner.website/united-nations-journalism-fellowship/ NOV 27
+- [ ] University of Vienna Faculty of Law Fellowship Programme – Summer 2027 https://opportunitydesk.org/2026/11/05/university-of-vienna-faculty-of-law-fellowship-programme-summer-2027/ NOV 27
+- [ ] Asia Foundation Development Fellows Program 2027 https://opportunitydesk.org/2026/11/06/asia-foundation-development-fellows-program-2027/ NOV 28
 
 </details>
 
