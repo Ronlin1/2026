@@ -1236,6 +1236,14 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] United Nations Journalism Fellowship 2027 in Qatar (Fully Funded) https://scholarshipscorner.website/united-nations-journalism-fellowship/ NOV 27
 - [ ] University of Vienna Faculty of Law Fellowship Programme – Summer 2027 https://opportunitydesk.org/2026/11/05/university-of-vienna-faculty-of-law-fellowship-programme-summer-2027/ NOV 27
 - [ ] Asia Foundation Development Fellows Program 2027 https://opportunitydesk.org/2026/11/06/asia-foundation-development-fellows-program-2027/ NOV 28
+- [ ] The MCW Global’s Young Leaders Fellowship 2027 https://www.opportunitiesforafricans.com/the-mcw-globals-young-leaders-fellowship-2027/ NOV 30
+
+</details>
+
+<details open>
+ <summary><h2> DEC :sparkles: </h2></summary>
+
+- [ ] CFAs: Strategic Grants for Community Projects (United Kingdom) https://www2.fundsforngos.org/community-development-2/crawley-strategic-grants-program-funding-for-local-projects-and-services/ DEC 8
 
 </details>
 
