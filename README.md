@@ -1232,6 +1232,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Call for judges : Join the OD Impact Challenge 2026 global judging panel https://opportunitydesk.org/2026/11/07/call-for-judges-join-the-od-impact-challenge-2026-global-judging-panel/ NOV 27
 - [ ] The Hurford Youth Fellows Program 2027 https://www.opportunitiesforafricans.com/the-hurford-youth-fellows-program-2027/ NOV 27
 - [ ] Hurford Youth Fellowship Program 2027 in the USA (Fully Funded) https://scholarshipscorner.website/hurford-youth-fellowship-program-usa/ NOV 27
+- [ ] The Microsoft AI Economy Institute Cohort 4 for Global Researchers https://www.opportunitiesforafricans.com/the-microsoft-ai-economy-institute-cohort-4/ NOV 27
+- [ ] United Nations Journalism Fellowship 2027 in Qatar (Fully Funded) https://scholarshipscorner.website/united-nations-journalism-fellowship/ NOV 27
 
 </details>
 
