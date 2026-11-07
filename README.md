@@ -1228,6 +1228,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] International Blue Carbon Institute Fellowship Program 2027 https://opportunitydesk.org/2026/11/06/ibci-fellowship-program-2027/ NOV 20
 - [ ] Apply Now: Community Activate Fund for Black Communities (United Kingdom) https://www2.fundsforngos.org/community-development-2/skin-like-mine-community-activate-fund-for-black-heritage-communities/ NOV 24
 - [ ] Small Call 1 Community Development Grant (United Kingdom) https://www2.fundsforngos.org/community-development-2/community-development-grant-small-call-1-for-2027-28/ NOV 24
+- [ ] Open Doors to Funding: Embassy Grants for NGOs and Community Initiatives https://www2.fundsforngos.org/listing/open-doors-to-funding-embassy-grants-for-ngos-and-community-initiatives/ NOV 25
+- [ ] Call for judges : Join the OD Impact Challenge 2026 global judging panel https://opportunitydesk.org/2026/11/07/call-for-judges-join-the-od-impact-challenge-2026-global-judging-panel/ NOV 27
 
 </details>
 
