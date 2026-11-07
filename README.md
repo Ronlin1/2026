@@ -1230,6 +1230,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Small Call 1 Community Development Grant (United Kingdom) https://www2.fundsforngos.org/community-development-2/community-development-grant-small-call-1-for-2027-28/ NOV 24
 - [ ] Open Doors to Funding: Embassy Grants for NGOs and Community Initiatives https://www2.fundsforngos.org/listing/open-doors-to-funding-embassy-grants-for-ngos-and-community-initiatives/ NOV 25
 - [ ] Call for judges : Join the OD Impact Challenge 2026 global judging panel https://opportunitydesk.org/2026/11/07/call-for-judges-join-the-od-impact-challenge-2026-global-judging-panel/ NOV 27
+- [ ] The Hurford Youth Fellows Program 2027 https://www.opportunitiesforafricans.com/the-hurford-youth-fellows-program-2027/ NOV 27
+- [ ] Hurford Youth Fellowship Program 2027 in the USA (Fully Funded) https://scholarshipscorner.website/hurford-youth-fellowship-program-usa/ NOV 27
 
 </details>
 
