@@ -1248,6 +1248,7 @@ If you want to contribute, follow the instructions in the Contributing file
 
 - [ ] CFAs: Strategic Grants for Community Projects (United Kingdom) https://www2.fundsforngos.org/community-development-2/crawley-strategic-grants-program-funding-for-local-projects-and-services/ DEC 8
 - [ ] The Humboldt Residency Programme 2027 https://www.opportunitiesforafricans.com/the-humboldt-residency-programme-2027/ DEC 11
+- [ ] Humboldt Residency Programme 2027 (Funded) https://opportunitydesk.org/2026/11/07/humboldt-residency-programme-2027/ DEC 11
 
 </details>
 
