@@ -1237,6 +1237,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] University of Vienna Faculty of Law Fellowship Programme – Summer 2027 https://opportunitydesk.org/2026/11/05/university-of-vienna-faculty-of-law-fellowship-programme-summer-2027/ NOV 27
 - [ ] Asia Foundation Development Fellows Program 2027 https://opportunitydesk.org/2026/11/06/asia-foundation-development-fellows-program-2027/ NOV 28
 - [ ] The MCW Global’s Young Leaders Fellowship 2027 https://www.opportunitiesforafricans.com/the-mcw-globals-young-leaders-fellowship-2027/ NOV 30
+- [ ] Arewa Creative Writing and Advocacy Fellowship (ACWAF) 2026 – Cohort 1 https://opportunitydesk.org/2026/11/07/arewa-creative-writing-and-advocacy-fellowship-2026-cohort-1/ NOV 27
+- [ ] Hurford Youth Fellows Program 2027 (Funded to the U.S.) https://opportunitydesk.org/2026/11/07/hurford-youth-fellows-program-2027/ NOV 27
 
 </details>
 
