@@ -1241,6 +1241,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Hurford Youth Fellows Program 2027 (Funded to the U.S.) https://opportunitydesk.org/2026/11/07/hurford-youth-fellows-program-2027/ NOV 27
 - [ ] MCW Global Young Leaders Fellowship 2027 (Funded) https://opportunitydesk.org/2026/11/07/mcw-global-young-leaders-fellowship-2027-funded/ NOV 30
 - [ ] Mastercard Foundation Scholarship at Sciences Po (Fully Funded) https://opportunityportal.info/mastercard-foundation-scholarship-at-sciences-po/ NOV 27
+- [ ] State of Black Entrepreneurship Fellows Program 2027 (up to $10,000) https://opportunitydesk.org/2026/11/09/state-of-black-entrepreneurship-fellows-program-2027/ NOV 13
+- [ ] MCW Young Leaders Fellowship 2027 in USA | Fully Funded | MCW Global Fellowship https://scholarshipscorner.website/mcw-young-leaders-fellowship/ NOV 30
 
 </details>
 
