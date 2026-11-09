@@ -1247,6 +1247,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Voices of the Future Global Fellowship 2027 (Fully-funded trip to France) https://opportunitydesk.org/2026/11/09/effie-lions-foundation-voices-of-the-future-global-fellowship-2027/ NOV 19
 - [ ] Morgridge Acceleration Program (MAP) Fellowship 2027 (Funded) https://opportunitydesk.org/2026/11/09/morgridge-acceleration-program-fellowship-2027/ NOV 20
 - [ ] Hurford Youth Fellows Program 2027 in the USA (Fully Funded) https://oyaop.com/opportunity/scholarships-and-fellowships/hurford-youth-fellows-program-2027-in-the-usa-fully-funded/ NOV 27
+- [ ] The Johannesburg Institute for Advanced Study Writing Fellowships 2027 https://www.opportunitiesforafricans.com/the-johannesburg-institute-for-advanced-study-jias-writing-fellowships-2027/ NOV 27
 
 </details>
 
@@ -1256,6 +1257,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CFAs: Strategic Grants for Community Projects (United Kingdom) https://www2.fundsforngos.org/community-development-2/crawley-strategic-grants-program-funding-for-local-projects-and-services/ DEC 8
 - [ ] The Humboldt Residency Programme 2027 https://www.opportunitiesforafricans.com/the-humboldt-residency-programme-2027/ DEC 11
 - [ ] Humboldt Residency Programme 2027 (Funded) https://opportunitydesk.org/2026/11/07/humboldt-residency-programme-2027/ DEC 11
+- [ ] Obama Foundation’s Leaders Program 2027/2028 for emerging leaders worldwide. https://www.opportunitiesforafricans.com/obama-foundations-leaders-program-2027-2028-for-emerging-leaders-worldwide/ DEC 1
 
 </details>
 
