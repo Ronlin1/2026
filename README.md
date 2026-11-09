@@ -1258,6 +1258,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Humboldt Residency Programme 2027 https://www.opportunitiesforafricans.com/the-humboldt-residency-programme-2027/ DEC 11
 - [ ] Humboldt Residency Programme 2027 (Funded) https://opportunitydesk.org/2026/11/07/humboldt-residency-programme-2027/ DEC 11
 - [ ] Obama Foundation’s Leaders Program 2027/2028 for emerging leaders worldwide. https://www.opportunitiesforafricans.com/obama-foundations-leaders-program-2027-2028-for-emerging-leaders-worldwide/ DEC 1
+- [ ] ICANN Fellowship Program 2027 to Attend ICANN89 Policy Forum in Vancouver, Canada https://opportunitydesk.org/2026/11/09/icann-fellowship-program-2027/ DEC 2
+- [ ] The Internet Corporation for Assigned Names and Numbers Policy Forum Fellowship Program 2027 https://www.opportunitiesforafricans.com/the-internet-corporation-for-assigned-names-and-numbers-icann89-policy-forum-fellowship-program-2027/ DEC 2
 
 </details>
 
