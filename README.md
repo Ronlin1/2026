@@ -1256,6 +1256,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Open Call: Grants for Local Authorities Organising Citizens’ Assemblies in South-East Europe https://www2.fundsforngos.org/innovation/open-call-for-grants-to-support-citizens-assemblies-in-south-east-europe/ NOV 17
 - [ ] Open Call for Arts and Culture Grants (Australia) https://www2.fundsforngos.org/community-development-2/northern-grampians-shire-arts-and-culture-grants-2026/ NOV 21
 - [ ] Rwanda Urban and Fruit Trees Digital Innovation Challenge https://www2.fundsforngos.org/innovation/rwanda-urban-and-fruit-trees-digital-innovation-challenge/ NOV 22
+- [ ] Human Resource Development Sub-scheme for Health Research in India https://www2.fundsforngos.org/individuals/call-for-research-proposals-hrd-sub-scheme-for-health-research-in/ NOV 27
+- [ ] Nominations open for Responsibility Award 2026 (Ukraine) https://www2.fundsforngos.org/civil-society-development/responsibility-award-2026-celebrating-civil-society-s-impact-in-ukraine/ NOV 27
 
 </details>
 
