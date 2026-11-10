@@ -1252,6 +1252,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Computation & Cognition Tübingen Summer (CaCTüS) Internship Program 2027 https://opportunitydesk.org/2026/11/10/cactus-internship-program-2027/ NOV 13
 - [ ] Debt Accountability Journalism Fellowship 2027 for Nigerian Journalists https://opportunitydesk.org/2026/11/10/debt-accountability-journalism-fellowship-2027/ NOV 10
 - [ ] Wave Winter Research Fellowship 2026-2027 https://opportunitydesk.org/2026/11/10/wave-winter-research-fellowship-2026-2027/ NOV 10
+- [ ] Age-Friendly Communities Grant (Canada) https://www2.fundsforngos.org/transportation/age-friendly-communities-grant-promoting-healthy-aging-in-nova-scotia/ NOV 16
+- [ ] Open Call: Grants for Local Authorities Organising Citizens’ Assemblies in South-East Europe https://www2.fundsforngos.org/innovation/open-call-for-grants-to-support-citizens-assemblies-in-south-east-europe/ NOV 17
 
 </details>
 
