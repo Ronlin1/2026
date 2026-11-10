@@ -1254,6 +1254,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Wave Winter Research Fellowship 2026-2027 https://opportunitydesk.org/2026/11/10/wave-winter-research-fellowship-2026-2027/ NOV 10
 - [ ] Age-Friendly Communities Grant (Canada) https://www2.fundsforngos.org/transportation/age-friendly-communities-grant-promoting-healthy-aging-in-nova-scotia/ NOV 16
 - [ ] Open Call: Grants for Local Authorities Organising Citizens’ Assemblies in South-East Europe https://www2.fundsforngos.org/innovation/open-call-for-grants-to-support-citizens-assemblies-in-south-east-europe/ NOV 17
+- [ ] Open Call for Arts and Culture Grants (Australia) https://www2.fundsforngos.org/community-development-2/northern-grampians-shire-arts-and-culture-grants-2026/ NOV 21
+- [ ] Rwanda Urban and Fruit Trees Digital Innovation Challenge https://www2.fundsforngos.org/innovation/rwanda-urban-and-fruit-trees-digital-innovation-challenge/ NOV 22
 
 </details>
 
