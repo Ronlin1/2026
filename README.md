@@ -1250,6 +1250,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Johannesburg Institute for Advanced Study Writing Fellowships 2027 https://www.opportunitiesforafricans.com/the-johannesburg-institute-for-advanced-study-jias-writing-fellowships-2027/ NOV 27
 - [ ] Community Benefit Fund Program (Australia) https://www2.fundsforngos.org/community-development-2/bulgana-green-power-hub-community-benefit-fund-funding-for-community/ NOV 13
 - [ ] Computation & Cognition Tübingen Summer (CaCTüS) Internship Program 2027 https://opportunitydesk.org/2026/11/10/cactus-internship-program-2027/ NOV 13
+- [ ] Debt Accountability Journalism Fellowship 2027 for Nigerian Journalists https://opportunitydesk.org/2026/11/10/debt-accountability-journalism-fellowship-2027/ NOV 10
+- [ ] Wave Winter Research Fellowship 2026-2027 https://opportunitydesk.org/2026/11/10/wave-winter-research-fellowship-2026-2027/ NOV 10
 
 </details>
 
