@@ -1258,6 +1258,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Rwanda Urban and Fruit Trees Digital Innovation Challenge https://www2.fundsforngos.org/innovation/rwanda-urban-and-fruit-trees-digital-innovation-challenge/ NOV 22
 - [ ] Human Resource Development Sub-scheme for Health Research in India https://www2.fundsforngos.org/individuals/call-for-research-proposals-hrd-sub-scheme-for-health-research-in/ NOV 27
 - [ ] Nominations open for Responsibility Award 2026 (Ukraine) https://www2.fundsforngos.org/civil-society-development/responsibility-award-2026-celebrating-civil-society-s-impact-in-ukraine/ NOV 27
+- [ ] African Development Bank Group Shanghai Ocean University Scholarship Masters Degree Program 2027 https://opportunitydesk.org/2026/11/11/afdb-group-shou-scholarship-masters-degree-program-2027/ NOV 14
+- [ ] Global Youth Mental Health Research Fellowship 2027 https://opportunitydesk.org/2026/11/11/global-youth-mental-health-research-fellowship-2027/ NOV 27
 
 </details>
 
