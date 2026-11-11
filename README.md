@@ -1278,6 +1278,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Internet Corporation for Assigned Names and Numbers Policy Forum Fellowship Program 2027 https://www.opportunitiesforafricans.com/the-internet-corporation-for-assigned-names-and-numbers-icann89-policy-forum-fellowship-program-2027/ DEC 2
 - [ ] Airtel Africa Foundation Tech Fellowship 2026/2027 Undergraduate Scholarship for young Nigerians. https://www.opportunitiesforafricans.com/airtel-africa-foundation-tech-fellowship-2026-2027-undergraduate-scholarship/ DEC 4
 - [ ] NNPC Limited / TotalEnergies National Merit Scholarship Scheme 2026/2027 https://www.opportunitiesforafricans.com/nnpc-limited-totalenergies-national-merit-scholarship-scheme-nmss-2026-2027-for-young-nigerian-students/ DEC 4
+- [ ] Commonwealth Shared Scholarship Programme 2027/2028 to Study in the U.K. https://opportunitydesk.org/2026/11/11/commonwealth-shared-scholarship-programme-2027-2028/ DEC 5
+- [ ] Commonwealth Shared Scholarships 2027/2028 https://www.opportunitiesforafricans.com/commonwealth-shared-scholarships-2027-2028/ DEC 5
 
 </details>
 
