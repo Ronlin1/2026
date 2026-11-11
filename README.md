@@ -1260,6 +1260,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Nominations open for Responsibility Award 2026 (Ukraine) https://www2.fundsforngos.org/civil-society-development/responsibility-award-2026-celebrating-civil-society-s-impact-in-ukraine/ NOV 27
 - [ ] African Development Bank Group Shanghai Ocean University Scholarship Masters Degree Program 2027 https://opportunitydesk.org/2026/11/11/afdb-group-shou-scholarship-masters-degree-program-2027/ NOV 14
 - [ ] Global Youth Mental Health Research Fellowship 2027 https://opportunitydesk.org/2026/11/11/global-youth-mental-health-research-fellowship-2027/ NOV 27
+- [ ] Coca-Cola Beverages Africa Kenya Internship Programme 2026/2027 https://www.opportunitiesforafricans.com/coca-cola-beverages-africa-ccba-kenya-internship-programme-2026-2027-for-young-kenyan-students/ NOV 13
+- [ ] Africa Dyslexia Teacher Fellowship Program 2027 https://opportunitydesk.org/2026/11/11/africa-dyslexia-teacher-fellowship-program-2027/ NOV 17
 
 </details>
 
