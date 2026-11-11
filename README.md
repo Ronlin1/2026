@@ -1263,6 +1263,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Coca-Cola Beverages Africa Kenya Internship Programme 2026/2027 https://www.opportunitiesforafricans.com/coca-cola-beverages-africa-ccba-kenya-internship-programme-2026-2027-for-young-kenyan-students/ NOV 13
 - [ ] Africa Dyslexia Teacher Fellowship Program 2027 https://opportunitydesk.org/2026/11/11/africa-dyslexia-teacher-fellowship-program-2027/ NOV 17
 - [ ] Harvard Kennedy School (HKS) American Service Fellowship 2027 (up to $100,000) https://opportunitydesk.org/2026/11/11/harvard-kennedy-school-american-service-fellowship-2027/ NOV 28
+- [ ] Zenith Insurance Graduate Trainee Program 2026 for young Nigerian graduates. https://www.opportunitiesforafricans.com/zenith-insurance-graduate-trainee-program-2026-for-young-nigerian-graduates/ NOV 21
 
 </details>
 
@@ -1276,6 +1277,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ICANN Fellowship Program 2027 to Attend ICANN89 Policy Forum in Vancouver, Canada https://opportunitydesk.org/2026/11/09/icann-fellowship-program-2027/ DEC 2
 - [ ] The Internet Corporation for Assigned Names and Numbers Policy Forum Fellowship Program 2027 https://www.opportunitiesforafricans.com/the-internet-corporation-for-assigned-names-and-numbers-icann89-policy-forum-fellowship-program-2027/ DEC 2
 - [ ] Airtel Africa Foundation Tech Fellowship 2026/2027 Undergraduate Scholarship for young Nigerians. https://www.opportunitiesforafricans.com/airtel-africa-foundation-tech-fellowship-2026-2027-undergraduate-scholarship/ DEC 4
+- [ ] NNPC Limited / TotalEnergies National Merit Scholarship Scheme 2026/2027 https://www.opportunitiesforafricans.com/nnpc-limited-totalenergies-national-merit-scholarship-scheme-nmss-2026-2027-for-young-nigerian-students/ DEC 4
 
 </details>
 
