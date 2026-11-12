@@ -1264,6 +1264,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Africa Dyslexia Teacher Fellowship Program 2027 https://opportunitydesk.org/2026/11/11/africa-dyslexia-teacher-fellowship-program-2027/ NOV 17
 - [ ] Harvard Kennedy School (HKS) American Service Fellowship 2027 (up to $100,000) https://opportunitydesk.org/2026/11/11/harvard-kennedy-school-american-service-fellowship-2027/ NOV 28
 - [ ] Zenith Insurance Graduate Trainee Program 2026 for young Nigerian graduates. https://www.opportunitiesforafricans.com/zenith-insurance-graduate-trainee-program-2026-for-young-nigerian-graduates/ NOV 21
+- [ ] AllPeopleBeHappy Volunteer Service Award Program 2027 (Funded) https://opportunitydesk.org/2026/11/12/allpeoplebehappy-volunteer-service-award-program-2027/ NOV 12
+- [ ] CFAs: Leading Under Pressure Leadership Learning Programme in Ukraine https://www2.fundsforngos.org/leadership/cfas-leading-under-pressure-leadership-learning-programme-in-ukraine/ NOV 13
 
 </details>
 
