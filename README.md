@@ -1268,6 +1268,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CFAs: Leading Under Pressure Leadership Learning Programme in Ukraine https://www2.fundsforngos.org/leadership/cfas-leading-under-pressure-leadership-learning-programme-in-ukraine/ NOV 13
 - [ ] Helvetas Call for Nonprofits to Deliver Adult Vocational Training Program https://www2.fundsforngos.org/community-development-2/helvetas-call-for-nonprofits-to-deliver-adult-vocational-training-program-ukraine/ NOV 16
 - [ ] German-Latin American Programme Fellowship for Journalists https://www2.fundsforngos.org/individuals/german-latin-american-programme-fellowship-for-journalists/ NOV 19
+- [ ] The DSTI-NRF Policy Fellowship Programme Cohort 2 for early- and mid-career South African professionals. https://www.opportunitiesforafricans.com/the-dsti-nrf-policy-fellowship-programme-cohort-2/ NOV 14
+- [ ] KNUST–GIZ AI for Professionals Programme 2026: Fully Funded Artificial Intelligence Training for 120 Young... https://opportunitiesforyouth.org/2026/11/11/knust-giz-ai-for-professionals-programme-2026-fully-funded-artificial-intelligence-training-for-120-young-ghanaian-graduates/ NOV 16
 
 </details>
 
