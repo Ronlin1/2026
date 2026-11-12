@@ -1266,6 +1266,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Zenith Insurance Graduate Trainee Program 2026 for young Nigerian graduates. https://www.opportunitiesforafricans.com/zenith-insurance-graduate-trainee-program-2026-for-young-nigerian-graduates/ NOV 21
 - [ ] AllPeopleBeHappy Volunteer Service Award Program 2027 (Funded) https://opportunitydesk.org/2026/11/12/allpeoplebehappy-volunteer-service-award-program-2027/ NOV 12
 - [ ] CFAs: Leading Under Pressure Leadership Learning Programme in Ukraine https://www2.fundsforngos.org/leadership/cfas-leading-under-pressure-leadership-learning-programme-in-ukraine/ NOV 13
+- [ ] Helvetas Call for Nonprofits to Deliver Adult Vocational Training Program https://www2.fundsforngos.org/community-development-2/helvetas-call-for-nonprofits-to-deliver-adult-vocational-training-program-ukraine/ NOV 16
+- [ ] German-Latin American Programme Fellowship for Journalists https://www2.fundsforngos.org/individuals/german-latin-american-programme-fellowship-for-journalists/ NOV 19
 
 </details>
 
