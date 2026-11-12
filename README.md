@@ -1272,6 +1272,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] KNUST–GIZ AI for Professionals Programme 2026: Fully Funded Artificial Intelligence Training for 120 Young... https://opportunitiesforyouth.org/2026/11/11/knust-giz-ai-for-professionals-programme-2026-fully-funded-artificial-intelligence-training-for-120-young-ghanaian-graduates/ NOV 16
 - [ ] MTN MoMo Graduate Development Programme 2026: Apply for an Exciting Graduate Career Opportunity in Nigeria’... https://opportunitiesforyouth.org/2026/11/12/mtn-momo-graduate-development-programme-2026-apply-for-an-exciting-graduate-career-opportunity-in-nigerias-fintech-and-financial-services-industry/ NOV 16
 - [ ] WIPO IP and Women Fellowship 2027 in Switzerland: Earn CHF 6,000 Monthly and Gain International Intellectua... https://opportunitiesforyouth.org/2026/11/12/wipo-ip-and-women-fellowship-2027-in-switzerland-earn-chf-6000-monthly-and-gain-international-intellectual-property-experience-in-geneva/ NOV 20
+- [ ] DSTI-NRF Policy Fellowship Programme 2027 (Funded) https://opportunitydesk.org/2026/11/12/dsti-nrf-policy-fellowship-programme-2027/ NOV 14
+- [ ] Apply Now: Early Career Research Fellowship Program (Australia) https://www2.fundsforngos.org/individuals/apply-now-early-career-research-fellowship-program-australia/ NOV 27
 
 </details>
 
