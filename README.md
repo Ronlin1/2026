@@ -1270,6 +1270,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] German-Latin American Programme Fellowship for Journalists https://www2.fundsforngos.org/individuals/german-latin-american-programme-fellowship-for-journalists/ NOV 19
 - [ ] The DSTI-NRF Policy Fellowship Programme Cohort 2 for early- and mid-career South African professionals. https://www.opportunitiesforafricans.com/the-dsti-nrf-policy-fellowship-programme-cohort-2/ NOV 14
 - [ ] KNUST–GIZ AI for Professionals Programme 2026: Fully Funded Artificial Intelligence Training for 120 Young... https://opportunitiesforyouth.org/2026/11/11/knust-giz-ai-for-professionals-programme-2026-fully-funded-artificial-intelligence-training-for-120-young-ghanaian-graduates/ NOV 16
+- [ ] MTN MoMo Graduate Development Programme 2026: Apply for an Exciting Graduate Career Opportunity in Nigeria’... https://opportunitiesforyouth.org/2026/11/12/mtn-momo-graduate-development-programme-2026-apply-for-an-exciting-graduate-career-opportunity-in-nigerias-fintech-and-financial-services-industry/ NOV 16
+- [ ] WIPO IP and Women Fellowship 2027 in Switzerland: Earn CHF 6,000 Monthly and Gain International Intellectua... https://opportunitiesforyouth.org/2026/11/12/wipo-ip-and-women-fellowship-2027-in-switzerland-earn-chf-6000-monthly-and-gain-international-intellectual-property-experience-in-geneva/ NOV 20
 
 </details>
 
