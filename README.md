@@ -1280,6 +1280,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Mentorship Program for Master’s Students in Morocco https://www2.fundsforngos.org/individuals/mentorship-program-2027-call-for-applications/ NOV 27
 - [ ] BusinessDay Young Economists Writing Challenge 2027 https://www.opportunitiesforafricans.com/businessday-young-economists-writing-challenge-2027/ NOV 24
 - [ ] Chevron Nigeria NMA Undergraduate Internship 2027 https://www.opportunitiesforafricans.com/chevron-nigeria-nma-undergraduate-internship-2027-for-young-nigerian-undergraduate-students/ NOV 28
+- [ ] The WIPO IP and Women Fellowship 2027 https://www.opportunitiesforafricans.com/the-wipo-ip-and-women-fellowship-2027/ NOV 20
+- [ ] UCLA Library Special Collections (LSC) Research Fellowships 2027 (Funded) https://opportunitydesk.org/2026/11/12/ucla-library-special-collections-research-fellowships-2027/ NOV 28
 
 </details>
 
