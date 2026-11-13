@@ -1282,6 +1282,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Chevron Nigeria NMA Undergraduate Internship 2027 https://www.opportunitiesforafricans.com/chevron-nigeria-nma-undergraduate-internship-2027-for-young-nigerian-undergraduate-students/ NOV 28
 - [ ] The WIPO IP and Women Fellowship 2027 https://www.opportunitiesforafricans.com/the-wipo-ip-and-women-fellowship-2027/ NOV 20
 - [ ] UCLA Library Special Collections (LSC) Research Fellowships 2027 (Funded) https://opportunitydesk.org/2026/11/12/ucla-library-special-collections-research-fellowships-2027/ NOV 28
+- [ ] Council of Europe Civil Society Grants 2027: Apply for Up to €20,000 to Strengthen Democracy and Civic Enga... https://opportunitiesforyouth.org/2026/11/13/european-youth-foundation-eyf-grants-2026-funding-support-for-youth-organisations-across-europe/ NOV 29
 
 </details>
 
@@ -1298,6 +1299,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NNPC Limited / TotalEnergies National Merit Scholarship Scheme 2026/2027 https://www.opportunitiesforafricans.com/nnpc-limited-totalenergies-national-merit-scholarship-scheme-nmss-2026-2027-for-young-nigerian-students/ DEC 4
 - [ ] Commonwealth Shared Scholarship Programme 2027/2028 to Study in the U.K. https://opportunitydesk.org/2026/11/11/commonwealth-shared-scholarship-programme-2027-2028/ DEC 5
 - [ ] Commonwealth Shared Scholarships 2027/2028 https://www.opportunitiesforafricans.com/commonwealth-shared-scholarships-2027-2028/ DEC 5
+- [ ] International Women’s Media Foundation Kim Wall Memorial Fund 2027 forwomen or nonbinary reporters https://www.opportunitiesforafricans.com/international-womens-media-foundation-iwmf-kim-wall-memorial-fund-2027/ DEC 3
 
 </details>
 
