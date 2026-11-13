@@ -1274,6 +1274,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] WIPO IP and Women Fellowship 2027 in Switzerland: Earn CHF 6,000 Monthly and Gain International Intellectua... https://opportunitiesforyouth.org/2026/11/12/wipo-ip-and-women-fellowship-2027-in-switzerland-earn-chf-6000-monthly-and-gain-international-intellectual-property-experience-in-geneva/ NOV 20
 - [ ] DSTI-NRF Policy Fellowship Programme 2027 (Funded) https://opportunitydesk.org/2026/11/12/dsti-nrf-policy-fellowship-programme-2027/ NOV 14
 - [ ] Apply Now: Early Career Research Fellowship Program (Australia) https://www2.fundsforngos.org/individuals/apply-now-early-career-research-fellowship-program-australia/ NOV 27
+- [ ] Global Youth Forum 2027 in Italy: €600 Scholarships Available for Eligible Applicants https://opportunitiesforyouth.org/2026/11/13/global-youth-forum-2027-in-italy-e600-scholarships-available-for-eligible-applicants/ NOV 17
+- [ ] EU Youth Sounding Board Cameroon 2026–2028: European Union Opens Applications for 25 Young Cameroonians to... https://opportunitiesforyouth.org/2026/11/12/eu-youth-sounding-board-cameroon-2026-2028-european-union-opens-applications-for-25-young-cameroonians-to-join-its-youth-advisory-board/ NOV 18
 
 </details>
 
