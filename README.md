@@ -1278,6 +1278,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] EU Youth Sounding Board Cameroon 2026–2028: European Union Opens Applications for 25 Young Cameroonians to... https://opportunitiesforyouth.org/2026/11/12/eu-youth-sounding-board-cameroon-2026-2028-european-union-opens-applications-for-25-young-cameroonians-to-join-its-youth-advisory-board/ NOV 18
 - [ ] GovAI UK Summer Fellowship 2027 (Fully Funded) https://scholarshipscorner.website/govai-uk-summer-fellowship/ NOV 19
 - [ ] Mentorship Program for Master’s Students in Morocco https://www2.fundsforngos.org/individuals/mentorship-program-2027-call-for-applications/ NOV 27
+- [ ] BusinessDay Young Economists Writing Challenge 2027 https://www.opportunitiesforafricans.com/businessday-young-economists-writing-challenge-2027/ NOV 24
+- [ ] Chevron Nigeria NMA Undergraduate Internship 2027 https://www.opportunitiesforafricans.com/chevron-nigeria-nma-undergraduate-internship-2027-for-young-nigerian-undergraduate-students/ NOV 28
 
 </details>
 
