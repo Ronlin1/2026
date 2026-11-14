@@ -1306,6 +1306,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Commonwealth Shared Scholarships 2027/2028 https://www.opportunitiesforafricans.com/commonwealth-shared-scholarships-2027-2028/ DEC 5
 - [ ] International Women’s Media Foundation Kim Wall Memorial Fund 2027 forwomen or nonbinary reporters https://www.opportunitiesforafricans.com/international-womens-media-foundation-iwmf-kim-wall-memorial-fund-2027/ DEC 3
 - [ ] Huaqiao University CSC Scholarship 2027 for Master’s & PhD (Fully Funded) https://opportunityportal.info/huaqiao-university-csc-scholarship/ DEC 3
+- [ ] OD Impact Challenge 2026 for Young Changemakers (Win cash prizes & more) https://opportunitydesk.org/2026/11/13/od-impact-challenge-2026/ DEC 7
+- [ ] YSEALI Professional Exchange Program 2027 in USA | Fully Funded https://scholarshipscorner.website/yseali-professional-exchange-program/ DEC 7
 
 </details>
 
