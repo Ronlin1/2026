@@ -1283,6 +1283,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The WIPO IP and Women Fellowship 2027 https://www.opportunitiesforafricans.com/the-wipo-ip-and-women-fellowship-2027/ NOV 20
 - [ ] UCLA Library Special Collections (LSC) Research Fellowships 2027 (Funded) https://opportunitydesk.org/2026/11/12/ucla-library-special-collections-research-fellowships-2027/ NOV 28
 - [ ] Council of Europe Civil Society Grants 2027: Apply for Up to €20,000 to Strengthen Democracy and Civic Enga... https://opportunitiesforyouth.org/2026/11/13/european-youth-foundation-eyf-grants-2026-funding-support-for-youth-organisations-across-europe/ NOV 29
+- [ ] Beijing Government Scholarship (BGS) (Fully Funded) https://opportunityportal.info/beijing-government-scholarship/ NOV 27
+- [ ] 2027 Fully Funded Youth Delegate Programme: Apply for the Council of Europe Congress in Strasbourg https://opportunitiesforyouth.org/2026/11/14/2027-fully-funded-youth-delegate-programme-apply-for-the-council-of-europe-congress-in-strasbourg/ NOV 27
 
 </details>
 
