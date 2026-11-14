@@ -1285,6 +1285,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Council of Europe Civil Society Grants 2027: Apply for Up to €20,000 to Strengthen Democracy and Civic Enga... https://opportunitiesforyouth.org/2026/11/13/european-youth-foundation-eyf-grants-2026-funding-support-for-youth-organisations-across-europe/ NOV 29
 - [ ] Beijing Government Scholarship (BGS) (Fully Funded) https://opportunityportal.info/beijing-government-scholarship/ NOV 27
 - [ ] 2027 Fully Funded Youth Delegate Programme: Apply for the Council of Europe Congress in Strasbourg https://opportunitiesforyouth.org/2026/11/14/2027-fully-funded-youth-delegate-programme-apply-for-the-council-of-europe-congress-in-strasbourg/ NOV 27
+- [ ] Ocean Futures Fellowship 2027: Building Ocean Career Pathways https://opportunitydesk.org/2026/11/14/ocean-futures-fellowship-2027-building-ocean-career-pathways/ NOV 14
+- [ ] BusinessDay Young Economists Writing Challenge 2026 (N450,000 in prizes) https://opportunitydesk.org/2026/11/14/businessday-young-economists-writing-challenge-2026/ NOV 24
 
 </details>
 
