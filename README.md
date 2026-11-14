@@ -1308,6 +1308,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Huaqiao University CSC Scholarship 2027 for Master’s & PhD (Fully Funded) https://opportunityportal.info/huaqiao-university-csc-scholarship/ DEC 3
 - [ ] OD Impact Challenge 2026 for Young Changemakers (Win cash prizes & more) https://opportunitydesk.org/2026/11/13/od-impact-challenge-2026/ DEC 7
 - [ ] YSEALI Professional Exchange Program 2027 in USA | Fully Funded https://scholarshipscorner.website/yseali-professional-exchange-program/ DEC 7
+- [ ] Humboldt Residency Program 2027 in Germany (Fully Funded) https://scholarshipscorner.website/humboldt-residency-program-germany/ DEC 11
+- [ ] UNICEF USA Youth Council Learning Exchange 2027: Six-Month Virtual Programme Invites U.S. City and County L... https://opportunitiesforyouth.org/2026/11/14/unicef-usa-youth-council-learning-exchange-2027-six-month-virtual-programme-invites-u-s-city-and-county-leaders-to-strengthen-youth-participation-in-local-government/ DEC 11
 
 </details>
 
