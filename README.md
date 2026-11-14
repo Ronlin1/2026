@@ -1287,6 +1287,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 2027 Fully Funded Youth Delegate Programme: Apply for the Council of Europe Congress in Strasbourg https://opportunitiesforyouth.org/2026/11/14/2027-fully-funded-youth-delegate-programme-apply-for-the-council-of-europe-congress-in-strasbourg/ NOV 27
 - [ ] Ocean Futures Fellowship 2027: Building Ocean Career Pathways https://opportunitydesk.org/2026/11/14/ocean-futures-fellowship-2027-building-ocean-career-pathways/ NOV 14
 - [ ] BusinessDay Young Economists Writing Challenge 2026 (N450,000 in prizes) https://opportunitydesk.org/2026/11/14/businessday-young-economists-writing-challenge-2026/ NOV 24
+- [ ] Council of Europe Grants for Civil Society Organisations 2026 (up to €20,000) https://opportunitydesk.org/2026/11/14/council-of-europe-grants-for-civil-society-organisations-2026/ NOV 29
 
 </details>
 
@@ -1304,6 +1305,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Commonwealth Shared Scholarship Programme 2027/2028 to Study in the U.K. https://opportunitydesk.org/2026/11/11/commonwealth-shared-scholarship-programme-2027-2028/ DEC 5
 - [ ] Commonwealth Shared Scholarships 2027/2028 https://www.opportunitiesforafricans.com/commonwealth-shared-scholarships-2027-2028/ DEC 5
 - [ ] International Women’s Media Foundation Kim Wall Memorial Fund 2027 forwomen or nonbinary reporters https://www.opportunitiesforafricans.com/international-womens-media-foundation-iwmf-kim-wall-memorial-fund-2027/ DEC 3
+- [ ] Huaqiao University CSC Scholarship 2027 for Master’s & PhD (Fully Funded) https://opportunityportal.info/huaqiao-university-csc-scholarship/ DEC 3
 
 </details>
 
