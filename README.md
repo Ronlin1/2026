@@ -1293,6 +1293,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ifa Research Programme 2026: €9,000 Research Opportunity on Culture and Foreign Policy – Apply by 30 Novemb... https://opportunitiesforyouth.org/2026/11/15/ifa-research-programme-2026-e9000-research-opportunity-on-culture-and-foreign-policy-apply-by-30-november-2026/ NOV 27
 - [ ] ICRC Trainee/Associate Internship 2027 in Brussels, Belgium – Earn Approximately €30,000 Annually https://opportunitiesforyouth.org/2026/11/14/icrc-humanitarian-affairs-adviser-job-2026-in-new-york-usa-earn-up-to-usd-140010-working-with-the-international-committee-of-the-red-cross/ NOV 20
 - [ ] Caribbean Export Consultancy 2026: Applications Reopened for Social Innovation Capacity-Building Experts in... https://opportunitiesforyouth.org/2026/11/15/caribbean-export-consultancy-2026-applications-reopened-for-social-innovation-capacity-building-experts-in-four-caribbean-countries/ NOV 21
+- [ ] THE 2027 NATURE CULTURE FELLOWSHIP: GLOBAL FELLOWSHIP OFFERING $1,000–$2,000 MICRO-GRANTS AND PROFESSIONAL... https://opportunitiesforyouth.org/2026/11/15/apply-for-the-2027-nature-culture-fellowship-global-fellowship-offering-1000-2000-micro-grants-and-professional-mentorship-for-social-and-environmental-change-makers/ NOV 28
 
 </details>
 
@@ -1318,6 +1319,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] CFAs: Annandale and Nithsdale Community Benefit Company Grants (United Kingdom) https://www2.fundsforngos.org/community-development-2/annandale-and-nithsdale-community-benefit-company-funding-opportunity/ DEC 2
 - [ ] OVW Grants to Tribal Domestic Violence and Sexual Assault Coalitions Program https://www2.fundsforngos.org/domestic-violence/ovw-fiscal-year-2026-grants-to-tribal-domestic-violence-and-sexual-assault/ DEC 4
 - [ ] RWE Bowbeat Wind Farm Community Fund (United Kingdom) https://www2.fundsforngos.org/community-development-2/rwe-bowbeat-wind-farm-peebles-and-eddleston-community-fund-supporting/ DEC 13
+- [ ] Oak Foundation Programme Officer Job 2026: Earn Approximately $130,000 to Advance the Prevention of Sexual... https://opportunitiesforyouth.org/2026/11/15/oak-foundation-programme-officer-job-2026-earn-approximately-130000-to-advance-the-prevention-of-sexual-violence-against-adolescents/ DEC 1
 
 </details>
 
