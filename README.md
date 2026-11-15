@@ -1290,6 +1290,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Council of Europe Grants for Civil Society Organisations 2026 (up to €20,000) https://opportunitydesk.org/2026/11/14/council-of-europe-grants-for-civil-society-organisations-2026/ NOV 29
 - [ ] NASA Open Science Essentials Online Course 2026 with Certificate https://www.opportunitiescircle.com/nasa-open-science-essentials-online-course-with-certificate/ NOV 28
 - [ ] Call for Proposals: CBO Organisational Strengthening Program (South Africa) https://www2.fundsforngos.org/community-development-2/call-for-proposals-cbo-organisational-strengthening-programme-by/ NOV 30
+- [ ] ifa Research Programme 2026: €9,000 Research Opportunity on Culture and Foreign Policy – Apply by 30 Novemb... https://opportunitiesforyouth.org/2026/11/15/ifa-research-programme-2026-e9000-research-opportunity-on-culture-and-foreign-policy-apply-by-30-november-2026/ NOV 27
 
 </details>
 
@@ -1312,6 +1313,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] YSEALI Professional Exchange Program 2027 in USA | Fully Funded https://scholarshipscorner.website/yseali-professional-exchange-program/ DEC 7
 - [ ] Humboldt Residency Program 2027 in Germany (Fully Funded) https://scholarshipscorner.website/humboldt-residency-program-germany/ DEC 11
 - [ ] UNICEF USA Youth Council Learning Exchange 2027: Six-Month Virtual Programme Invites U.S. City and County L... https://opportunitiesforyouth.org/2026/11/14/unicef-usa-youth-council-learning-exchange-2027-six-month-virtual-programme-invites-u-s-city-and-county-leaders-to-strengthen-youth-participation-in-local-government/ DEC 11
+- [ ] CFAs: Annandale and Nithsdale Community Benefit Company Grants (United Kingdom) https://www2.fundsforngos.org/community-development-2/annandale-and-nithsdale-community-benefit-company-funding-opportunity/ DEC 2
 
 </details>
 
