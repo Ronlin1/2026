@@ -1288,6 +1288,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Ocean Futures Fellowship 2027: Building Ocean Career Pathways https://opportunitydesk.org/2026/11/14/ocean-futures-fellowship-2027-building-ocean-career-pathways/ NOV 14
 - [ ] BusinessDay Young Economists Writing Challenge 2026 (N450,000 in prizes) https://opportunitydesk.org/2026/11/14/businessday-young-economists-writing-challenge-2026/ NOV 24
 - [ ] Council of Europe Grants for Civil Society Organisations 2026 (up to €20,000) https://opportunitydesk.org/2026/11/14/council-of-europe-grants-for-civil-society-organisations-2026/ NOV 29
+- [ ] NASA Open Science Essentials Online Course 2026 with Certificate https://www.opportunitiescircle.com/nasa-open-science-essentials-online-course-with-certificate/ NOV 28
+- [ ] Call for Proposals: CBO Organisational Strengthening Program (South Africa) https://www2.fundsforngos.org/community-development-2/call-for-proposals-cbo-organisational-strengthening-programme-by/ NOV 30
 
 </details>
 
