@@ -1291,6 +1291,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NASA Open Science Essentials Online Course 2026 with Certificate https://www.opportunitiescircle.com/nasa-open-science-essentials-online-course-with-certificate/ NOV 28
 - [ ] Call for Proposals: CBO Organisational Strengthening Program (South Africa) https://www2.fundsforngos.org/community-development-2/call-for-proposals-cbo-organisational-strengthening-programme-by/ NOV 30
 - [ ] ifa Research Programme 2026: €9,000 Research Opportunity on Culture and Foreign Policy – Apply by 30 Novemb... https://opportunitiesforyouth.org/2026/11/15/ifa-research-programme-2026-e9000-research-opportunity-on-culture-and-foreign-policy-apply-by-30-november-2026/ NOV 27
+- [ ] ICRC Trainee/Associate Internship 2027 in Brussels, Belgium – Earn Approximately €30,000 Annually https://opportunitiesforyouth.org/2026/11/14/icrc-humanitarian-affairs-adviser-job-2026-in-new-york-usa-earn-up-to-usd-140010-working-with-the-international-committee-of-the-red-cross/ NOV 20
+- [ ] Caribbean Export Consultancy 2026: Applications Reopened for Social Innovation Capacity-Building Experts in... https://opportunitiesforyouth.org/2026/11/15/caribbean-export-consultancy-2026-applications-reopened-for-social-innovation-capacity-building-experts-in-four-caribbean-countries/ NOV 21
 
 </details>
 
