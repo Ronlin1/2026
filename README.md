@@ -1314,6 +1314,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Humboldt Residency Program 2027 in Germany (Fully Funded) https://scholarshipscorner.website/humboldt-residency-program-germany/ DEC 11
 - [ ] UNICEF USA Youth Council Learning Exchange 2027: Six-Month Virtual Programme Invites U.S. City and County L... https://opportunitiesforyouth.org/2026/11/14/unicef-usa-youth-council-learning-exchange-2027-six-month-virtual-programme-invites-u-s-city-and-county-leaders-to-strengthen-youth-participation-in-local-government/ DEC 11
 - [ ] CFAs: Annandale and Nithsdale Community Benefit Company Grants (United Kingdom) https://www2.fundsforngos.org/community-development-2/annandale-and-nithsdale-community-benefit-company-funding-opportunity/ DEC 2
+- [ ] OVW Grants to Tribal Domestic Violence and Sexual Assault Coalitions Program https://www2.fundsforngos.org/domestic-violence/ovw-fiscal-year-2026-grants-to-tribal-domestic-violence-and-sexual-assault/ DEC 4
+- [ ] RWE Bowbeat Wind Farm Community Fund (United Kingdom) https://www2.fundsforngos.org/community-development-2/rwe-bowbeat-wind-farm-peebles-and-eddleston-community-fund-supporting/ DEC 13
 
 </details>
 
