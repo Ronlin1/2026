@@ -1300,6 +1300,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Egbin PowerUp Internship Programme 2027 https://www.opportunitiesforafricans.com/the-egbin-powerup-internship-programme-siwes-2027/ NOV 27
 - [ ] UNODC Associate Data Scientist Job 2026 in Vienna, Austria: Apply for a P-2 United Nations Career Opportuni... https://opportunitiesforyouth.org/2026/11/16/unodc-associate-data-scientist-job-2026-in-vienna-austria-apply-for-a-p-2-united-nations-career-opportunity-before-19-november/ NOV 16
 - [ ] The African Forum and Network on Debt and Development https://www.opportunitiesforafricans.com/the-african-forum-and-network-on-debt-and-development-afrodad-internship-programme-2027/ NOV 17
+- [ ] LEGO Foundation Student Worker – Strategy 2026: International Student Job Opportunity in Denmark | Apply Be... https://opportunitiesforyouth.org/2026/11/16/lego-foundation-student-worker-strategy-2026-international-student-job-opportunity-in-denmark-apply-before-20-november-2026/ NOV 17
+- [ ] Nestlé UK Apprenticeships 2026–2027: Paid Advanced, Higher and Degree Apprenticeships with Salaries of Up t... https://opportunitiesforyouth.org/2026/11/16/nestle-uk-apprenticeships-2026-2027-paid-advanced-higher-and-degree-apprenticeships-with-salaries-of-up-to-26000-per-year/ NOV 24
 
 </details>
 
