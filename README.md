@@ -1294,6 +1294,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ICRC Trainee/Associate Internship 2027 in Brussels, Belgium – Earn Approximately €30,000 Annually https://opportunitiesforyouth.org/2026/11/14/icrc-humanitarian-affairs-adviser-job-2026-in-new-york-usa-earn-up-to-usd-140010-working-with-the-international-committee-of-the-red-cross/ NOV 20
 - [ ] Caribbean Export Consultancy 2026: Applications Reopened for Social Innovation Capacity-Building Experts in... https://opportunitiesforyouth.org/2026/11/15/caribbean-export-consultancy-2026-applications-reopened-for-social-innovation-capacity-building-experts-in-four-caribbean-countries/ NOV 21
 - [ ] THE 2027 NATURE CULTURE FELLOWSHIP: GLOBAL FELLOWSHIP OFFERING $1,000–$2,000 MICRO-GRANTS AND PROFESSIONAL... https://opportunitiesforyouth.org/2026/11/15/apply-for-the-2027-nature-culture-fellowship-global-fellowship-offering-1000-2000-micro-grants-and-professional-mentorship-for-social-and-environmental-change-makers/ NOV 28
+- [ ] Yenching Academy Scholarship 2027 in China | Fully Funded https://www.opportunitiescircle.com/yenching-academy-scholarship-in-china/ NOV 27
+- [ ] Top 10 Summer Programs Worldwide 2027 (Fully Funded) https://opportunityportal.info/top-10-summer-programs/ NOV 28
 
 </details>
 
