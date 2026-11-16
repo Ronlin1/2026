@@ -1298,6 +1298,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Top 10 Summer Programs Worldwide 2027 (Fully Funded) https://opportunityportal.info/top-10-summer-programs/ NOV 28
 - [ ] Indigenous Visual Arts Industry Support Program (Australia) https://www2.fundsforngos.org/cat/indigenous-visual-arts-industry-support-program-open-competitive-grant/ NOV 23
 - [ ] The Egbin PowerUp Internship Programme 2027 https://www.opportunitiesforafricans.com/the-egbin-powerup-internship-programme-siwes-2027/ NOV 27
+- [ ] UNODC Associate Data Scientist Job 2026 in Vienna, Austria: Apply for a P-2 United Nations Career Opportuni... https://opportunitiesforyouth.org/2026/11/16/unodc-associate-data-scientist-job-2026-in-vienna-austria-apply-for-a-p-2-united-nations-career-opportunity-before-19-november/ NOV 16
+- [ ] The African Forum and Network on Debt and Development https://www.opportunitiesforafricans.com/the-african-forum-and-network-on-debt-and-development-afrodad-internship-programme-2027/ NOV 17
 
 </details>
 
