@@ -1302,6 +1302,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The African Forum and Network on Debt and Development https://www.opportunitiesforafricans.com/the-african-forum-and-network-on-debt-and-development-afrodad-internship-programme-2027/ NOV 17
 - [ ] LEGO Foundation Student Worker – Strategy 2026: International Student Job Opportunity in Denmark | Apply Be... https://opportunitiesforyouth.org/2026/11/16/lego-foundation-student-worker-strategy-2026-international-student-job-opportunity-in-denmark-apply-before-20-november-2026/ NOV 17
 - [ ] Nestlé UK Apprenticeships 2026–2027: Paid Advanced, Higher and Degree Apprenticeships with Salaries of Up t... https://opportunitiesforyouth.org/2026/11/16/nestle-uk-apprenticeships-2026-2027-paid-advanced-higher-and-degree-apprenticeships-with-salaries-of-up-to-26000-per-year/ NOV 24
+- [ ] Memorial Foundation Global Impact Fellows Program 2027 https://opportunitydesk.org/2026/11/16/memorial-foundation-global-impact-fellows-program-2027/ NOV 27
 
 </details>
 
@@ -1328,6 +1329,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] OVW Grants to Tribal Domestic Violence and Sexual Assault Coalitions Program https://www2.fundsforngos.org/domestic-violence/ovw-fiscal-year-2026-grants-to-tribal-domestic-violence-and-sexual-assault/ DEC 4
 - [ ] RWE Bowbeat Wind Farm Community Fund (United Kingdom) https://www2.fundsforngos.org/community-development-2/rwe-bowbeat-wind-farm-peebles-and-eddleston-community-fund-supporting/ DEC 13
 - [ ] Oak Foundation Programme Officer Job 2026: Earn Approximately $130,000 to Advance the Prevention of Sexual... https://opportunitiesforyouth.org/2026/11/15/oak-foundation-programme-officer-job-2026-earn-approximately-130000-to-advance-the-prevention-of-sexual-violence-against-adolescents/ DEC 1
+- [ ] Digispace Africa Research Fellowship 2027 https://opportunitydesk.org/2026/11/16/digispace-africa-research-fellowship-2027/ DEC 4
 
 </details>
 
