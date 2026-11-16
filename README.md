@@ -1296,6 +1296,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] THE 2027 NATURE CULTURE FELLOWSHIP: GLOBAL FELLOWSHIP OFFERING $1,000–$2,000 MICRO-GRANTS AND PROFESSIONAL... https://opportunitiesforyouth.org/2026/11/15/apply-for-the-2027-nature-culture-fellowship-global-fellowship-offering-1000-2000-micro-grants-and-professional-mentorship-for-social-and-environmental-change-makers/ NOV 28
 - [ ] Yenching Academy Scholarship 2027 in China | Fully Funded https://www.opportunitiescircle.com/yenching-academy-scholarship-in-china/ NOV 27
 - [ ] Top 10 Summer Programs Worldwide 2027 (Fully Funded) https://opportunityportal.info/top-10-summer-programs/ NOV 28
+- [ ] Indigenous Visual Arts Industry Support Program (Australia) https://www2.fundsforngos.org/cat/indigenous-visual-arts-industry-support-program-open-competitive-grant/ NOV 23
+- [ ] The Egbin PowerUp Internship Programme 2027 https://www.opportunitiesforafricans.com/the-egbin-powerup-internship-programme-siwes-2027/ NOV 27
 
 </details>
 
