@@ -1305,6 +1305,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Memorial Foundation Global Impact Fellows Program 2027 https://opportunitydesk.org/2026/11/16/memorial-foundation-global-impact-fellows-program-2027/ NOV 27
 - [ ] Apply Now: Italy-AOSIS Fellowship Programme https://www2.fundsforngos.org/individuals/italy-aosis-fellowship-program-for-early-career-diplomats-from-sids/ NOV 17
 - [ ] Call for Proposals: MDx Impact Grant Program https://www2.fundsforngos.org/research-2/nature-awards-mdx-impact-grants-advancing-diagnostic-tools-for-alzheimer-s/ NOV 17
+- [ ] Nigeria Sustainability Competition 2026 (₦1,000,000 prize) https://opportunitydesk.org/2026/11/17/nigeria-sustainability-competition-2026/ NOV 17
+- [ ] Open Call: Support Grants for Care Leavers (United Kingdom) https://www2.fundsforngos.org/individuals/support-grants-for-care-leavers-by-hiwcf/ NOV 27
 
 </details>
 
