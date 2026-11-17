@@ -1309,6 +1309,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Open Call: Support Grants for Care Leavers (United Kingdom) https://www2.fundsforngos.org/individuals/support-grants-for-care-leavers-by-hiwcf/ NOV 27
 - [ ] UK Youth Is Hiring: Youth Sector Development Partnership Manager in London – £47,699 Salary https://opportunitiesforyouth.org/2026/11/17/uk-youth-is-hiring-youth-sector-development-partnership-manager-in-london-47699-salary-2026/ NOV 19
 - [ ] iDAC Foundation Summer Fellowship 2027 ($6,000 stipend) https://opportunitydesk.org/2026/11/17/idac-foundation-summer-fellowship-2027/ NOV 20
+- [ ] UNDP Internship 2026 in Italy: Programme Management and Operations Support Internship in Rome https://opportunitiesforyouth.org/2026/11/17/undp-internship-2026-in-italy-programme-management-and-operations-support-internship-in-rome/ NOV 24
+- [ ] The FAO Innovation Beyond the Buzzword Video Challenge 2026 https://www.opportunitiesforafricans.com/the-fao-innovation-beyond-the-buzzword-video-challenge-2026/ NOV 27
 
 </details>
 
