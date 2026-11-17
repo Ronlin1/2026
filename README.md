@@ -1303,6 +1303,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] LEGO Foundation Student Worker – Strategy 2026: International Student Job Opportunity in Denmark | Apply Be... https://opportunitiesforyouth.org/2026/11/16/lego-foundation-student-worker-strategy-2026-international-student-job-opportunity-in-denmark-apply-before-20-november-2026/ NOV 17
 - [ ] Nestlé UK Apprenticeships 2026–2027: Paid Advanced, Higher and Degree Apprenticeships with Salaries of Up t... https://opportunitiesforyouth.org/2026/11/16/nestle-uk-apprenticeships-2026-2027-paid-advanced-higher-and-degree-apprenticeships-with-salaries-of-up-to-26000-per-year/ NOV 24
 - [ ] Memorial Foundation Global Impact Fellows Program 2027 https://opportunitydesk.org/2026/11/16/memorial-foundation-global-impact-fellows-program-2027/ NOV 27
+- [ ] Apply Now: Italy-AOSIS Fellowship Programme https://www2.fundsforngos.org/individuals/italy-aosis-fellowship-program-for-early-career-diplomats-from-sids/ NOV 17
+- [ ] Call for Proposals: MDx Impact Grant Program https://www2.fundsforngos.org/research-2/nature-awards-mdx-impact-grants-advancing-diagnostic-tools-for-alzheimer-s/ NOV 17
 
 </details>
 
