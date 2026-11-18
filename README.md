@@ -1319,6 +1319,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Submit Applications for Hong Kong PhD Fellowship Scheme https://www2.fundsforngos.org/leadership/submit-applications-for-hong-kong-phd-fellowship-scheme/ NOV 28
 - [ ] Plan International Ghana Announces Three Job Vacancies for November 2026: Project Accountant, District Offi... https://opportunitiesforyouth.org/2026/11/18/plan-international-ghana-announces-three-job-vacancies-for-november-2026-project-accountant-district-officer-and-supply-chain-coordinator/ NOV 18
 - [ ] Ocean Culture Storytelling Grants 2027: Apply for Up to £5,000 to Fund Film, Photography, Writing and Ocean... https://opportunitiesforyouth.org/2026/11/18/ocean-culture-storytelling-grants-2027-apply-for-up-to-5000-to-fund-film-photography-writing-and-ocean-conservation-stories-worldwide/ NOV 28
+- [ ] Digital Democracy Edinburgh 2027 Travel Stipends for Young Civic Technology and Digital Democracy Leaders W... https://opportunitiesforyouth.org/2026/11/17/digital-democracy-edinburgh-2027-travel-stipends-for-young-civic-technology-and-digital-democracy-leaders-worldwide/ NOV 30
 
 </details>
 
@@ -1346,6 +1347,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] RWE Bowbeat Wind Farm Community Fund (United Kingdom) https://www2.fundsforngos.org/community-development-2/rwe-bowbeat-wind-farm-peebles-and-eddleston-community-fund-supporting/ DEC 13
 - [ ] Oak Foundation Programme Officer Job 2026: Earn Approximately $130,000 to Advance the Prevention of Sexual... https://opportunitiesforyouth.org/2026/11/15/oak-foundation-programme-officer-job-2026-earn-approximately-130000-to-advance-the-prevention-of-sexual-violence-against-adolescents/ DEC 1
 - [ ] Digispace Africa Research Fellowship 2027 https://opportunitydesk.org/2026/11/16/digispace-africa-research-fellowship-2027/ DEC 4
+- [ ] Journalism & Women Symposium Health Journalism Fellowship 2027 https://opportunitydesk.org/2026/11/18/jaws-health-journalism-fellowship-2027/ DEC 4
 
 </details>
 
