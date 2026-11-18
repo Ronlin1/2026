@@ -1315,6 +1315,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Northeast Community Innovation Challenge Grant (Nigeria) https://www2.fundsforngos.org/construction/apply-now-for-northeast-community-innovation-challenge-grant-nigeria/ NOV 24
 - [ ] Global Youth Mental Health Research Fellowship Program (Pakistan) https://www2.fundsforngos.org/individuals/global-youth-mental-health-research-fellowship-program-pakistan/ NOV 27
 - [ ] Millennium Fellowship Program https://www2.fundsforngos.org/leadership/call-for-applications-millennium-fellowship-program/ NOV 27
+- [ ] The 2027 EJN Story Grants to Report on Mining, Environment and Human Rights in Africa https://www.opportunitiesforafricans.com/the-2027-ejn-story-grants-to-report-on-mining-environment-and-human-rights/ NOV 28
+- [ ] Submit Applications for Hong Kong PhD Fellowship Scheme https://www2.fundsforngos.org/leadership/submit-applications-for-hong-kong-phd-fellowship-scheme/ NOV 28
 
 </details>
 
