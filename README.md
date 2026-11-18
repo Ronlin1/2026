@@ -1313,6 +1313,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The FAO Innovation Beyond the Buzzword Video Challenge 2026 https://www.opportunitiesforafricans.com/the-fao-innovation-beyond-the-buzzword-video-challenge-2026/ NOV 27
 - [ ] Call for Proposals: Supporting Farmers’ Organizations to Deliver Rapid Crisis Response and Strengthen Rural... https://www2.fundsforngos.org/environment-2/call-for-proposals-supporting-farmers-organizations-to-deliver-rapid/ NOV 18
 - [ ] Northeast Community Innovation Challenge Grant (Nigeria) https://www2.fundsforngos.org/construction/apply-now-for-northeast-community-innovation-challenge-grant-nigeria/ NOV 24
+- [ ] Global Youth Mental Health Research Fellowship Program (Pakistan) https://www2.fundsforngos.org/individuals/global-youth-mental-health-research-fellowship-program-pakistan/ NOV 27
+- [ ] Millennium Fellowship Program https://www2.fundsforngos.org/leadership/call-for-applications-millennium-fellowship-program/ NOV 27
 
 </details>
 
