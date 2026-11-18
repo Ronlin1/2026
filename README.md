@@ -1317,6 +1317,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Millennium Fellowship Program https://www2.fundsforngos.org/leadership/call-for-applications-millennium-fellowship-program/ NOV 27
 - [ ] The 2027 EJN Story Grants to Report on Mining, Environment and Human Rights in Africa https://www.opportunitiesforafricans.com/the-2027-ejn-story-grants-to-report-on-mining-environment-and-human-rights/ NOV 28
 - [ ] Submit Applications for Hong Kong PhD Fellowship Scheme https://www2.fundsforngos.org/leadership/submit-applications-for-hong-kong-phd-fellowship-scheme/ NOV 28
+- [ ] Plan International Ghana Announces Three Job Vacancies for November 2026: Project Accountant, District Offi... https://opportunitiesforyouth.org/2026/11/18/plan-international-ghana-announces-three-job-vacancies-for-november-2026-project-accountant-district-officer-and-supply-chain-coordinator/ NOV 18
+- [ ] Ocean Culture Storytelling Grants 2027: Apply for Up to £5,000 to Fund Film, Photography, Writing and Ocean... https://opportunitiesforyouth.org/2026/11/18/ocean-culture-storytelling-grants-2027-apply-for-up-to-5000-to-fund-film-photography-writing-and-ocean-conservation-stories-worldwide/ NOV 28
 
 </details>
 
