@@ -1327,6 +1327,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Aspen CE Madeleine K. Albright Leadership Award 2026: Recognizing Young Emerging Leaders Driving Positive S... https://opportunitiesforyouth.org/2026/11/19/aspen-ce-madeleine-k-albright-leadership-award-2026-recognizing-young-emerging-leaders-driving-positive-social-change-in-central-europe/ NOV 27
 - [ ] New Economy Leaders Academy 2027: 9-Month International Leadership and Mentoring Programme for Professionals https://opportunitiesforyouth.org/2026/11/19/new-economy-leaders-academy-2026-applications-now-open/ NOV 28
 - [ ] North Star Fund Grants 2026: Funding for Grassroots Organizations in New York City and Hudson Valley https://opportunitiesforyouth.org/2026/11/19/north-star-fund-grants-2026-funding-for-grassroots-organizations-in-new-york-city-and-hudson-valley/ NOV 30
+- [ ] Accountability Lab 2027 Digital Governance and Climate Justice Incubators: Apply for Two Transformative Pro... https://opportunitiesforyouth.org/2026/11/19/accountability-lab-2027-digital-governance-and-climate-justice-incubators-apply-for-two-transformative-programmes-supporting-young-african-leaders-in-civic-technology-human-rights-and-climate-action/ NOV 26
 
 </details>
 
@@ -1356,6 +1357,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Digispace Africa Research Fellowship 2027 https://opportunitydesk.org/2026/11/16/digispace-africa-research-fellowship-2027/ DEC 4
 - [ ] Journalism & Women Symposium Health Journalism Fellowship 2027 https://opportunitydesk.org/2026/11/18/jaws-health-journalism-fellowship-2027/ DEC 4
 - [ ] Erase Indifference Challenge 2026: Apply for €90,000 in Awards for Innovative Projects Combating Discrimina... https://opportunitiesforyouth.org/2026/11/19/erase-indifference-challenge-2026-apply-for-e90000-in-awards-for-innovative-projects-combating-discrimination-hate-and-social-indifference/ DEC 1
+- [ ] PBS Accelerator Fellowship 2027–2028: Paid One-Year Media Fellowship for Producers, Journalists, Editors an... https://opportunitiesforyouth.org/2026/11/19/pbs-accelerator-fellowship-2027-2028-paid-one-year-media-fellowship-for-producers-journalists-editors-and-creative-media-professionals/ DEC 3
 
 </details>
 
