@@ -1326,6 +1326,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Submissions Open for Digital Skills Training and Youth Employment Programme https://www2.fundsforngos.org/education-2/submissions-open-for-digital-skills-training-and-youth-employment-programme-pakistan/ NOV 28
 - [ ] Aspen CE Madeleine K. Albright Leadership Award 2026: Recognizing Young Emerging Leaders Driving Positive S... https://opportunitiesforyouth.org/2026/11/19/aspen-ce-madeleine-k-albright-leadership-award-2026-recognizing-young-emerging-leaders-driving-positive-social-change-in-central-europe/ NOV 27
 - [ ] New Economy Leaders Academy 2027: 9-Month International Leadership and Mentoring Programme for Professionals https://opportunitiesforyouth.org/2026/11/19/new-economy-leaders-academy-2026-applications-now-open/ NOV 28
+- [ ] North Star Fund Grants 2026: Funding for Grassroots Organizations in New York City and Hudson Valley https://opportunitiesforyouth.org/2026/11/19/north-star-fund-grants-2026-funding-for-grassroots-organizations-in-new-york-city-and-hudson-valley/ NOV 30
 
 </details>
 
@@ -1354,6 +1355,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Oak Foundation Programme Officer Job 2026: Earn Approximately $130,000 to Advance the Prevention of Sexual... https://opportunitiesforyouth.org/2026/11/15/oak-foundation-programme-officer-job-2026-earn-approximately-130000-to-advance-the-prevention-of-sexual-violence-against-adolescents/ DEC 1
 - [ ] Digispace Africa Research Fellowship 2027 https://opportunitydesk.org/2026/11/16/digispace-africa-research-fellowship-2027/ DEC 4
 - [ ] Journalism & Women Symposium Health Journalism Fellowship 2027 https://opportunitydesk.org/2026/11/18/jaws-health-journalism-fellowship-2027/ DEC 4
+- [ ] Erase Indifference Challenge 2026: Apply for €90,000 in Awards for Innovative Projects Combating Discrimina... https://opportunitiesforyouth.org/2026/11/19/erase-indifference-challenge-2026-apply-for-e90000-in-awards-for-innovative-projects-combating-discrimination-hate-and-social-indifference/ DEC 1
 
 </details>
 
