@@ -1320,6 +1320,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Plan International Ghana Announces Three Job Vacancies for November 2026: Project Accountant, District Offi... https://opportunitiesforyouth.org/2026/11/18/plan-international-ghana-announces-three-job-vacancies-for-november-2026-project-accountant-district-officer-and-supply-chain-coordinator/ NOV 18
 - [ ] Ocean Culture Storytelling Grants 2027: Apply for Up to £5,000 to Fund Film, Photography, Writing and Ocean... https://opportunitiesforyouth.org/2026/11/18/ocean-culture-storytelling-grants-2027-apply-for-up-to-5000-to-fund-film-photography-writing-and-ocean-conservation-stories-worldwide/ NOV 28
 - [ ] Digital Democracy Edinburgh 2027 Travel Stipends for Young Civic Technology and Digital Democracy Leaders W... https://opportunitiesforyouth.org/2026/11/17/digital-democracy-edinburgh-2027-travel-stipends-for-young-civic-technology-and-digital-democracy-leaders-worldwide/ NOV 30
+- [ ] ILO BRMM Programme Journalism and Storytelling Competition https://www2.fundsforngos.org/individuals/ilo-brmm-programme-journalism-and-storytelling-competition/ NOV 22
+- [ ] Open Call: lStrengthening Canada’s Nitrogen-Vacancy Diamond Capability Challenge https://www2.fundsforngos.org/manufacturing/open-call-lstrengthening-canadas-nitrogen-vacancy-diamond-capability-challenge/ NOV 24
 
 </details>
 
