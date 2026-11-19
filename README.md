@@ -1324,6 +1324,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Open Call: lStrengthening Canada’s Nitrogen-Vacancy Diamond Capability Challenge https://www2.fundsforngos.org/manufacturing/open-call-lstrengthening-canadas-nitrogen-vacancy-diamond-capability-challenge/ NOV 24
 - [ ] Strengthening Canada’s Nitrogen-Vacancy Diamond Capability Challenge https://www2.fundsforngos.org/research-2/strengthening-canadas-nitrogen-vacancy-diamond-capability-challenge/ NOV 24
 - [ ] Submissions Open for Digital Skills Training and Youth Employment Programme https://www2.fundsforngos.org/education-2/submissions-open-for-digital-skills-training-and-youth-employment-programme-pakistan/ NOV 28
+- [ ] Aspen CE Madeleine K. Albright Leadership Award 2026: Recognizing Young Emerging Leaders Driving Positive S... https://opportunitiesforyouth.org/2026/11/19/aspen-ce-madeleine-k-albright-leadership-award-2026-recognizing-young-emerging-leaders-driving-positive-social-change-in-central-europe/ NOV 27
+- [ ] New Economy Leaders Academy 2027: 9-Month International Leadership and Mentoring Programme for Professionals https://opportunitiesforyouth.org/2026/11/19/new-economy-leaders-academy-2026-applications-now-open/ NOV 28
 
 </details>
 
