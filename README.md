@@ -1322,6 +1322,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Digital Democracy Edinburgh 2027 Travel Stipends for Young Civic Technology and Digital Democracy Leaders W... https://opportunitiesforyouth.org/2026/11/17/digital-democracy-edinburgh-2027-travel-stipends-for-young-civic-technology-and-digital-democracy-leaders-worldwide/ NOV 30
 - [ ] ILO BRMM Programme Journalism and Storytelling Competition https://www2.fundsforngos.org/individuals/ilo-brmm-programme-journalism-and-storytelling-competition/ NOV 22
 - [ ] Open Call: lStrengthening Canada’s Nitrogen-Vacancy Diamond Capability Challenge https://www2.fundsforngos.org/manufacturing/open-call-lstrengthening-canadas-nitrogen-vacancy-diamond-capability-challenge/ NOV 24
+- [ ] Strengthening Canada’s Nitrogen-Vacancy Diamond Capability Challenge https://www2.fundsforngos.org/research-2/strengthening-canadas-nitrogen-vacancy-diamond-capability-challenge/ NOV 24
+- [ ] Submissions Open for Digital Skills Training and Youth Employment Programme https://www2.fundsforngos.org/education-2/submissions-open-for-digital-skills-training-and-youth-employment-programme-pakistan/ NOV 28
 
 </details>
 
