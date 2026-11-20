@@ -1332,6 +1332,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Internship Opportunities at the UK Mission to the UN in Geneva 2027: Humanitarian Affairs, Migration and Fo... https://opportunitiesforyouth.org/2026/11/20/internship-opportunities-at-the-uk-mission-to-the-un-in-geneva-2027-humanitarian-affairs-migration-and-forced-displacement-chf-1450-monthly-stipend/ NOV 23
 - [ ] CRECO Kenya Digital Democracy Fellowship Program https://www2.fundsforngos.org/individuals/creco-kenya-digital-democracy-fellowship-program/ NOV 27
 - [ ] IAS Person-Centred Care Global Advocacy Academy 2027 (Funded) https://opportunitydesk.org/2026/11/20/ias-person-centred-care-global-advocacy-academy-2027/ NOV 27
+- [ ] The Accountability Lab East and Southern Africa 2027 Digital Governance Incubator Program 2027 https://www.opportunitiesforafricans.com/the-accountability-lab-east-and-southern-africa-alesa-2027-digital-governance-incubator-program-2027/ NOV 26
+- [ ] World Economic Forum Early Careers Programme 2027: Paid Graduate Roles in Switzerland, China and USA https://opportunitiesforyouth.org/2026/11/20/world-economic-forum-early-careers-programme-2027-paid-graduate-roles-in-switzerland-china-and-usa/ NOV 29
 
 </details>
 
