@@ -1366,6 +1366,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] PBS Accelerator Fellowship 2027–2028: Paid One-Year Media Fellowship for Producers, Journalists, Editors an... https://opportunitiesforyouth.org/2026/11/19/pbs-accelerator-fellowship-2027-2028-paid-one-year-media-fellowship-for-producers-journalists-editors-and-creative-media-professionals/ DEC 3
 - [ ] UNITAR Traineeships 2026: Apply for 3–6 Month Training Opportunities in New York and Geneva, Switzerland https://opportunitiesforyouth.org/2026/11/20/unitar-traineeships-2026-apply-for-3-6-month-training-opportunities-in-new-york-and-geneva-switzerland/ DEC 2
 - [ ] Rest & Resilience Fellowship 2027 (Fully-funded) https://opportunitydesk.org/2026/11/19/rest-resilience-fellowship-2027/ DEC 3
+- [ ] The taz Panter Foundation Rest & Resilience Fellowship 2027 https://www.opportunitiesforafricans.com/the-taz-panter-foundation-rest-resilience-fellowship-2027-for-journalists-worldwide/ DEC 3
+- [ ] Call for Proposals: Foreign Qualification Recognition Funding (Canada) https://www2.fundsforngos.org/employment-and-labor/call-for-proposals-foreign-qualification-recognition-funding-canada/ DEC 5
 
 </details>
 
