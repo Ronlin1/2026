@@ -1364,6 +1364,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Journalism & Women Symposium Health Journalism Fellowship 2027 https://opportunitydesk.org/2026/11/18/jaws-health-journalism-fellowship-2027/ DEC 4
 - [ ] Erase Indifference Challenge 2026: Apply for €90,000 in Awards for Innovative Projects Combating Discrimina... https://opportunitiesforyouth.org/2026/11/19/erase-indifference-challenge-2026-apply-for-e90000-in-awards-for-innovative-projects-combating-discrimination-hate-and-social-indifference/ DEC 1
 - [ ] PBS Accelerator Fellowship 2027–2028: Paid One-Year Media Fellowship for Producers, Journalists, Editors an... https://opportunitiesforyouth.org/2026/11/19/pbs-accelerator-fellowship-2027-2028-paid-one-year-media-fellowship-for-producers-journalists-editors-and-creative-media-professionals/ DEC 3
+- [ ] UNITAR Traineeships 2026: Apply for 3–6 Month Training Opportunities in New York and Geneva, Switzerland https://opportunitiesforyouth.org/2026/11/20/unitar-traineeships-2026-apply-for-3-6-month-training-opportunities-in-new-york-and-geneva-switzerland/ DEC 2
+- [ ] Rest & Resilience Fellowship 2027 (Fully-funded) https://opportunitydesk.org/2026/11/19/rest-resilience-fellowship-2027/ DEC 3
 
 </details>
 
