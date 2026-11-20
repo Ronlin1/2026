@@ -1330,6 +1330,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Accountability Lab 2027 Digital Governance and Climate Justice Incubators: Apply for Two Transformative Pro... https://opportunitiesforyouth.org/2026/11/19/accountability-lab-2027-digital-governance-and-climate-justice-incubators-apply-for-two-transformative-programmes-supporting-young-african-leaders-in-civic-technology-human-rights-and-climate-action/ NOV 26
 - [ ] CFAs: Country Focal Person Positions to Strengthen International Academic Cooperation https://www2.fundsforngos.org/individuals/cfas-country-focal-person-positions-to-strengthen-international-academic-cooperation-nepal/ NOV 22
 - [ ] Internship Opportunities at the UK Mission to the UN in Geneva 2027: Humanitarian Affairs, Migration and Fo... https://opportunitiesforyouth.org/2026/11/20/internship-opportunities-at-the-uk-mission-to-the-un-in-geneva-2027-humanitarian-affairs-migration-and-forced-displacement-chf-1450-monthly-stipend/ NOV 23
+- [ ] CRECO Kenya Digital Democracy Fellowship Program https://www2.fundsforngos.org/individuals/creco-kenya-digital-democracy-fellowship-program/ NOV 27
+- [ ] IAS Person-Centred Care Global Advocacy Academy 2027 (Funded) https://opportunitydesk.org/2026/11/20/ias-person-centred-care-global-advocacy-academy-2027/ NOV 27
 
 </details>
 
