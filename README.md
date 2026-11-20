@@ -1328,6 +1328,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] New Economy Leaders Academy 2027: 9-Month International Leadership and Mentoring Programme for Professionals https://opportunitiesforyouth.org/2026/11/19/new-economy-leaders-academy-2026-applications-now-open/ NOV 28
 - [ ] North Star Fund Grants 2026: Funding for Grassroots Organizations in New York City and Hudson Valley https://opportunitiesforyouth.org/2026/11/19/north-star-fund-grants-2026-funding-for-grassroots-organizations-in-new-york-city-and-hudson-valley/ NOV 30
 - [ ] Accountability Lab 2027 Digital Governance and Climate Justice Incubators: Apply for Two Transformative Pro... https://opportunitiesforyouth.org/2026/11/19/accountability-lab-2027-digital-governance-and-climate-justice-incubators-apply-for-two-transformative-programmes-supporting-young-african-leaders-in-civic-technology-human-rights-and-climate-action/ NOV 26
+- [ ] CFAs: Country Focal Person Positions to Strengthen International Academic Cooperation https://www2.fundsforngos.org/individuals/cfas-country-focal-person-positions-to-strengthen-international-academic-cooperation-nepal/ NOV 22
+- [ ] Internship Opportunities at the UK Mission to the UN in Geneva 2027: Humanitarian Affairs, Migration and Fo... https://opportunitiesforyouth.org/2026/11/20/internship-opportunities-at-the-uk-mission-to-the-un-in-geneva-2027-humanitarian-affairs-migration-and-forced-displacement-chf-1450-monthly-stipend/ NOV 23
 
 </details>
 
