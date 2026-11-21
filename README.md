@@ -1372,6 +1372,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Rest and Resilience Fellowship 2027 in Germany | Fully Funded https://scholarshipscorner.website/rest-and-resilience-fellowship/ DEC 3
 - [ ] The Central Bank of Kenya Internship Programme 2026 https://www.opportunitiesforafricans.com/the-central-bank-of-kenya-cbk-internship-programme-2026-for-young-kenyan-graduates/ DEC 7
 - [ ] NIVEA CONNECT Gen Z Research Grant Program 2026 (up to €30,000) https://opportunitydesk.org/2026/11/20/nivea-connect-gen-z-research-grant-program-2026/ DEC 8
+- [ ] Submit Applications for Friends of Pakistan Fellowship Program https://www2.fundsforngos.org/community-development-2/submit-applications-for-friends-of-pakistan-fellowship-program/ DEC 8
+- [ ] Nominations Open for Safe Haven Fellowship Program https://www2.fundsforngos.org/individuals/nominations-open-for-safe-haven-fellowship-program/ DEC 11
 
 </details>
 
