@@ -1376,6 +1376,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Nominations Open for Safe Haven Fellowship Program https://www2.fundsforngos.org/individuals/nominations-open-for-safe-haven-fellowship-program/ DEC 11
 - [ ] Submissions Open for Grant Writing and Resource Mobilisation Consultancy (Kenya) https://www2.fundsforngos.org/individuals/submissions-open-for-grant-writing-and-resource-mobilisation-consultancy-kenya/ DEC 12
 - [ ] ETH Student Summer Research Fellowship 2027 in Switzerland | Fully Funded https://scholarshipscorner.website/eth-student-summer-research-fellowship/ DEC 13
+- [ ] Congestion Relief Competitive Grant Program (United States) https://www2.fundsforngos.org/innovation/apply-now-for-congestion-relief-competitive-grant-program-united-states/ DEC 14
+- [ ] Eat Right India Photography Contest (India) https://www2.fundsforngos.org/individuals/applications-open-for-eat-right-india-photography-contest-india/ DEC 15
 
 </details>
 
