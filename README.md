@@ -1374,6 +1374,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NIVEA CONNECT Gen Z Research Grant Program 2026 (up to €30,000) https://opportunitydesk.org/2026/11/20/nivea-connect-gen-z-research-grant-program-2026/ DEC 8
 - [ ] Submit Applications for Friends of Pakistan Fellowship Program https://www2.fundsforngos.org/community-development-2/submit-applications-for-friends-of-pakistan-fellowship-program/ DEC 8
 - [ ] Nominations Open for Safe Haven Fellowship Program https://www2.fundsforngos.org/individuals/nominations-open-for-safe-haven-fellowship-program/ DEC 11
+- [ ] Submissions Open for Grant Writing and Resource Mobilisation Consultancy (Kenya) https://www2.fundsforngos.org/individuals/submissions-open-for-grant-writing-and-resource-mobilisation-consultancy-kenya/ DEC 12
+- [ ] ETH Student Summer Research Fellowship 2027 in Switzerland | Fully Funded https://scholarshipscorner.website/eth-student-summer-research-fellowship/ DEC 13
 
 </details>
 
