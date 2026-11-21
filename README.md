@@ -1334,6 +1334,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] IAS Person-Centred Care Global Advocacy Academy 2027 (Funded) https://opportunitydesk.org/2026/11/20/ias-person-centred-care-global-advocacy-academy-2027/ NOV 27
 - [ ] The Accountability Lab East and Southern Africa 2027 Digital Governance Incubator Program 2027 https://www.opportunitiesforafricans.com/the-accountability-lab-east-and-southern-africa-alesa-2027-digital-governance-incubator-program-2027/ NOV 26
 - [ ] World Economic Forum Early Careers Programme 2027: Paid Graduate Roles in Switzerland, China and USA https://opportunitiesforyouth.org/2026/11/20/world-economic-forum-early-careers-programme-2027-paid-graduate-roles-in-switzerland-china-and-usa/ NOV 29
+- [ ] Dataphyte Foundation Infra-Watch Media Fellowship 2027 https://opportunitydesk.org/2026/11/21/dataphyte-foundation-infra-watch-media-fellowship-2027/ NOV 24
 
 </details>
 
@@ -1370,6 +1371,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Call for Proposals: Foreign Qualification Recognition Funding (Canada) https://www2.fundsforngos.org/employment-and-labor/call-for-proposals-foreign-qualification-recognition-funding-canada/ DEC 5
 - [ ] Rest and Resilience Fellowship 2027 in Germany | Fully Funded https://scholarshipscorner.website/rest-and-resilience-fellowship/ DEC 3
 - [ ] The Central Bank of Kenya Internship Programme 2026 https://www.opportunitiesforafricans.com/the-central-bank-of-kenya-cbk-internship-programme-2026-for-young-kenyan-graduates/ DEC 7
+- [ ] NIVEA CONNECT Gen Z Research Grant Program 2026 (up to €30,000) https://opportunitydesk.org/2026/11/20/nivea-connect-gen-z-research-grant-program-2026/ DEC 8
 
 </details>
 
