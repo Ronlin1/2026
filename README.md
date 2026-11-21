@@ -1368,6 +1368,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Rest & Resilience Fellowship 2027 (Fully-funded) https://opportunitydesk.org/2026/11/19/rest-resilience-fellowship-2027/ DEC 3
 - [ ] The taz Panter Foundation Rest & Resilience Fellowship 2027 https://www.opportunitiesforafricans.com/the-taz-panter-foundation-rest-resilience-fellowship-2027-for-journalists-worldwide/ DEC 3
 - [ ] Call for Proposals: Foreign Qualification Recognition Funding (Canada) https://www2.fundsforngos.org/employment-and-labor/call-for-proposals-foreign-qualification-recognition-funding-canada/ DEC 5
+- [ ] Rest and Resilience Fellowship 2027 in Germany | Fully Funded https://scholarshipscorner.website/rest-and-resilience-fellowship/ DEC 3
+- [ ] The Central Bank of Kenya Internship Programme 2026 https://www.opportunitiesforafricans.com/the-central-bank-of-kenya-cbk-internship-programme-2026-for-young-kenyan-graduates/ DEC 7
 
 </details>
 
