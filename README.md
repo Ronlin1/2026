@@ -1335,6 +1335,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The Accountability Lab East and Southern Africa 2027 Digital Governance Incubator Program 2027 https://www.opportunitiesforafricans.com/the-accountability-lab-east-and-southern-africa-alesa-2027-digital-governance-incubator-program-2027/ NOV 26
 - [ ] World Economic Forum Early Careers Programme 2027: Paid Graduate Roles in Switzerland, China and USA https://opportunitiesforyouth.org/2026/11/20/world-economic-forum-early-careers-programme-2027-paid-graduate-roles-in-switzerland-china-and-usa/ NOV 29
 - [ ] Dataphyte Foundation Infra-Watch Media Fellowship 2027 https://opportunitydesk.org/2026/11/21/dataphyte-foundation-infra-watch-media-fellowship-2027/ NOV 24
+- [ ] Qatar University Scholarships 2027 in Qatar | Fully Funded & Other Scholarships https://scholarshipscorner.website/qatar-university-scholarships/ NOV 29
 
 </details>
 
@@ -1378,6 +1379,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] ETH Student Summer Research Fellowship 2027 in Switzerland | Fully Funded https://scholarshipscorner.website/eth-student-summer-research-fellowship/ DEC 13
 - [ ] Congestion Relief Competitive Grant Program (United States) https://www2.fundsforngos.org/innovation/apply-now-for-congestion-relief-competitive-grant-program-united-states/ DEC 14
 - [ ] Eat Right India Photography Contest (India) https://www2.fundsforngos.org/individuals/applications-open-for-eat-right-india-photography-contest-india/ DEC 15
+- [ ] OECD Temporary Junior Policy Analyst – Research and Statistics 2027 in France: Apply for an International E... https://opportunitiesforyouth.org/2026/11/20/oecd-temporary-junior-policy-analyst-research-and-statistics-2027-in-france-apply-for-an-international-education-policy-research-job-in-paris/ DEC 17
 
 </details>
 
