@@ -1382,6 +1382,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] OECD Temporary Junior Policy Analyst – Research and Statistics 2027 in France: Apply for an International E... https://opportunitiesforyouth.org/2026/11/20/oecd-temporary-junior-policy-analyst-research-and-statistics-2027-in-france-apply-for-an-international-education-policy-research-job-in-paris/ DEC 17
 - [ ] Erasmus Mundus EMLE Scholarship 2027–2028 | Fully Funded https://scholarshipscorner.website/erasmus-mundus-emle-scholarship/ DEC 28
 - [ ] GEF Small Grants Programme Eighth Operational Phase in Ethiopia https://www2.fundsforngos.org/innovation/apply-now-for-gef-small-grants-programme-eighth-operational-phase-in-ethiopia/ DEC 28
+- [ ] India: New Funding Calls and Career-Building Opportunities Await! https://www2.fundsforngos.org/listing/india-new-funding-calls-and-career-building-opportunities-await/ DEC 28
+- [ ] Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028 https://opportunitydesk.org/2026/11/21/mastercard-foundation-scholars-program-at-the-university-of-cambridge-2027-2028/ DEC 28
 
 </details>
 
