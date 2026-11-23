@@ -1338,6 +1338,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Qatar University Scholarships 2027 in Qatar | Fully Funded & Other Scholarships https://scholarshipscorner.website/qatar-university-scholarships/ NOV 29
 - [ ] Entries Open: Global Student Contest for World Soil Day 2026 https://www2.fundsforngos.org/fellowships/entries-open-global-student-contest-for-world-soil-day-2026/ NOV 23
 - [ ] Public Policy New Voices Fellowship Program 2026-2027 https://opportunitydesk.org/2026/11/23/public-policy-new-voices-fellowship-program-2026-2027/ NOV 26
+- [ ] Apply Now: Digital Animal Health and Production Challenge (Vietnam) https://www2.fundsforngos.org/fellowships/apply-now-digital-animal-health-and-production-challenge-vietnam/ NOV 27
 
 </details>
 
@@ -1386,6 +1387,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] GEF Small Grants Programme Eighth Operational Phase in Ethiopia https://www2.fundsforngos.org/innovation/apply-now-for-gef-small-grants-programme-eighth-operational-phase-in-ethiopia/ DEC 28
 - [ ] India: New Funding Calls and Career-Building Opportunities Await! https://www2.fundsforngos.org/listing/india-new-funding-calls-and-career-building-opportunities-await/ DEC 28
 - [ ] Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028 https://opportunitydesk.org/2026/11/21/mastercard-foundation-scholars-program-at-the-university-of-cambridge-2027-2028/ DEC 28
+- [ ] The WINIR Young Scholars Pre-Conference Workshop on Innovation, Institutions & Inclusion for early career r... https://www.opportunitiesforafricans.com/the-winir-young-scholars-pre-conference-workshop-on-innovation-institutions-inclusion/ DEC 2
 
 </details>
 
