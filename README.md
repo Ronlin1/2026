@@ -1388,6 +1388,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] India: New Funding Calls and Career-Building Opportunities Await! https://www2.fundsforngos.org/listing/india-new-funding-calls-and-career-building-opportunities-await/ DEC 28
 - [ ] Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028 https://opportunitydesk.org/2026/11/21/mastercard-foundation-scholars-program-at-the-university-of-cambridge-2027-2028/ DEC 28
 - [ ] The WINIR Young Scholars Pre-Conference Workshop on Innovation, Institutions & Inclusion for early career r... https://www.opportunitiesforafricans.com/the-winir-young-scholars-pre-conference-workshop-on-innovation-institutions-inclusion/ DEC 2
+- [ ] Call for Proposals: Sydney Bailey Fund https://www2.fundsforngos.org/fellowships/call-for-proposals-sydney-bailey-fund/ DEC 3
+- [ ] Volunteering for ALL 2027 in Norway: SALTO Training Course on Inclusive European Solidarity Corps Volunteer... https://opportunitiesforyouth.org/2026/11/23/volunteering-for-all-2027-in-norway-salto-training-course-on-inclusive-european-solidarity-corps-volunteering-projects/ DEC 4
 
 </details>
 
