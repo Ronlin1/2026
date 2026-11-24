@@ -1390,6 +1390,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The WINIR Young Scholars Pre-Conference Workshop on Innovation, Institutions & Inclusion for early career r... https://www.opportunitiesforafricans.com/the-winir-young-scholars-pre-conference-workshop-on-innovation-institutions-inclusion/ DEC 2
 - [ ] Call for Proposals: Sydney Bailey Fund https://www2.fundsforngos.org/fellowships/call-for-proposals-sydney-bailey-fund/ DEC 3
 - [ ] Volunteering for ALL 2027 in Norway: SALTO Training Course on Inclusive European Solidarity Corps Volunteer... https://opportunitiesforyouth.org/2026/11/23/volunteering-for-all-2027-in-norway-salto-training-course-on-inclusive-european-solidarity-corps-volunteering-projects/ DEC 4
+- [ ] African Futures Research Leadership Program 2027: Fully Funded Visiting Scholar Opportunity at Michigan Sta... https://opportunitiesforyouth.org/2026/11/23/african-futures-research-leadership-program-2027-cohort-7-fully-funded-visiting-scholar-opportunity-at-michigan-state-university-for-african-researchers/ DEC 8
+- [ ] Dyson Institute Undergraduate Engineer Programme 2027: Applications Open for an Innovative Engineering Degr... https://opportunitiesforyouth.org/2026/11/23/dyson-institute-undergraduate-engineer-programme-2027-applications-open-for-an-innovative-engineering-degree-in-the-uk/ DEC 10
 
 </details>
 
