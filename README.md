@@ -1398,6 +1398,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] RFPs: Marine and Coastal Natural Capital Accounts and Data Systems for Costa Rica https://www2.fundsforngos.org/fellowships/rfps-marine-and-coastal-natural-capital-accounts-and-data-systems-for-costa-rica/ DEC 12
 - [ ] The Kenya Revenue Authority Internship Program 2027 https://www.opportunitiesforafricans.com/the-kenya-revenue-authority-kra-internship-program-2027/ DEC 11
 - [ ] Homeland Security and Emergency Management Agency Internship Program 2027 https://opportunitydesk.org/2026/11/24/hsema-internship-program-2027/ DEC 13
+- [ ] Central Bank of Kenya Internship Program 2026: Apply for a One-Year Banking and Financial Sector Internship https://opportunitiesforyouth.org/2026/11/24/central-bank-of-kenya-internship-program-2026-apply-for-a-one-year-banking-and-financial-sector-internship/ DEC 7
+- [ ] HSEMA Spring 2027 Internship Program: Paid Emergency Management and Homeland Security Internships in Washin... https://opportunitiesforyouth.org/2026/11/24/hsema-spring-2027-internship-program-paid-emergency-management-and-homeland-security-internships-in-washington-dc/ DEC 13
 
 </details>
 
