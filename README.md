@@ -1396,6 +1396,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Dyson Institute Undergraduate Engineer Programme 2027: Applications Open for an Innovative Engineering Degr... https://opportunitiesforyouth.org/2026/11/23/dyson-institute-undergraduate-engineer-programme-2027-applications-open-for-an-innovative-engineering-degree-in-the-uk/ DEC 10
 - [ ] 4004 Nature Education and Science Schools Support Program (Turkey) https://www2.fundsforngos.org/fellowships/4004-nature-education-and-science-schools-support-program-turkey/ DEC 11
 - [ ] RFPs: Marine and Coastal Natural Capital Accounts and Data Systems for Costa Rica https://www2.fundsforngos.org/fellowships/rfps-marine-and-coastal-natural-capital-accounts-and-data-systems-for-costa-rica/ DEC 12
+- [ ] The Kenya Revenue Authority Internship Program 2027 https://www.opportunitiesforafricans.com/the-kenya-revenue-authority-kra-internship-program-2027/ DEC 11
+- [ ] Homeland Security and Emergency Management Agency Internship Program 2027 https://opportunitydesk.org/2026/11/24/hsema-internship-program-2027/ DEC 13
 
 </details>
 
