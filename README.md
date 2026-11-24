@@ -1339,6 +1339,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Entries Open: Global Student Contest for World Soil Day 2026 https://www2.fundsforngos.org/fellowships/entries-open-global-student-contest-for-world-soil-day-2026/ NOV 23
 - [ ] Public Policy New Voices Fellowship Program 2026-2027 https://opportunitydesk.org/2026/11/23/public-policy-new-voices-fellowship-program-2026-2027/ NOV 26
 - [ ] Apply Now: Digital Animal Health and Production Challenge (Vietnam) https://www2.fundsforngos.org/fellowships/apply-now-digital-animal-health-and-production-challenge-vietnam/ NOV 27
+- [ ] EDSAFE AI Leadership-Development Fellowship Program https://www2.fundsforngos.org/fellowships/apply-for-edsafe-ai-leadership-development-fellowship-program/ NOV 27
+- [ ] Grants for Museums and Collections of Modern Culture (Greece) https://www2.fundsforngos.org/individuals/grants-for-museums-and-collections-of-modern-culture-greece/ NOV 27
 
 </details>
 
