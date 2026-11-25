@@ -1400,6 +1400,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Homeland Security and Emergency Management Agency Internship Program 2027 https://opportunitydesk.org/2026/11/24/hsema-internship-program-2027/ DEC 13
 - [ ] Central Bank of Kenya Internship Program 2026: Apply for a One-Year Banking and Financial Sector Internship https://opportunitiesforyouth.org/2026/11/24/central-bank-of-kenya-internship-program-2026-apply-for-a-one-year-banking-and-financial-sector-internship/ DEC 7
 - [ ] HSEMA Spring 2027 Internship Program: Paid Emergency Management and Homeland Security Internships in Washin... https://opportunitiesforyouth.org/2026/11/24/hsema-spring-2027-internship-program-paid-emergency-management-and-homeland-security-internships-in-washington-dc/ DEC 13
+- [ ] Better Futures Fellowship 2027 https://opportunitydesk.org/2026/11/24/better-futures-fellowship-2027/ DEC 3
+- [ ] Young Leaders Programme https://www2.fundsforngos.org/fellowships/call-for-applications-young-leaders-programme/ DEC 13
 
 </details>
 
