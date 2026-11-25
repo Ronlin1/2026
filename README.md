@@ -1404,6 +1404,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] HSEMA Spring 2027 Internship Program: Paid Emergency Management and Homeland Security Internships in Washin... https://opportunitiesforyouth.org/2026/11/24/hsema-spring-2027-internship-program-paid-emergency-management-and-homeland-security-internships-in-washington-dc/ DEC 13
 - [ ] Better Futures Fellowship 2027 https://opportunitydesk.org/2026/11/24/better-futures-fellowship-2027/ DEC 3
 - [ ] Young Leaders Programme https://www2.fundsforngos.org/fellowships/call-for-applications-young-leaders-programme/ DEC 13
+- [ ] The IAFFE Feminist Economics School 2027 https://www.opportunitiesforafricans.com/the-iaffe-feminist-economics-school-fe-school-2027/ DEC 7
+- [ ] Cora Weiss Fellowship for Young Women Peacebuilders 2027 (Funded) https://opportunitydesk.org/2026/11/25/cora-weiss-fellowship-for-young-women-peacebuilders-2027/ DEC 12
 
 </details>
 
