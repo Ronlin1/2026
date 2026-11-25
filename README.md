@@ -1341,6 +1341,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Apply Now: Digital Animal Health and Production Challenge (Vietnam) https://www2.fundsforngos.org/fellowships/apply-now-digital-animal-health-and-production-challenge-vietnam/ NOV 27
 - [ ] EDSAFE AI Leadership-Development Fellowship Program https://www2.fundsforngos.org/fellowships/apply-for-edsafe-ai-leadership-development-fellowship-program/ NOV 27
 - [ ] Grants for Museums and Collections of Modern Culture (Greece) https://www2.fundsforngos.org/individuals/grants-for-museums-and-collections-of-modern-culture-greece/ NOV 27
+- [ ] African Union Development Agency Energize Africa Health Fellows Program 2027 https://opportunitydesk.org/2026/11/25/energize-africa-health-fellows-program-2027/ NOV 25
+- [ ] DOT Climate Innovation Bootcamp 2026: Free 9-Day Online Training for Young Climate Innovators to Scale Thei... https://opportunitiesforyouth.org/2026/11/25/dot-climate-innovation-bootcamp-2026-free-9-day-online-training-for-young-climate-innovators-to-scale-their-environmental-impact/ NOV 30
 
 </details>
 
