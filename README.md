@@ -1408,6 +1408,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Cora Weiss Fellowship for Young Women Peacebuilders 2027 (Funded) https://opportunitydesk.org/2026/11/25/cora-weiss-fellowship-for-young-women-peacebuilders-2027/ DEC 12
 - [ ] GSMA Innovation Fund for AI-Enabled Financial Health 2027 (up to £250,000) https://opportunitydesk.org/2026/11/25/gsma-innovation-fund-for-ai-enabled-financial-health-2027/ DEC 14
 - [ ] SparkUp Initiative Fellowship 2027 https://opportunitydesk.org/2026/11/24/sparkup-initiative-fellowship-2027/ DEC 17
+- [ ] ENGYRO Research Proposal Competition 2027 https://opportunitydesk.org/2026/11/25/engyro-research-proposal-competition-2027/ DEC 4
+- [ ] 1776 Reimagined: A Revolution Without the Declaration Essay Competition 2026 https://opportunitydesk.org/2026/11/25/1776-reimagined-essay-competition-2026/ DEC 15
 
 </details>
 
