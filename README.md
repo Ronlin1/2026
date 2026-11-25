@@ -1406,6 +1406,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Young Leaders Programme https://www2.fundsforngos.org/fellowships/call-for-applications-young-leaders-programme/ DEC 13
 - [ ] The IAFFE Feminist Economics School 2027 https://www.opportunitiesforafricans.com/the-iaffe-feminist-economics-school-fe-school-2027/ DEC 7
 - [ ] Cora Weiss Fellowship for Young Women Peacebuilders 2027 (Funded) https://opportunitydesk.org/2026/11/25/cora-weiss-fellowship-for-young-women-peacebuilders-2027/ DEC 12
+- [ ] GSMA Innovation Fund for AI-Enabled Financial Health 2027 (up to £250,000) https://opportunitydesk.org/2026/11/25/gsma-innovation-fund-for-ai-enabled-financial-health-2027/ DEC 14
+- [ ] SparkUp Initiative Fellowship 2027 https://opportunitydesk.org/2026/11/24/sparkup-initiative-fellowship-2027/ DEC 17
 
 </details>
 
