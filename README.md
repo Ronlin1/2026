@@ -1417,6 +1417,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] The KPMG Nigeria University Scholarship Programme 2026 https://www.opportunitiesforafricans.com/the-kpmg-nigeria-university-scholarship-programme-2026/ DEC 7
 - [ ] Friends of Pakistan Fellowship 2027 (Funded) https://opportunitydesk.org/2026/11/26/friends-of-pakistan-fellowship-2027/ DEC 8
 - [ ] NPU President Scholarship 2027 in China | Fully Funded Scholarships https://scholarshipscorner.website/npu-president-scholarship-china/ DEC 28
+- [ ] Global Fund for Children Northern Ireland Boys & Young Men Initiative 2027: Join the Youth Steering Group a... https://opportunitiesforyouth.org/2026/11/26/global-fund-for-children-northern-ireland-boys-young-men-initiative-2027-join-the-youth-steering-group-and-receive-750/ DEC 3
+- [ ] ECOSOC Youth Forum 2027 Virtual Briefing: How Youth Networks and Stakeholders Can Get Involved and Contribute https://opportunitiesforyouth.org/2026/11/26/ecosoc-youth-forum-2027-virtual-briefing-how-youth-networks-and-stakeholders-can-get-involved-and-contribute/ DEC 12
 
 </details>
 
