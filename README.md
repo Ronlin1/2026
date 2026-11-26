@@ -1414,6 +1414,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] 1776 Reimagined: A Revolution Without the Declaration Essay Competition 2026 https://opportunitydesk.org/2026/11/25/1776-reimagined-essay-competition-2026/ DEC 15
 - [ ] The KPMG Nigeria University Scholarship Programme 2026 https://www.opportunitiesforafricans.com/the-kpmg-nigeria-university-scholarship-programme-2026/ DEC 7
 - [ ] Friends of Pakistan Fellowship 2027 (Funded) https://opportunitydesk.org/2026/11/26/friends-of-pakistan-fellowship-2027/ DEC 8
+- [ ] NPU President Scholarship 2027 in China | Fully Funded Scholarships https://scholarshipscorner.website/npu-president-scholarship-china/ DEC 28
 
 </details>
 
