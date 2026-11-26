@@ -1343,6 +1343,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Grants for Museums and Collections of Modern Culture (Greece) https://www2.fundsforngos.org/individuals/grants-for-museums-and-collections-of-modern-culture-greece/ NOV 27
 - [ ] African Union Development Agency Energize Africa Health Fellows Program 2027 https://opportunitydesk.org/2026/11/25/energize-africa-health-fellows-program-2027/ NOV 25
 - [ ] DOT Climate Innovation Bootcamp 2026: Free 9-Day Online Training for Young Climate Innovators to Scale Thei... https://opportunitiesforyouth.org/2026/11/25/dot-climate-innovation-bootcamp-2026-free-9-day-online-training-for-young-climate-innovators-to-scale-their-environmental-impact/ NOV 30
+- [ ] The JICA-BCG NINJA Innovation Bridge Program 2027 https://www.opportunitiesforafricans.com/the-jica-bcg-ninja-innovation-bridge-program-2027-for-growth-stage-startups/ NOV 29
+- [ ] Scaling Innovative Tech and Digital Startups in Kenya https://www2.fundsforngos.org/fellowships/scaling-innovative-tech-and-digital-startups-in-kenya/ NOV 29
 
 </details>
 
