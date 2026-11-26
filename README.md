@@ -1345,6 +1345,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] DOT Climate Innovation Bootcamp 2026: Free 9-Day Online Training for Young Climate Innovators to Scale Thei... https://opportunitiesforyouth.org/2026/11/25/dot-climate-innovation-bootcamp-2026-free-9-day-online-training-for-young-climate-innovators-to-scale-their-environmental-impact/ NOV 30
 - [ ] The JICA-BCG NINJA Innovation Bridge Program 2027 https://www.opportunitiesforafricans.com/the-jica-bcg-ninja-innovation-bridge-program-2027-for-growth-stage-startups/ NOV 29
 - [ ] Scaling Innovative Tech and Digital Startups in Kenya https://www2.fundsforngos.org/fellowships/scaling-innovative-tech-and-digital-startups-in-kenya/ NOV 29
+- [ ] UNV Training Designers and Training Facilitators Roster 2027: Apply for a Three-Year United Nations Individ... https://opportunitiesforyouth.org/2026/11/26/unv-training-designers-and-training-facilitators-roster-2027-apply-for-a-three-year-united-nations-individual-consultancy-home-based-opportunity-open-worldwide/ NOV 27
+- [ ] UN Global Youth Network for Human Rights: Join a Worldwide Network and Share Your Views on Human Rights Cities https://opportunitiesforyouth.org/2026/11/26/un-global-youth-network-for-human-rights-join-a-worldwide-network-and-share-your-views-on-human-rights-cities/ NOV 30
 
 </details>
 
