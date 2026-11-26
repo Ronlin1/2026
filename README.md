@@ -1412,6 +1412,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] SparkUp Initiative Fellowship 2027 https://opportunitydesk.org/2026/11/24/sparkup-initiative-fellowship-2027/ DEC 17
 - [ ] ENGYRO Research Proposal Competition 2027 https://opportunitydesk.org/2026/11/25/engyro-research-proposal-competition-2027/ DEC 4
 - [ ] 1776 Reimagined: A Revolution Without the Declaration Essay Competition 2026 https://opportunitydesk.org/2026/11/25/1776-reimagined-essay-competition-2026/ DEC 15
+- [ ] The KPMG Nigeria University Scholarship Programme 2026 https://www.opportunitiesforafricans.com/the-kpmg-nigeria-university-scholarship-programme-2026/ DEC 7
+- [ ] Friends of Pakistan Fellowship 2027 (Funded) https://opportunitydesk.org/2026/11/26/friends-of-pakistan-fellowship-2027/ DEC 8
 
 </details>
 
