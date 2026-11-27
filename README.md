@@ -1423,6 +1423,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Volt Europa European Parliament Traineeships 2027: Four Paid Policy, Communications and AI Trainee Position... https://opportunitiesforyouth.org/2026/11/27/volt-europa-european-parliament-traineeships-2027-four-paid-policy-communications-and-ai-trainee-positions-in-brussels/ DEC 3
 - [ ] The Diamond Trust Bank Graduate Management Trainee Program 2027 https://www.opportunitiesforafricans.com/the-diamond-trust-bank-dtb-graduate-management-trainee-program-2027/ DEC 4
 - [ ] J-PAL Africa Policy Manager, Firms & Livelihoods Job 2026 in Kenya – Apply for a Senior Economic Developmen... https://opportunitiesforyouth.org/2026/11/27/j-pal-africa-policy-manager-firms-livelihoods-job-2026-in-kenya-apply-for-a-senior-economic-development-role/ DEC 8
+- [ ] Amnesty International USA Board of Directors Mentorship Program 2027: An Exclusive Opportunity for Young Hu... https://opportunitiesforyouth.org/2026/11/27/amnesty-international-usa-board-of-directors-mentorship-program-2027-an-exclusive-opportunity-for-young-human-rights-advocates-to-gain-boardroom-leadership-experience/ DEC 11
+- [ ] Sara Davies Young Entrepreneurs Academy 2027: Win a £1,000 Business Development Bursary, Expert Coaching an... https://opportunitiesforyouth.org/2026/11/27/sara-davies-young-entrepreneurs-academy-2027-win-a-1000-business-development-bursary-expert-coaching-and-six-months-of-mentoring-in-the-uk/ DEC 15
 
 </details>
 
