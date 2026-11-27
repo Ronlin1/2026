@@ -1347,6 +1347,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Scaling Innovative Tech and Digital Startups in Kenya https://www2.fundsforngos.org/fellowships/scaling-innovative-tech-and-digital-startups-in-kenya/ NOV 29
 - [ ] UNV Training Designers and Training Facilitators Roster 2027: Apply for a Three-Year United Nations Individ... https://opportunitiesforyouth.org/2026/11/26/unv-training-designers-and-training-facilitators-roster-2027-apply-for-a-three-year-united-nations-individual-consultancy-home-based-opportunity-open-worldwide/ NOV 27
 - [ ] UN Global Youth Network for Human Rights: Join a Worldwide Network and Share Your Views on Human Rights Cities https://opportunitiesforyouth.org/2026/11/26/un-global-youth-network-for-human-rights-join-a-worldwide-network-and-share-your-views-on-human-rights-cities/ NOV 30
+- [ ] 2027 Congressional Leadership Academy for Foster Youth: Six-Month Leadership Program to Advocate for Child... https://opportunitiesforyouth.org/2026/11/27/2027-congressional-leadership-academy-for-foster-youth-six-month-leadership-program-to-advocate-for-child-welfare-reform-in-washington-dc/ NOV 27
 
 </details>
 
@@ -1419,6 +1420,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] NPU President Scholarship 2027 in China | Fully Funded Scholarships https://scholarshipscorner.website/npu-president-scholarship-china/ DEC 28
 - [ ] Global Fund for Children Northern Ireland Boys & Young Men Initiative 2027: Join the Youth Steering Group a... https://opportunitiesforyouth.org/2026/11/26/global-fund-for-children-northern-ireland-boys-young-men-initiative-2027-join-the-youth-steering-group-and-receive-750/ DEC 3
 - [ ] ECOSOC Youth Forum 2027 Virtual Briefing: How Youth Networks and Stakeholders Can Get Involved and Contribute https://opportunitiesforyouth.org/2026/11/26/ecosoc-youth-forum-2027-virtual-briefing-how-youth-networks-and-stakeholders-can-get-involved-and-contribute/ DEC 12
+- [ ] Volt Europa European Parliament Traineeships 2027: Four Paid Policy, Communications and AI Trainee Position... https://opportunitiesforyouth.org/2026/11/27/volt-europa-european-parliament-traineeships-2027-four-paid-policy-communications-and-ai-trainee-positions-in-brussels/ DEC 3
 
 </details>
 
