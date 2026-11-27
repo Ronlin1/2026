@@ -1427,6 +1427,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Amnesty International USA Board of Directors Mentorship Program 2027: An Exclusive Opportunity for Young Hu... https://opportunitiesforyouth.org/2026/11/27/amnesty-international-usa-board-of-directors-mentorship-program-2027-an-exclusive-opportunity-for-young-human-rights-advocates-to-gain-boardroom-leadership-experience/ DEC 11
 - [ ] Sara Davies Young Entrepreneurs Academy 2027: Win a £1,000 Business Development Bursary, Expert Coaching an... https://opportunitiesforyouth.org/2026/11/27/sara-davies-young-entrepreneurs-academy-2027-win-a-1000-business-development-bursary-expert-coaching-and-six-months-of-mentoring-in-the-uk/ DEC 15
 - [ ] The AI Diffusion Pathways for Agriculture Program 2026/2027 https://www.opportunitiesforafricans.com/the-ai-diffusion-pathways-for-agriculture-program-2026-2027-for-agritech-ventures/ DEC 12
+- [ ] Eastern Partnership Civil Society Fellowship Programme 2027 https://opportunitiesforyouth.org/2026/11/27/eastern-partnership-civil-society-fellowship-programme-2027/ DEC 8
 
 </details>
 
