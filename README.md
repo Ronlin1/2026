@@ -1421,6 +1421,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Global Fund for Children Northern Ireland Boys & Young Men Initiative 2027: Join the Youth Steering Group a... https://opportunitiesforyouth.org/2026/11/26/global-fund-for-children-northern-ireland-boys-young-men-initiative-2027-join-the-youth-steering-group-and-receive-750/ DEC 3
 - [ ] ECOSOC Youth Forum 2027 Virtual Briefing: How Youth Networks and Stakeholders Can Get Involved and Contribute https://opportunitiesforyouth.org/2026/11/26/ecosoc-youth-forum-2027-virtual-briefing-how-youth-networks-and-stakeholders-can-get-involved-and-contribute/ DEC 12
 - [ ] Volt Europa European Parliament Traineeships 2027: Four Paid Policy, Communications and AI Trainee Position... https://opportunitiesforyouth.org/2026/11/27/volt-europa-european-parliament-traineeships-2027-four-paid-policy-communications-and-ai-trainee-positions-in-brussels/ DEC 3
+- [ ] The Diamond Trust Bank Graduate Management Trainee Program 2027 https://www.opportunitiesforafricans.com/the-diamond-trust-bank-dtb-graduate-management-trainee-program-2027/ DEC 4
+- [ ] J-PAL Africa Policy Manager, Firms & Livelihoods Job 2026 in Kenya – Apply for a Senior Economic Developmen... https://opportunitiesforyouth.org/2026/11/27/j-pal-africa-policy-manager-firms-livelihoods-job-2026-in-kenya-apply-for-a-senior-economic-development-role/ DEC 8
 
 </details>
 
