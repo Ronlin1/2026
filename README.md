@@ -1348,6 +1348,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] UNV Training Designers and Training Facilitators Roster 2027: Apply for a Three-Year United Nations Individ... https://opportunitiesforyouth.org/2026/11/26/unv-training-designers-and-training-facilitators-roster-2027-apply-for-a-three-year-united-nations-individual-consultancy-home-based-opportunity-open-worldwide/ NOV 27
 - [ ] UN Global Youth Network for Human Rights: Join a Worldwide Network and Share Your Views on Human Rights Cities https://opportunitiesforyouth.org/2026/11/26/un-global-youth-network-for-human-rights-join-a-worldwide-network-and-share-your-views-on-human-rights-cities/ NOV 30
 - [ ] 2027 Congressional Leadership Academy for Foster Youth: Six-Month Leadership Program to Advocate for Child... https://opportunitiesforyouth.org/2026/11/27/2027-congressional-leadership-academy-for-foster-youth-six-month-leadership-program-to-advocate-for-child-welfare-reform-in-washington-dc/ NOV 27
+- [ ] The Nigerian Bottling Company Technical Trainee Program 2027 https://www.opportunitiesforafricans.com/the-nigerian-bottling-company-nbc-technical-trainee-program-2027/ NOV 27
 
 </details>
 
@@ -1425,6 +1426,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] J-PAL Africa Policy Manager, Firms & Livelihoods Job 2026 in Kenya – Apply for a Senior Economic Developmen... https://opportunitiesforyouth.org/2026/11/27/j-pal-africa-policy-manager-firms-livelihoods-job-2026-in-kenya-apply-for-a-senior-economic-development-role/ DEC 8
 - [ ] Amnesty International USA Board of Directors Mentorship Program 2027: An Exclusive Opportunity for Young Hu... https://opportunitiesforyouth.org/2026/11/27/amnesty-international-usa-board-of-directors-mentorship-program-2027-an-exclusive-opportunity-for-young-human-rights-advocates-to-gain-boardroom-leadership-experience/ DEC 11
 - [ ] Sara Davies Young Entrepreneurs Academy 2027: Win a £1,000 Business Development Bursary, Expert Coaching an... https://opportunitiesforyouth.org/2026/11/27/sara-davies-young-entrepreneurs-academy-2027-win-a-1000-business-development-bursary-expert-coaching-and-six-months-of-mentoring-in-the-uk/ DEC 15
+- [ ] The AI Diffusion Pathways for Agriculture Program 2026/2027 https://www.opportunitiesforafricans.com/the-ai-diffusion-pathways-for-agriculture-program-2026-2027-for-agritech-ventures/ DEC 12
 
 </details>
 
